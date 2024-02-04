@@ -1,0 +1,49 @@
+VO_Archive_Argenti_1.ogg  ||  My name is Argenti, I belong to the Knights of Beauty. May this rose convey my heartfelt salutations.
+VO_Archive_Argenti_2.ogg  ||  Should misfortune befall you, do not hesitate to call upon me. I will protect you.
+VO_Archive_Argenti_3.ogg  ||  Forgive me, here we must part ways. It is my duty and destiny to traverse the universe alone. I'm sure our paths will converge again, somewhere.
+VO_Archive_Argenti_4.ogg  ||  Among the Knights of Beauty, I am one of the Honorclad — we are distinguished by our engraved armor.
+VO_Archive_Argenti_5.ogg  ||  The Knights tend to operate in solitude, spreading the grace of the Goddess far and wide across the universe. Nevertheless, we follow the same code of chivalry.
+VO_Archive_Argenti_6.ogg  ||  "One and Only" is the name of my spaceship. I must admit, keeping her in good order can be a chore. Perhaps I shouldn't have etched such intricate patterns into the fuselage.
+VO_Archive_Argenti_7.ogg  ||  I have a preference for thick, crusty baguettes. Slice them thinly so they're easier to store — a crucial snack for extended voyages.
+VO_Archive_Argenti_8.ogg  ||  The dazzling array of entertainment and gourmet delights offered by the IPC is quite staggering, but I regularly struggle with making sense of it all. Perhaps one day someone with experience will show me the ropes.
+VO_Archive_Argenti_9.ogg  ||  I've heard tales of warriors on a certain planet passing book pages over artificial limbs in order to infuse knowledge directly into their neural systems. It sounds so outlandish, and yet I find the idea quite inspired.
+VO_Archive_Argenti_10.ogg  ||  Did you ever hear tell of a planet where there is no concept of grotesquery? Even more intriguing — the people there have no concept of beauty, either.
+VO_Archive_Argenti_11.ogg  ||  Miss March possesses a pure heart, and such purity is rare and precious — there are far too many people who are inherently vulgar, profit-driven, and adept at flattery. I wish to extend more compassion and esteem towards people like her.
+VO_Archive_Argenti_12.ogg  ||  This lady's spirit is admirably noble: Despite the challenges and hardships that Trailblazing entails, she has retained her poise and bravery — qualities that I profoundly admire. It is these qualities that I strive to embody and use against evil.
+VO_Archive_Argenti_13.ogg  ||  While Mr. Dan Heng consistently maintains a sense of wariness towards others, his conduct remains unwaveringly honorable, and his expectations of himself are as stringent as the chivalric code. He possesses a unique form of beauty, I must say.
+VO_Archive_Argenti_14.ogg  ||  Despite the things he has endured, Mr. Yang stays true to his heart and knows how to appreciate the small joys of everyday life. A man whose wisdom and maturity I find admirable.
+VO_Archive_Argenti_15.ogg  ||  Such a fascinating ball of fluff. I imagine them to be exceptionally fitting perched atop a knight's shoulder, serving as a symbol of honor.
+VO_Archive_Argenti_16.ogg  ||  Haha, such an adorable little creature.
+VO_Archive_Argenti_17_M.ogg  ||  (Trailblazer)'s inherent qualities, are as beguiling and engaging now as they were on the day we first met.
+VO_Archive_Argenti_Eidolon_Activation.ogg  ||  The Beauty is universal — they exist within our grasp and beyond the grand expanse of the galaxy.
+VO_Archive_Argenti_Character_Ascension.ogg  ||  One solid stride at a time. Fear not the peril of descent.
+VO_Archive_Argenti_Max_Level_Reached.ogg  ||  I vow to make the grand name of "the Beauty" echo throughout the universe, till I draw my last breath.
+VO_Archive_Argenti_Trace_Activation.ogg  ||  Though as knights we may tread different paths, destiny will bring us together at journey's end.
+VO_Archive_Argenti_Added_to_Team_With_March_7th.ogg  ||  If I may, Miss March, allow me to use my modest power to get rid of the gloom!
+VO_Archive_Argenti_Added_to_Team_With_Dan_Heng.ogg  ||  Combat is a contest of wits. Dan Heng, I am honored to fight by your side.
+VO_Archive_Argenti_Added_to_Team_With_Himeko.ogg  ||  Miss Himeko, with your courage ablaze, the stars seem to shine even brighter.
+VO_Archive_Argenti_Added_to_Team_With_Welt.ogg  ||  Lend me your aid, Mr. Yang, with your intricate tactics and far-reaching vision.
+VO_Argenti_Battle_Begins_-_Weakness_Break_01.ogg  ||  Embrace virtue.
+VO_Argenti_Battle_Begins_-_Danger_Alert_01.ogg  ||  This storm shall pass.
+VO_Argenti_Turn_Begins_01.ogg  ||  My oath is to a solitary rose.
+VO_Argenti_Turn_Begins_02.ogg  ||  The Knights' duty is my guiding light.
+VO_Argenti_Turn_Idling_01.ogg  ||  You who wander, what do your eyes seek?
+VO_Argenti_Skill_01.ogg  ||  The Beauty... is eternal.
+VO_Argenti_Skill_02.ogg  ||  Wretched... fleeting.
+VO_Argenti_Hit_by_Light_Attack_01.ogg  ||  Flesh wound.
+VO_Argenti_Hit_by_Heavy_Attack_01.ogg  ||  A test...
+VO_Argenti_Ultimate_-_Activate_01.ogg  ||  Until I see that light once more...
+VO_Argenti_Ultimate_-_Unleash_01.ogg  ||  ...I will protect all beauty in the universe.
+VO_Argenti_Ultimate_-_Unleash_02.ogg  ||  (Enhanced) ...For Idrila.
+VO_Argenti_Downed_01.ogg  ||  I... couldn't find them...
+VO_Argenti_Return_to_Battle_01.ogg  ||  My faith is unbreakable.
+VO_Argenti_Health_Recovery_01.ogg  ||  My gratitude is yours.
+VO_Argenti_Technique_01.ogg  ||  Glory above all.
+VO_Argenti_Battle_Won_01.ogg  ||  The darkness ends here.
+VO_Argenti_Treasure_Opening_01.ogg  ||  Oh? I do like surprises.
+VO_Argenti_Treasure_Opening_02.ogg  ||  I offer you the captivating aroma of a rose.
+VO_Argenti_Precious_Treasure_Opening_01.ogg  ||  A lustrous beauty that sets the heart and soul astir...
+VO_Argenti_Successful_Puzzle-Solving_01.ogg  ||  The consequence of wise deliberation.
+VO_Argenti_Successful_Puzzle-Solving_02.ogg  ||  Worry not, for I shall shoulder this responsibility.
+VO_Argenti_Enemy_Target_Found_01.ogg  ||  Care to test your skills?
+VO_Argenti_Returning_to_Town_01.ogg  ||  This familiar wind... a call to sweet remembrance.

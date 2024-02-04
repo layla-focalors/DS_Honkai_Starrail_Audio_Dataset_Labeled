@@ -1,0 +1,50 @@
+VO_Archive_Jingliu_1.ogg  ||  To the Xianzhou, I am but an abandoned pawn — a wandering swordmaster. If you wish to avoid trouble, pretend we never met.
+VO_Archive_Jingliu_2.ogg  ||  Let's forgo the pleasantries — what do you want?
+VO_Archive_Jingliu_3.ogg  ||  The universe is vast... Will we meet again as friend or foe, dead or alive...?
+VO_Archive_Jingliu_4.ogg  ||  Fame is like the clouds — fleeting and elusive. I am viewed as a sinner in the eyes of the Ten-Lords Commission, and the Xianzhou has erased my name from its memory. So be it. A sword cuts with its edge, not its name.
+VO_Archive_Jingliu_5.ogg  ||  I have already surpassed my limits and may soon succumb to the influence of mara... but given the choice between staring into the abyss with a troubled mind and marching forward blindfolded, I choose the latter.
+VO_Archive_Jingliu_6.ogg  ||  The Cangcheng was once the most bustling of Xianzhou ships, a place I called home. But when it was devoured by an incarnosphere bred by the Plagues Author, the long-life species had to face the truth that their lives were but a grain of sand in the river of time.
+VO_Archive_Jingliu_7.ogg  ||  Techniques relying solely on the physical form are but second-rate disciplines. Similarly, swords forged with mortal steel don't serve me well. I have stolen a sliver of moonlight that can shine over the earthly world — a "sword" I control with ease.
+VO_Archive_Jingliu_8.ogg  ||  Let me think... In the beginning, most of my time was spent on swordsmanship and defeating my enemies. Later, I found myself indulging in all manner of wines that Baiheng brought to me from different planets. And now, watching my enemies suffer has become my newfound passion. Strange pastimes, no?
+VO_Archive_Jingliu_9.ogg  ||  This sword in my hand... naught but a needle compared with the heavenly bodies. How can I use it to cut open a star?
+VO_Archive_Jingliu_10.ogg  ||  I, too, once drew the gaze of an Aeon. The only difference was, it was a path I chose for myself — through the deep recesses of the Ten-Lords Commission on the Xuling, through the Gate of Wonders, and onto a path of redemption.
+VO_Archive_Jingliu_11.ogg  ||  Hmph, Exalting Sanctum has seen little change in the past millennium — a little dull, I would say. However, Starskiff Haven has grown on me since it was rebuilt after the war.
+VO_Archive_Jingliu_12.ogg  ||  I wouldn't say he's a natural swordmaster... but being gifted shouldn't be a determining factor when choosing an apprentice. Mentors who place importance on natural talent either lack the skills to teach, or seek to take credit for their apprentices' easy success. Fame, background... none of those matter. I will teach my techniques to anyone willing to put their heart into them.
+VO_Archive_Jingliu_13.ogg  ||  I put him under great pain and suffering when I taught him. On the day his skills are perfected, he vows to return the favor. I look forward to it.
+VO_Archive_Jingliu_14.ogg  ||  To take the throne, the high elder of the Vidyadhara needs to pass a series of trials during which their physical features slowly transform to resemble that of their predecessors. I see that loss of identity as a curse, rather than a gift. He managed to break free eventually, but should have done it in a different way...
+VO_Archive_Jingliu_15.ogg  ||  We talked about the stars we flew past, the views we saw together, and the dangers we escaped. But... I can't remember the details. The things we said and did together have all been shrouded in a layer of mist... a mist I cannot see through...
+VO_Archive_Jingliu_16.ogg  ||  He is still a fledgling, but I see great potential. Still, one cannot truly understand swordsmanship without sustaining injury and drawing blood in the thick of battle...
+VO_Archive_Jingliu_17.ogg  ||  He is just like me — there is a hole in his heart. No matter what he does to fill it, the hole remains. The harder he tries, the more exhausted he becomes.
+VO_Archive_Jingliu_Eidolon_Activation.ogg  ||  The blade's reflection illuminates the past.
+VO_Archive_Jingliu_Character_Ascension.ogg  ||  If I am to cut through the heart of a star, more time is needed.
+VO_Archive_Jingliu_Max_Level_Reached.ogg  ||  Pushing my limits is what made me who I am today. I will not stop here.
+VO_Archive_Jingliu_Trace_Activation.ogg  ||  There is a story in every scar.
+VO_Archive_Jingliu_Added_to_Team_With_Yanqing.ogg  ||  Young man, show me your progress.
+VO_Archive_Jingliu_Added_to_Team_With_Jing_Yuan.ogg  ||  Break the enemy's strategy, Jing Yuan — that's what you always did best.
+VO_Archive_Jingliu_Added_to_Team_With_Blade.ogg  ||  That broken sword... You don't want to let go of the past, do you, Blade?
+VO_Jingliu_Battle_Begins_-_Weakness_Break_01.ogg  ||  Unworthy of my time.
+VO_Jingliu_Battle_Begins_-_Weakness_Break_02.ogg  ||  (Spectral Transmigration) Blade fodder!
+VO_Jingliu_Battle_Begins_-_Danger_Alert_01.ogg  ||  Another soon to be departed.
+VO_Jingliu_Turn_Begins_01.ogg  ||  Tedious.
+VO_Jingliu_Turn_Begins_02.ogg  ||  Stand down and I'll spare you.
+VO_Jingliu_Turn_Begins_03.ogg  ||  (Spectral Transmigration) Nowhere to run!
+VO_Jingliu_Turn_Begins_04.ogg  ||  (Spectral Transmigration) Ready for death...?
+VO_Jingliu_Turn_Idling_01.ogg  ||  An endless lifespan is just a bitter wait for insanity.
+VO_Jingliu_Turn_Idling_02.ogg  ||  (Spectral Transmigration) Can't stop... Can't stop now!
+VO_Jingliu_Basic_ATK_01.ogg  ||  Swordward!
+VO_Jingliu_Skill_01.ogg  ||  Fleeting light, roaring flood!
+VO_Jingliu_Hit_by_Light_Attack_01.ogg  ||  Try harder.
+VO_Jingliu_Hit_by_Heavy_Attack_01.ogg  ||  You can't kill me!
+VO_Jingliu_Ultimate_-_Activate_01.ogg  ||  All will be revealed...
+VO_Jingliu_Ultimate_-_Unleash_01.ogg  ||  ...in lunar flame!
+VO_Jingliu_Talent_01.ogg  ||  A blade of moonlight.
+VO_Jingliu_Downed_01.ogg  ||  Finally, the end of it...
+VO_Jingliu_Return_to_Battle_01.ogg  ||  Did you think my lifespan would be cut short?
+VO_Jingliu_Health_Recovery_01.ogg  ||  Save it for your own skin...
+VO_Jingliu_Technique_01.ogg  ||  The moon shines on the truth.
+VO_Jingliu_Battle_Won_01.ogg  ||  Do not concern yourself with the outcome.
+VO_Jingliu_Treasure_Opening_01.ogg  ||  Mere worldly possessions.
+Special:Upload?wpDestFile=VO_Jingliu_Treasure_Opening_02.ogg  ||  These trifles are of no use to me.
+VO_Jingliu_Successful_Puzzle-Solving_01.ogg  ||  It worked.
+VO_Jingliu_Enemy_Target_Found_01.ogg  ||  I taste malice in the air...
+VO_Jingliu_Returning_to_Town_01.ogg  ||  Where there are people, there is noise.

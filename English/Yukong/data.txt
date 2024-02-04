@@ -1,0 +1,39 @@
+VO_Archive_Yukong_1.ogg  ||  Hello, guest from the Astral Express. I am Yukong from the Luofu's Sky-Faring Commission. Welcome to the Xianzhou.
+VO_Archive_Yukong_2.ogg  ||  It's a good day to set sail, isn't it?
+VO_Archive_Yukong_3.ogg  ||  The sea of stars is vast and our journeys are difficult and long. Please look after yourself, no matter where you are.
+VO_Archive_Yukong_4.ogg  ||  I have worked in every post in the Sky-Faring Commission from maintenance to pilot, combat reserves to stargazer... Such a long time has gone by so quickly.
+VO_Archive_Yukong_5.ogg  ||  A full, complete flight can only be considered as such when it starts with a successful takeoff and ends with a good landing.
+VO_Archive_Yukong_6.ogg  ||  The past and present of the Sky-Faring Commission do not have such a simple relationship. The events of the past crafted its current greatness.
+VO_Archive_Yukong_7.ogg  ||  I like to watch the clouds... I mean, the changing nebulas. The Sky-Faring Commission governs the area around the Xianzhou, but we are merely momentary traces that quickly disappear in the sky. The nebulas are the true masters of the heavens.
+VO_Archive_Yukong_8.ogg  ||  Compared to the skies and the stars, our lives are as brief as fleeting insects... How I wish I can witness the day that the Xianzhou truly returns in triumph.
+VO_Archive_Yukong_9.ogg  ||  The Sky-Faring Commission went toe to toe twelve times against the Plagues Author in the past. Three times we were nearly wiped out, but each time we rose up from the ashes and rebuilt.
+VO_Archive_Yukong_10.ogg  ||  I have seen the last ray of light right before a sun dies, and the pulsing volcanic veins akin to flesh and blood on planets brought to life. I've seen the Lux Arrow of the Reignbow Arbiter flying to places light-years away, and the Rainbow Memory Bubble of the Glowswather bursting within flames...
+VO_Archive_Yukong_11.ogg  ||  The general may behave slovenly, but he has plans for all the affairs of the Xianzhou.
+VO_Archive_Yukong_12.ogg  ||  A sword will vibrate and beg to be unsheathed if it is unused for too long... Once unsheathed, it will either paint the battlefield in blood, or break itself in the process...
+VO_Archive_Yukong_13.ogg  ||  The Xianzhou need brawny warriors with their swords and spears, as well as unpredictable waters like her who travels freely and unrestrained.
+VO_Archive_Yukong_14.ogg  ||  She is indeed reckless, but she is also passionate and eager. Don't underestimate her. Youth can accomplish a lot simply by relying on such energy.
+VO_Archive_Yukong_15.ogg  ||  Though Bailu has been worshiped as the High Elder since birth and had no say in this, her title of Healer Lady was indeed gained from her expert practice of medicine.
+VO_Archive_Yukong_16.ogg  ||  You should not mention this name... it has been a forbidden word for a long time.
+VO_Archive_Yukong_17.ogg  ||  Qingni picked the road she yearned for, just like her mother. There's no reason to feel remorse... It makes me wonder, who's really grappling with regrets?
+Special:Upload?wpDestFile=VO_Archive_Yukong_18.ogg  ||  The heavens are vast, the kite flies where it wishes.
+VO_Yukong_Battle_Begins_-_Weakness_Break_01.ogg  ||  As easy as that.
+VO_Yukong_Battle_Begins_-_Danger_Alert_01.ogg  ||  Brave the wind!
+VO_Yukong_Turn_Begins_01.ogg  ||  A pilot's spirit never dies.
+VO_Yukong_Turn_Begins_02.ogg  ||  Stay the course.
+VO_Yukong_Turn_Idling_01.ogg  ||  The time is now. We mustn't delay.
+VO_Yukong_Basic_ATK_01.ogg  ||  This is it.
+VO_Yukong_Skill_01.ogg  ||  Galeforce!
+VO_Yukong_Skill_02.ogg  ||  To the clouds!
+VO_Yukong_Hit_by_Light_Attack_01.ogg  ||  I can take it.
+VO_Yukong_Hit_by_Heavy_Attack_01.ogg  ||  Argh... Watch yourselves!
+VO_Yukong_Ultimate_-_Activate_01.ogg  ||  The wind is rising.
+VO_Yukong_Ultimate_-_Unleash_01.ogg  ||  Cloudkites, formation! Bolt from the blue!
+VO_Yukong_Downed_01.ogg  ||  The shame of it...
+VO_Yukong_Return_to_Battle_01.ogg  ||  There'll be more to come.
+VO_Yukong_Health_Recovery_01.ogg  ||  Thank you, comrade.
+VO_Yukong_Technique_01.ogg  ||  Speed, not haste.
+VO_Yukong_Battle_Won_01.ogg  ||  I'm glad we're all out safely.
+VO_Yukong_Treasure_Opening_01.ogg  ||  Quite the taking.
+VO_Yukong_Successful_Puzzle-Solving_01.ogg  ||  Hardly a concern.
+VO_Yukong_Enemy_Target_Found_01.ogg  ||  Never let your guard down in front of your enemy.
+VO_Yukong_Returning_to_Town_01.ogg  ||  Another busy day ahead of us?

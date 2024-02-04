@@ -1,0 +1,72 @@
+VO_ZH_Archive_Seele_1.ogg  ||  哟，我是希儿，贝洛伯格下层区「地火」的成员，你要和我一同见证下层区的未来么？
+VO_ZH_Archive_Seele_2.ogg  ||  来得正好，开始巡逻吧。
+VO_ZH_Archive_Seele_3.ogg  ||  喂喂，看你站着都快睡着了，别硬撑，这里有我，快去休息吧。
+VO_ZH_Archive_Seele_4.ogg  ||  我小时候？差不多有十个虎克的破坏力吧。
+VO_ZH_Archive_Seele_5.ogg  ||  即使生活在地下，我们也不会被这座城市所掩埋。
+VO_ZH_Archive_Seele_6.ogg  ||  镰刀要磨得够快，枕着睡觉才够安心。
+VO_ZH_Archive_Seele_7.ogg  ||  算不上烦恼，就…在诊所里存了几本小时候最喜欢的漫画，结果全被孩子们借走了…
+VO_ZH_Archive_Seele_15.ogg  ||  头儿说得没错，对付不讲道理的家伙，刀尖子就是道理。
+VO_ZH_Archive_Seele_16.ogg  ||  你说的那个叫帕姆的家伙，听起来就像是个会说话的毛绒玩偶，我…我能见见它么？
+VO_ZH_Archive_Seele_8.ogg  ||  打小我就明白，发脾气那套小把戏对娜塔没用，她是医生，所以…总有办法「治」你。
+VO_ZH_Archive_Seele_9.ogg  ||  那丫头不怎么爱和人说话，但我知道…她不排斥我们。
+VO_ZH_Archive_Seele_10.ogg  ||  史瓦罗常把「人类喜欢无休止的争斗」挂在嘴上，但如果只靠退让，难道就能获得和平？
+VO_ZH_Archive_Seele_11.ogg  ||  找他办事还行，但谁要想和他做朋友，就是和自己过不去。
+VO_ZH_Archive_Seele_12.ogg  ||  别看她一天天到处疯玩，说不定哪天真能玩出些名堂来。
+VO_ZH_Archive_Seele_13.ogg  ||  要不是头儿，还有没有我这号人都不好说。
+VO_ZH_Archive_Seele_14.ogg  ||  我们都是第一次看见贝洛伯格真正的天空…同一片天空。
+VO_ZH_Archive_Seele_17.ogg  ||  你说我的胜负心太强？呵，那是你还没见过卢卡。
+VO_ZH_Archive_Seele_1.ogg  ||  
+VO_ZH_Archive_Seele_2.ogg  ||  
+VO_ZH_Archive_Seele_3.ogg  ||  
+VO_ZH_Archive_Seele_4.ogg  ||  
+VO_ZH_Archive_Seele_5.ogg  ||  
+VO_ZH_Archive_Seele_6.ogg  ||  
+VO_ZH_Archive_Seele_7.ogg  ||  
+VO_ZH_Archive_Seele_15.ogg  ||  
+VO_ZH_Archive_Seele_16.ogg  ||  
+VO_ZH_Archive_Seele_8.ogg  ||  
+VO_ZH_Archive_Seele_9.ogg  ||  
+VO_ZH_Archive_Seele_10.ogg  ||  
+VO_ZH_Archive_Seele_11.ogg  ||  
+VO_ZH_Archive_Seele_12.ogg  ||  
+VO_ZH_Archive_Seele_13.ogg  ||  
+VO_ZH_Archive_Seele_14.ogg  ||  
+VO_ZH_Archive_Seele_17.ogg  ||  
+VO_ZH_Seele_Battle_Begins_-_Weakness_Break_01.ogg  ||  原来你怕我。
+VO_ZH_Seele_Battle_Begins_-_Danger_Alert_01.ogg  ||  麻烦的家伙。
+VO_ZH_Seele_Turn_Begins_01.ogg  ||  纠缠不清。
+VO_ZH_Seele_Turn_Begins_03.ogg  ||  别来惹我。
+VO_ZH_Seele_Turn_Idling_01.ogg  ||  快点，让我试试这招。
+VO_ZH_Seele_Basic_ATK_02.ogg  ||  下一个。
+VO_ZH_Seele_Hit_by_Light_Attack_05.ogg  ||  啧。
+VO_ZH_Seele_Hit_by_Heavy_Attack_05.ogg  ||  小意思。
+VO_ZH_Seele_Ultimate_-_Activate_01.ogg  ||  这就让你解脱。
+VO_ZH_Seele_Ultimate_-_Unleash_01.ogg  ||  随蝴蝶一起消散吧，旧日的幻影。
+VO_ZH_Seele_Talent_01.ogg  ||  早点给你个痛快。
+VO_ZH_Seele_Downed_02.ogg  ||  我…还能……
+VO_ZH_Seele_Return_to_Battle_01.ogg  ||  还没完。
+VO_ZH_Seele_Health_Recovery_01.ogg  ||  帮大忙了。
+VO_ZH_Seele_Battle_Won_01.ogg  ||  有目标，镰刀才够快。
+VO_ZH_Seele_Treasure_Opening_01.ogg  ||  没白跑。
+VO_ZH_Seele_Successful_Puzzle-Solving_01.ogg  ||  有两把刷子。
+VO_ZH_Seele_Enemy_Target_Found_01.ogg  ||  前方有敌人，打不打？
+VO_ZH_Seele_Returning_to_Town_01.ogg  ||  你休息，我站岗，咱们轮着来。
+VO_ZH_Seele_Battle_Begins_-_Weakness_Break_01.ogg  ||  
+VO_ZH_Seele_Battle_Begins_-_Danger_Alert_01.ogg  ||  
+VO_ZH_Seele_Turn_Begins_01.ogg  ||  
+VO_ZH_Seele_Turn_Begins_03.ogg  ||  
+VO_ZH_Seele_Turn_Idling_01.ogg  ||  
+VO_ZH_Seele_Basic_ATK_02.ogg  ||  
+VO_ZH_Seele_Hit_by_Light_Attack_05.ogg  ||  
+VO_ZH_Seele_Hit_by_Heavy_Attack_05.ogg  ||  
+VO_ZH_Seele_Ultimate_-_Activate_01.ogg  ||  
+VO_ZH_Seele_Ultimate_-_Unleash_01.ogg  ||  
+VO_ZH_Seele_Talent_01.ogg  ||  
+VO_ZH_Seele_Downed_02.ogg  ||  
+VO_ZH_Seele_Return_to_Battle_01.ogg  ||  
+VO_ZH_Seele_Health_Recovery_01.ogg  ||  
+VO_ZH_Seele_Battle_Won_01.ogg  ||  
+VO_ZH_Seele_Treasure_Opening_01.ogg  ||  
+VO_ZH_Seele_Successful_Puzzle-Solving_01.ogg  ||  
+VO_ZH_Seele_Enemy_Target_Found_01.ogg  ||  
+VO_ZH_Seele_Returning_to_Town_01.ogg  ||  

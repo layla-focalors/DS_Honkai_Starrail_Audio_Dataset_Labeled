@@ -1,0 +1,37 @@
+VO_KO_Archive_Serval_1.ogg  ||  여어! (Trailblazer). 난 서벌•랜도, 벨로보그의 엔지니어야——물론 이건 취미로 하는 거고, 로큰롤 공연이 내 본업이지
+VO_KO_Archive_Serval_2.ogg  ||  응? 벌써 업무 시작이야?
+VO_KO_Archive_Serval_3.ogg  ||  끝났다, 이제 작곡해야지~
+VO_KO_Archive_Serval_6.ogg  ||  랜도 가문 사람들 사이에 공통점이 있다면, 다들 나름의 고집이 있다는 점이겠지
+VO_KO_Archive_Serval_4.ogg  ||  쉽고 편하게 일해야 즐거운 기분을 유지할 수 있고, 창작의 영감도 얻을 수 있는 법이야~
+VO_KO_Archive_Serval_5.ogg  ||  페라는 엄청 바빠, 주말엔 가끔 자원봉사를 가거든. 그래서 「매커니컬 웨이브」는 보통 밤에 연습하는 편이야
+VO_KO_Archive_Serval_7.ogg  ||  로큰롤이 본업이면 취미는 「업무」 아니겠어? 뭐… 문제없지 않을까?
+VO_KO_Archive_Serval_8.ogg  ||  가끔 사람들이 기계공방을 쉬면 어떻게 돈을 버냐고 묻더라, 그 대답은 뻔하잖아——안 버는 거지, 뭐
+VO_KO_Archive_Serval_14.ogg  ||  기계든, 과학 연구든, 음악이든, 다 수준급인 거 같은데? 음, 그러니까… 내가 잘 못하는 건 「돈 버는 일」밖에 없지 않을까?
+VO_KO_Archive_Serval_15.ogg  ||  나중에 브로냐가 수호자가 되면 내가 골든 극장의 무대에서 공연할 수 있게 도와주지 않을까? 로큰롤 버전의 ≪수호자≫… 로큰롤 오페라로 각색해 줄 텐데!
+VO_KO_Archive_Serval_9.ogg  ||  동생이 자기 일에 조금만 더 신경을 썼으면 좋겠어, 그럼 내가 걱정할 필요도 없을 거고…. 됐어, 나도 속 많이 썩였으니까 쌤쌤이지
+VO_KO_Archive_Serval_10.ogg  ||  드럼에, 꽃도 키울 줄 알고, 보고서도 잘 쓰지. 이 세상에서 페라보다 더 믿음직한 아가씨가 있을까?
+VO_KO_Archive_Serval_11.ogg  ||  브로냐는 착한 아이야, 역시 쿠쿠리아가 키워낸 아이답다니까. 요즘은 자주 못 만났어, 좀 보고 싶긴 하네
+VO_KO_Archive_Serval_12.ogg  ||  내가 아는 쿠쿠리아는 내 노랠 들으려고 지붕까지 올라가는 사람이었어, 근데… 「수호자」는 안 그래
+VO_KO_Archive_Serval_13.ogg  ||  그 녀석? 게파드가 언제 체포할지 두고 보는 중이야
+VO_KO_Archive_Serval_16.ogg  ||  우리 링스는… 역시 날 더 닮았어. 어? 이건 게파드한테 말하지 마~ 이런 말 싫어하거든!
+VO_KO_Serval_Battle_Begins_-_Weakness_Break_01.ogg  ||  지금부터가 하이라이트야
+VO_KO_Serval_Battle_Begins_-_Danger_Alert_01.ogg  ||  왜? 깽판이라도 쳐보게?
+VO_KO_Serval_Turn_Begins_01.ogg  ||  응원 와준 사람이 많네
+VO_KO_Serval_Turn_Begins_02.ogg  ||  이 노래, 너 줄게~
+VO_KO_Serval_Turn_Idling_01.ogg  ||  관중들 목 빠지겠어
+VO_KO_Serval_Basic_ATK_01.ogg  ||  들뜨는군!
+VO_KO_Serval_Skill_01.ogg  ||  내 리듬을 따라와!
+VO_KO_Serval_Skill_02.ogg  ||  함성에 열정이 부족해!
+VO_KO_Serval_Hit_by_Light_Attack_01.ogg  ||  별것 아니야
+VO_KO_Serval_Hit_by_Heavy_Attack_01.ogg  ||  꽤 하는걸
+VO_KO_Serval_Ultimate_-_Activate_01.ogg  ||  망가질 준비됐어?
+VO_KO_Serval_Ultimate_-_Unleash_01.ogg  ||  반항, 동요, 타락할 것 없이… 이 모든 건……
+VO_KO_Serval_Downed_01.ogg  ||  공연이…… 아직……
+VO_KO_Serval_Return_to_Battle_01.ogg  ||  앙코르 소리가 들렸어~
+VO_KO_Serval_Health_Recovery_01.ogg  ||  하~ 기분이 상쾌해~
+VO_KO_Serval_Technique_01.ogg  ||  로큰롤은 멈추지 않아!
+VO_KO_Serval_Battle_Won_01.ogg  ||  하이라이트는 항상 다음에 있지!
+VO_KO_Serval_Treasure_Opening_01.ogg  ||  오, 좋은 거야
+VO_KO_Serval_Successful_Puzzle-Solving_01.ogg  ||  느낌이 딱 왔어
+VO_KO_Serval_Enemy_Target_Found_01.ogg  ||  휴우, 손 풀기 딱 좋은 상대네~
+VO_KO_Serval_Returning_to_Town_01.ogg  ||  눈빛과 바람만 있어도 영감은 떠오르지

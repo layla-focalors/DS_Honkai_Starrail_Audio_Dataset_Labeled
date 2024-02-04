@@ -1,0 +1,36 @@
+VO_KO_Archive_Sampo_1.ogg  ||  여어, (Trailblazer)! 나 삼포•코스키와 함께라면 행상에 가이드에 무료함까지 달래주는 말동무가 생기는 거잖아…. 어때, 가성비 괜찮지?
+VO_KO_Archive_Sampo_2.ogg  ||  오늘은 뭐 할 거야? 돈 주면 하고, 안 주면… 그래도 하긴 하겠지만. 뭐든 말만 해, 친구
+VO_KO_Archive_Sampo_3.ogg  ||  자, 쉴 땐 쉬어야지…. 그렇게 경계할 필요는 없잖아, 친구. 난 도망가지 않는다고
+VO_KO_Archive_Sampo_5.ogg  ||  나? 항상 귀찮은 일에 휘말리고, 자그마한 보답만을 바랐지만 결국 정의라며 돈 한 푼도 못 받는 불운의 아이콘… 선량한 사람일 뿐이야
+VO_KO_Archive_Sampo_4.ogg  ||  하나의 정보가 다양한 포장을 거치면 떳떳하게 많은 사람들한테 팔 수 있어. 이걸 이익 극대화라고 하지
+VO_KO_Archive_Sampo_6.ogg  ||  난 사람과 사람 사이의 아름다운 감정은 대화에서 온다고 굳게 믿어
+VO_KO_Archive_Sampo_7.ogg  ||  고객님이 원하는 물건이 곧 내가 판매하는 물건이지. 근데 다들 날 사기꾼이라고 하더라고? 이러니 화가 안 나……?
+VO_KO_Archive_Sampo_15.ogg  ||  벨로보그가 인적이 뜸한 곳이긴 하지만, 이런 곳일수록 사람들은 자기 밥그릇만 지키느라 바쁘지——그럼 나한테는 구경거리가 생기는 거고
+VO_KO_Archive_Sampo_16.ogg  ||  어떻게 눈의 땅에 왔는지 말해 줄 수 있어? 비행체? 차 타고 온 거라는 말은 꺼내지도 마, 안 믿어
+VO_KO_Archive_Sampo_8.ogg  ||  하층 구역에 온 지 얼마 안 됐을 땐 나타샤한테 약을 좀 구해다 줬지. 친해진 후론 겸사겸사 정보도 좀 알아봐 주고, 알잖아?
+VO_KO_Archive_Sampo_9.ogg  ||  스바로그와의 거래를 성사시키는 사람이 있다면, 이 삼포, 진심 어린 존경을 표하겠어!
+VO_KO_Archive_Sampo_10.ogg  ||  빨간 옷 소녀는 정말 대단해, 그 고철이랑 어떻게 대화가 통하는 거지?
+VO_KO_Archive_Sampo_11.ogg  ||  제레 씨는 무력으로 날 상대할 수 있겠다 싶으면 절대 입을 열지 않아. 나와 제레 씨, 대체 누가 문제인 걸까?
+VO_KO_Archive_Sampo_12.ogg  ||  자주 만나긴 해, 난 도망치고 게파드는 날 쫓고. 톰과 제리 게임도… 오래하니까 재밌더라고, 헤헤
+VO_KO_Archive_Sampo_13.ogg  ||  예전에는 사이가 꽤 좋았는데 지금은… 게파드 씨보다도 안 좋은 사이지
+VO_KO_Archive_Sampo_14.ogg  ||  조그만 소원이 있어. 그건 바로 미래의 수호자님과 안면을 트는 거야. 어떤 방법이든 상관없어——두들겨 맞아도 괜찮아!
+VO_KO_Archive_Sampo_17.ogg  ||  루카가 시합하는 거 봤어? 그 녀석, 하층 구역에서 제일가는 황금 거위야! 그 거위가 이 삼포의 울타리 안에 사는 게 아니라 아쉽네……
+VO_KO_Sampo_Battle_Begins_-_Weakness_Break_01.ogg  ||  나 삼포는 항상 친구를 소중히 여기지
+VO_KO_Sampo_Battle_Begins_-_Danger_Alert_01.ogg  ||  새로운 비즈니스가 생겼군
+VO_KO_Sampo_Turn_Begins_01.ogg  ||  재미 삼아 해볼까?
+VO_KO_Sampo_Turn_Begins_02.ogg  ||  강할수록 좋지, 맘에 들어
+VO_KO_Sampo_Turn_Idling_01.ogg  ||  새로운 건 아직이야?
+VO_KO_Sampo_Skill_01.ogg  ||  아니면, 이건 어때?
+VO_KO_Sampo_Hit_by_Light_Attack_01.ogg  ||  거참……
+VO_KO_Sampo_Hit_by_Heavy_Attack_01.ogg  ||  얼, 얼굴은 때리지 마!
+VO_KO_Sampo_Ultimate_-_Activate_01.ogg  ||  뭘 기대했어?
+VO_KO_Sampo_Ultimate_-_Unleash_01.ogg  ||  고객이 왕이지. 왕을 배신하길 바란다면… 가격을 좀 더 쳐줘야지~
+VO_KO_Sampo_Downed_01.ogg  ||  크게… 손해 봤군
+VO_KO_Sampo_Return_to_Battle_01.ogg  ||  나 삼포를 도운 건 당연히 갚아야지
+VO_KO_Sampo_Health_Recovery_01.ogg  ||  너한테 빚졌네~
+VO_KO_Sampo_Technique_01.ogg  ||  헤헤
+VO_KO_Sampo_Battle_Won_01.ogg  ||  리스크 없이 어떻게 재미를 보겠어?
+VO_KO_Sampo_Treasure_Opening_01.ogg  ||  돈은, 돈은?
+VO_KO_Sampo_Successful_Puzzle-Solving_01.ogg  ||  오, 훌륭해
+VO_KO_Sampo_Enemy_Target_Found_01.ogg  ||  녀석 꽤 튼튼해 보이는걸?
+VO_KO_Sampo_Returning_to_Town_01.ogg  ||  삼포가 있는 곳엔 비즈니스가 있지

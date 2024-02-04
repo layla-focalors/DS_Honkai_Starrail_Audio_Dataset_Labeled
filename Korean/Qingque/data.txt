@@ -1,0 +1,46 @@
+VO_KO_Archive_Qingque_1.ogg  ||  전 청작, 태복사의 점술가죠. 저랑 놀이를 하러 왔다고요? 좋아요. 제가 근무할 때 다시 올래요?
+VO_KO_Archive_Qingque_2.ogg  ||  오늘도 출근 도장을 이렇게나 일찍 찍었어요? 참 부지런하셔요
+VO_KO_Archive_Qingque_3.ogg  ||  가요, 놀이하러 가요. 설마… 야근할 생각은 아니죠!?
+VO_KO_Archive_Qingque_4.ogg  ||  업무는 가치를 얻는 게 아니라 노동으로 보수를 바꾸는 행위예요. 업무 중에 농땡이를 피우는 거야말로 가치를 얻는 일이라고요
+VO_KO_Archive_Qingque_5.ogg  ||  어머니가 태복사에 들어가면 한숨 돌릴 수 있을 거라고 했죠. 들어와서야 안 건데 한숨 돌리기는 커녕 내가 돌아버리겠어요……
+VO_KO_Archive_Qingque_6.ogg  ||  상사한테 혼나면 「제원 경옥」 몇 판 하러 가고, 일을 다 못 끝내도 「제원 경옥」 몇 판 하러 가죠. 아! 「제원 경옥」이 제 구세주예요!
+VO_KO_Archive_Qingque_7.ogg  ||  「제원 경옥」은 혼자 못 해요. 「제원 경옥」이 만능이 아니잖아요…
+VO_KO_Archive_Qingque_8.ogg  ||  「즐겁게 일하기 기본 요령」은 총 세 가지죠——자진 금지, 거절 금지, 책임 금지. 자, 해볼래요?
+VO_KO_Archive_Qingque_9.ogg  ||  선주에 잡서가 있다는 걸 안 게 첫 번째 즐거움이고, 「삼여책방」에서 잡서를 찾는 게 두 번째 즐거움, 일할 때 잡서를 읽는 게 세 번째 즐거움이자 제일 큰 즐거움이에요
+VO_KO_Archive_Qingque_10.ogg  ||  장군님은 종종 「눈을 감고」 보고를 들으신대요. 태복사에 대중화되면 좋겠네요. 감사합니다, 장군님
+VO_KO_Archive_Qingque_11.ogg  ||  이름만 들어본 천재 소년이죠. 그렇게 어리면서 매일 일이라니? 듣기만 해도 피곤해요
+VO_KO_Archive_Qingque_12.ogg  ||  제가 한가해지면 태복 님께서 곧바로 나타나서 자질구레한 일을 주세요…. 시간 관리라는 학문을 더 연구해봐야겠어요……
+VO_KO_Archive_Qingque_13.ogg  ||  천박사의 거물이시죠. 전선에서 물러나셨어도 한가하지 않으시니, 관직은 쉽지 않네요
+VO_KO_Archive_Qingque_14.ogg  ||  정운 아가씨가 놀이관 앞에 멈춰서 관찰하는 걸 보고 한 판 권한 적이 있어요. 정운 아가씨는 얼굴도 예쁘고 놀이도 잘해요. 그날 사람이 가득 모이고 열기가 대단했죠. 주인이 져서 아주 인상적이었어요
+VO_KO_Archive_Qingque_15.ogg  ||  누구? 이름은 외부인 같은데…. 여긴 외부인이 많아요. 감효헌(鑒爻軒)에서도 자주 보는데 대부분 「장수 추구」의 성공을 빌러 온 사람이죠… 음, 잘못 들은 거 아니에요. 「추구」라고 했어요
+VO_KO_Archive_Qingque_16.ogg  ||  운기 쪽 신인인가요? 어이쿠, 어서 돌아갔으면 좋겠네요. 「나부」는 무슨 일이든 경쟁이 치열해서 승진은 못 한다고요
+VO_KO_Archive_Qingque_17.ogg  ||  옛날에 놀이를 하다가 손에 쥐가 나서 친구 소개로 갔었죠. 반신반의했는데 약을 처방해준 백로 님이 「제원 경옥」을 꺼내더니, 평소에 패를 많이 쌓으면 손이 유연해진다고 해서 바로 수긍했어요
+VO_KO_Archive_Qingque_18.ogg  ||  계네빈… 아, 네비니요~! 전 놀이에서 질 때면 계네빈의 곡예를 보러 달려가요, 그럼 기분이 좀 좋아지거든요. 그럴 땐… 주머니에서 반 촉도 못 꺼내주지만 말이에요
+VO_KO_Qingque_Battle_Begins_-_Weakness_Break_01.ogg  ||  좋은 패 손에 쥐고 조용히 떼돈 벌자~
+VO_KO_Qingque_Battle_Begins_-_Danger_Alert_01.ogg  ||  열세일 땐 적게 잃는 게 이기는 거예요~
+VO_KO_Qingque_Turn_Begins_01.ogg  ||  헛수고, 기다리면 패가 붙는다고요~
+VO_KO_Qingque_Turn_Begins_02.ogg  ||  전세는 노름과 같아요, 기회를 봐서 치는 거죠~
+VO_KO_Qingque_Turn_Idling_01.ogg  ||  패는 모르는 거죠, 급할수록 재미없어요~
+VO_KO_Qingque_Basic_ATK_01.ogg  ||  일단 가보자~
+VO_KO_Qingque_Enhanced_Basic_ATK_01.ogg  ||  계산 좀 해볼까
+VO_KO_Qingque_Skill_01.ogg  ||  났다!
+VO_KO_Qingque_Skill_02.ogg  ||  침착해~
+VO_KO_Qingque_Skill_03.ogg  ||  와라~
+VO_KO_Qingque_Skill_04.ogg  ||  호우~
+VO_KO_Qingque_Skill_05.ogg  ||  오예~
+VO_KO_Qingque_Skill_S_01.ogg  ||  왜 아직 안 붙지…
+VO_KO_Qingque_Hit_by_Light_Attack_01.ogg  ||  우연일 뿐이야
+VO_KO_Qingque_Hit_by_Heavy_Attack_01.ogg  ||  사람은 치지 마!
+VO_KO_Qingque_Ultimate_-_Activate_01.ogg  ||  땡 좀 잡게 해줘!
+VO_KO_Qingque_Ultimate_-_Unleash_01.ogg  ||  제발, 제발, 제발… 이건… 났다!
+VO_KO_Qingque_Talent_01.ogg  ||  좋은 패는 언제든 옳아!
+VO_KO_Qingque_Talent_02.ogg  ||  붙었다!
+VO_KO_Qingque_Downed_01.ogg  ||  일하러… 가기 싫어……
+VO_KO_Qingque_Return_to_Battle_01.ogg  ||  한 자리 비는 거 아니죠?
+VO_KO_Qingque_Health_Recovery_01.ogg  ||  괜찮은걸요?
+VO_KO_Qingque_Technique_01.ogg  ||  손맛 좀 볼까~
+VO_KO_Qingque_Battle_Won_01.ogg  ||  운이 트였으니, 막으려야 막을 수 없죠~
+VO_KO_Qingque_Treasure_Opening_01.ogg  ||  운수형통~
+VO_KO_Qingque_Successful_Puzzle-Solving_01.ogg  ||  힘 쓸 필요 없어요~
+VO_KO_Qingque_Enemy_Target_Found_01.ogg  ||  붙잡아서 한판 더하자고요~
+VO_KO_Qingque_Returning_to_Town_01.ogg  ||  일 생각만 하면, 온몸이 쑤셔요……

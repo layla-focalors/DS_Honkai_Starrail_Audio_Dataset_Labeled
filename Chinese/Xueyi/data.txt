@@ -1,0 +1,102 @@
+VO_ZH_Archive_Xueyi_1.ogg  ||  十王司判官，雪衣。奉十王诰谕还阳行事。有事便讲，吾的时间不多。
+VO_ZH_Archive_Xueyi_2.ogg  ||  难得还阳一次便见到你，算是缘分。
+VO_ZH_Archive_Xueyi_3.ogg  ||  时间到了，一日「阳寿」将尽。回棺休息，勿念。
+VO_ZH_Archive_Xueyi_4.ogg  ||  「雪衣」本是一种白鸟，也是棋枰上白棋的别称。选它做代号，代表吾心意已决，进退任凭十王差遣。
+VO_ZH_Archive_Xueyi_5.ogg  ||  吾身并非活人。与你交谈的，是十王赐下的偃偶之身。吾的躯壳，早已化灰。
+VO_ZH_Archive_Xueyi_6.ogg  ||  别看小妹平时阴恻恻的，若吾还阳有片刻闲暇，她都兴高采烈地拉吾到处闲逛。吾只好陪她。
+VO_ZH_Archive_Xueyi_7.ogg  ||  吾与十王司约定，每缉拿一个凶徒，可还阳半日。这半日在你们眼中算不得长，于我却弥足珍贵。
+VO_ZH_Archive_Xueyi_8.ogg  ||  在生时的吾似乎因堕入魔阴身，犯下过大罪…蒙十王恩典，有了戴罪立功的机会。
+VO_ZH_Archive_Xueyi_9.ogg  ||  吾生前似乎有诸多爱好，逛市集、读小说、看幻戏。如今，半日光阴虽足够吾回忆，一旦躺进棺材，吾又会遗忘……
+VO_ZH_Archive_Xueyi_10.ogg  ||  「烦恼」这东西，对吾太奢侈了。
+VO_ZH_Archive_Xueyi_11.ogg  ||  吾在棺中沉眠时，总会梦见许多罪人的过去，醒来却毫无记忆…这就是十王司的梦兆推占之法吗？
+VO_ZH_Archive_Xueyi_12.ogg  ||  《不适合人偶的职业》，这本小说，汝可有读过？不知是何人以吾为原型写下的…怪哉，作者莫非是十王司同僚？
+VO_ZH_Archive_Xueyi_13.ogg  ||  小妹身系判读因果业报的重责，平日都待在「因果殿」的深处。宵旰操劳、日日无休，待遇是有些差，那孩子都有黑眼圈了。
+VO_ZH_Archive_Xueyi_14.ogg  ||  藿藿…任冥差才三十八年，如今一跃成了判官。这样的升迁速度，司内闻所未闻。按幽府条令，平常人至少得干个五百年才行吧？
+VO_ZH_Archive_Xueyi_15.ogg  ||  吾在生时，丹枫的盛名无人不知。现如今他却沦为罪囚，被逐出仙舟，名字也换了一个…真是世事易变。
+VO_ZH_Archive_Xueyi_16.ogg  ||  将军为十王司效力甚多，十王必以盛恩回报。
+VO_ZH_Archive_Xueyi_17.ogg  ||  能修复吾的机巧身躯，那外乡人…不一般。
+VO_ZH_Archive_Xueyi_18.ogg  ||  她同我一样，是戴罪之人，只是她已无偿还罪孽的可能与必要，因而走向歧路。
+VO_ZH_Archive_Xueyi_19.ogg  ||  当年，吾也曾阻止过小妹的做法。但就如今来看，着实给十王司带来了诸多可能性。
+VO_ZH_Archive_Xueyi_Eidolon_Activation.ogg  ||  十王座下，拘魂判官，奉谕还阳行事。
+VO_ZH_Archive_Xueyi_Character_Ascension.ogg  ||  很好，汰旧换新，十分成功。
+VO_ZH_Archive_Xueyi_Max_Level_Reached.ogg  ||  虽是偃偶之身，功能已然齐备。
+VO_ZH_Archive_Xueyi_Trace_Activation.ogg  ||  十王宣旨，吾必奉行。
+VO_ZH_Archive_Xueyi_Added_to_Team_With_Hanya.ogg  ||  甚是难得。此次任务，连小妹也要去吗？
+VO_ZH_Archive_Xueyi_Added_to_Team_With_Dan_Heng.ogg  ||  又见面了，幸会。
+VO_ZH_Archive_Xueyi_Added_to_Team_With_Jing_Yuan.ogg  ||  将军襄助之情，十王定回以善报。
+VO_ZH_Archive_Xueyi_Added_to_Team_With_Huohuo.ogg  ||  藿藿，在吾身后援手即可。
+VO_ZH_Archive_Xueyi_1.ogg  ||  
+VO_ZH_Archive_Xueyi_2.ogg  ||  
+VO_ZH_Archive_Xueyi_3.ogg  ||  
+VO_ZH_Archive_Xueyi_4.ogg  ||  
+VO_ZH_Archive_Xueyi_5.ogg  ||  
+VO_ZH_Archive_Xueyi_6.ogg  ||  
+VO_ZH_Archive_Xueyi_7.ogg  ||  
+VO_ZH_Archive_Xueyi_8.ogg  ||  
+VO_ZH_Archive_Xueyi_9.ogg  ||  
+VO_ZH_Archive_Xueyi_10.ogg  ||  
+VO_ZH_Archive_Xueyi_11.ogg  ||  
+VO_ZH_Archive_Xueyi_12.ogg  ||  
+VO_ZH_Archive_Xueyi_13.ogg  ||  
+VO_ZH_Archive_Xueyi_14.ogg  ||  
+VO_ZH_Archive_Xueyi_15.ogg  ||  
+VO_ZH_Archive_Xueyi_16.ogg  ||  
+VO_ZH_Archive_Xueyi_17.ogg  ||  
+VO_ZH_Archive_Xueyi_18.ogg  ||  
+VO_ZH_Archive_Xueyi_19.ogg  ||  
+VO_ZH_Archive_Xueyi_Eidolon_Activation.ogg  ||  
+VO_ZH_Archive_Xueyi_Character_Ascension.ogg  ||  
+VO_ZH_Archive_Xueyi_Max_Level_Reached.ogg  ||  
+VO_ZH_Archive_Xueyi_Trace_Activation.ogg  ||  
+VO_ZH_Archive_Xueyi_Added_to_Team_With_Hanya.ogg  ||  
+VO_ZH_Archive_Xueyi_Added_to_Team_With_Dan_Heng.ogg  ||  
+VO_ZH_Archive_Xueyi_Added_to_Team_With_Jing_Yuan.ogg  ||  
+VO_ZH_Archive_Xueyi_Added_to_Team_With_Huohuo.ogg  ||  
+VO_ZH_Xueyi_Battle_Begins_-_Weakness_Break_01.ogg  ||  何不早降？
+VO_ZH_Xueyi_Battle_Begins_-_Danger_Alert_01.ogg  ||  不过尔尔。
+VO_ZH_Xueyi_Turn_Begins_01.ogg  ||  时辰已至。
+VO_ZH_Xueyi_Turn_Begins_02.ogg  ||  汝可知罪？
+VO_ZH_Xueyi_Turn_Idling_01.ogg  ||  再等下去，吾阳寿将尽…
+VO_ZH_Xueyi_Basic_ATK_01.ogg  ||  伏诛罢。
+VO_ZH_Xueyi_Skill_01.ogg  ||  束手就擒！
+VO_ZH_Xueyi_Hit_by_Light_Attack_01.ogg  ||  伤不到我。
+VO_ZH_Xueyi_Hit_by_Heavy_Attack_01.ogg  ||  伤到又如何？
+VO_ZH_Xueyi_Ultimate_-_Activate_01.ogg  ||  承十王敕…
+VO_ZH_Xueyi_Ultimate_-_Unleash_01.ogg  ||  入魔，必诛！
+VO_ZH_Xueyi_Talent_01.ogg  ||  魔阴，不赦。
+VO_ZH_Xueyi_Downed_01.ogg  ||  对不起，姐姐不能……
+VO_ZH_Xueyi_Return_to_Battle_01.ogg  ||  死期未到。
+VO_ZH_Xueyi_Health_Recovery_01.ogg  ||  运动机杼已复原。
+VO_ZH_Xueyi_Technique_01.ogg  ||  邪煞退散。
+VO_ZH_Xueyi_Battle_Won_01.ogg  ||  又可增添几日阳寿……
+VO_ZH_Xueyi_Treasure_Opening_01.ogg  ||  有趣，给那傻孩子瞧瞧。
+VO_ZH_Xueyi_Treasure_Opening_02.ogg  ||  也算是新鲜玩意。
+VO_ZH_Xueyi_Precious_Treasure_Opening_01.ogg  ||  若是送她…定会欢喜许久。
+VO_ZH_Xueyi_Successful_Puzzle-Solving_01.ogg  ||  上次还阳时，是这样么？
+VO_ZH_Xueyi_Successful_Puzzle-Solving_02.ogg  ||  下次…还能更快些……
+VO_ZH_Xueyi_Enemy_Target_Found_01.ogg  ||  前方煞气深重，请多留意。
+VO_ZH_Xueyi_Returning_to_Town_01.ogg  ||  回棺前，看看有什么新东西罢。
+VO_ZH_Xueyi_Battle_Begins_-_Weakness_Break_01.ogg  ||  
+VO_ZH_Xueyi_Battle_Begins_-_Danger_Alert_01.ogg  ||  
+VO_ZH_Xueyi_Turn_Begins_01.ogg  ||  
+VO_ZH_Xueyi_Turn_Begins_02.ogg  ||  
+VO_ZH_Xueyi_Turn_Idling_01.ogg  ||  
+VO_ZH_Xueyi_Basic_ATK_01.ogg  ||  
+VO_ZH_Xueyi_Skill_01.ogg  ||  
+VO_ZH_Xueyi_Hit_by_Light_Attack_01.ogg  ||  
+VO_ZH_Xueyi_Hit_by_Heavy_Attack_01.ogg  ||  
+VO_ZH_Xueyi_Ultimate_-_Activate_01.ogg  ||  
+VO_ZH_Xueyi_Ultimate_-_Unleash_01.ogg  ||  
+VO_ZH_Xueyi_Talent_01.ogg  ||  
+VO_ZH_Xueyi_Downed_01.ogg  ||  
+VO_ZH_Xueyi_Return_to_Battle_01.ogg  ||  
+VO_ZH_Xueyi_Health_Recovery_01.ogg  ||  
+VO_ZH_Xueyi_Technique_01.ogg  ||  
+VO_ZH_Xueyi_Battle_Won_01.ogg  ||  
+VO_ZH_Xueyi_Treasure_Opening_01.ogg  ||  
+VO_ZH_Xueyi_Treasure_Opening_02.ogg  ||  
+VO_ZH_Xueyi_Precious_Treasure_Opening_01.ogg  ||  
+VO_ZH_Xueyi_Successful_Puzzle-Solving_01.ogg  ||  
+VO_ZH_Xueyi_Successful_Puzzle-Solving_02.ogg  ||  
+VO_ZH_Xueyi_Enemy_Target_Found_01.ogg  ||  
+VO_ZH_Xueyi_Returning_to_Town_01.ogg  ||  

@@ -1,0 +1,98 @@
+VO_ZH_Archive_Blade_1.ogg  ||  (Trailblazer)…我不认识你。这对你而言，是件好事。
+VO_ZH_Archive_Blade_2.ogg  ||  又来了？…被我记住的人，结果都不会很好。
+VO_ZH_Archive_Blade_3.ogg  ||  走吧，「魔阴身」发作的时候，最好别在我身旁。
+VO_ZH_Archive_Blade_4.ogg  ||  消磨自己，撕碎敌人，便是兵刃。
+VO_ZH_Archive_Blade_5.ogg  ||  人皆有魔阴，或各有不同，我的情况殊为特别。即便常受魔阴作祟，我却对此记忆寥寥：无论是悔恨、仇怨，还是思念与惶然……
+VO_ZH_Archive_Blade_6.ogg  ||  魔阴发作时，我就是另一个人了。
+VO_ZH_Archive_Blade_7.ogg  ||  我们藉由彼此之手，达成目的。
+VO_ZH_Archive_Blade_8.ogg  ||  「这次，将是最后一次」的期许，最终都消减在察觉肉体愈合的痛苦中。
+VO_ZH_Archive_Blade_9.ogg  ||  人有五名，代价有三个——这句话刻在我每一处伤口里……
+VO_ZH_Archive_Blade_10.ogg  ||  「刃」的存在，唯有挥剑的刹那，才能消失片刻。
+VO_ZH_Archive_Blade_11.ogg  ||  死亡何时而至？我等得有些心焦了。
+VO_ZH_Archive_Blade_12.ogg  ||  比我快的武器不可胜数，但上千回的交锋后又如何？
+VO_ZH_Archive_Blade_13.ogg  ||  已死之人，不知所惧。
+VO_ZH_Archive_Blade_14.ogg  ||  缚住魔阴的绳子在她手中，在约定的时限之前，她不会拉动绳索，但也绝不会松手。
+VO_ZH_Archive_Blade_16.ogg  ||  在那个被她称之为「游戏」的世界里，她不放弃，便不会死去。
+VO_ZH_Archive_Blade_17.ogg  ||  他一直…一直是我们中最明白「代价」的那个人，但他什么都没说，什么都没做！
+VO_ZH_Archive_Blade_18.ogg  ||  饮月君…我们的果报何时来临？我们欠下的债如何偿还！
+VO_ZH_Archive_Blade_19.ogg  ||  挥剑时，身体中不绝翻涌着的幻痛——何处一剑致命、何处痛不致死——皆拜她所赐！
+VO_ZH_Archive_Blade_Eidolon_Activation.ogg  ||  生命，已成惩戒。
+VO_ZH_Archive_Blade_Character_Ascension.ogg  ||  迈向破灭的路途，没有捷径。
+VO_ZH_Archive_Blade_Max_Level_Reached.ogg  ||  希望一切…能在此终结。
+VO_ZH_Archive_Blade_Trace_Activation.ogg  ||  不过是上万次痛苦中，最微不足道的一种。
+VO_ZH_Archive_Blade_Added_to_Team_With_Kafka.ogg  ||  卡芙卡…不能埋葬我们的，都将被我们埋葬。
+VO_ZH_Archive_Blade_Added_to_Team_With_Silver_Wolf.ogg  ||  你的戏法总是令人琢磨不透…按你想的来吧。
+VO_ZH_Archive_Blade_Added_to_Team_With_Jingliu.ogg  ||  镜流…见证我的痛苦，我的一招一式。
+VO_ZH_Archive_Blade_Added_to_Team_With_Jing_Yuan.ogg  ||  你以前可没这么爱管闲事，景元。
+VO_ZH_Archive_Blade_Added_to_Team_With_Dan_Heng.ogg  ||  你来了，别让我抓到你任何破绽。
+VO_ZH_Archive_Blade_1.ogg  ||  
+VO_ZH_Archive_Blade_2.ogg  ||  
+VO_ZH_Archive_Blade_3.ogg  ||  
+VO_ZH_Archive_Blade_4.ogg  ||  
+VO_ZH_Archive_Blade_5.ogg  ||  
+VO_ZH_Archive_Blade_6.ogg  ||  
+VO_ZH_Archive_Blade_7.ogg  ||  
+VO_ZH_Archive_Blade_8.ogg  ||  
+VO_ZH_Archive_Blade_9.ogg  ||  
+VO_ZH_Archive_Blade_10.ogg  ||  
+VO_ZH_Archive_Blade_11.ogg  ||  
+VO_ZH_Archive_Blade_12.ogg  ||  
+VO_ZH_Archive_Blade_13.ogg  ||  
+VO_ZH_Archive_Blade_14.ogg  ||  
+VO_ZH_Archive_Blade_16.ogg  ||  
+VO_ZH_Archive_Blade_17.ogg  ||  
+VO_ZH_Archive_Blade_18.ogg  ||  
+VO_ZH_Archive_Blade_19.ogg  ||  
+VO_ZH_Archive_Blade_Eidolon_Activation.ogg  ||  
+VO_ZH_Archive_Blade_Character_Ascension.ogg  ||  
+VO_ZH_Archive_Blade_Max_Level_Reached.ogg  ||  
+VO_ZH_Archive_Blade_Trace_Activation.ogg  ||  
+VO_ZH_Archive_Blade_Added_to_Team_With_Kafka.ogg  ||  
+VO_ZH_Archive_Blade_Added_to_Team_With_Silver_Wolf.ogg  ||  
+VO_ZH_Archive_Blade_Added_to_Team_With_Jingliu.ogg  ||  
+VO_ZH_Archive_Blade_Added_to_Team_With_Jing_Yuan.ogg  ||  
+VO_ZH_Archive_Blade_Added_to_Team_With_Dan_Heng.ogg  ||  
+VO_ZH_Blade_Battle_Begins_-_Weakness_Break_01.ogg  ||  你挡路了。
+VO_ZH_Blade_Battle_Begins_-_Danger_Alert_01.ogg  ||  你会带给我惊喜么？
+VO_ZH_Blade_Turn_Begins_01.ogg  ||  以掌中之剑，送你一程。
+VO_ZH_Blade_Turn_Begins_02.ogg  ||  剑下不必留情。
+VO_ZH_Blade_Turn_Idling_01.ogg  ||  等得太久，小心煞气枯竭。
+VO_ZH_Blade_Enhanced_Basic_ATK_01.ogg  ||  悉数…奉还！
+VO_ZH_Blade_Skill_01.ogg  ||  其势…已成！
+VO_ZH_Blade_Skill_02.ogg  ||  死兆…将至！
+VO_ZH_Blade_Hit_by_Light_Attack_01.ogg  ||  还不够……
+VO_ZH_Blade_Hit_by_Heavy_Attack_01.ogg  ||  好，来得好。
+VO_ZH_Blade_Ultimate_-_Activate_01.ogg  ||  此番美景，我虽求而不得……
+VO_ZH_Blade_Ultimate_-_Unleash_01.ogg  ||  却能，邀诸位共赏。
+VO_ZH_Blade_Talent_01.ogg  ||  彼岸…葬送！
+VO_ZH_Blade_Downed_01.ogg  ||  这次能成功吗……
+VO_ZH_Blade_Return_to_Battle_01.ogg  ||  可惜，还活着。
+VO_ZH_Blade_Health_Recovery_01.ogg  ||  多事。
+VO_ZH_Blade_Battle_Won_01.ogg  ||  看来剑还不够快。
+VO_ZH_Blade_Treasure_Opening_01.ogg  ||  别无他物。
+VO_ZH_Blade_Precious_Treasure_Opening_01.ogg  ||  收好。
+VO_ZH_Blade_Successful_Puzzle-Solving_01.ogg  ||  结束了。
+VO_ZH_Blade_Enemy_Target_Found_01.ogg  ||  再走近一些也无妨。
+VO_ZH_Blade_Returning_to_Town_01.ogg  ||  还有其他事么？
+VO_ZH_Blade_Battle_Begins_-_Weakness_Break_01.ogg  ||  
+VO_ZH_Blade_Battle_Begins_-_Danger_Alert_01.ogg  ||  
+VO_ZH_Blade_Turn_Begins_01.ogg  ||  
+VO_ZH_Blade_Turn_Begins_02.ogg  ||  
+VO_ZH_Blade_Turn_Idling_01.ogg  ||  
+VO_ZH_Blade_Enhanced_Basic_ATK_01.ogg  ||  
+VO_ZH_Blade_Skill_01.ogg  ||  
+VO_ZH_Blade_Skill_02.ogg  ||  
+VO_ZH_Blade_Hit_by_Light_Attack_01.ogg  ||  
+VO_ZH_Blade_Hit_by_Heavy_Attack_01.ogg  ||  
+VO_ZH_Blade_Ultimate_-_Activate_01.ogg  ||  
+VO_ZH_Blade_Ultimate_-_Unleash_01.ogg  ||  
+VO_ZH_Blade_Talent_01.ogg  ||  
+VO_ZH_Blade_Downed_01.ogg  ||  
+VO_ZH_Blade_Return_to_Battle_01.ogg  ||  
+VO_ZH_Blade_Health_Recovery_01.ogg  ||  
+VO_ZH_Blade_Battle_Won_01.ogg  ||  
+VO_ZH_Blade_Treasure_Opening_01.ogg  ||  
+VO_ZH_Blade_Precious_Treasure_Opening_01.ogg  ||  
+VO_ZH_Blade_Successful_Puzzle-Solving_01.ogg  ||  
+VO_ZH_Blade_Enemy_Target_Found_01.ogg  ||  
+VO_ZH_Blade_Returning_to_Town_01.ogg  ||  

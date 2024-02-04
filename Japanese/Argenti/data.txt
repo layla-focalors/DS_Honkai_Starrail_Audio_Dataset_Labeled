@@ -1,0 +1,52 @@
+VO_JA_Archive_Argenti_1.ogg  ||  僕は「純美の騎士団」所属のアルジェンティと申します。1輪のバラの重さを以って、ご挨拶させてください。
+VO_JA_Archive_Argenti_2.ogg  ||  もしトラブルに遭遇したら、絶対に僕に知らせてください。必ずやお守りいたします！
+VO_JA_Archive_Argenti_3.ogg  ||  ああ…僕は責任を負い、宇宙を独りで歩む定めにある…お傍にいられない僕をお許しください。僕たちは、いつかまた宇宙のどこかで巡り会えるでしょう。
+VO_JA_Archive_Argenti_4.ogg  ||  僕は純美の騎士団の「
+叙勲
+じょくん
+騎士」です。精巧な彫刻が施された鎧は僕たちの象徴と言えましょう。
+VO_JA_Archive_Argenti_5.ogg  ||  純美の騎士団の団員は滅多に顔を合わせません。しかし、僕たちは同じ「騎士道」のもと、それぞれ異なる星を渡り歩き、宇宙の隅々までかの女神の美名を広めているのです。
+VO_JA_Archive_Argenti_6.ogg  ||  宇宙船には「プライスレス」という名前を付けました。掃除するのが本当に大変で…外形をここまで複雑に彫る必要はなかったかもしれません。
+VO_JA_Archive_Argenti_7.ogg  ||  僕はバゲットが好きです。ランスでスライスすれば、保存して持ち歩けます。長旅には欠かせない良いものなんですよ。
+VO_JA_Archive_Argenti_8.ogg  ||  スターピースカンパニーの様々な娯楽や美食は、どれもカラフルでインパクトがありますが、僕はあまり詳しくないのです。いつか、詳しい方からご教示いただきたいですね。
+VO_JA_Archive_Argenti_9.ogg  ||  ある星の風習では、本のページで改造した義肢を拭くことによって、知識を直接神経に送り込むそうです。これにはとても衝撃を受けましたが、同じくらい素晴らしいとも思いました。
+VO_JA_Archive_Argenti_10.ogg  ||  「醜悪」が存在しない星について聞いたことはありますか？面白いのは、その星の人々には「美麗」という概念も存在しないということです。
+VO_JA_Archive_Argenti_11.ogg  ||  三月さんは純粋な心を持っています。あのように善良な性格を持ち、行動できる方は非常に貴重です――銀河には、低俗で利益しか考えていないような本性を持ち、口先ばかりの人間があまりにも多い。僕は彼女の天性を守り、尊重を捧げようと思います。
+VO_JA_Archive_Argenti_12.ogg  ||  ああ、彼女の魂はなんと高貴なのでしょう。長く危険な開拓の旅は、彼女の落ち着きと勇気を摩耗するには至らなかった。僕はその事実を高く評価しています。僕もそのように理想的な品性を持てるように、今後は更に自身に厳しくし、邪悪に対抗する決心を貫くつもりです。
+VO_JA_Archive_Argenti_13.ogg  ||  丹恒さんは常に周囲の人を警戒しているのですね。彼の行いは常に正しく、騎士道のように自身にも厳しいのです。ああ！彼のことも「美しい」と思うことを、どうかお許しください。
+VO_JA_Archive_Argenti_14.ogg  ||  流れゆく時の中で、彼は依然として清らかな心を持ち、生活の中で最も純粋な喜びを大切にしている——ヴェルトさんの最たる魅力は、その成熟しているところです！
+VO_JA_Archive_Argenti_15.ogg  ||  なんと「魅力」に満ちたフワフワなのでしょう。パムさんは騎士の肩鎧に座り、「栄誉」の象徴になるべきです！
+VO_JA_Archive_Argenti_16.ogg  ||  ああ、なんと「魅力」に満ちたポヨポヨなのでしょう！
+VO_JA_Archive_Argenti_17_M.ogg  ||  (貴方/貴女)の性格は、終始、知り合った日のように不思議で面白いですね。
+VO_JA_Archive_Argenti_Eidolon_Activation.ogg  ||  「純美」はどこにでも存在します――目と鼻の先にも、壮麗な星河の外にも。
+VO_JA_Archive_Argenti_Character_Ascension.ogg  ||  一歩ずつ進めば、窮地に陥る心配はありません。
+VO_JA_Archive_Argenti_Max_Level_Reached.ogg  ||  僕が死しても消えぬほど、「純美」の盛名を宇宙に轟かせてみせると誓いました。その誓いも永久に残るでしょう。
+VO_JA_Archive_Argenti_Trace_Activation.ogg  ||  騎士団の皆さんと異なる道を歩んでいたとしても、僕たちは終点で出会うでしょう。
+VO_JA_Archive_Argenti_Added_to_Team_With_March_7th.ogg  ||  三月さん、貴女のために戦うことをお許しください！
+VO_JA_Archive_Argenti_Added_to_Team_With_Dan_Heng.ogg  ||  丹恒さん、貴方と知恵を競う場で共闘でき、光栄です。
+VO_JA_Archive_Argenti_Added_to_Team_With_Himeko.ogg  ||  姫子さん、やはり、貴女の勇気の及ぶ場所には、星海が広がっているのですね。
+VO_JA_Archive_Argenti_Added_to_Team_With_Welt.ogg  ||  貴方の遠略で——力を貸してください、ヴェルトさん。
+VO_JA_Argenti_Battle_Begins_-_Weakness_Break_01.ogg  ||  これより善を抱くのです。
+VO_JA_Argenti_Battle_Begins_-_Danger_Alert_01.ogg  ||  しばしの陰りに過ぎません。
+VO_JA_Argenti_Turn_Begins_01.ogg  ||  一輪のバラに誓います。
+VO_JA_Argenti_Turn_Begins_02.ogg  ||  純美の騎士たる役目を果たしましょう。
+VO_JA_Argenti_Turn_Idling_01.ogg  ||  彷徨う者よ、そのまなざしはいずこに？
+VO_JA_Argenti_Skill_01.ogg  ||  純美は、朽ちません。
+VO_JA_Argenti_Skill_02.ogg  ||  卑劣を、抹消する。
+VO_JA_Argenti_Hit_by_Light_Attack_01.ogg  ||  取るに足りませんね。
+VO_JA_Argenti_Hit_by_Heavy_Attack_01.ogg  ||  これも試練…
+VO_JA_Argenti_Ultimate_-_Activate_01.ogg  ||  あの光と再会するまで…
+VO_JA_Argenti_Ultimate_-_Unleash_01.ogg  ||  宙にあるあらゆる美しさは、僕が護り抜きます。
+VO_JA_Argenti_Ultimate_-_Unleash_02.ogg  ||  (強化) …すべてを、イドリラ様に。
+VO_JA_Argenti_Downed_01.ogg  ||  見つけられ…なかった……
+VO_JA_Argenti_Return_to_Battle_01.ogg  ||  信念は揺らぎません。
+VO_JA_Argenti_Health_Recovery_01.ogg  ||  恩に着ます。
+VO_JA_Argenti_Technique_01.ogg  ||  栄光あれ。
+VO_JA_Argenti_Battle_Won_01.ogg  ||  闇を、足止めしましたね。
+VO_JA_Argenti_Treasure_Opening_01.ogg  ||  おや？サプライズは好きですよ。
+VO_JA_Argenti_Treasure_Opening_02.ogg  ||  返せるのは、バラの香りだけですね。
+VO_JA_Argenti_Precious_Treasure_Opening_01.ogg  ||  きらめく美しさに、心を奪われました…
+VO_JA_Argenti_Successful_Puzzle-Solving_01.ogg  ||  賢明な判断です。
+VO_JA_Argenti_Successful_Puzzle-Solving_02.ogg  ||  ご安心を、僕にお任せください。
+VO_JA_Argenti_Enemy_Target_Found_01.ogg  ||  手合わせは、いかがでしょう？
+VO_JA_Argenti_Returning_to_Town_01.ogg  ||  この風…懐かしいですね。

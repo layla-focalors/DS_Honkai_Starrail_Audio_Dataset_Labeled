@@ -1,0 +1,50 @@
+VO_KO_Archive_Yanqing_1.ogg  ||  「나부」 운기군 호위병 연경입니다! (Trailblazer) 선생님, 괜찮다면 저와 한 번 대련하시겠습니까? 걱정 마세요. 상대가 선생님이라고 대충하진 않습니다
+VO_KO_Archive_Yanqing_2.ogg  ||  오늘은 무슨 검술을 연습하려고요? 저도 같이할까요?
+VO_KO_Archive_Yanqing_3.ogg  ||  검도 칼집에 넣어야겠네요…. 선생님, 내일 봬요!
+VO_KO_Archive_Yanqing_4.ogg  ||  「나부」엔 이제 제 상대가 없어요. 하지만 우주라면… 다르겠죠
+VO_KO_Archive_Yanqing_5.ogg  ||  공조사의 검기를 논할 때면, 오던 졸음도 확 달아나요. 크기별로 모두 두 자루씩 구매해서 하나는 사용하고 하나는 소장하죠…. 하지만 월말이니까 「장군님 거를 먹고, 쓰고, 간절하게 도움을 청하는」 수 밖에요
+VO_KO_Archive_Yanqing_6.ogg  ||  「검술의 일인자」라는 이름을 얻지 못했으니 기술을 더 갈고닦아야 해요. 근데 장군님은 저에게 부족한 건 검술이 아니라 시간이래요…. 제가 그 「검술의 일인자」보다 부족한 게 뭘까요……
+VO_KO_Archive_Yanqing_7.ogg  ||  새로운 검을 사면 칼자루 싸개에 공을 들여야 해요. 재질은 흑배나무를 쓸 건지, 비단을 쓸 건지, 검파두식 문양은 용을 쓸 건지, 호랑이를 쓸 건지, 그리고 가락지, 명패…. 하나씩 고르는 재미가 있죠!
+VO_KO_Archive_Yanqing_8.ogg  ||  가끔 새로운 검을 살 때, 여러 칼집이 눈에 들어오고 다 잘 어울리면 전부 사게 되더라고요. 검 하나에 칼집은 하나라서 아쉬워요……
+VO_KO_Archive_Yanqing_9.ogg  ||  「역사에 이름을 남기고 나면 뭘 더 할 수 있을까요?」 장군님께 이 질문을 했더니, 본인은 장군이 되리라고 생각해본 적이 없어서 대답할 수 없다고 혼자 생각하래요. 휴……
+VO_KO_Archive_Yanqing_10.ogg  ||  다른 선주처럼 「나부」도 「성천 연무」 행사를 열어요. 운기군의 실력을 시험하는 목적이죠. 검술 종목에서 승리한 사람은 「검술의 일인자」 칭호를 차지할 수 있어요!
+VO_KO_Archive_Yanqing_11.ogg  ||  연경이 있으니 장군님은 무력으로 명성을 떨칠 필요 없어요. 장군님께서 제 실력을 인정했으니 당연히 제가 장군님의 짐을 덜어드려야죠!
+VO_KO_Archive_Yanqing_12.ogg  ||  정운 아가씨가 주간하는 「득물지」에 검기와 관련된 부분이 나오면 절 찾아와서 추천 문구를 쓰기도 해요
+VO_KO_Archive_Yanqing_13.ogg  ||  소상 아가씨의 검은 좋은 검이에요. 하지만 좋은 검이라고 모두가 잘 쓸 수 있는 건 아니죠. 1할의 힘을 쓰려면 10배의 기력이 필요해요
+VO_KO_Archive_Yanqing_14.ogg  ||  천박사에 방문한 적이 있는데, 어공 님께서 홀로 가죽 과녁을 한참 동안 보시더라고요. 한 발도 쏘지 않았지만, 이미 마음속으로 수백 수천 번을 쏘셨겠죠
+VO_KO_Archive_Yanqing_15.ogg  ||  부 태복은 장군이 되고 싶어하는데…. 다른 건 몰라도 입만 열면 누구든 지루해하는 그 언변부터 고쳐야 할 거예요
+VO_KO_Archive_Yanqing_16.ogg  ||  처음에는 검갑을 무기로 쓰는 줄 알고 이상하다고 생각했죠…. 진짜 실력을 볼 수 있게 대련할 방법을 찾아야겠어요……
+VO_KO_Archive_Yanqing_17.ogg  ||  단순히 극한만을 추구하는 검술은 하나밖에 없는 줄 알았는데… 그분과 장군님, 전… 결국 모두 다 다른 길을 걷게 되나 봐요
+VO_KO_Archive_Yanqing_19.ogg  ||  단항 씨와 겨룰 때 느낀 건데, 창술이 뛰어나면서도 그 점을 전혀 신경 쓰지 않더라고요…. 그분께 창술은 수단일 뿐인 걸까요?
+VO_KO_Archive_Yanqing_20.ogg  ||  검을 휘두를 때마다 그에게 간파당하는데… 검술의 조예만으로 그를 이길 수 있을까요?
+VO_KO_Archive_Yanqing_18.ogg  ||  그 선생님은… 아주 멋진 검을 들고 계셔서 이야기 좀 해보려고 했는데 그 검을 삼키더라니까요!? 이 연경, 아직도 그게 어느 문파의 검법인지 모르겠어요……
+VO_KO_Archive_Yanqing_Eidolon_Activation.ogg  ||  나부의 별하늘이 더 밝아진 거 같네요
+VO_KO_Archive_Yanqing_Character_Ascension.ogg  ||  꿈에 닿기까지, 얼마나 검을 휘둘러야 할까요?
+VO_KO_Archive_Yanqing_Max_Level_Reached.ogg  ||  어느새 검술이 많이 늘었네요. 제 실력을 시험해 볼 상대를 찾아야겠어요
+VO_KO_Archive_Yanqing_Trace_Activation.ogg  ||  제가 어린 건 사실이지만, 「미래가 기대된다」라는 말은 너무 형식적이지 않나요?
+VO_KO_Archive_Yanqing_Added_to_Team_With_Jing_Yuan.ogg  ||  장군님의 명이라면 이 연경, 반드시 사명을 다하겠습니다
+VO_KO_Archive_Yanqing_Added_to_Team_With_Fu_Xuan.ogg  ||  이번 전투의 승부와 길흉에 대해 태복은 어떻게 생각하시죠?
+VO_KO_Archive_Yanqing_Added_to_Team_With_Sushang.ogg  ||  운기군이 같이 힘을 합쳐 적을 섬멸해보죠
+VO_KO_Archive_Yanqing_Added_to_Team_With_Dan_Heng.ogg  ||  지금 제 검술 실력으로 다시 가르침을 청해도 될까요?
+VO_KO_Archive_Yanqing_Added_to_Team_With_Blade.ogg  ||  장군님이 널 놓아줬으니, 더는 거슬리게 굴지 마
+VO_KO_Yanqing_Battle_Begins_-_Weakness_Break_01.ogg  ||  흥, 일개 잡졸일 뿐이군
+VO_KO_Yanqing_Battle_Begins_-_Danger_Alert_01.ogg  ||  강적이야, 한 수 배워보지
+VO_KO_Yanqing_Turn_Begins_01.ogg  ||  호오? 넌 몇 수나 버티려나?
+VO_KO_Yanqing_Turn_Begins_02.ogg  ||  보검이여, 일어나라!
+VO_KO_Yanqing_Turn_Idling_01.ogg  ||  검술은 흐름이 중요한 법
+VO_KO_Yanqing_Skill_01.ogg  ||  검은 도약하는 새처럼
+VO_KO_Yanqing_Skill_02.ogg  ||  검은 나의 의지대로
+VO_KO_Yanqing_Hit_by_Light_Attack_01.ogg  ||  이런……
+VO_KO_Yanqing_Hit_by_Heavy_Attack_01.ogg  ||  괜찮은 솜씨네
+VO_KO_Yanqing_Ultimate_-_Activate_01.ogg  ||  탐색은 이제 끝났어
+VO_KO_Yanqing_Ultimate_-_Unleash_01.ogg  ||  검이여, 쏟아져라!
+VO_KO_Yanqing_Downed_01.ogg  ||  검 앞에… 부끄럽군……
+VO_KO_Yanqing_Return_to_Battle_01.ogg  ||  이번에는 방심하지 않겠어
+VO_KO_Yanqing_Health_Recovery_01.ogg  ||  한숨 돌렸군
+VO_KO_Yanqing_Technique_01.ogg  ||  잔꾀를 부리는군
+VO_KO_Yanqing_Battle_Won_01.ogg  ||  역시 내 보검이야~
+VO_KO_Yanqing_Treasure_Opening_01.ogg  ||  용돈 좀 벌었네
+Special:Upload?wpDestFile=VO_KO_Yanqing_Treasure_Opening_02.ogg  ||  몇 개만 더 찾으면 새 검을 살 수 있겠어요!
+VO_KO_Yanqing_Successful_Puzzle-Solving_01.ogg  ||  재밌네, 재밌어
+VO_KO_Yanqing_Enemy_Target_Found_01.ogg  ||  한 번 가볼까!
+VO_KO_Yanqing_Returning_to_Town_01.ogg  ||  희귀한 검이 남아 있으려나……

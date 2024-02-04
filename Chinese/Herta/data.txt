@@ -1,0 +1,91 @@
+VO_ZH_Archive_Herta_1.ogg  ||  我是黑塔，现在很忙，这是远程人偶自动应答模式：你好，你好，大家好，祝你拥有愉快的一天，再见。
+VO_ZH_Archive_Herta_2.ogg  ||  今天来我这儿一起做研究吧——我研究你。
+VO_ZH_Archive_Herta_3.ogg  ||  今天对你失去兴趣了，明天再说。
+VO_ZH_Archive_Herta_6.ogg  ||  好看么？跟我小时候比，勉强也就七分相似吧。
+VO_ZH_Archive_Herta_7.ogg  ||  别想了，免得晚上睡不着。
+VO_ZH_Archive_Herta_4.ogg  ||  这个俱乐部好就好在什么都不问我要，甚至不在乎有没有我。
+VO_ZH_Archive_Herta_5.ogg  ||  得以拜谒星神的原因？因为我是黑塔啊。
+VO_ZH_Archive_Herta_8.ogg  ||  既不解题又不写稿，那就别怪自己的人生无趣咯？
+VO_ZH_Archive_Herta_9.ogg  ||  我已经够完美了，还有什么事要做？我当然可以再写几本书…但这于我何用，我为什么还要白费这些力气？
+VO_ZH_Archive_Herta_13.ogg  ||  博识学会的每个人都有一套自圆其说的方法论，用一个晚上写下的书页就能砌成一座图书馆，这就是问题。
+VO_ZH_Archive_Herta_14.ogg  ||  「寂静领主」抹去了画像上的眼睛，却吸引了所有人的目光。
+VO_ZH_Archive_Herta_10.ogg  ||  艾丝妲资助过一些特殊的孩子，阿兰也是其中之一吧。
+VO_ZH_Archive_Herta_11.ogg  ||  其他藏室什么时候能找到艾丝妲这样的管理者，我就好甩手不管了。
+VO_ZH_Archive_Herta_12.ogg  ||  多无聊的东西送给她，过一阵子回到我手上，又会变得有趣起来。
+VO_ZH_Archive_Herta_15.ogg  ||  阮•梅，天才中的天才，我不否认。虽然合不来，但我欣赏她…也许我们有点儿惺惺相惜吧。
+VO_ZH_Archive_Herta_Eidolon_Activation.ogg  ||  有人问我灵感是什么，不就是脑中一分钟几千次的波动么？
+VO_ZH_Archive_Herta_Character_Ascension.ogg  ||  版本升级？感觉一般。
+VO_ZH_Archive_Herta_Max_Level_Reached.ogg  ||  好了好了，别折腾这具身体了。
+VO_ZH_Archive_Herta_Trace_Activation.ogg  ||  就这样吧，人偶而已，别要求太多。
+VO_ZH_Archive_Herta_Added_to_Team_With_Arlan.ogg  ||  怎么每次看到我都这表情？又不会吃了你。
+VO_ZH_Archive_Herta_Added_to_Team_With_Asta.ogg  ||  艾丝妲你在啊…那我就安心托管了，拜拜。
+VO_ZH_Archive_Herta_Added_to_Team_With_Himeko.ogg  ||  还是老样子，如果遇着我没见过的东西，先借我玩玩。
+VO_ZH_Archive_Herta_Added_to_Team_With_Ruan_Mei.ogg  ||  难得在模拟宇宙之外见到你，这次想拿谁做实验？要我帮忙就直说。
+VO_ZH_Archive_Herta_1.ogg  ||  
+VO_ZH_Archive_Herta_2.ogg  ||  
+VO_ZH_Archive_Herta_3.ogg  ||  
+VO_ZH_Archive_Herta_6.ogg  ||  
+VO_ZH_Archive_Herta_7.ogg  ||  
+VO_ZH_Archive_Herta_4.ogg  ||  
+VO_ZH_Archive_Herta_5.ogg  ||  
+VO_ZH_Archive_Herta_8.ogg  ||  
+VO_ZH_Archive_Herta_9.ogg  ||  
+VO_ZH_Archive_Herta_13.ogg  ||  
+VO_ZH_Archive_Herta_14.ogg  ||  
+VO_ZH_Archive_Herta_10.ogg  ||  
+VO_ZH_Archive_Herta_11.ogg  ||  
+VO_ZH_Archive_Herta_12.ogg  ||  
+VO_ZH_Archive_Herta_15.ogg  ||  
+VO_ZH_Archive_Herta_Eidolon_Activation.ogg  ||  
+VO_ZH_Archive_Herta_Character_Ascension.ogg  ||  
+VO_ZH_Archive_Herta_Max_Level_Reached.ogg  ||  
+VO_ZH_Archive_Herta_Trace_Activation.ogg  ||  
+VO_ZH_Archive_Herta_Added_to_Team_With_Arlan.ogg  ||  
+VO_ZH_Archive_Herta_Added_to_Team_With_Asta.ogg  ||  
+VO_ZH_Archive_Herta_Added_to_Team_With_Himeko.ogg  ||  
+VO_ZH_Archive_Herta_Added_to_Team_With_Ruan_Mei.ogg  ||  
+VO_ZH_Herta_Battle_Begins_-_Weakness_Break_01.ogg  ||  你这…不行啊。
+VO_ZH_Herta_Battle_Begins_-_Danger_Alert_01.ogg  ||  也就强了一丢丢。
+VO_ZH_Herta_Turn_Begins_01.ogg  ||  看什么看？
+VO_ZH_Herta_Turn_Begins_02.ogg  ||  碰上我就感恩戴德吧。
+VO_ZH_Herta_Turn_Idling_01.ogg  ||  待机中…我好无聊啊。
+VO_ZH_Herta_Basic_ATK_01.ogg  ||  疼死你。
+VO_ZH_Herta_Skill_01.ogg  ||  能不能安静一点！
+VO_ZH_Herta_Hit_by_Light_Attack_01.ogg  ||  坏不了的。
+VO_ZH_Herta_Hit_by_Heavy_Attack_01.ogg  ||  要坏掉了！
+VO_ZH_Herta_Ultimate_-_Activate_01.ogg  ||  知道我是谁吗？
+VO_ZH_Herta_Ultimate_-_Unleash_01.ogg  ||  没见过这么大的钻石吧？送给你啦~
+VO_ZH_Herta_Talent_01.ogg  ||  转圈圈喽~
+VO_ZH_Herta_Talent_02.ogg  ||  骨碌碌~
+VO_ZH_Herta_Downed_01.ogg  ||  断开…连接……
+VO_ZH_Herta_Return_to_Battle_01.ogg  ||  重新…启动……
+VO_ZH_Herta_Health_Recovery_01.ogg  ||  很有眼色嘛。
+VO_ZH_Herta_Technique_01.ogg  ||  升个配置。
+VO_ZH_Herta_Battle_Won_01.ogg  ||  我的时间都浪费了！
+VO_ZH_Herta_Treasure_Opening_01.ogg  ||  就这？
+Special:Upload?wpDestFile=VO_ZH_Herta_Treasure_Opening_02.ogg  ||  啊？行吧。
+VO_ZH_Herta_Successful_Puzzle-Solving_01.ogg  ||  要想这么久？
+VO_ZH_Herta_Enemy_Target_Found_01.ogg  ||  怎么收拾它，全看我心情。
+VO_ZH_Herta_Returning_to_Town_01.ogg  ||  这里会有我感兴趣的东西么？我不信。
+VO_ZH_Herta_Battle_Begins_-_Weakness_Break_01.ogg  ||  
+VO_ZH_Herta_Battle_Begins_-_Danger_Alert_01.ogg  ||  
+VO_ZH_Herta_Turn_Begins_01.ogg  ||  
+VO_ZH_Herta_Turn_Begins_02.ogg  ||  
+VO_ZH_Herta_Turn_Idling_01.ogg  ||  
+VO_ZH_Herta_Basic_ATK_01.ogg  ||  
+VO_ZH_Herta_Skill_01.ogg  ||  
+VO_ZH_Herta_Hit_by_Light_Attack_01.ogg  ||  
+VO_ZH_Herta_Hit_by_Heavy_Attack_01.ogg  ||  
+VO_ZH_Herta_Ultimate_-_Activate_01.ogg  ||  
+VO_ZH_Herta_Ultimate_-_Unleash_01.ogg  ||  
+VO_ZH_Herta_Talent_01.ogg  ||  
+VO_ZH_Herta_Talent_02.ogg  ||  
+VO_ZH_Herta_Downed_01.ogg  ||  
+VO_ZH_Herta_Return_to_Battle_01.ogg  ||  
+VO_ZH_Herta_Health_Recovery_01.ogg  ||  
+VO_ZH_Herta_Technique_01.ogg  ||  
+VO_ZH_Herta_Battle_Won_01.ogg  ||  
+VO_ZH_Herta_Treasure_Opening_01.ogg  ||  
+VO_ZH_Herta_Successful_Puzzle-Solving_01.ogg  ||  
+VO_ZH_Herta_Enemy_Target_Found_01.ogg  ||  
+VO_ZH_Herta_Returning_to_Town_01.ogg  ||  

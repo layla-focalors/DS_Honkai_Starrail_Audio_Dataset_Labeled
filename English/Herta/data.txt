@@ -1,0 +1,47 @@
+VO_Archive_Herta_1.ogg  ||  This is Herta. I'm busy right now. This is my ranged puppet's automated-response mode: Hello everyone. Hope you have a wonderful day. Goodbye.
+VO_Archive_Herta_2.ogg  ||  Why not come around today and help me with my research? You'll be the subject, by the way.
+VO_Archive_Herta_3.ogg  ||  *sigh* I've lost interest in your research potential for today. See you tomorrow.
+VO_Archive_Herta_6.ogg  ||  What do you make of it? It's about seventy percent similar to how I looked as a child.
+VO_Archive_Herta_7.ogg  ||  Best not to ponder, you'll be scratching your chin all day.
+VO_Archive_Herta_4.ogg  ||  The good thing about this club is that it doesn't ask me for anything. In fact, it doesn't even care if I'm a member.
+VO_Archive_Herta_5.ogg  ||  Why do I get to visit an Aeon? I'm Herta, that's why.
+VO_Archive_Herta_8.ogg  ||  If you're not solving problems or writing up contributions, then don't blame me if your life is boring.
+VO_Archive_Herta_9.ogg  ||  I'm perfect enough already. What else do I need to prove? Of course, I could write a few more books... but what would I get out of that? Why should I bother?
+VO_Archive_Herta_13.ogg  ||  The Intelligentsia Guild is always able to find a way to support their case, writing enough "scholarship" in one night to fill a library... This is a problem.
+VO_Archive_Herta_14.ogg  ||  The Lord of Silence erased the eyes from the portrait, but drew everyone's attention in the process.
+VO_Archive_Herta_10.ogg  ||  Asta provided financial assistance to a few exceptional children — I assume Arlan was one of them.
+VO_Archive_Herta_11.ogg  ||  If my other collections had people like Asta watching over them, I could take a hands-off approach.
+VO_Archive_Herta_12.ogg  ||  I give her the most boring things, and then she gives them back to me and they're suddenly interesting.
+VO_Archive_Herta_15.ogg  ||  Ruan Mei is a genius among geniuses — I won't deny that. I don't always get along with her, but I do admire her... Maybe the admiration is mutual.
+VO_Archive_Herta_Eidolon_Activation.ogg  ||  Define inspiration? Tsk, it's only the several thousand ideas racing through my mind every minute.
+VO_Archive_Herta_Character_Ascension.ogg  ||  You call that a build update?
+VO_Archive_Herta_Max_Level_Reached.ogg  ||  Finally. Clocking off. Bye.
+VO_Archive_Herta_Trace_Activation.ogg  ||  Happy? Word of advice: Don't expect too much from a puppet.
+VO_Archive_Herta_Added_to_Team_With_Arlan.ogg  ||  Why the long face? I'm not going to eat you.
+VO_Archive_Herta_Added_to_Team_With_Asta.ogg  ||  Asta! Here's the key. Gotta go now — bye.
+VO_Archive_Herta_Added_to_Team_With_Himeko.ogg  ||  You know the drill — send me all your new toys, and I'll return them later.
+VO_Archive_Herta_Added_to_Team_With_Ruan_Mei.ogg  ||  I don't usually get to see you outside the Simulated Universe. Who do you want to experiment on this time?
+VO_Herta_Battle_Begins_-_Weakness_Break_01.ogg  ||  Oh, poor you...
+VO_Herta_Battle_Begins_-_Danger_Alert_01.ogg  ||  And you're supposed to be stronger?
+VO_Herta_Turn_Begins_01.ogg  ||  What are you looking at?
+VO_Herta_Turn_Begins_02.ogg  ||  You must be honored to meet me?
+VO_Herta_Turn_Idling_01.ogg  ||  Idle mode... *yawn* How boring.
+VO_Herta_Basic_ATK_01.ogg  ||  This is gonna hurt.
+VO_Herta_Skill_01.ogg  ||  Maybe you can keep it down!?
+VO_Herta_Hit_by_Light_Attack_01.ogg  ||  I won't break.
+VO_Herta_Hit_by_Heavy_Attack_01.ogg  ||  I'm breaking!
+VO_Herta_Ultimate_-_Activate_01.ogg  ||  Do you know who I am?
+VO_Herta_Ultimate_-_Unleash_01.ogg  ||  Ever see a diamond this big? It's all yours~
+VO_Herta_Talent_01.ogg  ||  Time to twirl~
+VO_Herta_Talent_02.ogg  ||  Time to twirl!
+VO_Herta_Downed_01.ogg  ||  Connection... lost...
+VO_Herta_Return_to_Battle_01.ogg  ||  Rebooting...
+VO_Herta_Health_Recovery_01.ogg  ||  How appropriate.
+VO_Herta_Technique_01.ogg  ||  Upgrade configured.
+VO_Herta_Battle_Won_01.ogg  ||  How am I gonna get that time back!
+VO_Herta_Treasure_Opening_01.ogg  ||  That's it?
+Special:Upload?wpDestFile=VO_Herta_Treasure_Opening_02.ogg  ||  Meh, acceptable quality.
+VO_Herta_Precious_Treasure_Opening_01.ogg  ||  Awesome. Cool. Can we go now?
+VO_Herta_Successful_Puzzle-Solving_01.ogg  ||  It took you that long?
+VO_Herta_Enemy_Target_Found_01.ogg  ||  Now, how should I dispose of you?
+VO_Herta_Returning_to_Town_01.ogg  ||  Is there anything interesting here? I doubt it.

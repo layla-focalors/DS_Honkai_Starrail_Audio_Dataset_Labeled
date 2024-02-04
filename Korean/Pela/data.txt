@@ -1,0 +1,36 @@
+VO_KO_Archive_Pela_1.ogg  ||  전 실버메인 철위대의 정보관, 페라게야•세르게예브나라고 해요. 그냥 페라라고 불러 주세요
+VO_KO_Archive_Pela_2.ogg  ||  준비돼셨나요? 그럼 오늘의 기록을 시작할게요
+VO_KO_Archive_Pela_3.ogg  ||  오늘은 이상 보고가 한 건도 없었으니 일찍 들어가 쉬세요
+VO_KO_Archive_Pela_5.ogg  ||  정보를 연구, 기록, 분석하는 일을 잘하는 편이에요. 어떤 결정을 내릴지는 방위관님께 달렸죠
+VO_KO_Archive_Pela_4.ogg  ||  드러머는 존재감이 없는 것 같아도 박자가 조금만 틀리면 티가 나기 때문에 스스로를 단련시키기 딱이죠
+VO_KO_Archive_Pela_6.ogg  ||  매주 도서관에 가서 좋아하는… 도서를 빌려보고 친구들과 독후감을 공유하고 있어요
+VO_KO_Archive_Pela_7.ogg  ||  가끔은 완벽한 보고를 위해 수도 없이 연습하지만 그래도 부족할 때가 있어요…
+VO_KO_Archive_Pela_11.ogg  ||  부대에서는 제 풀네임을 두고 적어도 32가지의 의견이 전해지고 있어요. 어떻게 아냐고 물으신다면… 이게 바로 정보관의 능력이랍니다
+VO_KO_Archive_Pela_12.ogg  ||  ≪설국 모험 기담≫ 그림책 중판본? 이건 업계에서 가장 구하기 어려운 시리즈 중 하나예요…. 몇, 몇 권을 사야 하나…. 열 권? 열 권은 모자라지 않을까요……
+VO_KO_Archive_Pela_8.ogg  ||  벨로보그를 아무리 뒤져봐도 브로냐 아가씨처럼 언행이 우아하고 리더 자질을 갖춘 사람은 찾을 수 없을 거예요
+VO_KO_Archive_Pela_9.ogg  ||  원칙대로 일을 처리하지 않는 것, 그게 서벌 씨의 원칙이죠
+VO_KO_Archive_Pela_10.ogg  ||  게파드 방위관님은 겉과 속이 똑같아서 믿음이 간답니다. 꽃을 키우는 취미에 대해서는… 그냥 존중하고 응원한다는 말밖엔 못 하겠네요
+VO_KO_Archive_Pela_13.ogg  ||  링스는 제… 흠, 링스는 제… 흠흠. 링스는… 벨로보그에서 제일가는 조사 전문가이자 제가 좋아하는… 단짝 친구예요!
+VO_KO_Pela_Battle_Begins_-_Weakness_Break_01.ogg  ||  아군이 우세하네요
+VO_KO_Pela_Battle_Begins_-_Danger_Alert_01.ogg  ||  아군이 우위를 점하지 못했습니다
+VO_KO_Pela_Turn_Begins_02.ogg  ||  지원 투입
+VO_KO_Pela_Turn_Begins_03.ogg  ||  타깃 정찰 완료
+VO_KO_Pela_Turn_Idling_01.ogg  ||  결정하세요
+VO_KO_Pela_Basic_ATK_01.ogg  ||  입 다물어
+VO_KO_Pela_Basic_ATK_02.ogg  ||  더 하려고?
+VO_KO_Pela_Basic_ATK_03.ogg  ||  견제해!
+VO_KO_Pela_Skill_02.ogg  ||  이렇게… 그리고…… 으앗
+VO_KO_Pela_Skill_03.ogg  ||  지령 입력……
+VO_KO_Pela_Hit_by_Light_Attack_01.ogg  ||  아파
+VO_KO_Pela_Hit_by_Heavy_Attack_01.ogg  ||  …곤란하게 됐네
+VO_KO_Pela_Ultimate_-_Activate_01.ogg  ||  적측 데이터 수집 완료
+VO_KO_Pela_Ultimate_-_Unleash_01.ogg  ||  마무리 표기 활성화, 이제 즐거운 반격 시간이에요
+VO_KO_Pela_Downed_02.ogg  ||  계산 착오……
+VO_KO_Pela_Downed_03.ogg  ||  어서 가세요……
+VO_KO_Pela_Return_to_Battle_01.ogg  ||  두 번 다시 같은 실수는 않을 거예요
+VO_KO_Pela_Health_Recovery_01.ogg  ||  지원 감사해요
+VO_KO_Pela_Battle_Won_01.ogg  ||  전투 보고서는 잠시 후 전송됩니다
+VO_KO_Pela_Treasure_Opening_01.ogg  ||  정산 완료
+VO_KO_Pela_Successful_Puzzle-Solving_01.ogg  ||  정말 재미있어……
+VO_KO_Pela_Enemy_Target_Found_01.ogg  ||  선 목표 분석, 후 판단
+VO_KO_Pela_Returning_to_Town_01.ogg  ||  앞으로의 계획을 세워야 하는 건가요?

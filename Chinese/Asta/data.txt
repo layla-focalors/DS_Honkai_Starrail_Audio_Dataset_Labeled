@@ -1,0 +1,90 @@
+VO_ZH_Archive_Asta_1.ogg  ||  嗨，(Trailblazer)，我是空间站「黑塔」的站长艾丝妲。要你帮忙的时候，我一定告诉你…你放心，不和你客气。
+VO_ZH_Archive_Asta_2.ogg  ||  你来了，之前调试的观测阵列该出结果了，有空一起来看看？
+VO_ZH_Archive_Asta_3.ogg  ||  已经到这个点了么？工作的时间总是过得那么快。
+VO_ZH_Archive_Asta_6.ogg  ||  哎，就算我不和任何一个人联系，那些亲戚也会自个儿找上门来。
+VO_ZH_Archive_Asta_7.ogg  ||  是啊，如果我不努力工作，就要回去继承家业了……
+VO_ZH_Archive_Asta_4.ogg  ||  …虽然现在一个字都还没写，但写起来肯定很快。
+VO_ZH_Archive_Asta_5.ogg  ||  「空间站不过是黑塔的玩具箱」，这句话不假。不过既然是黑塔女士，她的玩具当然也危险得很~
+VO_ZH_Archive_Asta_8.ogg  ||  持续不断地将资金投入空间站的建设，完善员工福利，形成良性循环，同时满足站长，也就是本人自身必要的购物需求。
+VO_ZH_Archive_Asta_9.ogg  ||  如果黑塔女士能多回空间站看看就好了，明明科员都是追随她来的。
+VO_ZH_Archive_Asta_12.ogg  ||  刚到空间站时，科员们给我单独准备了一个房间，虽然我很感激他们，只是那儿离大家太远，我就没什么兴致住啦。
+VO_ZH_Archive_Asta_13.ogg  ||  即使是监控室，也会处于监控中呢。
+VO_ZH_Archive_Asta_10.ogg  ||  我模仿一下平时的阿兰：「大家听从艾丝妲站长的判断。」然后当我叮嘱他：「阿兰，你也小心一点。」他说：「没事，我有自己的判断。」
+VO_ZH_Archive_Asta_11.ogg  ||  任何人如果觉得自己可以像黑塔女士那样任性妄为，建议他先思考一下自己是否具备黑塔女士那样的智慧~
+VO_ZH_Archive_Asta_14.ogg  ||  列车巡游银河，我不一定都能帮上忙，但只要是花钱能解决的事，尽管和我说吧。
+VO_ZH_Archive_Asta_15.ogg  ||  上次和托帕小姐聊起休假，约好包个飞行器，看看浩瀚星海，聊聊「公司」八卦啦…不过，我俩的时间什么时候才能凑一起呢……
+VO_ZH_Archive_Asta_16.ogg  ||  我问起过阮•梅小姐袖间挂坠的购买链接，却没想到是她亲手绣的，更没想到她下次来空间站时，会送我一个星形的坠子。她的手艺同她的论文一样，都超级精湛呢。
+VO_ZH_Archive_Asta_Eidolon_Activation.ogg  ||  每一颗星星，都是一个奇迹！
+VO_ZH_Archive_Asta_Character_Ascension.ogg  ||  了解的事越多，就越喜欢这片星空。
+VO_ZH_Archive_Asta_Max_Level_Reached.ogg  ||  目标就如星辰一般，并非都是遥不可及哟。
+VO_ZH_Archive_Asta_Trace_Activation.ogg  ||  哎呀呀，这就是「追星之旅」吗？
+VO_ZH_Archive_Asta_Added_to_Team_With_Arlan.ogg  ||  阿兰…你可不要再一个人孤军奋战了。
+VO_ZH_Archive_Asta_Added_to_Team_With_Herta.ogg  ||  黑塔女士也在？这下就没什么好担心的了！
+VO_ZH_Archive_Asta_Added_to_Team_With_Topaz.ogg  ||  哎呀，是托帕小姐！好巧好巧，就当是一起出公差吧。
+VO_ZH_Archive_Asta_1.ogg  ||  
+VO_ZH_Archive_Asta_2.ogg  ||  
+VO_ZH_Archive_Asta_3.ogg  ||  
+VO_ZH_Archive_Asta_6.ogg  ||  
+VO_ZH_Archive_Asta_7.ogg  ||  
+VO_ZH_Archive_Asta_4.ogg  ||  
+VO_ZH_Archive_Asta_5.ogg  ||  
+VO_ZH_Archive_Asta_8.ogg  ||  
+VO_ZH_Archive_Asta_9.ogg  ||  
+VO_ZH_Archive_Asta_12.ogg  ||  
+VO_ZH_Archive_Asta_13.ogg  ||  
+VO_ZH_Archive_Asta_10.ogg  ||  
+VO_ZH_Archive_Asta_11.ogg  ||  
+VO_ZH_Archive_Asta_14.ogg  ||  
+VO_ZH_Archive_Asta_15.ogg  ||  
+VO_ZH_Archive_Asta_16.ogg  ||  
+VO_ZH_Archive_Asta_Eidolon_Activation.ogg  ||  
+VO_ZH_Archive_Asta_Character_Ascension.ogg  ||  
+VO_ZH_Archive_Asta_Max_Level_Reached.ogg  ||  
+VO_ZH_Archive_Asta_Trace_Activation.ogg  ||  
+VO_ZH_Archive_Asta_Added_to_Team_With_Arlan.ogg  ||  
+VO_ZH_Archive_Asta_Added_to_Team_With_Herta.ogg  ||  
+VO_ZH_Archive_Asta_Added_to_Team_With_Topaz.ogg  ||  
+VO_ZH_Asta_Battle_Begins_-_Weakness_Break_01.ogg  ||  嗯？别怕呀。
+VO_ZH_Asta_Battle_Begins_-_Danger_Alert_01.ogg  ||  我也得小心起来。
+VO_ZH_Asta_Turn_Begins_01.ogg  ||  真是不懂礼貌的客人。
+VO_ZH_Asta_Turn_Begins_02.ogg  ||  我可不记得有邀请过你们。
+VO_ZH_Asta_Turn_Idling_01.ogg  ||  猜猜我要干什么~
+VO_ZH_Asta_Basic_ATK_01.ogg  ||  要躲开哟。
+VO_ZH_Asta_Skill_01.ogg  ||  幸运儿会是哪个呢~
+VO_ZH_Asta_Skill_02.ogg  ||  接受星星的祝福吧~
+VO_ZH_Asta_Hit_by_Light_Attack_01.ogg  ||  疼疼疼……
+VO_ZH_Asta_Hit_by_Heavy_Attack_01.ogg  ||  你不要过来……
+VO_ZH_Asta_Ultimate_-_Activate_01.ogg  ||  一切，都是星辰的选择。
+VO_ZH_Asta_Ultimate_-_Unleash_01.ogg  ||  渴望着星星奥秘的钥匙啊，向开拓者们赐予你真正的祝福吧！
+VO_ZH_Asta_Downed_01.ogg  ||  还想…知道更多……
+VO_ZH_Asta_Return_to_Battle_01.ogg  ||  刚才的不算，我们重新来过。
+VO_ZH_Asta_Health_Recovery_01.ogg  ||  救了我也不会给你什么好处的。
+VO_ZH_Asta_Technique_01.ogg  ||  露出破绽咯~
+VO_ZH_Asta_Battle_Won_01.ogg  ||  星辰会铭记我们的名字。
+VO_ZH_Asta_Treasure_Opening_01.ogg  ||  我都有了。
+VO_ZH_Asta_Precious_Treasure_Opening_01.ogg  ||  品质还算上乘。
+VO_ZH_Asta_Successful_Puzzle-Solving_01.ogg  ||  有进步呀~
+VO_ZH_Asta_Enemy_Target_Found_01.ogg  ||  我不打它，它就不会打我么？
+VO_ZH_Asta_Returning_to_Town_01.ogg  ||  这儿也能看到星星么？
+VO_ZH_Asta_Battle_Begins_-_Weakness_Break_01.ogg  ||  
+VO_ZH_Asta_Battle_Begins_-_Danger_Alert_01.ogg  ||  
+VO_ZH_Asta_Turn_Begins_01.ogg  ||  
+VO_ZH_Asta_Turn_Begins_02.ogg  ||  
+VO_ZH_Asta_Turn_Idling_01.ogg  ||  
+VO_ZH_Asta_Basic_ATK_01.ogg  ||  
+VO_ZH_Asta_Skill_01.ogg  ||  
+VO_ZH_Asta_Skill_02.ogg  ||  
+VO_ZH_Asta_Hit_by_Light_Attack_01.ogg  ||  
+VO_ZH_Asta_Hit_by_Heavy_Attack_01.ogg  ||  
+VO_ZH_Asta_Ultimate_-_Activate_01.ogg  ||  
+VO_ZH_Asta_Ultimate_-_Unleash_01.ogg  ||  
+VO_ZH_Asta_Downed_01.ogg  ||  
+VO_ZH_Asta_Return_to_Battle_01.ogg  ||  
+VO_ZH_Asta_Health_Recovery_01.ogg  ||  
+VO_ZH_Asta_Technique_01.ogg  ||  
+VO_ZH_Asta_Battle_Won_01.ogg  ||  
+VO_ZH_Asta_Treasure_Opening_01.ogg  ||  
+VO_ZH_Asta_Precious_Treasure_Opening_01.ogg  ||  
+VO_ZH_Asta_Successful_Puzzle-Solving_01.ogg  ||  
+VO_ZH_Asta_Enemy_Target_Found_01.ogg  ||  
+VO_ZH_Asta_Returning_to_Town_01.ogg  ||  

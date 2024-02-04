@@ -1,0 +1,39 @@
+VO_Archive_Arlan_1.ogg  ||  Hello, (Trailblazer). I'm Arlan, I head up the Security Department on Herta Space Station. I'll be in charge of your safety during your time here.
+VO_Archive_Arlan_2.ogg  ||  Seed Isle's latest flavors of dried earthworm hit the shelves today — we should head over before the queue starts. The early bird catches the... anyway.
+VO_Archive_Arlan_3.ogg  ||  You should have some mixed vegetable juice before bed — it helps you sleep. Well, I'm on night duty tonight. See you tomorrow.
+VO_Archive_Arlan_5.ogg  ||  We've held the Space Station Peppy-Finding Contest nine times so far, and I've... I've won it nine times in a row.
+VO_Archive_Arlan_4.ogg  ||  I try to be inconspicuous when I'm on patrol. That way, I can avoid disturbing the researchers while they work and observe their utmost concentration.
+VO_Archive_Arlan_6.ogg  ||  You should keep your sword sharp at all times.
+VO_Archive_Arlan_7.ogg  ||  Oh, man! The phone case shipping location is too far from the space station — you have to buy 5000 units for them to deliver... Wait, please don't tell Lady Asta that.
+VO_Archive_Arlan_10.ogg  ||  There are some sword fragments housed here on the space station, but I can't find them in the pictographic index... They must be pretty special.
+VO_Archive_Arlan_11.ogg  ||  I heard the researchers say that there are some curios that actively requested to come to the space station.
+VO_Archive_Arlan_8.ogg  ||  *sigh* ...I don't know why, but it seems like I manage to annoy Lady Asta fairly regularly.
+VO_Archive_Arlan_9.ogg  ||  I'm different from the researchers — I'm not what you'd call a "follower" of Madam Herta — but she still lets me work here.
+VO_Archive_Arlan_Eidolon_Activation.ogg  ||  I've found a home to protect.
+VO_Archive_Arlan_Character_Ascension.ogg  ||  I can't afford to be complacent.
+VO_Archive_Arlan_Max_Level_Reached.ogg  ||  The fruits of my training. I'll keep it up.
+VO_Archive_Arlan_Trace_Activation.ogg  ||  You can learn new things by going back to the basics.
+VO_Archive_Arlan_Added_to_Team_With_Asta.ogg  ||  You should leave the fighting to me, Lady Asta.
+VO_Archive_Arlan_Added_to_Team_With_Herta.ogg  ||  Madam Herta! A—Awaiting your orders!
+VO_Arlan_Battle_Begins_-_Weakness_Break_01.ogg  ||  Your number is up.
+VO_Arlan_Battle_Begins_-_Danger_Alert_01.ogg  ||  Nothing can stop me.
+VO_Arlan_Turn_Begins_01.ogg  ||  Fight to win.
+VO_Arlan_Turn_Begins_02.ogg  ||  Haven't learned your lesson?
+VO_Arlan_Turn_Idling_01.ogg  ||  We have to go on the offensive.
+VO_Arlan_Skill_01.ogg  ||  As you wish.
+VO_Arlan_Skill_02.ogg  ||  Be silent.
+VO_Arlan_Hit_by_Light_Attack_01.ogg  ||  Hmm?
+VO_Arlan_Hit_by_Heavy_Attack_01.ogg  ||  Barely felt it.
+VO_Arlan_Ultimate_-_Activate_01.ogg  ||  Is that all you got?
+VO_Arlan_Ultimate_-_Unleash_01.ogg  ||  Let me pay you back — tenfold!
+VO_Arlan_Downed_01.ogg  ||  I can't protect you anymore...
+VO_Arlan_Return_to_Battle_01.ogg  ||  You can't fight from the grave.
+VO_Arlan_Health_Recovery_01.ogg  ||  I'm fine... thank you.
+VO_Arlan_Technique_01.ogg  ||  You're in the way.
+VO_Arlan_Battle_Won_01.ogg  ||  Even a little strength comes in useful.
+VO_Arlan_Treasure_Opening_01.ogg  ||  You keep it.
+VO_Arlan_Treasure_Opening_02.ogg  ||  I think I've seen these in our inventory...
+VO_Arlan_Successful_Puzzle-Solving_01.ogg  ||  That'll do it.
+VO_Arlan_Successful_Puzzle-Solving_02.ogg  ||  Just like my days at the Security Department.
+VO_Arlan_Enemy_Target_Found_01.ogg  ||  Look up ahead.
+VO_Arlan_Returning_to_Town_01.ogg  ||  If there's no danger here, then I'm needed elsewhere.

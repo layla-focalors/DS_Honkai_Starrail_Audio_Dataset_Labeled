@@ -1,0 +1,47 @@
+VO_Archive_March_7th_1.ogg  ||  Ahem! Hello, (Trailblazer). Welcome aboard the Astral Express. My name is March 7th, I'm one of the passengers. We'll be working together. First, we need to take your induction photo... Did that scare you! Just a joke~
+VO_Archive_March_7th_2.ogg  ||  Ah! You're just in time — we haven't taken our selfie today.
+VO_Archive_March_7th_3.ogg  ||  I'm gonna get some rest after I've sorted these photos. Don't stay up all night playing video games again!
+VO_Archive_March_7th_6.ogg  ||  I came up with my name myself, but some people just call me March... Which do you prefer?
+VO_Archive_March_7th_7.ogg  ||  Maybe my past isn't behind me, but in front of me. That's why I'm gonna keep going forward, one stop at a time... train or no train.
+VO_Archive_March_7th_4.ogg  ||  Ahh, juice... If I say the word, I get a craving. If I get a craving, I wanna drink some. And if I drink some... Ahh... I can't stop!
+VO_Archive_March_7th_5.ogg  ||  Of course photos aren't reality, but if you have enough of them, doesn't reality come a little closer?
+VO_Archive_March_7th_8.ogg  ||  Taking pictures. Writing in my diary. What else is there to say~?
+VO_Archive_March_7th_9.ogg  ||  I get really bored when no one's talking to me. When we're on the Express, Himeko and Mr. Yang are pretty busy, but Dan Heng's usually free. He doesn't like chatting though...
+VO_Archive_March_7th_14.ogg  ||  Every time I'm done sorting my album and look out the window, I always want to take another picture... Even though I've seen the view a thousand times, I still feel happy looking at the stars like this.
+VO_Archive_March_7th_15.ogg  ||  No matter how disgusting the dish, you gotta summon your trailblazing spirit and face it! Not gonna lie though, jellied eels and Himeko's coffee are pretty tough to stomach...
+VO_Archive_March_7th_10.ogg  ||  ...Dan Heng got on the train before me. He never mentioned his past... If you get the chance, why don't you ask him about it?
+VO_Archive_March_7th_11.ogg  ||  Ahh, beautiful Himeko. She's sensible, reliable, and elegant. It's great to have her as the navigator... When I'm grown up, I'm gonna be just like her! I like the now me too though~
+VO_Archive_March_7th_12.ogg  ||  I heard Mr. Yang was once the leader of a secret organization and saved a whole planet! Not to mention he's been a teacher, and even a storyboard artist! *sigh* He must be an alien or something...
+VO_Archive_March_7th_13.ogg  ||  The conductor is the best!
+VO_Archive_March_7th_16.ogg  ||  Even after we found out about his mysterious past, he's still the same Dan Heng we've always known!
+VO_Archive_March_7th_Eidolon_Activation.ogg  ||  Hee-hee, my past is gradually coming to light.
+VO_Archive_March_7th_Character_Ascension.ogg  ||  Today me is even more awesome than yesterday me!
+VO_Archive_March_7th_Max_Level_Reached.ogg  ||  I'm all grown up! My real journey starts now!
+VO_Archive_March_7th_Trace_Activation.ogg  ||  That's right! I still have a few tricks up my sleeve~
+VO_Archive_March_7th_Added_to_Team_With_Dan_Heng.ogg  ||  I'm gonna show them what I can really do... Huh? Why the weird face, Dan Heng?
+VO_Archive_March_7th_Added_to_Team_With_Himeko.ogg  ||  If push comes to shove, I'm counting on you, Himeko!
+VO_Archive_March_7th_Added_to_Team_With_Welt.ogg  ||  Mr Yang's here! Yeah! Did I just say that out loud?
+VO_March_7th_Battle_Begins_-_Weakness_Break_01.ogg  ||  I told ya I could fight!
+VO_March_7th_Battle_Begins_-_Danger_Alert_01.ogg  ||  Oh great, another walk in the park.
+VO_March_7th_Turn_Begins_01.ogg  ||  You have the worst luck running into me.
+VO_March_7th_Turn_Begins_02.ogg  ||  My turn~
+VO_March_7th_Turn_Idling_01.ogg  ||  What's wrong? Afraid of what I might do?
+VO_March_7th_Basic_ATK_01.ogg  ||  Watch this!
+VO_March_7th_Skill_01.ogg  ||  With me out here, how can we lose~
+VO_March_7th_Skill_02.ogg  ||  Stay right there while I give you a present~
+VO_March_7th_Hit_by_Light_Attack_01.ogg  ||  You're annoying!
+VO_March_7th_Hit_by_Heavy_Attack_01.ogg  ||  Go away!
+VO_March_7th_Ultimate_-_Activate_01.ogg  ||  Gotta try hard sometimes.
+VO_March_7th_Ultimate_-_Unleash_01.ogg  ||  Check out this awesome move~
+VO_March_7th_Talent_01.ogg  ||  You can't run!
+VO_March_7th_Talent_02.ogg  ||  Try that again!
+VO_March_7th_Downed_01.ogg  ||  I don't want to... be alone...
+VO_March_7th_Return_to_Battle_01.ogg  ||  Alright... I'm done messing around!
+VO_March_7th_Health_Recovery_01.ogg  ||  Thanks a lot!
+VO_March_7th_Technique_01.ogg  ||  Freeze!
+VO_March_7th_Battle_Won_01.ogg  ||  You couldn't have done it without me!
+VO_March_7th_Treasure_Opening_01.ogg  ||  *gasp* Shiny! *bigger gasp* Sparkly!
+Special:Upload?wpDestFile=VO_March_7th_Treasure_Opening_02.ogg  ||  Finders keepers~
+VO_March_7th_Successful_Puzzle-Solving_01.ogg  ||  I deserve a nice pat on the back for that one!
+VO_March_7th_Enemy_Target_Found_01.ogg  ||  Crush now or crush later?
+VO_March_7th_Returning_to_Town_01.ogg  ||  Wanna go take some pictures?

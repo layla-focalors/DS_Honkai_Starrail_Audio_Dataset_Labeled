@@ -1,0 +1,45 @@
+VO_KO_Archive_Ruan_Mei_1.ogg  ||  난 완•매라고 해. 내 이름을 읽을 때는 중간에 잠시 멈추는 거 잊지 말아줘
+VO_KO_Archive_Ruan_Mei_2.ogg  ||  먹어 볼래? 이건 새로 절인 매화로 만든 디저트야. 이거 사려고 줄을 한참이나 섰다고
+VO_KO_Archive_Ruan_Mei_3.ogg  ||  괜찮은 연구 샘플을 보게 되면 말해줘. 그때 다시 보자
+VO_KO_Archive_Ruan_Mei_4.ogg  ||  누스의 주목을 받게 된 후, 난 바로 고향을 떠나 은밀한 곳에서 생명의 근원에 대한 연구를 시작했어——거기가 어딘지는 묻지 말아줘
+VO_KO_Archive_Ruan_Mei_5.ogg  ||  생명을 구성하는 데 부모의 역할은 반반이야. 그래서 난 두 분의 성을 따 이름을 지었지
+VO_KO_Archive_Ruan_Mei_6.ogg  ||  클럽에서 떠도는 헛소문에 굳이 신경 쓸 필요는 없지만, 듣긴 들었어——「과학 괴짜」라던데, 그들이 날 이렇게 평가하다니, 나쁘지 않은걸
+VO_KO_Archive_Ruan_Mei_7.ogg  ||  입술과 치아는 가장 민감해. 딱 한 입이면 디저트의 수준이 결정되지. 난 신선한 과일이나 꽃과 나무 같은 제철 식자재를 좋아해. 찰나에 박제된 생명체의 모습은 훨씬 쉽게 도파민 반응을 일으키거든
+VO_KO_Archive_Ruan_Mei_8.ogg  ||  현대 음악은 내 취향이 아니지만, 전통극에는 푹 빠져들어. 현이 떨리는 순간, 시간이 과거로 흐르지
+VO_KO_Archive_Ruan_Mei_9.ogg  ||  말은 군더더기가 많고, 생각의 교류는 말에 구속되지. 소란스럽고도 슬픈 일이야……
+VO_KO_Archive_Ruan_Mei_10.ogg  ||  자수의 감촉은 손목을 제어하는 방식이나 적절한 각도, 완전히 몰입한다는 점에서 슬라이스를 육성하는 것과 비슷해
+VO_KO_Archive_Ruan_Mei_11.ogg  ||  죽음을 재촉하거나 미루지 않아도 생명은 결국 시들어. 우리는 입자로 변하지만 새로운 고도에 닿을 수 있지
+VO_KO_Archive_Ruan_Mei_12.ogg  ||  인간은 논리를 너무 과대평가해. 이성에 집착하면 감정의 노예가 돼——과학은 미칠듯한 열정에서 비롯된 거야. 이건 일종의 재능이지
+VO_KO_Archive_Ruan_Mei_13.ogg  ||  헤르타의 성격을 견디지 못하는 사람이 있을 것 같아. 나도 같은 생각이지만 신경쓰지 않아——물론 헤르타도 알고 있어. 그래서 그녀의 초대를 받아들였지
+VO_KO_Archive_Ruan_Mei_14.ogg  ||  생명에 대한 나와 스크루룸의 이해는 전혀 다르지만, 그는 이 점을 알아차리지 못한 것 같아. 다행히 우리 사이의 교류는 「시뮬레이션 우주」에만 국한되어 있어
+VO_KO_Archive_Ruan_Mei_15.ogg  ||  헤르타의 사무실에 수박 케이크를 갖다 놓으면 스티븐이 나타날 지도 몰라——잊지 마, 호박 케이크는 절대 안 돼. 더 오래 자취를 감출 거야
+VO_KO_Archive_Ruan_Mei_Eidolon_Activation.ogg  ||  지나간 생명의 순간을 원래대로 복원할 수 있을까?
+VO_KO_Archive_Ruan_Mei_Character_Ascension.ogg  ||  연구가 상승 나선을 그리며 진행되고 있어
+VO_KO_Archive_Ruan_Mei_Max_Level_Reached.ogg  ||  안타깝게도 에이언즈의 수수께끼는 아직 풀리지 않았어
+VO_KO_Archive_Ruan_Mei_Trace_Activation.ogg  ||  숨을 쉴 때마다 자아를 인지하게 되지
+VO_KO_Archive_Ruan_Mei_Added_to_Team_With_Herta.ogg  ||  난 너와 달라…. 여기가 만약 「시뮬레이션 우주」였다면 네 마음대로 했겠지
+VO_KO_Ruan_Mei_Battle_Begins_-_Weakness_Break_01.ogg  ||  좋아, 아름다운 자세야
+VO_KO_Ruan_Mei_Battle_Begins_-_Danger_Alert_01.ogg  ||  천천히 하자고
+VO_KO_Ruan_Mei_Turn_Begins_01.ogg  ||  너희는 아직 연구할 가치가 있어
+VO_KO_Ruan_Mei_Turn_Begins_02.ogg  ||  생명은 숨을 쉬는 것에만 그치지 않지
+VO_KO_Ruan_Mei_Turn_Idling_01.ogg  ||  기다림도 변화지
+VO_KO_Ruan_Mei_Basic_ATK_01.ogg  ||  너로 정하지
+VO_KO_Ruan_Mei_Basic_ATK_02.ogg  ||  집중해
+VO_KO_Ruan_Mei_Skill_01.ogg  ||  연주는 끝나지 않아
+VO_KO_Ruan_Mei_Skill_02.ogg  ||  만물의 본질은 한결같지
+VO_KO_Ruan_Mei_Hit_by_Light_Attack_01.ogg  ||  재밌어?
+VO_KO_Ruan_Mei_Hit_by_Heavy_Attack_01.ogg  ||  멀리 떨어져
+VO_KO_Ruan_Mei_Ultimate_-_Activate_01.ogg  ||  삶 속의 모든 꽃잎은……
+VO_KO_Ruan_Mei_Ultimate_-_Unleash_01.ogg  ||  언제 피든지 바람에 떨어지는… 그날이 있는 법
+VO_KO_Ruan_Mei_Downed_01.ogg  ||  아직… 답을 못 찾았어……
+VO_KO_Ruan_Mei_Return_to_Battle_01.ogg  ||  계속하자
+VO_KO_Ruan_Mei_Health_Recovery_01.ogg  ||  이게 바로 삶의 따스함인가…
+VO_KO_Ruan_Mei_Technique_01.ogg  ||  끊임없는 여음
+VO_KO_Ruan_Mei_Battle_Won_01.ogg  ||  생령은… 참 신비로워
+VO_KO_Ruan_Mei_Treasure_Opening_01.ogg  ||  상자에도 예쁜 무늬를 수놓아야겠어
+VO_KO_Ruan_Mei_Treasure_Opening_02.ogg  ||  어쩌면 도움이 될지도 몰라
+VO_KO_Ruan_Mei_Precious_Treasure_Opening_01.ogg  ||  음? 기대 이상의 수확인걸……
+VO_KO_Ruan_Mei_Successful_Puzzle-Solving_01.ogg  ||  겨우 이 정도 수수께끼라니…
+VO_KO_Ruan_Mei_Successful_Puzzle-Solving_02.ogg  ||  간단한 풀이일 뿐이야
+VO_KO_Ruan_Mei_Enemy_Target_Found_01.ogg  ||  저게 뭐지? 조금… 궁금한데
+VO_KO_Ruan_Mei_Returning_to_Town_01.ogg  ||  잠깐 쉬자, 차 마실 시간이야

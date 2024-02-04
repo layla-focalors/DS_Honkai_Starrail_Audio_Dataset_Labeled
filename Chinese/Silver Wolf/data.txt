@@ -1,0 +1,77 @@
+VO_ZH_Archive_Silver_Wolf_1.ogg  ||  哟，(Trailblazer)，感觉你挺不错的呀，那颗星核对你没什么影响吗？
+VO_ZH_Archive_Silver_Wolf_2.ogg  ||  今天也上线啦？
+VO_ZH_Archive_Silver_Wolf_3.ogg  ||  该做的事都做完了么？好，别睡下了才想起来日常没做，拜拜。
+VO_ZH_Archive_Silver_Wolf_6.ogg  ||  就是游戏账号名，(Trailblazer)你不也是？
+VO_ZH_Archive_Silver_Wolf_4.ogg  ||  想给这个宇宙多加些玩法，每天都跑图，不无聊么？
+VO_ZH_Archive_Silver_Wolf_5.ogg  ||  普罗米修斯搭载了四个模块，「朋友」是最会说话的…「朋友是缘，永远珍惜。为我们的友谊，干杯！」
+VO_ZH_Archive_Silver_Wolf_7.ogg  ||  把头埋在抱枕里午睡和捏可爱的东西。
+VO_ZH_Archive_Silver_Wolf_8.ogg  ||  不能开小号，艾利欧也不行。
+VO_ZH_Archive_Silver_Wolf_11.ogg  ||  骇入空间站的时候，我随手改了下螺丝咕姆的画像，不过…最后还是改回去了。
+VO_ZH_Archive_Silver_Wolf_12.ogg  ||  我喜欢的游戏总在同一天更新版本，他们是约好了么？
+VO_ZH_Archive_Silver_Wolf_9.ogg  ||  在「无视规则」这一点上，卡芙卡和我很有共鸣。
+VO_ZH_Archive_Silver_Wolf_10.ogg  ||  说好等手伤痊愈了就一起打游戏，结果他的手就一直没好过。
+VO_ZH_Archive_Silver_Wolf_13.ogg  ||  每次都要我主动出击，这个家伙是完全不会被激怒的对吧？
+VO_ZH_Archive_Silver_Wolf_Eidolon_Activation.ogg  ||  嚯，开个金手指。
+VO_ZH_Archive_Silver_Wolf_Character_Ascension.ogg  ||  保持这个状态，继续按，不要停。
+VO_ZH_Archive_Silver_Wolf_Max_Level_Reached.ogg  ||  等级拉满了？未来一片光明呀。
+VO_ZH_Archive_Silver_Wolf_Trace_Activation.ogg  ||  重要的不是数值，是体验，是操作！
+VO_ZH_Archive_Silver_Wolf_Added_to_Team_With_Kafka.ogg  ||  卡芙卡，「剧本」上没写的段落，我就自由发挥喽？
+VO_ZH_Archive_Silver_Wolf_Added_to_Team_With_Blade.ogg  ||  求你了，说句话吧…「剧本」上没写不许聊天。
+VO_ZH_Archive_Silver_Wolf_1.ogg  ||  
+VO_ZH_Archive_Silver_Wolf_2.ogg  ||  
+VO_ZH_Archive_Silver_Wolf_3.ogg  ||  
+VO_ZH_Archive_Silver_Wolf_6.ogg  ||  
+VO_ZH_Archive_Silver_Wolf_4.ogg  ||  
+VO_ZH_Archive_Silver_Wolf_5.ogg  ||  
+VO_ZH_Archive_Silver_Wolf_7.ogg  ||  
+VO_ZH_Archive_Silver_Wolf_8.ogg  ||  
+VO_ZH_Archive_Silver_Wolf_11.ogg  ||  
+VO_ZH_Archive_Silver_Wolf_12.ogg  ||  
+VO_ZH_Archive_Silver_Wolf_9.ogg  ||  
+VO_ZH_Archive_Silver_Wolf_10.ogg  ||  
+VO_ZH_Archive_Silver_Wolf_13.ogg  ||  
+VO_ZH_Archive_Silver_Wolf_Eidolon_Activation.ogg  ||  
+VO_ZH_Archive_Silver_Wolf_Character_Ascension.ogg  ||  
+VO_ZH_Archive_Silver_Wolf_Max_Level_Reached.ogg  ||  
+VO_ZH_Archive_Silver_Wolf_Trace_Activation.ogg  ||  
+VO_ZH_Archive_Silver_Wolf_Added_to_Team_With_Kafka.ogg  ||  
+VO_ZH_Archive_Silver_Wolf_Added_to_Team_With_Blade.ogg  ||  
+VO_ZH_Silver_Wolf_Battle_Begins_-_Weakness_Break_01.ogg  ||  这么快就上钩了。
+VO_ZH_Silver_Wolf_Battle_Begins_-_Danger_Alert_01.ogg  ||  好像有点棘手。
+VO_ZH_Silver_Wolf_Turn_Begins_01.ogg  ||  这次能让我玩得开心点么？
+VO_ZH_Silver_Wolf_Turn_Begins_02.ogg  ||  哟，敌人刷新了呀。
+VO_ZH_Silver_Wolf_Turn_Idling_01.ogg  ||  …忘了还有副本要刷，快点搞定吧。
+VO_ZH_Silver_Wolf_Skill_01.ogg  ||  来点刺激的。
+VO_ZH_Silver_Wolf_Hit_by_Light_Attack_01.ogg  ||  嗯？
+VO_ZH_Silver_Wolf_Hit_by_Heavy_Attack_01.ogg  ||  不好。
+VO_ZH_Silver_Wolf_Ultimate_-_Activate_01.ogg  ||  战斗体验该优化了。
+VO_ZH_Silver_Wolf_Ultimate_-_Unleash_01.ogg  ||  哼，就这速度？太慢了！
+VO_ZH_Silver_Wolf_Downed_01.ogg  ||  我…
+VO_ZH_Silver_Wolf_Return_to_Battle_01.ogg  ||  耶，重开一局。
+VO_ZH_Silver_Wolf_Health_Recovery_01.ogg  ||  奶得不错。
+VO_ZH_Silver_Wolf_Technique_01.ogg  ||  百分百弱点击破。
+VO_ZH_Silver_Wolf_Battle_Won_01.ogg  ||  好，等加强了再来打一次。
+VO_ZH_Silver_Wolf_Treasure_Opening_01.ogg  ||  小气，也不多给点。
+Special:Upload?wpDestFile=VO_ZH_Silver_Wolf_Treasure_Opening_02.ogg  ||  哇，真是没想到呢！
+VO_ZH_Silver_Wolf_Successful_Puzzle-Solving_01.ogg  ||  什么时候有新玩法？
+VO_ZH_Silver_Wolf_Enemy_Target_Found_01.ogg  ||  准备好就开始吧。
+VO_ZH_Silver_Wolf_Returning_to_Town_01.ogg  ||  该下线了…啊不对，搞错了。
+VO_ZH_Silver_Wolf_Battle_Begins_-_Weakness_Break_01.ogg  ||  
+VO_ZH_Silver_Wolf_Battle_Begins_-_Danger_Alert_01.ogg  ||  
+VO_ZH_Silver_Wolf_Turn_Begins_01.ogg  ||  
+VO_ZH_Silver_Wolf_Turn_Begins_02.ogg  ||  
+VO_ZH_Silver_Wolf_Turn_Idling_01.ogg  ||  
+VO_ZH_Silver_Wolf_Skill_01.ogg  ||  
+VO_ZH_Silver_Wolf_Hit_by_Light_Attack_01.ogg  ||  
+VO_ZH_Silver_Wolf_Hit_by_Heavy_Attack_01.ogg  ||  
+VO_ZH_Silver_Wolf_Ultimate_-_Activate_01.ogg  ||  
+VO_ZH_Silver_Wolf_Ultimate_-_Unleash_01.ogg  ||  
+VO_ZH_Silver_Wolf_Downed_01.ogg  ||  
+VO_ZH_Silver_Wolf_Return_to_Battle_01.ogg  ||  
+VO_ZH_Silver_Wolf_Health_Recovery_01.ogg  ||  
+VO_ZH_Silver_Wolf_Technique_01.ogg  ||  
+VO_ZH_Silver_Wolf_Battle_Won_01.ogg  ||  
+VO_ZH_Silver_Wolf_Treasure_Opening_01.ogg  ||  
+VO_ZH_Silver_Wolf_Successful_Puzzle-Solving_01.ogg  ||  
+VO_ZH_Silver_Wolf_Enemy_Target_Found_01.ogg  ||  
+VO_ZH_Silver_Wolf_Returning_to_Town_01.ogg  ||  

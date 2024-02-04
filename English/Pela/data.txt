@@ -1,0 +1,40 @@
+VO_Archive_Pela_1.ogg  ||  Pelageya Sergeyevna, Silvermane Guards Intelligence Officer, at your service. You can call me Pela.
+VO_Archive_Pela_2.ogg  ||  You ready? Let's start the records for the day.
+VO_Archive_Pela_3.ogg  ||  The reports look pretty normal today. You can go have some rest.
+VO_Archive_Pela_5.ogg  ||  I'm good at documenting information and coming up with my analysis. Acting on that analysis is the captain's job.
+VO_Archive_Pela_4.ogg  ||  People don't usually notice the drummer, but if you miss a beat, everyone feels it. I like the challenge.
+VO_Archive_Pela_6.ogg  ||  I like to go to the library on the weekend and take out some... literature. Then when we're finished reading, me and my friends meet up to discuss it.
+VO_Archive_Pela_7.ogg  ||  *sigh* Sometimes I practice over a dozen times before reporting to my superiors, but I still can't get it right...
+VO_Archive_Pela_11.ogg  ||  There are 32 versions of my full name circulating among the troops. How do I know? I'm an intelligence officer after all.
+VO_Archive_Pela_12.ogg  ||  *gasp* A new edition of the fanbook "Tale of the Winterlands?" That's one of the most sought-after series out there... H—How many copies should I get... Ten? Is ten enough...?
+VO_Archive_Pela_8.ogg  ||  In all of Belobog, you won't find anyone who speaks more elegantly or acts more like a leader than Lady Bronya.
+VO_Archive_Pela_9.ogg  ||  *sigh* Serval's rule is: no rules.
+VO_Archive_Pela_10.ogg  ||  Captain Gepard is an honorable man and very reliable. But when it comes to his horticultural skills... all I can say is I respect his effort and wish him the best of luck.
+VO_Archive_Pela_13.ogg  ||  Lynxy is one of my... Uh, Lynx is one of my... Ahem! Lynx is... one of Belobog's number one researchers, and... one of my best besties!
+Special:Upload?wpDestFile=VO_Archive_Pela_14.ogg  ||  Stay focused, push forward.
+VO_Archive_Pela_16.ogg  ||  Finally, all contingencies covered.
+VO_Archive_Pela_19.ogg  ||  Remember, Serval — don't rush the beat.
+VO_Archive_Pela_20.ogg  ||  Let's do this, Lynxy!
+VO_Pela_Battle_Begins_-_Weakness_Break_01.ogg  ||  We have the upper hand.
+VO_Pela_Battle_Begins_-_Danger_Alert_01.ogg  ||  Do we still have the upper hand?
+VO_Pela_Turn_Begins_02.ogg  ||  Commencing support.
+VO_Pela_Turn_Begins_03.ogg  ||  Enemy targets detected.
+VO_Pela_Turn_Idling_01.ogg  ||  Time to make a decision.
+VO_Pela_Basic_ATK_01.ogg  ||  Enough.
+VO_Pela_Basic_ATK_02.ogg  ||  Ready for another?
+VO_Pela_Basic_ATK_03.ogg  ||  I'll contain them!
+VO_Pela_Skill_02.ogg  ||  This... that... Oh!
+VO_Pela_Skill_03.ogg  ||  Inputting commands... Oh!
+VO_Pela_Hit_by_Light_Attack_01.ogg  ||  Ouch.
+VO_Pela_Hit_by_Heavy_Attack_01.ogg  ||  Eek ...Not good.
+VO_Pela_Ultimate_-_Activate_01.ogg  ||  Enemy data secured.
+VO_Pela_Ultimate_-_Unleash_01.ogg  ||  Net markers activated -- time for a good old counterattack.
+VO_Pela_Downed_02.ogg  ||  I miscalculated...
+VO_Pela_Downed_03.ogg  ||  Run...
+VO_Pela_Return_to_Battle_01.ogg  ||  I won't make the same mistake twice.
+VO_Pela_Health_Recovery_01.ogg  ||  Thanks for the support.
+VO_Pela_Battle_Won_01.ogg  ||  The combat report will be ready soon.
+VO_Pela_Treasure_Opening_01.ogg  ||  Inventory complete.
+VO_Pela_Successful_Puzzle-Solving_01.ogg  ||  Wowwww... *clears throat*
+VO_Pela_Enemy_Target_Found_01.ogg  ||  Analyze the targets before you make a plan of action.
+VO_Pela_Returning_to_Town_01.ogg  ||  Do you need me to formulate the next plan?

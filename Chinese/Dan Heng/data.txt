@@ -1,0 +1,84 @@
+VO_ZH_Archive_Dan_Heng_1.ogg  ||  重新介绍一下自己，我叫丹恒，担任列车的护卫，列车的智库也由我维护。
+VO_ZH_Archive_Dan_Heng_2.ogg  ||  智库的词条今日已更新，你可随时查阅。
+VO_ZH_Archive_Dan_Heng_3.ogg  ||  到就寝时间了么…谢谢提醒。资料室内，对昼夜的感知薄弱，时常一坐就是一晚…明天见。
+VO_ZH_Archive_Dan_Heng_5.ogg  ||  我出身于联盟，生在一艘奇丽雄伟的巨舰之上，其模样我却很少见到。现在回不去了。
+VO_ZH_Archive_Dan_Heng_6.ogg  ||  那时，除了列车，我没有其他落脚之处。
+VO_ZH_Archive_Dan_Heng_4.ogg  ||  击云从不离身，不仅是为了我的安全，也是为了其他人的。
+VO_ZH_Archive_Dan_Heng_7.ogg  ||  看书…不算爱好，只是过去的习惯。
+VO_ZH_Archive_Dan_Heng_8.ogg  ||  若非查阅智库，请不要随意进入资料室，资料室的功能不包含聊天。
+VO_ZH_Archive_Dan_Heng_13.ogg  ||  浩瀚如宇宙，它的过去，也由不得自己决定。
+VO_ZH_Archive_Dan_Heng_14.ogg  ||  当智库的记载足够多时，看似独立的「事件」也会经由流动的「人」产生联系。
+VO_ZH_Archive_Dan_Heng_9.ogg  ||  三月的缺点是爱管闲事，可能也是优点。
+VO_ZH_Archive_Dan_Heng_10.ogg  ||  任何和列车有关的问题，最明智的判断就是听从姬子的判断。
+VO_ZH_Archive_Dan_Heng_11.ogg  ||  瓦尔特先生一向很关注别人，却从未问过我的事。
+VO_ZH_Archive_Dan_Heng_12.ogg  ||  也许是我的直觉：别惹帕姆。
+VO_ZH_Archive_Dan_Heng_Eidolon_Activation.ogg  ||  昨日无需留恋。
+VO_ZH_Archive_Dan_Heng_Character_Ascension.ogg  ||  智库且需时时更新，我也一样。
+VO_ZH_Archive_Dan_Heng_Max_Level_Reached.ogg  ||  不求所来，但思将往。
+VO_ZH_Archive_Dan_Heng_Trace_Activation.ogg  ||  如今的我，会选择自己的道路……
+VO_ZH_Archive_Dan_Heng_Added_to_Team_With_March_7th.ogg  ||  三月，记得先顾好自己，不用管我们。
+VO_ZH_Archive_Dan_Heng_Added_to_Team_With_Himeko.ogg  ||  姬子小姐，突发事况，交由我来处理。
+VO_ZH_Archive_Dan_Heng_Added_to_Team_With_Welt.ogg  ||  瓦尔特先生，对此你有何指教？
+VO_ZH_Archive_Dan_Heng_Added_to_Team_With_Blade.ogg  ||  你…别靠近我的同伴。
+VO_ZH_Archive_Dan_Heng_1.ogg  ||  
+VO_ZH_Archive_Dan_Heng_2.ogg  ||  
+VO_ZH_Archive_Dan_Heng_3.ogg  ||  
+VO_ZH_Archive_Dan_Heng_5.ogg  ||  
+VO_ZH_Archive_Dan_Heng_6.ogg  ||  
+VO_ZH_Archive_Dan_Heng_4.ogg  ||  
+VO_ZH_Archive_Dan_Heng_7.ogg  ||  
+VO_ZH_Archive_Dan_Heng_8.ogg  ||  
+VO_ZH_Archive_Dan_Heng_13.ogg  ||  
+VO_ZH_Archive_Dan_Heng_14.ogg  ||  
+VO_ZH_Archive_Dan_Heng_9.ogg  ||  
+VO_ZH_Archive_Dan_Heng_10.ogg  ||  
+VO_ZH_Archive_Dan_Heng_11.ogg  ||  
+VO_ZH_Archive_Dan_Heng_12.ogg  ||  
+VO_ZH_Archive_Dan_Heng_Eidolon_Activation.ogg  ||  
+VO_ZH_Archive_Dan_Heng_Character_Ascension.ogg  ||  
+VO_ZH_Archive_Dan_Heng_Max_Level_Reached.ogg  ||  
+VO_ZH_Archive_Dan_Heng_Trace_Activation.ogg  ||  
+VO_ZH_Archive_Dan_Heng_Added_to_Team_With_March_7th.ogg  ||  
+VO_ZH_Archive_Dan_Heng_Added_to_Team_With_Himeko.ogg  ||  
+VO_ZH_Archive_Dan_Heng_Added_to_Team_With_Welt.ogg  ||  
+VO_ZH_Archive_Dan_Heng_Added_to_Team_With_Blade.ogg  ||  
+VO_ZH_Dan_Heng_Battle_Begins_-_Weakness_Break_01.ogg  ||  现在后悔已经迟了。
+VO_ZH_Dan_Heng_Battle_Begins_-_Danger_Alert_01.ogg  ||  切忌冲动行事。
+VO_ZH_Dan_Heng_Turn_Begins_01.ogg  ||  争斗…并无意义。
+VO_ZH_Dan_Heng_Turn_Begins_02.ogg  ||  让开，我无意挑起争端。
+VO_ZH_Dan_Heng_Turn_Idling_01.ogg  ||  不用犹豫。
+VO_ZH_Dan_Heng_Basic_ATK_01.ogg  ||  就是现在。
+VO_ZH_Dan_Heng_Hit_by_Light_Attack_01.ogg  ||  哼。
+VO_ZH_Dan_Heng_Hit_by_Heavy_Attack_01.ogg  ||  大意了。
+VO_ZH_Dan_Heng_Ultimate_-_Activate_01.ogg  ||  生死虚实，一念之间。
+VO_ZH_Dan_Heng_Ultimate_-_Unleash_01.ogg  ||  洞天幻化，长梦一觉…破！
+VO_ZH_Dan_Heng_Downed_01.ogg  ||  这…不可能……
+VO_ZH_Dan_Heng_Return_to_Battle_01.ogg  ||  这具身体没那么脆弱。
+VO_ZH_Dan_Heng_Health_Recovery_01.ogg  ||  放心吧。
+VO_ZH_Dan_Heng_Technique_01.ogg  ||  这样就万无一失了。
+VO_ZH_Dan_Heng_Battle_Won_01.ogg  ||  已经结束的过去，并不重要。
+VO_ZH_Dan_Heng_Treasure_Opening_01.ogg  ||  不枉此行。
+VO_ZH_Dan_Heng_Precious_Treasure_Opening_01.ogg  ||  嗯，好好收起来吧。
+VO_ZH_Dan_Heng_Successful_Puzzle-Solving_01.ogg  ||  还好，不难。
+VO_ZH_Dan_Heng_Enemy_Target_Found_01.ogg  ||  善者不来。
+VO_ZH_Dan_Heng_Returning_to_Town_01.ogg  ||  今日所见，也将记录在智库中。
+VO_ZH_Dan_Heng_Battle_Begins_-_Weakness_Break_01.ogg  ||  
+VO_ZH_Dan_Heng_Battle_Begins_-_Danger_Alert_01.ogg  ||  
+VO_ZH_Dan_Heng_Turn_Begins_01.ogg  ||  
+VO_ZH_Dan_Heng_Turn_Begins_02.ogg  ||  
+VO_ZH_Dan_Heng_Turn_Idling_01.ogg  ||  
+VO_ZH_Dan_Heng_Basic_ATK_01.ogg  ||  
+VO_ZH_Dan_Heng_Hit_by_Light_Attack_01.ogg  ||  
+VO_ZH_Dan_Heng_Hit_by_Heavy_Attack_01.ogg  ||  
+VO_ZH_Dan_Heng_Ultimate_-_Activate_01.ogg  ||  
+VO_ZH_Dan_Heng_Ultimate_-_Unleash_01.ogg  ||  
+VO_ZH_Dan_Heng_Downed_01.ogg  ||  
+VO_ZH_Dan_Heng_Return_to_Battle_01.ogg  ||  
+VO_ZH_Dan_Heng_Health_Recovery_01.ogg  ||  
+VO_ZH_Dan_Heng_Technique_01.ogg  ||  
+VO_ZH_Dan_Heng_Battle_Won_01.ogg  ||  
+VO_ZH_Dan_Heng_Treasure_Opening_01.ogg  ||  
+VO_ZH_Dan_Heng_Precious_Treasure_Opening_01.ogg  ||  
+VO_ZH_Dan_Heng_Successful_Puzzle-Solving_01.ogg  ||  
+VO_ZH_Dan_Heng_Enemy_Target_Found_01.ogg  ||  
+VO_ZH_Dan_Heng_Returning_to_Town_01.ogg  ||  

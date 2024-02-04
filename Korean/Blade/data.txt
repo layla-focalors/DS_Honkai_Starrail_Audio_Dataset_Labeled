@@ -1,0 +1,49 @@
+VO_KO_Archive_Blade_1.ogg  ||  (Trailblazer)… 난 널 몰라. 너한텐 좋은 일이지
+VO_KO_Archive_Blade_2.ogg  ||  또 왔어? …내 기억에 남고도 결과가 좋은 사람은 못 봤어
+VO_KO_Archive_Blade_3.ogg  ||  가라. 「마각의 몸」이 발작하면, 나한테서 떨어지는 게 좋을 거야
+VO_KO_Archive_Blade_4.ogg  ||  자신을 마모하며 적을 찢어버리는 것이 검이지
+VO_KO_Archive_Blade_5.ogg  ||  사람은 모두 다른 방식으로 마각에 시달리지만, 내 상황은 특이해. 마각이 날 괴롭힌대도 회한, 증오, 그리움과 두려움에 대한 기억은 얼마 되지 않지……
+VO_KO_Archive_Blade_6.ogg  ||  마각이 발작하면, 난 다른 사람이 돼
+VO_KO_Archive_Blade_7.ogg  ||  우린 서로의 손을 빌려 목적을 달성하지
+VO_KO_Archive_Blade_8.ogg  ||  「이번이 마지막」이라는 기대는 육체가 치유되는 고통 속에서 사라지지
+VO_KO_Archive_Blade_9.ogg  ||  사람은 다섯이나, 대가는 셋일지니——이 말은 내 상처 하나하나에 새겨져 있어……
+VO_KO_Archive_Blade_10.ogg  ||  「칼날」의 존재는, 휘두르는 찰나에야 잠시나마 사라질 뿐
+VO_KO_Archive_Blade_11.ogg  ||  죽음은 언제쯤 올는지. 기다리기 힘들군
+VO_KO_Archive_Blade_12.ogg  ||  나보다 예리한 무기는 부지기수지만, 수천 번을 싸운다면 어떻게 될까?
+VO_KO_Archive_Blade_13.ogg  ||  죽은 자는 겁이 없지
+VO_KO_Archive_Blade_14.ogg  ||  마각을 묶을 수 있는 끈이 그녀의 손아귀에 있어. 약속한 시각이 오기 전까지 당기지도 놓지도 않을 거야
+VO_KO_Archive_Blade_16.ogg  ||  「게임」이라고 부르는 세계에선 은랑이 포기하지 않는 이상 죽지도 않더군
+VO_KO_Archive_Blade_17.ogg  ||  그는… 우리 중 「대가」를 가장 잘 아는 사람이었지만, 아무 말도, 아무것도 하지 않았어!
+VO_KO_Archive_Blade_18.ogg  ||  음월군… 우리의 업보는 언제 올까? 우리가 진 빚은 어떻게 갚지!?
+VO_KO_Archive_Blade_19.ogg  ||  검을 휘두를 때마다 몸속에서 끊임없이 환상통이 느껴져. 어떤 것은 치명적이고, 어떤 것은 죽을 만큼 아프지. 모두 그 여자 덕분이야
+VO_KO_Archive_Blade_Eidolon_Activation.ogg  ||  삶은 징벌이지
+VO_KO_Archive_Blade_Character_Ascension.ogg  ||  파멸로 가는 길에 지름길 같은 건 없어
+VO_KO_Archive_Blade_Max_Level_Reached.ogg  ||  모든 게… 이곳에서 끝났으면 좋겠군
+VO_KO_Archive_Blade_Trace_Activation.ogg  ||  내가 겪은 수만 번의 고통 중, 가장 보잘것없군
+VO_KO_Archive_Blade_Added_to_Team_With_Kafka.ogg  ||  카프카… 우릴 없애지 못한 자들은 우리한테 묻힐 거야
+VO_KO_Archive_Blade_Added_to_Team_With_Silver_Wolf.ogg  ||  네 수법은 항상 종잡을 수가 없더군…. 너 하고 싶은 대로 해
+VO_KO_Archive_Blade_Added_to_Team_With_Jingliu.ogg  ||  경류… 내 고통을, 내 초식 하나하나를 지켜보아라
+VO_KO_Archive_Blade_Added_to_Team_With_Jing_Yuan.ogg  ||  경원, 예전에는 이 정도로 오지랖이 넓지 않았던 거 같은데
+VO_KO_Archive_Blade_Added_to_Team_With_Dan_Heng.ogg  ||  왔군, 작은 빈틈도 보여선 안 될 거야
+VO_KO_Blade_Battle_Begins_-_Weakness_Break_01.ogg  ||  날 막다니
+VO_KO_Blade_Battle_Begins_-_Danger_Alert_01.ogg  ||  넌 어떤 즐거움을 줄 거지?
+VO_KO_Blade_Turn_Begins_01.ogg  ||  손에 든 검으로 배웅해 주지
+VO_KO_Blade_Turn_Begins_02.ogg  ||  봐줄 필요 없어
+VO_KO_Blade_Turn_Idling_01.ogg  ||  오랜 기다림은 살기를 무디게 하지
+VO_KO_Blade_Enhanced_Basic_ATK_01.ogg  ||  전부… 돌려주지!
+VO_KO_Blade_Skill_01.ogg  ||  흐름은… 정해졌다!
+VO_KO_Blade_Skill_02.ogg  ||  죽음이… 다가온다!
+VO_KO_Blade_Hit_by_Light_Attack_01.ogg  ||  부족해……
+VO_KO_Blade_Hit_by_Heavy_Attack_01.ogg  ||  좋아, 나쁘지 않군
+VO_KO_Blade_Ultimate_-_Activate_01.ogg  ||  난 이 절경에 닿을 수는 없지만……
+VO_KO_Blade_Ultimate_-_Unleash_01.ogg  ||  그대들을 초대할 수는 있지
+VO_KO_Blade_Talent_01.ogg  ||  피안의… 파멸!
+VO_KO_Blade_Downed_01.ogg  ||  이번엔 성공할 것인가……
+VO_KO_Blade_Return_to_Battle_01.ogg  ||  아쉽게도 살아있군
+VO_KO_Blade_Health_Recovery_01.ogg  ||  부질없어
+VO_KO_Blade_Battle_Won_01.ogg  ||  검이 아직 무디군
+VO_KO_Blade_Treasure_Opening_01.ogg  ||  다른 건 없어
+VO_KO_Blade_Precious_Treasure_Opening_01.ogg  ||  챙겨둬
+VO_KO_Blade_Successful_Puzzle-Solving_01.ogg  ||  끝났군
+VO_KO_Blade_Enemy_Target_Found_01.ogg  ||  조금 더 가까이 가도 괜찮아
+VO_KO_Blade_Returning_to_Town_01.ogg  ||  볼일 남았어?

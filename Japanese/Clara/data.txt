@@ -1,0 +1,40 @@
+VO_JA_Archive_Clara_1_M.ogg  ||  Clara: こんにちは⋯クラーラです。スヴァローグのように⋯家族になってくれますか？
+Svarog: 私がいるのだから、(Trailblazer)もクラーラの家族だ。
+VO_JA_Archive_Clara_2.ogg  ||  今日もクラーラと一緒に頑張りましょう。
+VO_JA_Archive_Clara_3.ogg  ||  クラーラも眠いから、スヴァローグにもたれかかって寝るつもりです。あなたも一緒にどうですか？
+VO_JA_Archive_Clara_5.ogg  ||  スヴァローグの「計算」でも、人の「記憶」を切り離すことはできません⋯だから、クラーラはみなさんを絶対に忘れません。
+VO_JA_Archive_Clara_4.ogg  ||  前におままごとをしていた時、パーキンスにお客さんのお出迎えを頼んだら、本当に人を連れてきたんです。
+VO_JA_Archive_Clara_6.ogg  ||  スヴァローグの記録には面白いものがたくさんあります。例えば「映画」は⋯たくさんの人がおままごとをしてるみたいです。
+VO_JA_Archive_Clara_7.ogg  ||  なんとか説得して「映画」ごっこをしたのに、スヴァローグったら、木とか石の役しかしてくれないんです⋯「お父さん」みたいな役は、やっぱりダメみたい⋯
+VO_JA_Archive_Clara_12.ogg  ||  クラーラのロボットのお友達は、言葉遣いはちょっと怖いけど、嘘をつかないいい子たちなんですよ。
+VO_JA_Archive_Clara_13.ogg  ||  スヴァローグが休んでいる時、音がするんです。その音は⋯いびきにそっくりなんですよ～
+VO_JA_Archive_Clara_8.ogg  ||  ナターシャさんはクラーラもお医者さんだって言うんです。しかも、ロボットのお医者さんだそうです。
+VO_JA_Archive_Clara_9.ogg  ||  以前、クラーラが⋯探しているパーツが岩の間に挟まって、とれなかった時があったんです。その際に通りかかったゼーレお姉さんが、一撃で岩を砕いてくれたんですが⋯クラーラがありがとって言う前に立ち去ってしまいました⋯
+VO_JA_Archive_Clara_10.ogg  ||  実は⋯スヴァローグの手は、クラーラの髪を乾かす機械にもなるし、大きな石の塊から小さな机と椅子を作り出すこともできるんです⋯⋯
+VO_JA_Archive_Clara_11.ogg  ||  フックからモグラ党に誘われたけど⋯かくれんぼの時、スヴァローグはどうすればいいんだろう⋯⋯
+VO_JA_Archive_Clara_14.ogg  ||  ルカお兄さんは…とても優しい人です。最初はおっちょこちょいに見えるかもしれませんが、実はとても優しいんですよ。
+VO_JA_Svarog_Battle_Begins_-_Weakness_Break_01.ogg  ||  Svarog: ターゲット危険指数低下。
+VO_JA_Svarog_Battle_Begins_-_Danger_Alert_01.ogg  ||  Svarog: ターゲット危険指数上昇。
+VO_JA_Clara_Turn_Begins_01.ogg  ||  Clara: クラーラ、勇気を出さなきゃ⋯
+VO_JA_Clara_Turn_Begins_02.ogg  ||  Clara: こ、怖くないんだから！
+VO_JA_Clara_Turn_Idling_01.ogg  ||  Clara: これ以上迷っちゃダメ⋯
+VO_JA_Clara_Basic_ATK_01.ogg  ||  Clara: 気を付けて、スヴァローグ！
+VO_JA_Svarog_Basic_ATK_02.ogg  ||  Svarog: 排除する。
+VO_JA_Svarog_Skill_01.ogg  ||  Svarog: 隠れろ。
+VO_JA_Svarog_Skill_02.ogg  ||  Svarog: 殲滅開始。
+VO_JA_Clara_Hit_by_Light_Attack_01.ogg  ||  Svarog: 平気か？
+Clara: 大丈夫。
+VO_JA_Clara_Hit_by_Heavy_Attack_01.ogg  ||  Clara: ⋯痛い。
+VO_JA_Clara_Ultimate_-_Activate_01.ogg  ||  Clara: クラーラも⋯みんなを守りたい！
+VO_JA_Clara_Ultimate_-_Unleash_01.ogg  ||  Clara: 助けて、スヴァローグ！
+VO_JA_Svarog_Talent_01.ogg  ||  Svarog: クラーラから離れろ。
+VO_JA_Svarog_Talent_02.ogg  ||  Svarog: 命令執行。
+VO_JA_Clara_Downed_01.ogg  ||  Clara: みんな⋯どうか⋯
+VO_JA_Clara_Return_to_Battle_01.ogg  ||  Clara: 戻りました。
+VO_JA_Clara_Health_Recovery_01.ogg  ||  Clara: ありがとう⋯クラーラ、忘れません。
+VO_JA_Clara_Technique_01.ogg  ||  Clara: やっ。
+VO_JA_Clara_Battle_Won_01.ogg  ||  Clara: みなさんのお役に立てたかな⋯
+VO_JA_Clara_Treasure_Opening_01.ogg  ||  Clara: クラーラは修理用の部品さえあれば大丈夫です。
+VO_JA_Clara_Successful_Puzzle-Solving_01.ogg  ||  Clara: せ、成功！
+VO_JA_Clara_Enemy_Target_Found_01.ogg  ||  Svarog: 危険指数上昇。前方にターゲット出現。
+VO_JA_Clara_Returning_to_Town_01.ogg  ||  Clara: 大丈夫。ここは安全だよ、スヴァローグ。

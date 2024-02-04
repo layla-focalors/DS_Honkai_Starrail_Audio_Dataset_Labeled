@@ -1,0 +1,46 @@
+VO_KO_Archive_Herta_1.ogg  ||  난 헤르타야, 지금 엄청 바쁘고 이건 원격 인형의 자동 응답 모드지. 안녕, 안녕, 모두들 안녕. 즐거운 하루가 되길 바랄게, 이만
+VO_KO_Archive_Herta_2.ogg  ||  오늘 나랑 같이 연구하자——내가 널 연구하는 거지
+VO_KO_Archive_Herta_3.ogg  ||  오늘은 너한테 흥미가 안 생기네, 내일 다시 보자
+VO_KO_Archive_Herta_6.ogg  ||  예뻐? 어릴 적 모습의 70% 정도 닮았다고 해두지
+VO_KO_Archive_Herta_7.ogg  ||  밤에 잠 못 잘 테니까 상상은 안 하는 게 좋아
+VO_KO_Archive_Herta_4.ogg  ||  지니어스 클럽의 장점은 나한테 아무것도 바라지 않는다는 거야, 심지어는 나의 존재 여부조차 신경 쓰지 않아
+VO_KO_Archive_Herta_5.ogg  ||  에이언즈를 알현할 수 있는 이유? 난 헤르타잖아
+VO_KO_Archive_Herta_8.ogg  ||  문제도 안 풀고 원고도 안 쓰면서 인생이 재미없다고 하면 안 되지
+VO_KO_Archive_Herta_9.ogg  ||  난 충분히 완벽한데 여기서 뭘 더 하겠어? 물론 책 몇 권 더 쓸 수는 있지만… 그게 다 무슨 소용이고 왜 그런 헛수고 해야 하지?
+VO_KO_Archive_Herta_13.ogg  ||  박학다식한 사람들은 그럴듯한 해결 방안이 있으시더라고, 하룻밤 사이에 쓴 책장들로 도서관이라도 지을 기세야. 그게 문제라는 거지
+VO_KO_Archive_Herta_14.ogg  ||  「적막의 영주」는 초상화의 눈을 지웠지만, 모든 이의 시선을 사로잡았어
+VO_KO_Archive_Herta_10.ogg  ||  아스타는 특별한 아이들을 후원한 적이 있어, 아를란도 그중 한 명일 거야
+VO_KO_Archive_Herta_11.ogg  ||  다른 소장실에도 아스타 같은 관리인을 찾는 날이 언제쯤 오려나. 그럼 손을 뗄 텐데
+VO_KO_Archive_Herta_12.ogg  ||  아무리 시시한 물건을 선물해도, 내 손에 들어오면 흥미로운 물건으로 탈바꿈해
+VO_KO_Archive_Herta_15.ogg  ||  완•매가 천재 중의 천재라는 건 인정해. 나와 잘 안 맞긴 하지만, 난 그녀를 높이 평가하지…. 천재가 천재를 알아본 거 아닐까?
+VO_KO_Archive_Herta_Eidolon_Activation.ogg  ||  누가 나한테 영감이 뭔지 묻더라고. 그건 분당 수천 번씩 두뇌에 전해지는 파동일 뿐이잖아?
+VO_KO_Archive_Herta_Character_Ascension.ogg  ||  버전 업데이트? 영 별로네
+VO_KO_Archive_Herta_Max_Level_Reached.ogg  ||  자자, 이제 이 신체는 그만 내버려 둬
+VO_KO_Archive_Herta_Trace_Activation.ogg  ||  이쯤 해. 인형일 뿐이니까 너무 큰 기대는 하지 말고
+VO_KO_Archive_Herta_Added_to_Team_With_Arlan.ogg  ||  왜 날 볼 때마다 그런 표정인데? 내가 널 잡아먹기라도 해?
+VO_KO_Archive_Herta_Added_to_Team_With_Asta.ogg  ||  아스타구나…! 그럼 안심하고 너한테 맡길래, 안녕~
+VO_KO_Archive_Herta_Added_to_Team_With_Himeko.ogg  ||  여전하네. 처음 보는 물건이 있으면 우선 나한테 빌려줘 봐
+VO_KO_Archive_Herta_Added_to_Team_With_Ruan_Mei.ogg  ||  시뮬레이션 우주 밖에서 널 만나다니, 이번엔 누구로 실험하려고? 내 도움이 필요하면 말해
+VO_KO_Herta_Battle_Begins_-_Weakness_Break_01.ogg  ||  그러면… 안 돼
+VO_KO_Herta_Battle_Begins_-_Danger_Alert_01.ogg  ||  조금 더 강할 뿐이야
+VO_KO_Herta_Turn_Begins_01.ogg  ||  보긴 뭘 봐?
+VO_KO_Herta_Turn_Begins_02.ogg  ||  날 만나서 영광이지?
+VO_KO_Herta_Turn_Idling_01.ogg  ||  대기 중… 나 심심해
+VO_KO_Herta_Basic_ATK_01.ogg  ||  아플걸?
+VO_KO_Herta_Skill_01.ogg  ||  조용히 좀 할 수 없을까!?
+VO_KO_Herta_Hit_by_Light_Attack_01.ogg  ||  망가질 수 없지
+VO_KO_Herta_Hit_by_Heavy_Attack_01.ogg  ||  망가지겠어!
+VO_KO_Herta_Ultimate_-_Activate_01.ogg  ||  내가 누군지 알아?
+VO_KO_Herta_Ultimate_-_Unleash_01.ogg  ||  이렇게 큰 다이아는 처음이지? 너 줄게~
+VO_KO_Herta_Talent_01.ogg  ||  빙글뱅글~
+VO_KO_Herta_Talent_02.ogg  ||  떼굴떼굴~
+VO_KO_Herta_Downed_01.ogg  ||  연결… 단절……
+VO_KO_Herta_Return_to_Battle_01.ogg  ||  재… 가동……
+VO_KO_Herta_Health_Recovery_01.ogg  ||  재치 있네
+VO_KO_Herta_Technique_01.ogg  ||  사양 업그레이드
+VO_KO_Herta_Battle_Won_01.ogg  ||  시간을 낭비했잖아!
+VO_KO_Herta_Treasure_Opening_01.ogg  ||  겨우 이거야?
+Special:Upload?wpDestFile=VO_KO_Herta_Treasure_Opening_02.ogg  ||  응? 괜찮네
+VO_KO_Herta_Successful_Puzzle-Solving_01.ogg  ||  이렇게 오래 생각한다고?
+VO_KO_Herta_Enemy_Target_Found_01.ogg  ||  어떻게 할지는 내 기분에 달렸어
+VO_KO_Herta_Returning_to_Town_01.ogg  ||  이곳에 내가 흥미를 느낄 수 있는 게 있다고? 그럴 리가

@@ -1,0 +1,49 @@
+VO_KO_Archive_Argenti_1.ogg  ||  전 「미(美)의 기사단」 아젠티입니다. 장미의 이름으로 그대에게 인사 올리죠
+VO_KO_Archive_Argenti_2.ogg  ||  곤란한 일이 생기면 꼭 알려주세요. 제가 안전하게 지켜드릴게요
+VO_KO_Archive_Argenti_3.ogg  ||  업무를 이유로 은하를 홀로 다녀야 해서 그대와 함께할 수 없는 절 이해해주세요. 우린 우주 어디에서 반드시 마주칠 겁니다
+VO_KO_Archive_Argenti_4.ogg  ||  전 미(美)의 기사단의 「수훈(受勳) 기사」예요. 말끔히 조각된 갑옷이 저희의 상징이랍니다
+VO_KO_Archive_Argenti_5.ogg  ||  미(美)의 기사단이 모이는 경우는 극히 드물죠. 하지만 우린 같은 「기사도」를 따라 여러 행성을 오가며 우주 전역에 여신님의 명성을 알리고 있어요
+VO_KO_Archive_Argenti_6.ogg  ||  전 우주선에 「유일무이」라는 이름을 붙여줬어요. 청소하려면 꽤나 힘들죠…. 외관을 이렇게 복잡하게 조각하는 게 아니었어요
+VO_KO_Archive_Argenti_7.ogg  ||  전 두껍고 단단한 바게트를 선호해요. 창으로 썰어서 보관하면 휴대도 편리해서 긴 여정에 빠질 수 없는 좋은 먹거리죠
+VO_KO_Archive_Argenti_8.ogg  ||  스타피스 컴퍼니가 만든 각종 오락과 미식은 다양하고 놀랍죠. 하지만, 그 비결을 도통 알 수가 없어요. 언젠가 달인의 지도를 받아보고 싶네요
+VO_KO_Archive_Argenti_9.ogg  ||  어떤 행성에서는 전사들이 개조한 의수에 책 페이지를 문질러서 지식을 신경에 직접 주입한다고 하더군요. 깜짝 놀랐지만 꽤 좋은 방법 같아요
+VO_KO_Archive_Argenti_10.ogg  ||  「추악함」이 존재하지 않는 행성에 대해 들어보셨나요? 재미있는 게 그 행성 사람들 눈에는 「아름다움」도 존재하지 않는대요
+VO_KO_Archive_Argenti_11.ogg  ||  Mar. 7th 씨의 마음은 순수해요. 이렇게 착한 마음씨와 품행은 아주 귀하죠. 은하에는 본성이 속물적이고 감언이설에 능한 사람도 많아서, 이런 분을 보면 더욱 아껴주고 존중하고 싶답니다
+VO_KO_Archive_Argenti_12.ogg  ||  이분의 영혼은 참으로 고귀해요. 개척의 여정은 길고 험한데 그녀는 여유와 용기를 잃은 적이 없으니, 참 마음에 들더군요. 전 이런 이상적인 품성을 본받아, 제 자신을 더욱 엄격하게 대하고 악에 저항하는 마음을 다잡겠어요
+VO_KO_Archive_Argenti_13.ogg  ||  단항 씨는 늘 사람을 경계하고 있지만, 행동은 언제나 점잖고 본인에 대한 잣대도 기사도 정신을 지키듯 엄격해요. 이 또한 「아름다움」이라고 여길 수 있게 해 주시죠
+VO_KO_Archive_Argenti_14.ogg  ||  시간이 흘러도 천진한 마음으로 인생을 가장 순수하게 즐기는 분이에요——그런 성숙한 모습이 웰트 씨의 매력이죠
+VO_KO_Archive_Argenti_15.ogg  ||  참으로 「매력적인」 솜덩어리에요. 갑옷 입은 기사의 어깨 위에 앉아 있으면 「명예」의 상징으로 잘 어울릴 것 같아요
+VO_KO_Archive_Argenti_16.ogg  ||  아, 「매력」 넘치는 동글이에요
+VO_KO_Archive_Argenti_17_M.ogg  ||  (Trailblazer)의 타고 난 기질은 항상 우리가 처음 만났던 날처럼 신기하고 흥미로워요
+VO_KO_Archive_Argenti_Eidolon_Activation.ogg  ||  「미(美)」는 어디에나 존재하죠——지척에도, 아름다운 은하 너머에도요
+VO_KO_Archive_Argenti_Character_Ascension.ogg  ||  한걸음씩 가면 늪에 빠질 염려가 없죠
+VO_KO_Archive_Argenti_Max_Level_Reached.ogg  ||  죽을 때까지 「미(美)」의 명성을 우주 널리 알릴 것을 맹세하죠
+VO_KO_Archive_Argenti_Trace_Activation.ogg  ||  기사단 여러분과 행적이 다를지라도, 우린 종점에서 만나게 될 거예요
+VO_KO_Archive_Argenti_Added_to_Team_With_March_7th.ogg  ||  Mar. 7th, 미약한 힘이지만 당신을 위해 어둠을 물리치게 해주시죠!
+VO_KO_Archive_Argenti_Added_to_Team_With_Dan_Heng.ogg  ||  이곳은 무력이 아니라 지략을 겨루는 곳이죠. 단항 씨, 당신과 함께하게 돼서 영광입니다
+VO_KO_Archive_Argenti_Added_to_Team_With_Himeko.ogg  ||  당신인가요, 히메코 씨? 역시 당신의 용기가 닿는 곳에는 별이 빛나는군요
+VO_KO_Archive_Argenti_Added_to_Team_With_Welt.ogg  ||  웰트 씨——구름처럼 종잡을 수 없는 기교와, 좋은 술처럼 달콤한 지략으로 절 좀 도와주세요
+VO_KO_Argenti_Battle_Begins_-_Weakness_Break_01.ogg  ||  선을 행하시죠
+VO_KO_Argenti_Battle_Begins_-_Danger_Alert_01.ogg  ||  찰나의 먹구름일 뿐
+VO_KO_Argenti_Turn_Begins_01.ogg  ||  장미에 대고 맹세하죠
+VO_KO_Argenti_Turn_Begins_02.ogg  ||  미의 기사단의 직무에 따라
+VO_KO_Argenti_Turn_Idling_01.ogg  ||  방황하는 님이여, 어딜 보고 있나요?
+VO_KO_Argenti_Skill_01.ogg  ||  미는 영원하리
+VO_KO_Argenti_Skill_02.ogg  ||  추함은 소멸하라
+VO_KO_Argenti_Hit_by_Light_Attack_01.ogg  ||  간지럽군요
+VO_KO_Argenti_Hit_by_Heavy_Attack_01.ogg  ||  기사의 시련……
+VO_KO_Argenti_Ultimate_-_Activate_01.ogg  ||  다시 그 빛을 보기 전까지……
+VO_KO_Argenti_Ultimate_-_Unleash_01.ogg  ||  마지막 순간까지, 은하의 미를 수호하리
+VO_KO_Argenti_Ultimate_-_Unleash_02.ogg  ||  (강화) ……이드릴라 님을 위하여
+VO_KO_Argenti_Downed_01.ogg  ||  「그분」은… 어디에……
+VO_KO_Argenti_Return_to_Battle_01.ogg  ||  신념은 깨지지 않죠
+VO_KO_Argenti_Health_Recovery_01.ogg  ||  감사합니다, 마음에 새겨둘게요
+VO_KO_Argenti_Technique_01.ogg  ||  영광이 있도다
+VO_KO_Argenti_Battle_Won_01.ogg  ||  어둠은 여기까지
+VO_KO_Argenti_Treasure_Opening_01.ogg  ||  호? 마음에 드는 이벤트군요
+VO_KO_Argenti_Treasure_Opening_02.ogg  ||  제가 답례로 드릴 수 있는 건 장미의 향기뿐입니다
+VO_KO_Argenti_Precious_Treasure_Opening_01.ogg  ||  빛나는 아름다움은 사람의 마음을 움직이죠……
+VO_KO_Argenti_Successful_Puzzle-Solving_01.ogg  ||  현명한 판단이군요
+VO_KO_Argenti_Successful_Puzzle-Solving_02.ogg  ||  걱정 마세요, 제가 대신하죠
+VO_KO_Argenti_Enemy_Target_Found_01.ogg  ||  한번 겨뤄볼까요?
+VO_KO_Argenti_Returning_to_Town_01.ogg  ||  익숙한 바람은… 그리움을 부르죠

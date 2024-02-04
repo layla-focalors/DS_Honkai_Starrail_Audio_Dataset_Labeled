@@ -1,0 +1,52 @@
+VO_Archive_Qingque_1.ogg  ||  I'm Qingque, a diviner from the Divination Commission. You wanna play Celestial Jade? Okay, come back during my work hours.
+VO_Archive_Qingque_2.ogg  ||  You're here this early again? So diligent...
+VO_Archive_Qingque_3.ogg  ||  Let's go, let's go, time to play. Are you... thinking of working overtime!?
+VO_Archive_Qingque_4.ogg  ||  Work is not about increasing value. It just pays your bills. The trick is to increase value for yourself at your employer's expense.
+VO_Archive_Qingque_5.ogg  ||  My Mom said I could relax in a secure job once I passed the Divination Commission entrance exam. Now that I'm in, I feel like I should be doing more...
+VO_Archive_Qingque_6.ogg  ||  Told off by my manager? Go play some Celestial Jade. Too much work? Go play some Celestial Jade. Ahhhh, Celestial Jade is my savior!
+VO_Archive_Qingque_7.ogg  ||  I can't play Celestial Jade on my own. How come Celestial Jade isn't omnipotent...
+VO_Archive_Qingque_8.ogg  ||  There are three basic principles for happiness at work – do not be proactive, do not say no, and do not be responsible. You should give it a try~
+VO_Archive_Qingque_9.ogg  ||  Fun number one, knowing there are books for leisure on the Xianzhou. Fun number two, browsing these books in the Spare Time Bookshop [sic]. Fun number three — the greatest fun — reading those books at work.
+VO_Archive_Qingque_10.ogg  ||  I heard the general often listens to music with his eyes closed. Can we promote that in the Divination Commission? Thank you, general.
+VO_Archive_Qingque_11.ogg  ||  I've heard his name. A genius boy, and working every day at such a young age? Sounds exhausting.
+VO_Archive_Qingque_12.ogg  ||  As soon as I have free time, the master diviner immediately appears and gives me mundane jobs to do... It looks like I need to work on time management more...
+VO_Archive_Qingque_13.ogg  ||  She's a big shot from the Sky-Faring Commission who can't rest even after retiring from the front lines. It's hard being a powerful official.
+VO_Archive_Qingque_14.ogg  ||  I saw Tingyun stopping in front of the games parlor once, so I invited her to play a round. Tingyun is pretty and her play is entertaining. People crowded around the game table that day and the mood was on fire. The owner lost all his money — it was great to watch.
+VO_Archive_Qingque_15.ogg  ||  Who? That sounds like an outsider... We've got a lot of outsiders. You'll come across them a lot in The Looking Bronze. He's probably here to seek success in "Seeking Immortality" for himself... Yes, I did say "seek" twice.
+VO_Archive_Qingque_16.ogg  ||  A newcomer with the Cloud Knights? *sigh* Just go back to where she's from. Everything is so competitive here in the Luofu. You can't get promoted.
+VO_Archive_Qingque_17.ogg  ||  I got a bit too excited playing Celestial Jade once and sprained my wrist — a friend recommended her to me. I had my doubts at first, but as soon as she'd written out my prescription, she took out a Celestial Jade set. She told me to practice stacking the tiles to improve wrist flexibility. Naturally, I instantly respected her.
+VO_Archive_Qingque_18.ogg  ||  Guinaifen... Oh, you mean Little Gui! Every time I lose at celestial jade, I go watch her acrobatics performance to cheer me up. It's just... I never have enough strale to give her a tip...
+VO_Archive_Qingque_19.ogg  ||  Every time I spot that kid, I can't help but feel this intense need to teach her how to play Celestial Jade. I've got to teach her the ins and outs...
+Special:Upload?wpDestFile=VO_Archive_Qingque_29.ogg  ||  You know that book "An Unsuitable Job for A Puppet?" I didn't just read it, I even scribbled down some notes. Shame, though, I still don't have a clue who wrote it...
+VO_Archive_Qingque_23.ogg  ||  When it comes to Celestial Jade, it's all about synergy and luck.
+VO_Archive_Qingque_26.ogg  ||  A free performance by Little Gui? There's no way I'm missing that~
+VO_Qingque_Battle_Begins_-_Weakness_Break_01.ogg  ||  Play hard, win big, keep quiet~
+VO_Qingque_Battle_Begins_-_Danger_Alert_01.ogg  ||  When the odds are against you, cut your losses~
+VO_Qingque_Turn_Begins_01.ogg  ||  Wait for the tiles before you start counting~
+VO_Qingque_Turn_Begins_02.ogg  ||  Fights are like gambling — you have to choose when to strike!
+VO_Qingque_Turn_Idling_01.ogg  ||  Don't rush — the game is always changing~
+VO_Qingque_Basic_ATK_01.ogg  ||  Don’t need this tile~
+VO_Qingque_Enhanced_Basic_ATK_01.ogg  ||  Time for the payout.
+VO_Qingque_Skill_01.ogg  ||  Gotcha!
+VO_Qingque_Skill_02.ogg  ||  Stay calm.
+VO_Qingque_Skill_03.ogg  ||  Come onnnn~
+VO_Qingque_Skill_04.ogg  ||  Ooh~
+VO_Qingque_Skill_05.ogg  ||  Wow~
+VO_Qingque_Skill_S_01.ogg  ||  (Mismatched Tile) This hand sucks...
+VO_Qingque_Hit_by_Light_Attack_01.ogg  ||  Fluke.
+VO_Qingque_Hit_by_Heavy_Attack_01.ogg  ||  Sore loser!
+VO_Qingque_Ultimate_-_Activate_01.ogg  ||  Luck of the draw...!
+VO_Qingque_Ultimate_-_Unleash_01.ogg  ||  Please, please, please, please, please... aaaand ah! Looks like... victory!
+VO_Qingque_Talent_01.ogg  ||  Better late than never!
+VO_Qingque_Talent_02.ogg  ||  That's a set!
+VO_Qingque_Downed_01.ogg  ||  Time for a... day off...
+VO_Qingque_Return_to_Battle_01.ogg  ||  Need an extra player?
+VO_Qingque_Health_Recovery_01.ogg  ||  Tasty.
+VO_Qingque_Technique_01.ogg  ||  Feeling lucky~
+VO_Qingque_Battle_Won_01.ogg  ||  We're on a roll, hehe~
+VO_Qingque_Treasure_Opening_01.ogg  ||  We're in the money~
+VO_Qingque_Treasure_Opening_02.ogg  ||  I could use some of your luck~
+VO_Qingque_Precious_Treasure_Opening_01.ogg  ||  Jackpot!
+VO_Qingque_Successful_Puzzle-Solving_01.ogg  ||  Just another walk in the park~
+VO_Qingque_Enemy_Target_Found_01.ogg  ||  Time for another round — let’s get them~
+VO_Qingque_Returning_to_Town_01.ogg  ||  Just thinking about work gives me a full-body migraine...

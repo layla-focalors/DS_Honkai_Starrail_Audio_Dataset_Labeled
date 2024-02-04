@@ -1,0 +1,46 @@
+VO_KO_Archive_Dr._Ratio_1.ogg  ||  난 베리타스•레이시오야. 지식학회의 학자이자 선생이고, 평범한 사람이기도 하지. 언젠가 머리가 「우둔」해지는 증상이 나타나면, 그때는 날 「Dr. 레이시오」라고 불러줘
+VO_KO_Archive_Dr._Ratio_2.ogg  ||  골치 아픈 모양이군, 무슨 문제라도 생겼나? 그렇다면——스스로 해결하도록 해
+VO_KO_Archive_Dr._Ratio_3.ogg  ||  또 하루가 지났어. 아직도 네 문제가 해결되지 않았다면, 그건 너 자신이 문제라서가 아닐까?
+VO_KO_Archive_Dr._Ratio_4.ogg  ||  첫째, 석고상을 쓰면 오감이 차단돼서 방해받지 않고 생각할 수 있어. 둘째, 난 바보들을 보기 싫거든. 물론 그들도 내가 보고 싶지 않겠지
+VO_KO_Archive_Dr._Ratio_5.ogg  ||  강의와 치료에 도움이 된다면, 얼굴을 노출하는 건 꺼리진 않아. 하지만 그간의 경험으로 보면 대부분 백해무익이더군
+VO_KO_Archive_Dr._Ratio_6.ogg  ||  지식학회는 늘 지식의 판매자라고 여겨지지만, 가격을 결정할 권리는 언제나 구매자에게 있었어. 누군가가 원한다면 지식은 보급 및 유통되고, 가격이 매겨지지
+VO_KO_Archive_Dr._Ratio_7.ogg  ||  그들은 진리에 자신을 바쳤다…. 틀린 말은 아니야. 그들의 모든 건 다 「누스」를 위한 것이니까
+VO_KO_Archive_Dr._Ratio_8.ogg  ||  난 책, 욕조와는 떼려야 뗄 수 없어. 책은 더더욱 그렇지. 머리가 더러운 것들로 가득 차 있다면, 몸도 깨끗해질 수 없어
+VO_KO_Archive_Dr._Ratio_9.ogg  ||  바보한테는 뭐가 「바보」인지조차 설명할 수 없어
+VO_KO_Archive_Dr._Ratio_10.ogg  ||  묻기 전에 이미 답을 정하고 묻는 게 아닌지 먼저 생각해 봐. 그런 질문은 입 밖에 내지 않는 게 모두한테 좋아
+VO_KO_Archive_Dr._Ratio_11.ogg  ||  진리의 묘미는 이해하는 사람이 없어도 변하지 않는다는 점에 있어. 나 자신도 그렇고
+VO_KO_Archive_Dr._Ratio_12.ogg  ||  헤르타는 가장 전형적인 지니어스야——하늘이 내린 기재를 지녔고, 안하무인이지. 그녀의 재능을 의심하진 않지만, 그 재능이 타인에게 도움이 될지는 의심스러워
+VO_KO_Archive_Dr._Ratio_13.ogg  ||  스크루룸은 자신의 영역 안에서 새로운 법칙을 세우려 하고 있어. 난 이런 사람을 지니어스라기보단 군왕이라고 부르고 싶어
+VO_KO_Archive_Dr._Ratio_14.ogg  ||  「은둔자」를 자칭하는 그녀에게 얼마나 많은 사람이 속고 있는 줄 알아? 내가 보기에 그녀가 연구하려는 건 생명만이 아니야——두고 봐. 그녀야말로 지니어스 클럽의 진정한 야심가니까
+VO_KO_Archive_Dr._Ratio_Eidolon_Activation.ogg  ||  생각을 통해서가 아니면, 자신을 알 수 있는 다른 수단은 없어
+VO_KO_Archive_Dr._Ratio_Character_Ascension.ogg  ||  성장이 빠를수록 실수가 많아지는 법이지
+VO_KO_Archive_Dr._Ratio_Max_Level_Reached.ogg  ||  난 지금까지 누스의 인정을 받지 못했으니, 앞으로도 그러지 못할 거라는 근거가 생긴 셈이지
+VO_KO_Archive_Dr._Ratio_Trace_Activation.ogg  ||  타인과 같은 일을 해도 넌 완전히 다른 결과를 얻을 걸
+VO_KO_Archive_Dr._Ratio_Added_to_Team_With_Herta.ogg  ||  지니어스의 멸시를 받고도 평범한 사람이 자신을 믿을 수 있을까?
+VO_KO_Archive_Dr._Ratio_Added_to_Team_With_Ruan_Mei.ogg  ||  생명의 본능을 제어하고 자극하는 건… 나보다 더 잘 알겠지?
+VO_KO_Dr._Ratio_Battle_Begins_-_Weakness_Break_01.ogg  ||  그걸 방어라고 하는 건가?
+VO_KO_Dr._Ratio_Battle_Begins_-_Danger_Alert_01.ogg  ||  엄격한 지도가… 필요한 건가?
+VO_KO_Dr._Ratio_Turn_Begins_01.ogg  ||  내가 질문하지
+VO_KO_Dr._Ratio_Turn_Begins_02.ogg  ||  모두의 대답이 기대되는군
+VO_KO_Dr._Ratio_Turn_Idling_01.ogg  ||  천천히 잘 생각하고 결정해
+VO_KO_Dr._Ratio_Basic_ATK_01.ogg  ||  머리를 써!
+VO_KO_Dr._Ratio_Skill_01.ogg  ||  내가 한번 시험해보지
+VO_KO_Dr._Ratio_Skill_02.ogg  ||  생각을 멈추지 마
+VO_KO_Dr._Ratio_Hit_by_Light_Attack_01.ogg  ||  경솔하군!
+VO_KO_Dr._Ratio_Hit_by_Heavy_Attack_01.ogg  ||  우매하긴!
+VO_KO_Dr._Ratio_Ultimate_-_Activate_01.ogg  ||  이미 감지됐어——
+VO_KO_Dr._Ratio_Ultimate_-_Unleash_01.ogg  ||  지식은 만물의 척도이자, 진리를 파헤치고, 오류를 근절하지
+VO_KO_Dr._Ratio_Talent_01.ogg  ||  0점, 다음!
+VO_KO_Dr._Ratio_Talent_02.ogg  ||  마이너스, 퇴출!
+VO_KO_Dr._Ratio_Downed_01.ogg  ||  「평범한 자」라니… 윽……
+VO_KO_Dr._Ratio_Return_to_Battle_01.ogg  ||  잘했어, 플러스 10점
+VO_KO_Dr._Ratio_Health_Recovery_01.ogg  ||  나쁘지 않군, 플러스 5점
+VO_KO_Dr._Ratio_Technique_01.ogg  ||  평범한 자의 연극을 감상하시죠
+VO_KO_Dr._Ratio_Battle_Won_01.ogg  ||  계산 범위 내의 결과야
+VO_KO_Dr._Ratio_Treasure_Opening_01.ogg  ||  누가 지식은 속세에서 벗어나야 한다고 했지?
+VO_KO_Dr._Ratio_Treasure_Opening_02.ogg  ||  부는 진리를 방해하지 않아, 오히려 도움이 되지
+VO_KO_Dr._Ratio_Precious_Treasure_Opening_01.ogg  ||  「평범한 사람」으로서 기꺼이 받지
+VO_KO_Dr._Ratio_Successful_Puzzle-Solving_01.ogg  ||  이거 참… 「훌륭」하군
+VO_KO_Dr._Ratio_Successful_Puzzle-Solving_02.ogg  ||  지능계발 장난감 수준으론 나쁘지 않군
+VO_KO_Dr._Ratio_Enemy_Target_Found_01.ogg  ||  사람은 「자신을 아는 법」을 배워야 해
+VO_KO_Dr._Ratio_Returning_to_Town_01.ogg  ||  인생을 낭비할 준비됐나?

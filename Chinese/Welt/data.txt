@@ -1,0 +1,87 @@
+VO_ZH_Archive_Welt_1.ogg  ||  你好，我是瓦尔特•杨，遇到任何困难，欢迎随时来找我。
+VO_ZH_Archive_Welt_2.ogg  ||  嗯？没睡醒吗，别勉强自己，再睡一会儿吧。
+VO_ZH_Archive_Welt_3.ogg  ||  睡不着么？我理解，灵感总在夜晚时敲门，很难拒绝它，不是么？
+VO_ZH_Archive_Welt_5.ogg  ||  我当了八年的动画师，生活基本是两点一线。和冒险相比可能有些「无聊」，可工作本身就是一件很有价值的事情，是为人们创造梦想。
+VO_ZH_Archive_Welt_6.ogg  ||  唔，说来话长，而且不免提到一些大家都宁可忘掉的人或事，还是不说为好。总之，我在宇宙中迷了路，幸运地遇见了开着列车的姬子。
+VO_ZH_Archive_Welt_4.ogg  ||  你想入坑？这系列只在我家乡放映过，不知道宇宙里能不能弄到…我可以用「拟态」能力复现几集给你看看，但精细度可不敢保证。
+VO_ZH_Archive_Welt_7.ogg  ||  研究历史，制作动画…这两者并不矛盾。
+VO_ZH_Archive_Welt_8.ogg  ||  (Trailblazer)你就像动画里的主角，伙伴们都自然而然地凝聚在你的身边…别误会，只是感慨一下，我亲自冒险的机会可能又少了……
+VO_ZH_Archive_Welt_13.ogg  ||  我的故乡，一度被名为「崩坏」的力量所侵蚀，但这不妨碍它是个美丽而温暖的世界。
+VO_ZH_Archive_Welt_14.ogg  ||  你知道「存护」克里珀的信徒是怎么演变成「星际和平公司」的？神明要筑墙，而人类为了跟随神明的脚步，开始寻找筑墙的建材——这件事充满着黑色幽默。
+VO_ZH_Archive_Welt_9.ogg  ||  小三月对什么事都充满着好奇，还经常让我演示各种战斗姿势，她说那样很帅，是这样吗？你也这么觉得？原来如此。
+VO_ZH_Archive_Welt_10.ogg  ||  他很安全。我知道他有所顾虑…然而丹恒现在是列车组的一员，我和姬子不会让任何人伤害他。
+VO_ZH_Archive_Welt_11.ogg  ||  姬子是那种…会发光的人。虽然我们是在重走列车过去的航路，但只要看到姬子，你就能看到她的梦想在闪光，她仿佛一开始就在列车上，一路驶向她的星穹。
+VO_ZH_Archive_Welt_12.ogg  ||  无论何时需要帮助，帕姆都会及时赶到，不过请不要故意寻它开心，上一个这么做的人已经……
+VO_ZH_Archive_Welt_15.ogg  ||  有一句我很喜欢的话，也想送给他：「这片银河容得下任何的可能性，而人的命运也不应当只有上天给予的那一条道路。」
+VO_ZH_Archive_Welt_Eidolon_Activation.ogg  ||  新的冒险，新的伙伴…真不错啊。
+VO_ZH_Archive_Welt_Character_Ascension.ogg  ||  回来的…不只是当年的热血与激情。
+VO_ZH_Archive_Welt_Max_Level_Reached.ogg  ||  浩瀚星海间，也将留下我们的痕迹。
+VO_ZH_Archive_Welt_Trace_Activation.ogg  ||  同大家相处久了，总觉得自己也在越来越年轻。
+VO_ZH_Archive_Welt_Added_to_Team_With_Himeko.ogg  ||  能同姬子小姐一起战斗的机会不多，这次该轮到我们表现了。
+VO_ZH_Archive_Welt_Added_to_Team_With_Dan_Heng.ogg  ||  有丹恒在我自然放心，不过…也不要太过勉强自己。
+VO_ZH_Archive_Welt_Added_to_Team_With_March_7th.ogg  ||  年轻人有活力是好事…只是行动前，小三月，记得提醒我一声。
+VO_ZH_Archive_Welt_1.ogg  ||  
+VO_ZH_Archive_Welt_2.ogg  ||  
+VO_ZH_Archive_Welt_3.ogg  ||  
+VO_ZH_Archive_Welt_5.ogg  ||  
+VO_ZH_Archive_Welt_6.ogg  ||  
+VO_ZH_Archive_Welt_4.ogg  ||  
+VO_ZH_Archive_Welt_7.ogg  ||  
+VO_ZH_Archive_Welt_8.ogg  ||  
+VO_ZH_Archive_Welt_13.ogg  ||  
+VO_ZH_Archive_Welt_14.ogg  ||  
+VO_ZH_Archive_Welt_9.ogg  ||  
+VO_ZH_Archive_Welt_10.ogg  ||  
+VO_ZH_Archive_Welt_11.ogg  ||  
+VO_ZH_Archive_Welt_12.ogg  ||  
+VO_ZH_Archive_Welt_15.ogg  ||  
+VO_ZH_Archive_Welt_Eidolon_Activation.ogg  ||  
+VO_ZH_Archive_Welt_Character_Ascension.ogg  ||  
+VO_ZH_Archive_Welt_Max_Level_Reached.ogg  ||  
+VO_ZH_Archive_Welt_Trace_Activation.ogg  ||  
+VO_ZH_Archive_Welt_Added_to_Team_With_Himeko.ogg  ||  
+VO_ZH_Archive_Welt_Added_to_Team_With_Dan_Heng.ogg  ||  
+VO_ZH_Archive_Welt_Added_to_Team_With_March_7th.ogg  ||  
+VO_ZH_Welt_Battle_Begins_-_Weakness_Break_01.ogg  ||  看来你们需要吃点苦头。
+VO_ZH_Welt_Battle_Begins_-_Danger_Alert_01.ogg  ||  保持冷静。
+VO_ZH_Welt_Turn_Begins_01.ogg  ||  接下来，就交给我吧。
+VO_ZH_Welt_Turn_Begins_02.ogg  ||  现在离开，还来得及。
+VO_ZH_Welt_Turn_Idling_01.ogg  ||  该下决断了。
+VO_ZH_Welt_Basic_ATK_02.ogg  ||  退下吧。
+VO_ZH_Welt_Skill_01.ogg  ||  让身体和头脑都冷静一下吧。
+VO_ZH_Welt_Skill_02.ogg  ||  我不会手下留情！
+VO_ZH_Welt_Hit_by_Light_Attack_01.ogg  ||  我没事。
+VO_ZH_Welt_Hit_by_Heavy_Attack_01.ogg  ||  不过这点程度……
+VO_ZH_Welt_Ultimate_-_Activate_01.ogg  ||  这份力量的沉重，你一无所知。
+VO_ZH_Welt_Ultimate_-_Unleash_01.ogg  ||  见识一下星辰粉碎的样子吧…生存还是毁灭，你别无选择。
+VO_ZH_Welt_Downed_01.ogg  ||  交给…你们了……
+VO_ZH_Welt_Return_to_Battle_01.ogg  ||  我还是放心不下。
+VO_ZH_Welt_Health_Recovery_01.ogg  ||  及时的治疗。
+VO_ZH_Welt_Technique_01.ogg  ||  留下来吧。
+VO_ZH_Welt_Battle_Won_01.ogg  ||  这片银河，容得下任何可能性。
+VO_ZH_Welt_Treasure_Opening_01.ogg  ||  挺有趣的。
+Special:Upload?wpDestFile=VO_ZH_Welt_Treasure_Opening_02.ogg  ||  一定能派上用场。
+VO_ZH_Welt_Successful_Puzzle-Solving_01.ogg  ||  手感不错。
+VO_ZH_Welt_Enemy_Target_Found_01.ogg  ||  强敌在前，也不妨一试。
+VO_ZH_Welt_Returning_to_Town_01.ogg  ||  目的地…你们决定就好。
+VO_ZH_Welt_Battle_Begins_-_Weakness_Break_01.ogg  ||  
+VO_ZH_Welt_Battle_Begins_-_Danger_Alert_01.ogg  ||  
+VO_ZH_Welt_Turn_Begins_01.ogg  ||  
+VO_ZH_Welt_Turn_Begins_02.ogg  ||  
+VO_ZH_Welt_Turn_Idling_01.ogg  ||  
+VO_ZH_Welt_Basic_ATK_02.ogg  ||  
+VO_ZH_Welt_Skill_01.ogg  ||  
+VO_ZH_Welt_Skill_02.ogg  ||  
+VO_ZH_Welt_Hit_by_Light_Attack_01.ogg  ||  
+VO_ZH_Welt_Hit_by_Heavy_Attack_01.ogg  ||  
+VO_ZH_Welt_Ultimate_-_Activate_01.ogg  ||  
+VO_ZH_Welt_Ultimate_-_Unleash_01.ogg  ||  
+VO_ZH_Welt_Downed_01.ogg  ||  
+VO_ZH_Welt_Return_to_Battle_01.ogg  ||  
+VO_ZH_Welt_Health_Recovery_01.ogg  ||  
+VO_ZH_Welt_Technique_01.ogg  ||  
+VO_ZH_Welt_Battle_Won_01.ogg  ||  
+VO_ZH_Welt_Treasure_Opening_01.ogg  ||  
+VO_ZH_Welt_Successful_Puzzle-Solving_01.ogg  ||  
+VO_ZH_Welt_Enemy_Target_Found_01.ogg  ||  
+VO_ZH_Welt_Returning_to_Town_01.ogg  ||  

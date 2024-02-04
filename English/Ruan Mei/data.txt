@@ -1,0 +1,45 @@
+VO_Archive_Ruan_Mei_1.ogg  ||  My name is Ruan Mei. When saying my name, please don't run the syllables together.
+VO_Archive_Ruan_Mei_2.ogg  ||  Want some pastry? The plums used in this recipe are freshly macerated — I waited in line for ages.
+VO_Archive_Ruan_Mei_3.ogg  ||  If you come across a good research sample, please let me know. Until then.
+VO_Archive_Ruan_Mei_4.ogg  ||  After catching the attention of Nous, I left my hometown and began my research on the origin of life in a secret corner of the universe... please don't ask where.
+VO_Archive_Ruan_Mei_5.ogg  ||  In the grand fabric of life, both parents are equal, and thus my name combines the surnames of each of my parents.
+VO_Archive_Ruan_Mei_6.ogg  ||  You don't have to listen hard to hear the gossip coming from the Genius Society — Mad Scientist. I'll take it as a compliment.
+VO_Archive_Ruan_Mei_7.ogg  ||  As one with a sensitive palate, I only need one small bite to judge the taste of a pastry. I favor seasonal ingredients such as fresh fruits, flowers, and herbs. Pristine slices of life preserved inside a pastry — these provide the best dopamine response food has to offer.
+VO_Archive_Ruan_Mei_8.ogg  ||  I've never been able to really get into modern music, but I find opera enchanting. Time passes like a river whenever I listen to the strings and voices in an opera performance.
+VO_Archive_Ruan_Mei_9.ogg  ||  The redundancy of words and the restrictions of verbal communication make for a lot of empty noise. It makes me sad...
+VO_Archive_Ruan_Mei_10.ogg  ||  The feel of embroidery is similar to that of growing a culture in the laboratory — fine control of the wrist, just the right angle, and total commitment.
+VO_Archive_Ruan_Mei_11.ogg  ||  We may accelerate or postpone the arrival of death, but life will always wither. Though we will one day all be reduced to particles, we can still reach new heights.
+VO_Archive_Ruan_Mei_12.ogg  ||  Humans overestimate the infallibility of logic, and in clinging to reason can become slaves to their emotions. Science is born from fanaticism — it is a gift.
+VO_Archive_Ruan_Mei_13.ogg  ||  Some may find her personality unbearable — I can understand the sentiment, but I simply don't care. Of course, Herta knows this too, so I accepted her invitation.
+VO_Archive_Ruan_Mei_14.ogg  ||  Screwllum and I have very different understandings of life, but I don't think he realizes it. Fortunately, our communication is limited to matters related to the Simulated Universe.
+VO_Archive_Ruan_Mei_15.ogg  ||  Put a watermelon parfait in Herta's office and Stephen is sure to show up. Remember, the pumpkin ones will never attract him — those are for warding him off.
+VO_Archive_Ruan_Mei_Eidolon_Activation.ogg  ||  Can life's past moments truly be restored to what they once were?
+VO_Archive_Ruan_Mei_Character_Ascension.ogg  ||  Research is progressing at astronomical speeds.
+VO_Archive_Ruan_Mei_Max_Level_Reached.ogg  ||  Unfortunately, the mystery of the Aeons remains unsolved.
+VO_Archive_Ruan_Mei_Trace_Activation.ogg  ||  Every breath one takes is a perception of the self.
+VO_Archive_Ruan_Mei_Added_to_Team_With_Herta.ogg  ||  If this were the Simulated Universe, I'd be at your mercy — but this is real life.
+VO_Ruan_Mei_Battle_Begins_-_Weakness_Break_01.ogg  ||  A picture of grace and elegance.
+VO_Ruan_Mei_Battle_Begins_-_Danger_Alert_01.ogg  ||  What do we have here?
+VO_Ruan_Mei_Turn_Begins_01.ogg  ||  You hold some academic value, I suppose...
+VO_Ruan_Mei_Turn_Begins_02.ogg  ||  There's more to life than drawing breath.
+VO_Ruan_Mei_Turn_Idling_01.ogg  ||  Waiting means change.
+VO_Ruan_Mei_Basic_ATK_01.ogg  ||  You'll do.
+VO_Ruan_Mei_Basic_ATK_02.ogg  ||  Pay attention.
+VO_Ruan_Mei_Skill_01.ogg  ||  Eternal melody.
+VO_Ruan_Mei_Skill_02.ogg  ||  All things are as one.
+VO_Ruan_Mei_Hit_by_Light_Attack_01.ogg  ||  Enjoying yourself?
+VO_Ruan_Mei_Hit_by_Heavy_Attack_01.ogg  ||  Stay away.
+VO_Ruan_Mei_Ultimate_-_Activate_01.ogg  ||  Every petal in life's garden...
+VO_Ruan_Mei_Ultimate_-_Unleash_01.ogg  ||  Will be swept away... by the wind of time.
+VO_Ruan_Mei_Downed_01.ogg  ||  Still... unanswered...
+VO_Ruan_Mei_Return_to_Battle_01.ogg  ||  Let's continue.
+VO_Ruan_Mei_Health_Recovery_01.ogg  ||  So, this is the warmth of life...
+VO_Ruan_Mei_Technique_01.ogg  ||  Sound lingers.
+VO_Ruan_Mei_Battle_Won_01.ogg  ||  Life... a true marvel.
+VO_Ruan_Mei_Treasure_Opening_01.ogg  ||  A few decorative designs wouldn't go amiss.
+VO_Ruan_Mei_Treasure_Opening_02.ogg  ||  This might be of some use.
+VO_Ruan_Mei_Precious_Treasure_Opening_01.ogg  ||  Oh? Better than expected...
+VO_Ruan_Mei_Successful_Puzzle-Solving_01.ogg  ||  They call this a puzzle?
+VO_Ruan_Mei_Successful_Puzzle-Solving_02.ogg  ||  A simple solution — that's all it takes.
+VO_Ruan_Mei_Enemy_Target_Found_01.ogg  ||  Hmm? I wonder what that is?
+VO_Ruan_Mei_Returning_to_Town_01.ogg  ||  Take a rest, it's time for tea and cakes.

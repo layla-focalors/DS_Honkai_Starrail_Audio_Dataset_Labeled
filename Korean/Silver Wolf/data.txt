@@ -1,0 +1,39 @@
+VO_KO_Archive_Silver_Wolf_1.ogg  ||  아, (Trailblazer). 잘 지내는 거 같네? 그 스텔라론은 아무 영향도 없었던 거야?
+VO_KO_Archive_Silver_Wolf_2.ogg  ||  오늘도 접속했어?
+VO_KO_Archive_Silver_Wolf_3.ogg  ||  할 일은 다 끝냈어? 흠, 자려고 누운 다음에야 못다 한 일이 떠오르지 않길, 잘 가
+VO_KO_Archive_Silver_Wolf_6.ogg  ||  그냥 게임 닉네임 같은 거야. (Trailblazer) 너도 마찬가지잖아?
+VO_KO_Archive_Silver_Wolf_4.ogg  ||  이 우주에 더욱 다양한 콘텐츠를 추가하고 싶어. 매일 반복되는 탐험 과정은 지루하지 않아?
+VO_KO_Archive_Silver_Wolf_5.ogg  ||  프로메테우스는 4개의 모듈이 탑재되어 있어, 그중 말을 제일 잘하는 모듈은 「친구」지…. 「친구는 인연이니, 영원히 소중하게 여겨야 한다. 우리의 우정을 위해 건배!」
+VO_KO_Archive_Silver_Wolf_7.ogg  ||  머리를 쿠션에 파묻고 낮잠을 자는 거랑 귀여운 걸 조물조물하는 거
+VO_KO_Archive_Silver_Wolf_8.ogg  ||  부계정은 팔 수 없어. 엘리오도 안 돼
+VO_KO_Archive_Silver_Wolf_11.ogg  ||  우주정거장을 해킹할 때 겸사겸사 스크루룸의 초상화를 좀 수정했어. 근데… 결국은 원상 복귀시켰지
+VO_KO_Archive_Silver_Wolf_12.ogg  ||  좋아하는 게임들이 항상 같은 날에 버전을 업데이트하더라고. 짜고 치는 건가?
+VO_KO_Archive_Silver_Wolf_9.ogg  ||  「규칙을 무시」하는 쪽으로는 카프카한테 공감하지 않을 수 없어
+VO_KO_Archive_Silver_Wolf_10.ogg  ||  손 부상이 다 나으면 같이 게임하자고 약속했는데, 손이 지금까지도 안 낫더라고
+VO_KO_Archive_Silver_Wolf_13.ogg  ||  먼저 공격하는 건 항상 내 쪽이야. 그 녀석은 흥분할 줄 모르는 거 맞지?
+VO_KO_Archive_Silver_Wolf_Eidolon_Activation.ogg  ||  오, 치트키를 얻었어
+VO_KO_Archive_Silver_Wolf_Character_Ascension.ogg  ||  이대로 멈추지 말고 계속 유지해
+VO_KO_Archive_Silver_Wolf_Max_Level_Reached.ogg  ||  최고 레벨까지 올린 거야? 미래가 아주 밝네
+VO_KO_Archive_Silver_Wolf_Trace_Activation.ogg  ||  중요한 건 수치가 아니라 체험과 조작이야!
+VO_KO_Archive_Silver_Wolf_Added_to_Team_With_Kafka.ogg  ||  카프카, 「각본」에 없는 부분은 애드리브로 가도 돼?
+VO_KO_Archive_Silver_Wolf_Added_to_Team_With_Blade.ogg  ||  제발 뭐라고 말 좀 해…. 「각본」에 대화 금지라고 적혀 있지도 않잖아
+VO_KO_Silver_Wolf_Battle_Begins_-_Weakness_Break_01.ogg  ||  벌써 걸려들다니
+VO_KO_Silver_Wolf_Battle_Begins_-_Danger_Alert_01.ogg  ||  좀 까다롭네
+VO_KO_Silver_Wolf_Turn_Begins_01.ogg  ||  이번엔 좀 재밌게 해줄래?
+VO_KO_Silver_Wolf_Turn_Begins_02.ogg  ||  음, 적이 더 추가됐어
+VO_KO_Silver_Wolf_Turn_Idling_01.ogg  ||  ……임무 갱신하는 걸 잊었어. 빨리 처리하자
+VO_KO_Silver_Wolf_Skill_01.ogg  ||  자극 좀 줘봐
+VO_KO_Silver_Wolf_Hit_by_Light_Attack_01.ogg  ||  응?
+VO_KO_Silver_Wolf_Hit_by_Heavy_Attack_01.ogg  ||  글렀어
+VO_KO_Silver_Wolf_Ultimate_-_Activate_01.ogg  ||  전투를 최적화해야겠어
+VO_KO_Silver_Wolf_Ultimate_-_Unleash_01.ogg  ||  훗, 겨우 이거야? 느리네!
+VO_KO_Silver_Wolf_Downed_01.ogg  ||  난…
+VO_KO_Silver_Wolf_Return_to_Battle_01.ogg  ||  좋아, 한 판 더
+VO_KO_Silver_Wolf_Health_Recovery_01.ogg  ||  좋았어
+VO_KO_Silver_Wolf_Technique_01.ogg  ||  완벽한 약점 격파
+VO_KO_Silver_Wolf_Battle_Won_01.ogg  ||  좋아, 강해진 다음 다시 싸워야겠어
+VO_KO_Silver_Wolf_Treasure_Opening_01.ogg  ||  쪼잔하긴, 조금만 더 주지
+Special:Upload?wpDestFile=VO_KO_Silver_Wolf_Treasure_Opening_02.ogg  ||  와, 정말 생각도 못 했어!
+VO_KO_Silver_Wolf_Successful_Puzzle-Solving_01.ogg  ||  새로운 콘텐츠는 언제 생겨?
+VO_KO_Silver_Wolf_Enemy_Target_Found_01.ogg  ||  준비됐으면 시작하자
+VO_KO_Silver_Wolf_Returning_to_Town_01.ogg  ||  이제 꺼야 해…. 어! 아냐, 착각했어

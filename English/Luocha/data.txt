@@ -1,0 +1,48 @@
+VO_Archive_Luocha_1.ogg  ||  I'm a traveling merchant, merely passing through. The name's Luocha.
+VO_Archive_Luocha_2.ogg  ||  We got up early to press on with our journey. Did you sleep well last night?
+VO_Archive_Luocha_3.ogg  ||  Have an early rest. I'll keep watch here.
+VO_Archive_Luocha_4.ogg  ||  I have no one to rely on as a traveling merchant. There is at least some security when I have some ways of saving myself.
+VO_Archive_Luocha_5.ogg  ||  The coffin draws attention. As a traveling merchant, it helped me a lot. Everyone is curious about the coffin, so they come up to ask me about it. As I answer them, the business is done.
+VO_Archive_Luocha_6.ogg  ||  There are always differences between what I hear about a place and seeing it with my own eyes. Finding out the differences between these perceptions is my joy.
+VO_Archive_Luocha_7.ogg  ||  When in a difficult situation, it's not so important to maintain who you truly are, but to find the suitable role to play... Ah, that's just my own experience.
+VO_Archive_Luocha_8.ogg  ||  The meaning of a flower lies in the duration of its bloom, and not in its petals, aroma, or the seeds it leaves behind.
+VO_Archive_Luocha_9.ogg  ||  I have long heard that the Xianzhou can preserve their beauty, and have found that to be true. However, they keep this secret by hiding in a corner of the galaxy, like sitting on a mountain of wealth without spending it... What a shame.
+VO_Archive_Luocha_10.ogg  ||  Not only is the general an expert in perceiving people's intentions, but he is also a master of the arts of concealment and showmanship. When he decides to "show" something, it's time to be careful.
+VO_Archive_Luocha_11.ogg  ||  Oh, you mean the young boy? The one who's always by the general? I don't know anything about him...
+VO_Archive_Luocha_13.ogg  ||  Unlike her, very few can realize that they are nothing but a tiny mustard seed in this vast galaxy... She is worthy of my respect.
+VO_Archive_Luocha_14.ogg  ||  It's hard to forget anything Tingyun says. The Foxians' talent with words should be utilized to its maximum potential, no?
+VO_Archive_Luocha_15.ogg  ||  She's kind and always willing to help. She invited me to "tea and storytelling" the next time I'm on the Xianzhou. I'm not so sure about the storytelling — sounds time-consuming.
+VO_Archive_Luocha_17.ogg  ||  That sword she holds in her heart has long since split heaven and earth... but having harnessed that kind of power, she is no longer a mere master of the sword.
+VO_Archive_Luocha_Eidolon_Activation.ogg  ||  Nothing is truly new in the universe, but thanks to you, I now see things in a new way.
+VO_Archive_Luocha_Character_Ascension.ogg  ||  It takes time and patience for a seed to grow.
+VO_Archive_Luocha_Max_Level_Reached.ogg  ||  The passage of our lives is a brief affair, but it brings more joy than the immortality of the Aeons.
+VO_Archive_Luocha_Trace_Activation.ogg  ||  What happened in the past is destined to return — I won't stand still to delay this encounter.
+VO_Archive_Luocha_Added_to_Team_With_Sushang.ogg  ||  I am not well-versed in the art of combat. I leave this to you, Miss Sushang.
+VO_Archive_Luocha_Added_to_Team_With_Jing_Yuan.ogg  ||  Would you prefer me to reveal or conceal, General?
+VO_Archive_Luocha_Added_to_Team_With_Jingliu.ogg  ||  An enemy worthy of your attention is a formidable enemy.
+VO_Archive_Luocha_Added_to_Team_With_Dan_Heng.ogg  ||  Yet another journey with you.
+VO_Archive_Luocha_Added_to_Team_With_Blade.ogg  ||  Shame. I can't give you the burial that you seek.
+VO_Luocha_Battle_Begins_-_Weakness_Break_01.ogg  ||  Time to settle your accounts.
+VO_Luocha_Battle_Begins_-_Danger_Alert_01.ogg  ||  Don't get complacent.
+VO_Luocha_Turn_Begins_01.ogg  ||  Pity. You chose the wrong enemy.
+VO_Luocha_Turn_Begins_02.ogg  ||  Allow me to see you off.
+VO_Luocha_Turn_Idling_01.ogg  ||  What is it we're waiting for?
+VO_Luocha_Basic_ATK_01.ogg  ||  Hmph.
+VO_Luocha_Skill_01.ogg  ||  Abyss Flower, bloom.
+VO_Luocha_Skill_02.ogg  ||  Receive divinity!
+VO_Luocha_Hit_by_Light_Attack_01.ogg  ||  Nothing major.
+VO_Luocha_Hit_by_Heavy_Attack_01.ogg  ||  I underestimated you.
+VO_Luocha_Ultimate_-_Activate_01.ogg  ||  Eternal sleep is not the end...
+VO_Luocha_Ultimate_-_Unleash_01.ogg  ||  The dead will return!
+VO_Luocha_Talent_01.ogg  ||  That which is seized, must be repaid!
+VO_Luocha_Downed_01.ogg  ||  It cannot... come to pass...
+VO_Luocha_Return_to_Battle_01.ogg  ||  You see? I've returned.
+VO_Luocha_Health_Recovery_01.ogg  ||  I feel much better.
+VO_Luocha_Technique_01.ogg  ||  Let's wait and see.
+VO_Luocha_Battle_Won_01.ogg  ||  A moment's excitement. Nothing more.
+VO_Luocha_Treasure_Opening_01.ogg  ||  Take it, if it's to your liking.
+VO_Luocha_Treasure_Opening_02.ogg  ||  The enjoyment of collecting.
+Special:Upload?wpDestFile=VO_Luocha_Precious_Treasure_Opening_01.ogg  ||  Quality merchandise.
+VO_Luocha_Successful_Puzzle-Solving_01.ogg  ||  Hardly worth mentioning.
+VO_Luocha_Enemy_Target_Found_01.ogg  ||  Trouble ahead... Proceed. I'm with you.
+VO_Luocha_Returning_to_Town_01.ogg  ||  It's hard for a wanderer to find rest in this world.

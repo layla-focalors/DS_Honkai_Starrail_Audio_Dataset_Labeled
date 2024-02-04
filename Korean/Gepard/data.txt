@@ -1,0 +1,35 @@
+VO_KO_Archive_Gepard_1.ogg  ||  난 벨로보그 실버메인 철위대의 방위관, 게파드•랜도라고 한다. 도시에서 이상한 상황을 발견한다면 언제든지 보고해 줘
+VO_KO_Archive_Gepard_2.ogg  ||  왔구나, 방금 막 운동을 끝냈어
+VO_KO_Archive_Gepard_3.ogg  ||  미안, 임무가 있어서 여기서 배웅할게
+VO_KO_Archive_Gepard_5.ogg  ||  실버메인 철위대로서, 맹세를 지키는 건 맹세를 어기는 게 두려워서가 아니라, 맹세를 어겨서는 안 된다고 믿기 때문이야
+VO_KO_Archive_Gepard_4.ogg  ||  벨로보그는 설원에 숨겨진 게 아니라 이 행성의 마지막 보루로서 광풍과 폭설을 막아내고 있지
+VO_KO_Archive_Gepard_6.ogg  ||  꽃 키우는 거, 근데 많이 서툴러
+VO_KO_Archive_Gepard_7.ogg  ||  누나의 노래는 철위대에서도 꽤 인기가 있는 편이라서 휴식할 때면 종종 듣곤 해. 그러다 보니 순찰하면서 나도 모르게 흥얼거리게 되더라고, 휴……
+VO_KO_Archive_Gepard_13.ogg  ||  랜도 가문은 대대로 수호자님을 위해 일해왔어. 이건 영광이자 책임이기도 해. 시민들이 신뢰할 수 있는 방패가 되어야만, 「축성가」라는 칭호에 담긴 명예를 받아들일 수 있지
+VO_KO_Archive_Gepard_14.ogg  ||  요즘 어떻게 하면 방위관이 될 수 있는지 물어보는 꼬마들이 있더라고…. 솔직히 말하면, 꾸준한 운동과 건강한 식사 말고는 딱히 해줄 영양가 있는 말이 없어
+VO_KO_Archive_Gepard_8.ogg  ||  브로냐 아가씨는 가장 위험한 전선에서 수차례나 우리와 함께 싸우셨어
+VO_KO_Archive_Gepard_9.ogg  ||  다들 누나가 부대를 떠난 후에 변했다고 흥미진진하게 떠들어대곤 하지만, 사실… 누나는 단 한 번도 변한 적이 없었어
+VO_KO_Archive_Gepard_10.ogg  ||  내가 집에 없을 때 누나가 페라한테 꽃을 돌봐달라고 했다던데…. 폐를 끼친 게 아니길 바랄 뿐이야
+VO_KO_Archive_Gepard_11.ogg  ||  수호자님보다 이 도시를 잘 알고 사랑하는 사람은 없다고 믿어
+VO_KO_Archive_Gepard_12.ogg  ||  교활한 사람이야. 시민들의 신고 내용을 살펴보면 어디서 고대 유물을 잔뜩 구해서 전부 다 파는 게 아니라 수중에 몇 개 남겨뒀다가 사기행각에 이용한다더라고
+VO_KO_Archive_Gepard_15.ogg  ||  내 동생은 성격이 좀… 특이해. 아니, 나쁘다는 건 아니고… 그냥 건강하게만 자라길 바랄 뿐이야. 후, 누나는 닮지 않았으면 좋겠어
+VO_KO_Gepard_Battle_Begins_-_Weakness_Break_01.ogg  ||  여기까지
+VO_KO_Gepard_Battle_Begins_-_Danger_Alert_01.ogg  ||  방어를 강화해야 해
+VO_KO_Gepard_Turn_Begins_01.ogg  ||  각오로 임하라
+VO_KO_Gepard_Turn_Begins_03.ogg  ||  정의의 시간이다
+VO_KO_Gepard_Turn_Idling_01.ogg  ||  정세가 긴박해
+VO_KO_Gepard_Basic_ATK_03.ogg  ||  이미 승부는 결정 났어
+VO_KO_Gepard_Hit_by_Light_Attack_01.ogg  ||  별거 아니야
+VO_KO_Gepard_Hit_by_Heavy_Attack_01.ogg  ||  이깟 상처쯤
+VO_KO_Gepard_Ultimate_-_Activate_01.ogg  ||  랜도의 이름으로
+VO_KO_Gepard_Ultimate_-_Unleash_01.ogg  ||  추위를 겪고 빚어낸 뜻은… 끝나지 않으리!
+VO_KO_Gepard_Talent_01.ogg  ||  끝까지 함께 하지
+VO_KO_Gepard_Downed_02.ogg  ||  난… 아직……
+VO_KO_Gepard_Return_to_Battle_01.ogg  ||  아직 내가 퇴장할 때는 아니지
+VO_KO_Gepard_Health_Recovery_01.ogg  ||  고맙군
+VO_KO_Gepard_Technique_01.ogg  ||  내가 여기 있을게
+VO_KO_Gepard_Battle_Won_01.ogg  ||  예상치 못한 반격이었어
+VO_KO_Gepard_Treasure_Opening_01.ogg  ||  티끌 모아 태산이지
+VO_KO_Gepard_Successful_Puzzle-Solving_01.ogg  ||  잘했어
+VO_KO_Gepard_Enemy_Target_Found_01.ogg  ||  타이밍을 잡아
+VO_KO_Gepard_Returning_to_Town_01.ogg  ||  순찰하는 동안 휴식 좀 취해

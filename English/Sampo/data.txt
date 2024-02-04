@@ -1,0 +1,41 @@
+VO_Archive_Sampo_1.ogg  ||  Hey, (Trailblazer)! Y'know, with Sampo Koski by your side, you've got a businessman, chaperon, and problem-solving conversationalist, all rolled into one! Pretty sweet deal, huh?
+VO_Archive_Sampo_2.ogg  ||  So, what's the job this time around? If you've got the cash, I've got the... No cash? N—Not a problem! Haha, just say the word, pal...
+VO_Archive_Sampo_3.ogg  ||  Come on, get some rest already! What's the matter? I'm not going anywhere.
+VO_Archive_Sampo_5.ogg  ||  Me? I'm just an easygoing fella that looks out for the little guy — free of charge I might add — who somehow gets pulled into everyone else's business with nothing to show for it! Tsk, like I say, I'm an easygoing fella.
+VO_Archive_Sampo_4.ogg  ||  If you package it right, you can sell the same piece of intel to different people! That, my friend, is called "maximizing your profit."
+VO_Archive_Sampo_6.ogg  ||  I'm a firm believer in "small talk brings big clients."
+VO_Archive_Sampo_7.ogg  ||  I sell things that buyers want to buy — and they call me a con man! It's outrageous!
+VO_Archive_Sampo_15.ogg  ||  You'd think in a place as isolated as Belobog, people would be more willing to share what they have. Well, it's the exact opposite. And I'm more than happy to make up the shortfall.
+VO_Archive_Sampo_16.ogg  ||  Come on, how did you guys end up in the middle of the Snow Plains? UFO? Let me guess, you took a train, haha. Seriously though.
+VO_Archive_Sampo_8.ogg  ||  Back when I first arrived in the Underworld, I used to bring Natasha the medicines she needed. I did that for a while, and before long it was medicines and intel. You know how these things work.
+VO_Archive_Sampo_9.ogg  ||  If anyone out there ever managed to strike a deal with Svarog, they'd earn my heartfelt admiration!
+VO_Archive_Sampo_10.ogg  ||  Our little girl in red is truly impressive. How did she get that giant tinhead to listen to her?
+VO_Archive_Sampo_11.ogg  ||  If she had it her way, Miss Seele would spend less time yelling at me and more time actively trying to hit me. Can someone explain what I did to deserve her?
+VO_Archive_Sampo_12.ogg  ||  Ah, we see each other pretty often — usually it's me running away and him running after me. Gotta say, I'm gradually beginning to enjoy the attention, hehe.
+VO_Archive_Sampo_13.ogg  ||  We used to be good pals, but now... Let's just say her brother put in a bad word for me.
+VO_Archive_Sampo_14.ogg  ||  My only wish is to get acquainted with the supreme guardian-to-be. Any introduction will do — even a painful one!
+VO_Archive_Sampo_17.ogg  ||  Have you seen him compete? A lot of Underworlders made a lot of money off that kid! *sigh* Your pal Sampo here wasn't one of them...
+Special:Upload?wpDestFile=VO_Archive_Sampo_18.ogg  ||  Everyone has a colorful past, wouldn't you say...?
+VO_Archive_Sampo_19.ogg  ||  Double the pay, double the service!
+VO_Archive_Sampo_25.ogg  ||  Ha! Always an honor to have the Trailblazer by my side!
+VO_Sampo_Battle_Begins_-_Weakness_Break_01.ogg  ||  Sampo Koski always takes care of his friends.
+VO_Sampo_Battle_Begins_-_Danger_Alert_01.ogg  ||  Good! The stronger the better.
+VO_Sampo_Turn_Begins_01.ogg  ||  We're just having fun.
+VO_Sampo_Turn_Begins_02.ogg  ||  Sounds like more business knocking.
+VO_Sampo_Turn_Idling_01.ogg  ||  Can we bring out the big guns already?
+VO_Sampo_Skill_01.ogg  ||  Try this on for size?
+VO_Sampo_Hit_by_Light_Attack_01.ogg  ||  Ooh, ouch...
+VO_Sampo_Hit_by_Heavy_Attack_01.ogg  ||  Hey! W-Watch the face!
+VO_Sampo_Ultimate_-_Activate_01.ogg  ||  What are you waiting for?
+VO_Sampo_Ultimate_-_Unleash_01.ogg  ||  The customer is king, and for me to betray the king, well... You gotta make it worth my while.
+VO_Sampo_Downed_01.ogg  ||  This price was too steep...
+VO_Sampo_Return_to_Battle_01.ogg  ||  One good turn deserves another.
+VO_Sampo_Health_Recovery_01.ogg  ||  I owe you one~
+VO_Sampo_Technique_01.ogg  ||  Heehee~
+VO_Sampo_Battle_Won_01.ogg  ||  How're you gonna win if you don't take any risks?
+VO_Sampo_Treasure_Opening_01.ogg  ||  No cash?
+VO_Sampo_Treasure_Opening_02.ogg  ||  You like it? It's yours for the taking!
+VO_Sampo_Successful_Puzzle-Solving_01.ogg  ||  Hey now! Pretty good.
+VO_Sampo_Successful_Puzzle-Solving_02.ogg  ||  Solving people's problems is my specialty~!
+VO_Sampo_Enemy_Target_Found_01.ogg  ||  I dunno — this one looks kinda tough...
+VO_Sampo_Returning_to_Town_01.ogg  ||  Wherever there is business, there is Sampo.

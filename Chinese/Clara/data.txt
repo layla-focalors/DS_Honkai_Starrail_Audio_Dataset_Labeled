@@ -1,0 +1,78 @@
+VO_ZH_Archive_Clara_1_M.ogg  ||  克拉拉: 你好...我是克拉拉，可以成为我的家人么...就像史瓦罗先生一样。
+史瓦罗：有我在，(Trailblazer) 就是你的家人。
+VO_ZH_Archive_Clara_2.ogg  ||  今天也要和克拉拉一起加油哦。
+VO_ZH_Archive_Clara_3.ogg  ||  克拉拉也困了，想靠着史瓦罗先生的手臂睡一会儿，你要来试试么？
+VO_ZH_Archive_Clara_4.ogg  ||  即使是史瓦罗先生的「计算」，也不能脱离大家的「记忆」…所以，克拉拉绝对不会忘记大家的。
+VO_ZH_Archive_Clara_5.ogg  ||  以前玩过家家的时候，克拉拉让帕金斯他们出门去迎接客人，结果，真的有人跟来了~
+VO_ZH_Archive_Clara_6.ogg  ||  史瓦罗先生的记忆库中有很多有趣的东西，比如「电影」...就像很多人在一起过家家！
+VO_ZH_Archive_Clara_7.ogg  ||  好不容易说服史瓦罗先生模仿一次「电影」，他只愿意演大树、石头…「父亲」什么的，果然不行么…
+VO_ZH_Archive_Clara_12.ogg  ||  克拉拉的机器伙伴们，虽然有时说话有些粗鲁，但都是不会说谎的乖孩子哦。
+VO_ZH_Archive_Clara_13.ogg  ||  史瓦罗先生休眠的时候，身体里也会传出声音，就像…就像在打呼噜一样~
+VO_ZH_Archive_Clara_8.ogg  ||  娜塔莎姐姐说克拉拉也是医生呢，是机器伙伴的医生。
+VO_ZH_Archive_Clara_9.ogg  ||  有一次，克拉拉想找的零件死死地嵌在岩壁里，正好被希儿姐姐看到，她一只手就敲碎了岩壁…克拉拉还没来得及和她道谢，她就走了……
+VO_ZH_Archive_Clara_10.ogg  ||  其实…史瓦罗先生的手，可以变成帮克拉拉吹头发的机器，还可以把大石块切成小桌子和小椅子呢……
+VO_ZH_Archive_Clara_11.ogg  ||  虎克邀请我加入鼹鼠党，但…如果要玩捉迷藏的话，史瓦罗先生怎么办……
+VO_ZH_Archive_Clara_14.ogg  ||  卢卡哥哥…是个很温柔的人。虽然看上去有些莽撞，但他其实很细心哦。
+VO_ZH_Archive_Clara_1_M.ogg  ||  
+VO_ZH_Archive_Clara_2.ogg  ||  
+VO_ZH_Archive_Clara_3.ogg  ||  
+VO_ZH_Archive_Clara_4.ogg  ||  
+VO_ZH_Archive_Clara_5.ogg  ||  
+VO_ZH_Archive_Clara_6.ogg  ||  
+VO_ZH_Archive_Clara_7.ogg  ||  
+VO_ZH_Archive_Clara_12.ogg  ||  
+VO_ZH_Archive_Clara_13.ogg  ||  
+VO_ZH_Archive_Clara_8.ogg  ||  
+VO_ZH_Archive_Clara_9.ogg  ||  
+VO_ZH_Archive_Clara_10.ogg  ||  
+VO_ZH_Archive_Clara_11.ogg  ||  
+VO_ZH_Archive_Clara_14.ogg  ||  
+VO_ZH_Svarog_Battle_Begins_-_Weakness_Break_01.ogg  ||  史瓦罗：目标威胁指数下降。
+VO_ZH_Svarog_Battle_Begins_-_Danger_Alert_01.ogg  ||  史瓦罗：目标威胁指数上升。
+VO_ZH_Clara_Turn_Begins_01.ogg  ||  克拉拉：克拉拉要勇敢一点…
+VO_ZH_Clara_Turn_Begins_02.ogg  ||  克拉拉：我、我才不怕你们！
+VO_ZH_Clara_Turn_Idling_01.ogg  ||  克拉拉：不能再犹豫了…
+VO_ZH_Clara_Basic_ATK_01.ogg  ||  克拉拉：史瓦罗先生，小心！
+VO_ZH_Svarog_Basic_ATK_02.ogg  ||  史瓦罗：威胁清除。
+VO_ZH_Svarog_Skill_01.ogg  ||  史瓦罗：躲起来。
+VO_ZH_Svarog_Skill_02.ogg  ||  史瓦罗：歼灭开始。
+VO_ZH_Clara_Hit_by_Light_Attack_01.ogg  ||  史瓦罗：没事吧？
+克拉拉：我没事。
+VO_ZH_Clara_Hit_by_Heavy_Attack_01.ogg  ||  克拉拉：…好疼。
+VO_ZH_Clara_Ultimate_-_Activate_01.ogg  ||  克拉拉：我也想保护大家…
+VO_ZH_Clara_Ultimate_-_Unleash_01.ogg  ||  克拉拉：帮帮我，史瓦罗先生！
+VO_ZH_Svarog_Talent_01.ogg  ||  史瓦罗：离开克拉拉。
+VO_ZH_Svarog_Talent_02.ogg  ||  史瓦罗：命令执行。
+VO_ZH_Clara_Downed_01.ogg  ||  克拉拉：大家…还好么……
+VO_ZH_Clara_Return_to_Battle_01.ogg  ||  克拉拉：我回来了。
+VO_ZH_Clara_Health_Recovery_01.ogg  ||  克拉拉：谢谢，克拉拉会记得你的。
+VO_ZH_Clara_Technique_01.ogg  ||  克拉拉：呀。
+VO_ZH_Clara_Battle_Won_01.ogg  ||  克拉拉：不知道有没有帮到大家……
+VO_ZH_Clara_Treasure_Opening_01.ogg  ||  克拉拉：克拉拉只要修理的元件就好。
+VO_ZH_Clara_Successful_Puzzle-Solving_01.ogg  ||  克拉拉：成、成功了！
+VO_ZH_Clara_Enemy_Target_Found_01.ogg  ||  史瓦罗：前方出现，高威胁目标。
+VO_ZH_Clara_Returning_to_Town_01.ogg  ||  克拉拉：没事的，史瓦罗先生，这里很安全。
+VO_ZH_Svarog_Battle_Begins_-_Weakness_Break_01.ogg  ||  
+VO_ZH_Svarog_Battle_Begins_-_Danger_Alert_01.ogg  ||  
+VO_ZH_Clara_Turn_Begins_01.ogg  ||  
+VO_ZH_Clara_Turn_Begins_02.ogg  ||  
+VO_ZH_Clara_Turn_Idling_01.ogg  ||  
+VO_ZH_Clara_Basic_ATK_01.ogg  ||  
+VO_ZH_Svarog_Basic_ATK_02.ogg  ||  
+VO_ZH_Svarog_Skill_01.ogg  ||  
+VO_ZH_Svarog_Skill_02.ogg  ||  
+VO_ZH_Clara_Hit_by_Light_Attack_01.ogg  ||  
+VO_ZH_Clara_Hit_by_Heavy_Attack_01.ogg  ||  
+VO_ZH_Clara_Ultimate_-_Activate_01.ogg  ||  
+VO_ZH_Clara_Ultimate_-_Unleash_01.ogg  ||  
+VO_ZH_Svarog_Talent_01.ogg  ||  
+VO_ZH_Svarog_Talent_02.ogg  ||  
+VO_ZH_Clara_Downed_01.ogg  ||  
+VO_ZH_Clara_Return_to_Battle_01.ogg  ||  
+VO_ZH_Clara_Health_Recovery_01.ogg  ||  
+VO_ZH_Clara_Technique_01.ogg  ||  
+VO_ZH_Clara_Battle_Won_01.ogg  ||  
+VO_ZH_Clara_Treasure_Opening_01.ogg  ||  
+VO_ZH_Clara_Successful_Puzzle-Solving_01.ogg  ||  
+VO_ZH_Clara_Enemy_Target_Found_01.ogg  ||  
+VO_ZH_Clara_Returning_to_Town_01.ogg  ||  

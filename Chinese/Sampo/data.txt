@@ -1,0 +1,72 @@
+VO_ZH_Archive_Sampo_1.ogg  ||  嗨，(Trailblazer)，有我桑博•科斯基在身边，你就相当于同时拥有一个行商、向导、解闷的聊天对象…怎么样，够划算吧？
+VO_ZH_Archive_Sampo_2.ogg  ||  今天要干什么？有钱我就干，没钱…也行，只要你开口，伙计。
+VO_ZH_Archive_Sampo_3.ogg  ||  好啦，该休息就休息…用不着这么防我吧伙计，我不会跑的。
+VO_ZH_Archive_Sampo_4.ogg  ||  我么，一个经常卷进麻烦事，想求点回报但最后总会见义勇为分文不收的倒霉…老好人而已。
+VO_ZH_Archive_Sampo_5.ogg  ||  一条情报经过不同的包装，就能大大方方卖给不同的人。这叫利益最大化。
+VO_ZH_Archive_Sampo_6.ogg  ||  我坚信，人与人之间美好的感情都是聊出来的。
+VO_ZH_Archive_Sampo_7.ogg  ||  买家要什么，我就卖什么，结果他们说我是骗子，你说气不气人……
+VO_ZH_Archive_Sampo_15.ogg  ||  别看贝洛伯格前不着村后不着店，越是在这种地方，人们越是只守着自己的半杯羹——那我就越有乐子可看啦。
+VO_ZH_Archive_Sampo_16.ogg  ||  说吧，你们是怎么降落到雪地里的？飞行器？别说你们是坐车过来的，我可不信。
+VO_ZH_Archive_Sampo_8.ogg  ||  刚到下层那会儿，主要帮大姐头搞点药品，熟了以后就顺路带点消息，你懂的。
+VO_ZH_Archive_Sampo_9.ogg  ||  要是有人能和史瓦罗做成交易，我桑博打心底里佩服！
+VO_ZH_Archive_Sampo_10.ogg  ||  红衣服小妹妹是真的厉害，她怎么能和那大铁疙瘩聊起来的？
+VO_ZH_Archive_Sampo_11.ogg  ||  希儿小姐能用武力对付我就绝不肯动嘴皮子，这到底是我的问题还是她的问题？
+VO_ZH_Archive_Sampo_12.ogg  ||  咱俩经常见面，我跑他追。老实说，这种猫鼠游戏玩久了也…有点上头，嘿嘿。
+VO_ZH_Archive_Sampo_13.ogg  ||  以前关系不错，现在的关系…可能还不及和她弟弟。
+VO_ZH_Archive_Sampo_14.ogg  ||  我只有一个小小的愿望，希望能在未来的大守护者前混个脸熟，任何形式都可以——让我挨打也行！
+VO_ZH_Archive_Sampo_17.ogg  ||  你见过他比赛没有？那小子，可是下层区最大的摇钱树啊！可惜这树没长在老桑博的后院里……
+VO_ZH_Archive_Sampo_1.ogg  ||  
+VO_ZH_Archive_Sampo_2.ogg  ||  
+VO_ZH_Archive_Sampo_3.ogg  ||  
+VO_ZH_Archive_Sampo_4.ogg  ||  
+VO_ZH_Archive_Sampo_5.ogg  ||  
+VO_ZH_Archive_Sampo_6.ogg  ||  
+VO_ZH_Archive_Sampo_7.ogg  ||  
+VO_ZH_Archive_Sampo_15.ogg  ||  
+VO_ZH_Archive_Sampo_16.ogg  ||  
+VO_ZH_Archive_Sampo_8.ogg  ||  
+VO_ZH_Archive_Sampo_9.ogg  ||  
+VO_ZH_Archive_Sampo_10.ogg  ||  
+VO_ZH_Archive_Sampo_11.ogg  ||  
+VO_ZH_Archive_Sampo_12.ogg  ||  
+VO_ZH_Archive_Sampo_13.ogg  ||  
+VO_ZH_Archive_Sampo_14.ogg  ||  
+VO_ZH_Archive_Sampo_17.ogg  ||  
+VO_ZH_Sampo_Battle_Begins_-_Weakness_Break_01.ogg  ||  我桑博一向关照朋友。
+VO_ZH_Sampo_Battle_Begins_-_Danger_Alert_01.ogg  ||  又有生意上门了。
+VO_ZH_Sampo_Turn_Begins_01.ogg  ||  权当找点乐子喽。
+VO_ZH_Sampo_Turn_Begins_02.ogg  ||  越强越好啊，合我胃口。
+VO_ZH_Sampo_Turn_Idling_01.ogg  ||  还不整些新花样？
+VO_ZH_Sampo_Skill_01.ogg  ||  要不然，来试试这个？
+VO_ZH_Sampo_Hit_by_Light_Attack_01.ogg  ||  好家伙……
+VO_ZH_Sampo_Hit_by_Heavy_Attack_01.ogg  ||  打、打人不打脸！
+VO_ZH_Sampo_Ultimate_-_Activate_01.ogg  ||  你在期待些什么？
+VO_ZH_Sampo_Ultimate_-_Unleash_01.ogg  ||  顾客就是上帝，想要我背叛上帝，除非…你加钱~
+VO_ZH_Sampo_Downed_01.ogg  ||  这下…赔大了。
+VO_ZH_Sampo_Return_to_Battle_01.ogg  ||  你帮我，我当然帮你。
+VO_ZH_Sampo_Health_Recovery_01.ogg  ||  欠你个人情~
+VO_ZH_Sampo_Technique_01.ogg  ||  嘿嘿。
+VO_ZH_Sampo_Battle_Won_01.ogg  ||  不冒点风险，又怎么尝得到甜头？
+VO_ZH_Sampo_Treasure_Opening_01.ogg  ||  钱呢，钱呢？
+VO_ZH_Sampo_Successful_Puzzle-Solving_01.ogg  ||  哎哟，不错哦。
+VO_ZH_Sampo_Enemy_Target_Found_01.ogg  ||  那家伙看起来还挺结实的。
+VO_ZH_Sampo_Returning_to_Town_01.ogg  ||  哪儿有我桑博，哪儿就有生意。
+VO_ZH_Sampo_Battle_Begins_-_Weakness_Break_01.ogg  ||  
+VO_ZH_Sampo_Battle_Begins_-_Danger_Alert_01.ogg  ||  
+VO_ZH_Sampo_Turn_Begins_01.ogg  ||  
+VO_ZH_Sampo_Turn_Begins_02.ogg  ||  
+VO_ZH_Sampo_Turn_Idling_01.ogg  ||  
+VO_ZH_Sampo_Skill_01.ogg  ||  
+VO_ZH_Sampo_Hit_by_Light_Attack_01.ogg  ||  
+VO_ZH_Sampo_Hit_by_Heavy_Attack_01.ogg  ||  
+VO_ZH_Sampo_Ultimate_-_Activate_01.ogg  ||  
+VO_ZH_Sampo_Ultimate_-_Unleash_01.ogg  ||  
+VO_ZH_Sampo_Downed_01.ogg  ||  
+VO_ZH_Sampo_Return_to_Battle_01.ogg  ||  
+VO_ZH_Sampo_Health_Recovery_01.ogg  ||  
+VO_ZH_Sampo_Technique_01.ogg  ||  
+VO_ZH_Sampo_Battle_Won_01.ogg  ||  
+VO_ZH_Sampo_Treasure_Opening_01.ogg  ||  
+VO_ZH_Sampo_Successful_Puzzle-Solving_01.ogg  ||  
+VO_ZH_Sampo_Enemy_Target_Found_01.ogg  ||  
+VO_ZH_Sampo_Returning_to_Town_01.ogg  ||  

@@ -1,0 +1,43 @@
+VO_Archive_Dan_Heng_1.ogg  ||  I should reintroduce myself. My name is Dan Heng — I'm the guard on the Express. I also administer the train's data bank.
+VO_Archive_Dan_Heng_2.ogg  ||  I updated the data bank entries today if you wanted to look anything up.
+VO_Archive_Dan_Heng_3.ogg  ||  Time to turn in already...? Thanks for the reminder. It's easy to lose track of time in the archives — before you know it, a whole day's gone by... See you tomorrow.
+VO_Archive_Dan_Heng_5.ogg  ||  I come from an alliance, and was born on a grand and beautiful ship that I barely had the chance to see... I can never return.
+VO_Archive_Dan_Heng_6.ogg  ||  At that time, I had nowhere to go but the Express.
+VO_Archive_Dan_Heng_4.ogg  ||  Cloud-Piercer is always with me. For my safety, and the safety of everyone else.
+VO_Archive_Dan_Heng_7.ogg  ||  It's not really a hobby, but I used to read a lot...
+VO_Archive_Dan_Heng_8.ogg  ||  If you're not there to look something up, then please don't enter the archives. It's not a place for chitchat.
+VO_Archive_Dan_Heng_13.ogg  ||  As vast as the universe is, it cannot change its past.
+VO_Archive_Dan_Heng_14.ogg  ||  Once there are sufficient records in the data bank, the flow of individuals will link together seemingly independent events.
+VO_Archive_Dan_Heng_9.ogg  ||  March's weakness is that she likes to get involved in other people's business. ...Perhaps that's also her strength.
+VO_Archive_Dan_Heng_10.ogg  ||  If you have questions about the Express, Himeko can give you the best answer.
+VO_Archive_Dan_Heng_11.ogg  ||  Mr. Yang is a very compassionate person, but thankfully he doesn't pry.
+VO_Archive_Dan_Heng_12.ogg  ||  My intuition tells me that it would be unwise to provoke the conductor.
+VO_Archive_Dan_Heng_Eidolon_Activation.ogg  ||  We mustn't cling to the past.
+VO_Archive_Dan_Heng_Character_Ascension.ogg  ||  Just as a data bank requires updating, so I must keep evolving.
+VO_Archive_Dan_Heng_Max_Level_Reached.ogg  ||  Leave the past behind. The future beckons my thoughts.
+VO_Archive_Dan_Heng_Trace_Activation.ogg  ||  I will choose my own path...
+VO_Archive_Dan_Heng_Added_to_Team_With_March_7th.ogg  ||  March, stay with the group, don't rush off.
+VO_Archive_Dan_Heng_Added_to_Team_With_Himeko.ogg  ||  Himeko, you can leave any contingencies to me.
+VO_Archive_Dan_Heng_Added_to_Team_With_Welt.ogg  ||  Mr. Yang, do you have any advice on this matter?
+VO_Archive_Dan_Heng_Added_to_Team_With_Blade.ogg  ||  You... Keep your distance.
+VO_Dan_Heng_Battle_Begins_-_Weakness_Break_01.ogg  ||  It's too late to repent.
+VO_Dan_Heng_Battle_Begins_-_Danger_Alert_01.ogg  ||  Move carefully.
+VO_Dan_Heng_Turn_Begins_01.ogg  ||  Clemency? Never heard of it.
+VO_Dan_Heng_Turn_Begins_02.ogg  ||  Step aside, I have no interest in stoking conflict.
+VO_Dan_Heng_Turn_Idling_01.ogg  ||  Don't hesitate.
+VO_Dan_Heng_Basic_ATK_01.ogg  ||  The time is now.
+VO_Dan_Heng_Hit_by_Light_Attack_01.ogg  ||  Hmph.
+VO_Dan_Heng_Hit_by_Heavy_Attack_01.ogg  ||  Careless.
+VO_Dan_Heng_Ultimate_-_Activate_01.ogg  ||  The truth of life and death, revealed in an instant.
+VO_Dan_Heng_Ultimate_-_Unleash_01.ogg  ||  This sanctuary, is but a vision... Break!
+VO_Dan_Heng_Downed_01.ogg  ||  This... can't be...
+VO_Dan_Heng_Return_to_Battle_01.ogg  ||  This body isn't that frail.
+VO_Dan_Heng_Health_Recovery_01.ogg  ||  Don't worry about me.
+VO_Dan_Heng_Technique_01.ogg  ||  This will strengthen our position.
+VO_Dan_Heng_Battle_Won_01.ogg  ||  Past victories don't guarantee future ones.
+VO_Dan_Heng_Treasure_Opening_01.ogg  ||  Worth our while.
+VO_Dan_Heng_Precious_Treasure_Opening_01.ogg  ||  This should be securely stored.
+VO_Dan_Heng_Successful_Puzzle-Solving_01.ogg  ||  That wasn't too difficult.
+VO_Dan_Heng_Successful_Puzzle-Solving_02.ogg  ||  Seamless.
+VO_Dan_Heng_Enemy_Target_Found_01.ogg  ||  That enemy certainly isn't friendly.
+VO_Dan_Heng_Returning_to_Town_01.ogg  ||  Mm... I'll need to record today's notes in the data bank.

@@ -1,0 +1,44 @@
+VO_KO_Archive_Welt_1.ogg  ||  안녕, 난 웰트•양이라고 하네. 도움이 필요하면 언제든지 찾아와
+VO_KO_Archive_Welt_2.ogg  ||  흠, 아직 잠이 덜 깬 건가? 무리하지 말고 조금 더 자
+VO_KO_Archive_Welt_3.ogg  ||  잠이 안 와? 이해해, 영감은 대개 밤중에 떠오르거든. 그리고 그걸 무시하긴 어렵지, 안 그런가?
+VO_KO_Archive_Welt_5.ogg  ||  난 8년 동안 애니메이터로 일했어. 행동반경이 집-직장뿐이었지. 모험에 비하면 「지루」할지도 모르네. 하지만 애니메이터는 무척 가치 있는 일일세. 사람들한테 꿈을 만들어주거든
+VO_KO_Archive_Welt_6.ogg  ||  음, 말하자면 긴데. 다들 잊고 싶은 사람이나 사연을 거론하게 될지도 모르니까, 말하지 않는 게 좋을 것 같네. 어찌 됐든, 난 우주에서 길을 잃었고 운 좋게도 열차를 운행하고 있는 히메코를 만났지
+VO_KO_Archive_Welt_4.ogg  ||  입덕하려고? 이 시리즈는 우리 고향에서만 방영된 건데, 우주에서 다시 구할 수 있는지 모르겠네…. 「의태」의 능력으로 몇 편 정도는 재현해서 보여줄 수 있어. 퀄리티는 장담할 수 없지만
+VO_KO_Archive_Welt_7.ogg  ||  역사 연구, 애니메이션 제작… 서로 모순되는 취미는 아닐세
+VO_KO_Archive_Welt_8.ogg  ||  (Trailblazer), 넌 마치 애니메이션에 나오는 주인공 같아서 동료들이 자연스럽게 네 곁에 모여들지…. 오해하지 마, 감정이 북받쳐서 그러는 거니까. 내가 직접 모험할 기회는 줄어들 것 같군……
+VO_KO_Archive_Welt_13.ogg  ||  내 고향은 과거 「붕괴」라고 불리는 힘에 침식됐어. 하지만 내 고향이 아름답고 따스한 세계라는 사실은 변하지 않지
+VO_KO_Archive_Welt_14.ogg  ||  「보존」의 클리포트, 그의 신도들이 어떻게 「스타피스 컴퍼니」로 발전했는지 알아? 신은 벽을 세우려 했고, 인류는 신의 발자취를 좇기 위해 벽을 세울 재료를 찾기 시작했지——이 일은 블랙 코미디로 가득해
+VO_KO_Archive_Welt_9.ogg  ||  Mar. 7th는 모든 일에 호기심을 보이는 아이야. 종종 각종 전투 자세를 보여달라고 조르곤 해, 엄청 멋있다나? 너도 그렇게 생각한다고? 그렇군
+VO_KO_Archive_Welt_10.ogg  ||  단항은 아주 안전해. 단항한테 고민이 있는 건 알지만… 지금은 열차팀의 일원인 만큼 나와 히메코가 그를 지켜줄 걸세
+VO_KO_Archive_Welt_11.ogg  ||  히메코는… 반짝반짝 빛나는 사람이야. 우리가 과거의 항로를 다시 달리고 있긴 하지만, 히메코를 보면 그녀의 꿈이 빛나는 걸 볼 수 있을 걸세. 히메코는 처음부터 열차에 있으면서 그녀만의 밤하늘을 향해 달려가고 있는 것만 같아
+VO_KO_Archive_Welt_12.ogg  ||  도움이 필요할 때면 폼폼은 항상 시기적절하게 나타나지. 근데 놀리려고 그러지는 마. 시도했던 사람이 있는데, 지금은……
+VO_KO_Archive_Welt_15.ogg  ||  내가 좋아하는 말이 있는데, 그에게도 들려주고 싶어. 「이 우주는 아주 광활해서 무한한 가능성이 펼쳐져 있어. 인간의 운명 또한 하늘이 정해준 게 유일한 건 아니란 말이지」
+VO_KO_Archive_Welt_Eidolon_Activation.ogg  ||  새로운 모험, 새로운 동료… 정말 좋군
+VO_KO_Archive_Welt_Character_Ascension.ogg  ||  되돌아온 건… 그때의 정열과 격정만이 아닐세
+VO_KO_Archive_Welt_Max_Level_Reached.ogg  ||  광활한 별바다에 우리의 흔적도 남을 거야
+VO_KO_Archive_Welt_Trace_Activation.ogg  ||  너희와 함께 지내다 보니 나도 점점 젊어지는 것 같군
+VO_KO_Archive_Welt_Added_to_Team_With_Himeko.ogg  ||  히메코와 함께 전투에 나갈 수 있는 기회는 많지 않아. 이번에는 우리가 보여줄 차례군
+VO_KO_Archive_Welt_Added_to_Team_With_Dan_Heng.ogg  ||  단항이 있으면 마음이 놓이지. 그래도… 너무 무리하지 마
+VO_KO_Archive_Welt_Added_to_Team_With_March_7th.ogg  ||  젊은 사람이 활기 넘치는 건 좋은 일이지…. 다만 움직이기 전에 나한테 언급 좀 해줬으면 하네
+VO_KO_Welt_Battle_Begins_-_Weakness_Break_01.ogg  ||  쓴맛을 더 봐야겠군
+VO_KO_Welt_Battle_Begins_-_Danger_Alert_01.ogg  ||  침착해
+VO_KO_Welt_Turn_Begins_01.ogg  ||  이제부턴 나한테 맡겨
+VO_KO_Welt_Turn_Begins_02.ogg  ||  지금이라도 떠나는 게 좋을 거야
+VO_KO_Welt_Turn_Idling_01.ogg  ||  결정을 내야 해
+VO_KO_Welt_Basic_ATK_02.ogg  ||  물러서
+VO_KO_Welt_Skill_01.ogg  ||  몸과 마음을 진정시키자고
+VO_KO_Welt_Skill_02.ogg  ||  봐주지 않겠다!
+VO_KO_Welt_Hit_by_Light_Attack_01.ogg  ||  난 괜찮아
+VO_KO_Welt_Hit_by_Heavy_Attack_01.ogg  ||  겨우 이 정도로……
+VO_KO_Welt_Ultimate_-_Activate_01.ogg  ||  넌 이 힘의 무게에 대해 아무것도 몰라
+VO_KO_Welt_Ultimate_-_Unleash_01.ogg  ||  별의 부서짐을 보아라…. 사느냐 죽느냐, 너에게 선택권은 없어
+VO_KO_Welt_Downed_01.ogg  ||  너희에게… 맡길게……
+VO_KO_Welt_Return_to_Battle_01.ogg  ||  역시 마음이 안 놓여
+VO_KO_Welt_Health_Recovery_01.ogg  ||  딱 맞게 치료됐군
+VO_KO_Welt_Technique_01.ogg  ||  여기 남거라
+VO_KO_Welt_Battle_Won_01.ogg  ||  이 은하엔 무한한 가능성이 담겨있지
+VO_KO_Welt_Treasure_Opening_01.ogg  ||  흥미롭네
+Special:Upload?wpDestFile=VO_KO_Welt_Treasure_Opening_02.ogg  ||  분명 유용하겠어
+VO_KO_Welt_Successful_Puzzle-Solving_01.ogg  ||  손맛 좋은걸
+VO_KO_Welt_Enemy_Target_Found_01.ogg  ||  강적이야, 해보는 것도 괜찮겠군
+VO_KO_Welt_Returning_to_Town_01.ogg  ||  목적지는… 알아서 결정해

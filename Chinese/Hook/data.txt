@@ -1,0 +1,74 @@
+VO_ZH_Archive_Hook_1.ogg  ||  下层区的大人归地火管，小孩归鼹鼠党管，而我就是鼹鼠党的老大，你可以称呼我为——漆黑的虎克大人！
+VO_ZH_Archive_Hook_2.ogg  ||  鼹鼠党，出动！勇敢鼹鼠向前冲！
+VO_ZH_Archive_Hook_3.ogg  ||  鼹鼠党，解散！各回各家睡大觉！
+VO_ZH_Archive_Hook_4.ogg  ||  洞洞机曾是一位勤劳的挖矿好手，退休后，它听从了虎克大人的召唤，成为了打败坏蛋的无情铁手！
+VO_ZH_Archive_Hook_5.ogg  ||  在我的带领下，鼹鼠党还招募了「千面尤利安」，「铁臂卢卡」，「狡猾的小孩子」等数位得力干将！
+VO_ZH_Archive_Hook_6.ogg  ||  去矿区冒险，去诊所冒险，去地上冒险，去，去…虎克也不知道的地方冒险！
+VO_ZH_Archive_Hook_7.ogg  ||  听说一直烦恼的话，头会变得很重很重，那不就更长不高了吗…呜……
+VO_ZH_Archive_Hook_14.ogg  ||  大人们总是用「长大以后就明白的道理」来糊弄虎克…虎克反倒觉得，大人们有很多「长大以后就忘记了的道理」！不信，就来比比谁的道理多！
+VO_ZH_Archive_Hook_15.ogg  ||  虎克感兴趣的可多了，像是背着地髓矿石的蜥蜴，还有不吃东西就能活下来的洞螈…听娜塔莎姐姐说，地上还有一年只开一次的花，真想去看一看呀……
+VO_ZH_Archive_Hook_8.ogg  ||  老巫…温柔美丽的娜塔莎姐姐一旦生起气来…呃，依旧美丽，但不怎么温柔了……
+VO_ZH_Archive_Hook_9.ogg  ||  呜…克拉拉，我的克拉拉…什么时候才能加入鼹鼠党……
+VO_ZH_Archive_Hook_10.ogg  ||  虎克的洞洞机，比史瓦罗的拳头还要大！哼！
+VO_ZH_Archive_Hook_11.ogg  ||  哪里都能碰见桑博叔叔，他也在到处冒险么？
+VO_ZH_Archive_Hook_12.ogg  ||  希儿姐姐说话声音很大，但有时却说不过虎克呢，嘿嘿~
+VO_ZH_Archive_Hook_13.ogg  ||  虎克最喜欢老爹了！等虎克挖到了宝藏，要给老爹盖一间大房子！
+VO_ZH_Archive_Hook_16.ogg  ||  卢卡哥哥，喜欢吃肉！虎克也喜欢吃肉！所以，卢卡哥哥跟虎克是好朋友！
+VO_ZH_Archive_Hook_1.ogg  ||  
+VO_ZH_Archive_Hook_2.ogg  ||  
+VO_ZH_Archive_Hook_3.ogg  ||  
+VO_ZH_Archive_Hook_4.ogg  ||  
+VO_ZH_Archive_Hook_5.ogg  ||  
+VO_ZH_Archive_Hook_6.ogg  ||  
+VO_ZH_Archive_Hook_7.ogg  ||  
+VO_ZH_Archive_Hook_14.ogg  ||  
+VO_ZH_Archive_Hook_15.ogg  ||  
+VO_ZH_Archive_Hook_8.ogg  ||  
+VO_ZH_Archive_Hook_9.ogg  ||  
+VO_ZH_Archive_Hook_10.ogg  ||  
+VO_ZH_Archive_Hook_11.ogg  ||  
+VO_ZH_Archive_Hook_12.ogg  ||  
+VO_ZH_Archive_Hook_13.ogg  ||  
+VO_ZH_Archive_Hook_16.ogg  ||  
+VO_ZH_Hook_Battle_Begins_-_Weakness_Break_01.ogg  ||  现在投降还来得及！
+VO_ZH_Hook_Battle_Begins_-_Danger_Alert_01.ogg  ||  虎克…虎克可不好欺负！
+VO_ZH_Hook_Turn_Begins_01.ogg  ||  哈！虎克来捣蛋！
+VO_ZH_Hook_Turn_Begins_02.ogg  ||  坏蛋，报上名来！
+VO_ZH_Hook_Turn_Idling_01.ogg  ||  喂！别无视我！
+VO_ZH_Hook_Basic_ATK_01.ogg  ||  你说谁是小家伙！
+VO_ZH_Hook_Skill_01.ogg  ||  诶嘿嘿…没想到吧？
+VO_ZH_Hook_Skill_02.ogg  ||  我来了…我又走咯~
+VO_ZH_Hook_Hit_by_Light_Attack_01.ogg  ||  你打我！
+VO_ZH_Hook_Hit_by_Heavy_Attack_01.ogg  ||  疼死啦！
+VO_ZH_Hook_Ultimate_-_Activate_01.ogg  ||  跟着我，有肉吃！
+VO_ZH_Hook_Ultimate_-_Unleash_01.ogg  ||  漆黑的虎克大人驾到，让开让开让开…呜呼~
+VO_ZH_Hook_Downed_01.ogg  ||  老爹…都没打过我……
+VO_ZH_Hook_Return_to_Battle_01.ogg  ||  真拿你没办法~
+VO_ZH_Hook_Health_Recovery_01.ogg  ||  好样的！
+VO_ZH_Hook_Technique_01.ogg  ||  哦呼呼呼~
+VO_ZH_Hook_Battle_Won_01.ogg  ||  我宣布，本次冒险，顺利结束！
+VO_ZH_Hook_Treasure_Opening_01.ogg  ||  通通——拿走~
+VO_ZH_Hook_Successful_Puzzle-Solving_01.ogg  ||  诶？还没玩够呢！
+VO_ZH_Hook_Enemy_Target_Found_01.ogg  ||  吓、吓我一跳。
+VO_ZH_Hook_Returning_to_Town_01.ogg  ||  找一找呀跑一跑呀跳一跳~
+VO_ZH_Hook_Battle_Begins_-_Weakness_Break_01.ogg  ||  
+VO_ZH_Hook_Battle_Begins_-_Danger_Alert_01.ogg  ||  
+VO_ZH_Hook_Turn_Begins_01.ogg  ||  
+VO_ZH_Hook_Turn_Begins_02.ogg  ||  
+VO_ZH_Hook_Turn_Idling_01.ogg  ||  
+VO_ZH_Hook_Basic_ATK_01.ogg  ||  
+VO_ZH_Hook_Skill_01.ogg  ||  
+VO_ZH_Hook_Skill_02.ogg  ||  
+VO_ZH_Hook_Hit_by_Light_Attack_01.ogg  ||  
+VO_ZH_Hook_Hit_by_Heavy_Attack_01.ogg  ||  
+VO_ZH_Hook_Ultimate_-_Activate_01.ogg  ||  
+VO_ZH_Hook_Ultimate_-_Unleash_01.ogg  ||  
+VO_ZH_Hook_Downed_01.ogg  ||  
+VO_ZH_Hook_Return_to_Battle_01.ogg  ||  
+VO_ZH_Hook_Health_Recovery_01.ogg  ||  
+VO_ZH_Hook_Technique_01.ogg  ||  
+VO_ZH_Hook_Battle_Won_01.ogg  ||  
+VO_ZH_Hook_Treasure_Opening_01.ogg  ||  
+VO_ZH_Hook_Successful_Puzzle-Solving_01.ogg  ||  
+VO_ZH_Hook_Enemy_Target_Found_01.ogg  ||  
+VO_ZH_Hook_Returning_to_Town_01.ogg  ||  

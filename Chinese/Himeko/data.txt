@@ -1,0 +1,87 @@
+VO_ZH_Archive_Himeko_1.ogg  ||  欢迎上车，(Trailblazer)，我是星穹列车的领航员，姬子。相信我们将会共度一段有趣的旅程。
+VO_ZH_Archive_Himeko_2.ogg  ||  怎么啦，要来一杯咖啡提神么？
+VO_ZH_Archive_Himeko_3.ogg  ||  放心休息吧，有我和帕姆在，不必担心列车。
+VO_ZH_Archive_Himeko_5.ogg  ||  我和列车，就像是互相帮助的老朋友，我修好了它，让它得以重回过去的航路，而这一切对我来说，都是崭新的未知。
+VO_ZH_Archive_Himeko_6.ogg  ||  一般来说，在你们发现列车的故障之前，我就已经把故障排除了。
+VO_ZH_Archive_Himeko_4.ogg  ||  只是我的推测，列车本应从阿基维利的故乡出发，最终也回到那儿，开始下一段旅程。所以列车并没有终点，旅程所谓的「终点」，只有你能决定。
+VO_ZH_Archive_Himeko_7.ogg  ||  拼配各种风味的咖啡豆是我的独门手艺，现在就给你泡一杯，推荐不加奶，黑咖啡最佳。
+VO_ZH_Archive_Himeko_8.ogg  ||  除了丹恒，大家似乎都对我的咖啡颇有微词，你的评价呢？…我想，黑咖啡的「黑」不是黑泥的「黑」。
+VO_ZH_Archive_Himeko_13.ogg  ||  每天和大家生活在一起，似乎任何人都不会发生改变。只有离开很久的人，才会产生某种惊人的变化……
+VO_ZH_Archive_Himeko_14.ogg  ||  要在宇宙间搜寻自己的所求之物，大多数时候并非是「有了！就是那！」的灵光一现，而是「会是这个吗？万一不是呢？」的斟酌，怀疑与踌躇。
+VO_ZH_Archive_Himeko_9.ogg  ||  如果换作是我在列车上醒来，什么都不记得了，肯定没法像小三月那样恢复过来。所以看她那个样子，我既佩服她，又担心她…我忙不过来的时候，你多陪她聊聊天吧。
+VO_ZH_Archive_Himeko_10.ogg  ||  那个孩子很谨慎，可能是一个人过惯了，不喜欢麻烦别人，也生怕连累到别人。所以我请他担任护卫和维护智库，如果无事可做，他或许并不愿意上车。
+VO_ZH_Archive_Himeko_11.ogg  ||  瓦尔特似乎担心自己跟不上年轻人的脚步，依我看，他自个儿内心也年轻得很…
+VO_ZH_Archive_Himeko_12.ogg  ||  在帕姆眼里，我一直就是个列车维修工吧。
+VO_ZH_Archive_Himeko_15_M.ogg  ||  近来他放松了许多，想来是(Trailblazer)和三月七你们两个让他明白，偶尔依靠别人也没什么大不了的。
+VO_ZH_Archive_Himeko_Eidolon_Activation.ogg  ||  列车的轨迹衔接起群星，就如引线串连璀璨珍珠。
+VO_ZH_Archive_Himeko_Character_Ascension.ogg  ||  前方还有数不尽的奇观盛景，我又怎能就此停歇。
+VO_ZH_Archive_Himeko_Max_Level_Reached.ogg  ||  终点…从未真正抵达。
+VO_ZH_Archive_Himeko_Trace_Activation.ogg  ||  人类的求索之心可是永无止境的。
+VO_ZH_Archive_Himeko_Added_to_Team_With_March_7th.ogg  ||  小三月，这次也要保护好自己哦…放心，大家都在。
+VO_ZH_Archive_Himeko_Added_to_Team_With_Dan_Heng.ogg  ||  我会提供充足的支援…就按你想的来吧，丹恒。
+VO_ZH_Archive_Himeko_Added_to_Team_With_Welt.ogg  ||  我就说吧，瓦尔特，我们登场的机会多着呢。
+VO_ZH_Archive_Himeko_1.ogg  ||  
+VO_ZH_Archive_Himeko_2.ogg  ||  
+VO_ZH_Archive_Himeko_3.ogg  ||  
+VO_ZH_Archive_Himeko_5.ogg  ||  
+VO_ZH_Archive_Himeko_6.ogg  ||  
+VO_ZH_Archive_Himeko_4.ogg  ||  
+VO_ZH_Archive_Himeko_7.ogg  ||  
+VO_ZH_Archive_Himeko_8.ogg  ||  
+VO_ZH_Archive_Himeko_13.ogg  ||  
+VO_ZH_Archive_Himeko_14.ogg  ||  
+VO_ZH_Archive_Himeko_9.ogg  ||  
+VO_ZH_Archive_Himeko_10.ogg  ||  
+VO_ZH_Archive_Himeko_11.ogg  ||  
+VO_ZH_Archive_Himeko_12.ogg  ||  
+VO_ZH_Archive_Himeko_15_M.ogg  ||  
+VO_ZH_Archive_Himeko_Eidolon_Activation.ogg  ||  
+VO_ZH_Archive_Himeko_Character_Ascension.ogg  ||  
+VO_ZH_Archive_Himeko_Max_Level_Reached.ogg  ||  
+VO_ZH_Archive_Himeko_Trace_Activation.ogg  ||  
+VO_ZH_Archive_Himeko_Added_to_Team_With_March_7th.ogg  ||  
+VO_ZH_Archive_Himeko_Added_to_Team_With_Dan_Heng.ogg  ||  
+VO_ZH_Archive_Himeko_Added_to_Team_With_Welt.ogg  ||  
+VO_ZH_Himeko_Battle_Begins_-_Weakness_Break_01.ogg  ||  接下来，都是为你准备的。
+VO_ZH_Himeko_Battle_Begins_-_Danger_Alert_01.ogg  ||  要小心。
+VO_ZH_Himeko_Turn_Begins_02.ogg  ||  战斗是一场精密的设计。
+VO_ZH_Himeko_Turn_Begins_03.ogg  ||  可要仔细地修理修理。
+VO_ZH_Himeko_Turn_Idling_01.ogg  ||  下一次可就没那么简单了。
+VO_ZH_Himeko_Basic_ATK_01.ogg  ||  一个一个来！
+VO_ZH_Himeko_Skill_02.ogg  ||  我当然是来者不拒。
+VO_ZH_Himeko_Hit_by_Light_Attack_01.ogg  ||  小伤。
+VO_ZH_Himeko_Hit_by_Heavy_Attack_01.ogg  ||  胆子挺大么。
+VO_ZH_Himeko_Ultimate_-_Activate_01.ogg  ||  我想，你可能还不明白……
+VO_ZH_Himeko_Ultimate_-_Unleash_01.ogg  ||  人类从不掩饰掌控星空的欲望…当然，也包括我在内。
+VO_ZH_Himeko_Talent_01.ogg  ||  逃不掉的！
+VO_ZH_Himeko_Downed_01.ogg  ||  明明…才刚开始……
+VO_ZH_Himeko_Return_to_Battle_01.ogg  ||  想我了么？
+VO_ZH_Himeko_Health_Recovery_01.ogg  ||  非常感谢。
+VO_ZH_Himeko_Technique_01.ogg  ||  燃尽吧。
+VO_ZH_Himeko_Battle_Won_01.ogg  ||  离繁星更近一步了。
+VO_ZH_Himeko_Treasure_Opening_01.ogg  ||  这也是「开拓」的收获。
+Special:Upload?wpDestFile=VO_ZH_Himeko_Treasure_Opening_02.ogg  ||  不错不错。
+VO_ZH_Himeko_Successful_Puzzle-Solving_01.ogg  ||  还是要自己动手才好。
+VO_ZH_Himeko_Enemy_Target_Found_01.ogg  ||  要拿它练个手么？
+VO_ZH_Himeko_Returning_to_Town_01.ogg  ||  想不想来杯咖啡？
+VO_ZH_Himeko_Battle_Begins_-_Weakness_Break_01.ogg  ||  
+VO_ZH_Himeko_Battle_Begins_-_Danger_Alert_01.ogg  ||  
+VO_ZH_Himeko_Turn_Begins_02.ogg  ||  
+VO_ZH_Himeko_Turn_Begins_03.ogg  ||  
+VO_ZH_Himeko_Turn_Idling_01.ogg  ||  
+VO_ZH_Himeko_Basic_ATK_01.ogg  ||  
+VO_ZH_Himeko_Skill_02.ogg  ||  
+VO_ZH_Himeko_Hit_by_Light_Attack_01.ogg  ||  
+VO_ZH_Himeko_Hit_by_Heavy_Attack_01.ogg  ||  
+VO_ZH_Himeko_Ultimate_-_Activate_01.ogg  ||  
+VO_ZH_Himeko_Ultimate_-_Unleash_01.ogg  ||  
+VO_ZH_Himeko_Talent_01.ogg  ||  
+VO_ZH_Himeko_Downed_01.ogg  ||  
+VO_ZH_Himeko_Return_to_Battle_01.ogg  ||  
+VO_ZH_Himeko_Health_Recovery_01.ogg  ||  
+VO_ZH_Himeko_Technique_01.ogg  ||  
+VO_ZH_Himeko_Battle_Won_01.ogg  ||  
+VO_ZH_Himeko_Treasure_Opening_01.ogg  ||  
+VO_ZH_Himeko_Successful_Puzzle-Solving_01.ogg  ||  
+VO_ZH_Himeko_Enemy_Target_Found_01.ogg  ||  
+VO_ZH_Himeko_Returning_to_Town_01.ogg  ||  

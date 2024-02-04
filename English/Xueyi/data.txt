@@ -1,0 +1,54 @@
+VO_Archive_Xueyi_1.ogg  ||  I am Xueyi, a judge of the Ten-Lords Commission. By decree of the Commission, I come to the world of the living to enforce its will. Tell me what you want. I haven't got much time.
+VO_Archive_Xueyi_2.ogg  ||  It's good we could be acquainted. I rarely have the chance to come to your side of the world.
+VO_Archive_Xueyi_3.ogg  ||  My wakespan for today is running out — I must return to my coffin. Take care.
+VO_Archive_Xueyi_4.ogg  ||  "Xueyi" is a type of white-feathered bird. It also refers to the white pieces of a chessboard. It is a fitting alias — I often move first, though it is the Commission that decides where to dispatch me.
+VO_Archive_Xueyi_5.ogg  ||  You are talking to a puppet, not a living being. The Commission gifted me this body. The real me has already been reduced to ashes.
+VO_Archive_Xueyi_6.ogg  ||  My sister may not strike you as an extrovert, but when I have wakespan to spare, her eyes light up. We'll wander around and do silly things together. It's good to keep her company.
+VO_Archive_Xueyi_7.ogg  ||  As per my arrangement with the Ten-Lords Commission, for each criminal I take into custody, I will be granted half a day of wakespan. It might not seem much to you, but I cherish every second of it.
+VO_Archive_Xueyi_8.ogg  ||  In my living years, it appears I was stricken with mara and committed terrible crimes. The Commission offered me the chance to atone for my sins by working for them.
+VO_Archive_Xueyi_9.ogg  ||  I used to enjoy many things: walking around the markets, reading novels, and watching immersia. Now, I can only relive those moments during my wakespan. When I return to my coffin, my memories don't follow.
+VO_Archive_Xueyi_10.ogg  ||  Annoyances are a luxury to me.
+VO_Archive_Xueyi_11.ogg  ||  When asleep in my coffin, I often experience the memories of criminals in my dreams. But when I awake, I don't remember anything... People say the Ten-Lords Commission can perform dream divination. I wonder if that's what I'm experiencing.
+VO_Archive_Xueyi_12.ogg  ||  "An Unsuitable Job for A Puppet" — have you read that novel? The story is based on my life. I wonder who wrote it. Could it be one of my colleagues?
+VO_Archive_Xueyi_13.ogg  ||  My sister is tasked with the karmic interpretation of people's memories. She works relentlessly in the Hall of Karma — it's a thankless job with no "rest days..." I can see the dark circles around her eyes.
+VO_Archive_Xueyi_14.ogg  ||  Only 38 years have passed since Huohuo joined the Commission as a spiritfarer, but she's already become a judge. The speed of her promotion is unheard of. As per the Commission's rules, it would have taken anyone else at least 500 years.
+VO_Archive_Xueyi_15.ogg  ||  When I was alive, Dan Feng's reputation preceded him. To witness him now — an ousted criminal under a different name... How the world changes.
+VO_Archive_Xueyi_16.ogg  ||  The general has proved to be a staunch ally of the Ten-Lords Commission. His loyalty will be rewarded.
+VO_Archive_Xueyi_17.ogg  ||  As an outsider capable of mending my mechanical body, he's far from typical...
+VO_Archive_Xueyi_18.ogg  ||  Just like me, she carries the burden of guilt. But, unlike me, she doesn't have the chance or need to atone for her wrongdoings, which has led her down a dangerous path.
+VO_Archive_Xueyi_19.ogg  ||  Back then, I tried to dissuade
+her
+Hanya
+from her actions. But now, I can see how it provided the Ten-Lords Commission with many opportunities.
+VO_Archive_Xueyi_Eidolon_Activation.ogg  ||  Serving under the Ten Lords, as a judge of souls, I come to the world of the living to enforce their will.
+VO_Archive_Xueyi_Character_Ascension.ogg  ||  Very well, out with the old and in with the new.
+VO_Archive_Xueyi_Max_Level_Reached.ogg  ||  Though puppet in form, I'm fully functional.
+VO_Archive_Xueyi_Trace_Activation.ogg  ||  I shall carry out the decree of the Ten Lords.
+VO_Archive_Xueyi_Added_to_Team_With_Hanya.ogg  ||  Quite unexpected. You're also going on this mission?
+VO_Archive_Xueyi_Added_to_Team_With_Dan_Heng.ogg  ||  We meet again, a pleasant surprise.
+VO_Archive_Xueyi_Added_to_Team_With_Jing_Yuan.ogg  ||  The Ten Lords will surely repay your assistance with kindness, General.
+VO_Archive_Xueyi_Added_to_Team_With_Huohuo.ogg  ||  Huohuo, just stand behind me and do what you can.
+VO_Xueyi_Battle_Begins_-_Weakness_Break_01.ogg  ||  You could've surrendered.
+VO_Xueyi_Battle_Begins_-_Danger_Alert_01.ogg  ||  That's it?
+VO_Xueyi_Turn_Begins_01.ogg  ||  It's time.
+VO_Xueyi_Turn_Begins_02.ogg  ||  Do you admit this crime?
+VO_Xueyi_Turn_Idling_01.ogg  ||  I can't spend my wakespan waiting...
+VO_Xueyi_Basic_ATK_01.ogg  ||  Execution.
+VO_Xueyi_Skill_01.ogg  ||  Yield!
+VO_Xueyi_Hit_by_Light_Attack_01.ogg  ||  You can't hurt me.
+VO_Xueyi_Hit_by_Heavy_Attack_01.ogg  ||  So what if it hurt?
+VO_Xueyi_Ultimate_-_Activate_01.ogg  ||  By order of the Ten-Lords...
+VO_Xueyi_Ultimate_-_Unleash_01.ogg  ||  Execute the Mara-struck!
+VO_Xueyi_Talent_01.ogg  ||  No amnesty... for the Mara-struck.
+VO_Xueyi_Downed_01.ogg  ||  Forgive me, sister...
+VO_Xueyi_Return_to_Battle_01.ogg  ||  Death has yet to claim me.
+VO_Xueyi_Health_Recovery_01.ogg  ||  Motor function restored.
+VO_Xueyi_Technique_01.ogg  ||  Spirits be gone.
+VO_Xueyi_Battle_Won_01.ogg  ||  A few more days to my wakespan...
+VO_Xueyi_Treasure_Opening_01.ogg  ||  Interesting, show it to that silly child.
+VO_Xueyi_Treasure_Opening_02.ogg  ||  It's not every day you see something like this.
+Special:Upload?wpDestFile=VO_Xueyi_Precious_Treasure_Opening_01.ogg  ||  This will make her happy for quite some time...
+VO_Xueyi_Successful_Puzzle-Solving_01.ogg  ||  Was it this easy the last time I was awake?
+VO_Xueyi_Successful_Puzzle-Solving_02.ogg  ||  Next time we could pick up the pace.
+VO_Xueyi_Enemy_Target_Found_01.ogg  ||  Careful, there is evil ahead.
+VO_Xueyi_Returning_to_Town_01.ogg  ||  I'd like to take in something new before returning to the coffin.

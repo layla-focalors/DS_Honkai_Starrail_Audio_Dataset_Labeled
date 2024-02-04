@@ -1,0 +1,39 @@
+VO_KO_Archive_Clara_1_M.ogg  ||  안녕하세요, 클라라예요. 제 가족이 되어 주실 수 있으신가요…. 스바로그 씨처럼요.
+스바로그: 내가 있는 한 (Trailblazer)이/가 네 가족이야
+VO_KO_Archive_Clara_2.ogg  ||  오늘도 클라라랑 같이 화이팅해요!
+VO_KO_Archive_Clara_3.ogg  ||  클라라도 졸려요, 스바로그 씨의 팔에 기대서 좀 자고 싶어요. 한번 해볼래요?
+VO_KO_Archive_Clara_5.ogg  ||  스바로그 씨의 「계산」도 모두의 「기억」에서는 자유롭지 않더라고요…. 그러니까 전 절대 여러분을 잊지 않을 거예요
+VO_KO_Archive_Clara_4.ogg  ||  예전에 소꿉놀이하면서 퍼킨스랑 친구들한테 고객 홍보를 맡겼는데, 진짜 따라오는 사람이 있더라고요~
+VO_KO_Archive_Clara_6.ogg  ||  스바로그 씨의 메모리엔 흥미로운 것들이 잔뜩 있어요, 「영화」라는 그건…. 사람들이 모여서 소꿉놀이를 하는 거 같아요!
+VO_KO_Archive_Clara_7.ogg  ||  간신히 스바로그 씨를 설득해서 「영화」를 따라해보자고 했더니 나무나 돌멩이 같은 역할만 하겠대요…. 「아버지」 같은 건 역시 무리겠죠…?
+VO_KO_Archive_Clara_12.ogg  ||  제 기계 친구들이 가끔 말은 거칠게 해도, 거짓말은 안 하는 착한 애들이에요
+VO_KO_Archive_Clara_13.ogg  ||  스바로그 씨가 휴면 상태일 땐 몸에서도 소리가 나요. 마치… 코를 골고 있는 것처럼요
+VO_KO_Archive_Clara_8.ogg  ||  나타샤 언니는 저도 의사 선생님이라고 해주셨어요, 기계 친구들의 의사 선생님이요
+VO_KO_Archive_Clara_9.ogg  ||  한 번은 클라라가 찾고 있던 부품이 암벽에 단단히 끼어있었는데 그걸 본 제레 언니가 한 손으로 암벽을 부수고는… 고맙다는 인사를 하기도 전에 가버렸어요……
+VO_KO_Archive_Clara_10.ogg  ||  사실… 스바로그 씨의 손은 제 머리를 말려주는 기계로도 변할 수 있고, 큰 바위를 작은 탁자와 의자로 만들 수도 있어요……
+VO_KO_Archive_Clara_11.ogg  ||  후크가 두더지파에 가입하래요. 근데… 숨바꼭질을 하면 스바로그 씨는 어떻게 숨죠……?
+VO_KO_Archive_Clara_14.ogg  ||  루카 오빠는… 정말 따듯한 사람이에요
+VO_KO_Svarog_Battle_Begins_-_Weakness_Break_01.ogg  ||  스바로그: 목표 위협 지수 하락
+VO_KO_Svarog_Battle_Begins_-_Danger_Alert_01.ogg  ||  스바로그: 목표 위협 지수 상승
+VO_KO_Clara_Turn_Begins_01.ogg  ||  클라라: 클라라 용감해질게요…
+VO_KO_Clara_Turn_Begins_02.ogg  ||  클라라: 두, 두렵지 않아요!
+VO_KO_Clara_Turn_Idling_01.ogg  ||  클라라: 더는 주저할 수 없어요…
+VO_KO_Clara_Basic_ATK_01.ogg  ||  클라라: 조심해요, 스바로그 씨!
+VO_KO_Svarog_Basic_ATK_02.ogg  ||  스바로그: 위협 제거
+VO_KO_Svarog_Skill_01.ogg  ||  스바로그: 피해
+VO_KO_Svarog_Skill_02.ogg  ||  스바로그: 섬멸 시작
+VO_KO_Clara_Hit_by_Light_Attack_01.ogg  ||  스바로그: 괜찮아?\n클라라: 전 괜찮아요
+VO_KO_Clara_Hit_by_Heavy_Attack_01.ogg  ||  클라라: …아파
+VO_KO_Clara_Ultimate_-_Activate_01.ogg  ||  클라라: 저도 모두를 보호하고 싶어요…
+VO_KO_Clara_Ultimate_-_Unleash_01.ogg  ||  클라라: 도와줘요, 스바로그 씨!
+VO_KO_Svarog_Talent_01.ogg  ||  스바로그: 떨어져, 클라라
+VO_KO_Svarog_Talent_02.ogg  ||  스바로그: 명령 집행
+VO_KO_Clara_Downed_01.ogg  ||  클라라: 다들… 괜찮으세요……?
+VO_KO_Clara_Return_to_Battle_01.ogg  ||  클라라: 돌아왔어요
+VO_KO_Clara_Health_Recovery_01.ogg  ||  클라라: 감사해요, 클라라가 항상 기억할게요
+VO_KO_Clara_Technique_01.ogg  ||  클라라: 아
+VO_KO_Clara_Battle_Won_01.ogg  ||  클라라: 도움이 됐을지 모르겠어요……
+VO_KO_Clara_Treasure_Opening_01.ogg  ||  클라라: 클라라는 수리된 부품만 있으면 돼요
+VO_KO_Clara_Successful_Puzzle-Solving_01.ogg  ||  클라라: 성, 성공이에요!
+VO_KO_Clara_Enemy_Target_Found_01.ogg  ||  스바로그: 전방에 고위험 목표 출현
+VO_KO_Clara_Returning_to_Town_01.ogg  ||  클라라: 스바로그 씨, 이곳은 안전하니 괜찮아요

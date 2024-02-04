@@ -1,0 +1,55 @@
+VO_JA_Archive_Jingliu_1.ogg  ||  鏡流という人物は一介の羅浮の棄兵、流浪の剣士に過ぎぬ。面倒を嫌うなら、我々に面識はないことにしてもよい。
+VO_JA_Archive_Jingliu_2.ogg  ||  挨拶は不要だ、来意を言え。
+VO_JA_Archive_Jingliu_3.ogg  ||  寰宇は広い。次に相まみえた時…我々は敵か味方か、生きているのか死んでいるのか、どちらだろうな？
+VO_JA_Archive_Jingliu_4.ogg  ||  この身以外は無価値だ。我は十王司の掟に触れ、仙舟は我に関するすべてを抹消した。だが、それがどうした？良剣が物を断てるか否かは、その切先にかかっているのであって、名声ではない。
+VO_JA_Archive_Jingliu_5.ogg  ||  我はとうに己の限界を超え、魔陰の身の境界を彷徨っている。過去を思い、遺恨の炎で身を焼くよりも、黒い紗で目を覆い、足の赴くままに進んだほうがよい。
+VO_JA_Archive_Jingliu_6.ogg  ||  我の故郷は仙舟の中で最も栄え、人々が「蒼城」と呼ぶ景勝の地であった。その後、「蒼城」は
+寿禍の王
+寿瘟禍祖
+によって生み出された生体惑星に飲み込まれた…たとえ天人を自称する長命種だろうと、ただのひとすくいの星塵に過ぎぬのだ。
+VO_JA_Archive_Jingliu_7.ogg  ||  型にはまった技術は三流のそれだ。今や我は平凡な武器を捨て、一筋の月光を手にし、この世のすべてを照らし出すことができる。これこそ、我の手の中にある生滅自在、無処不在の「剣」なのだ。
+VO_JA_Archive_Jingliu_8.ogg  ||  少し考えさせてほしい…初めは剣術を磨き、強敵に打ち勝つことを最も好んでいた。その後は、白珠が星々から持ち帰った美酒を味わうのが楽しみだった。そして、今の趣味は…仇敵の心を痛めつけ、生きているより死んだほうがマシだと思わせることだろうか。どうだ、我の趣味は奇怪だろう？
+VO_JA_Archive_Jingliu_9.ogg  ||  手の中の剣は、天地に比べて針ほどの大きさしかない。いかにすれば星を斬ることができるのだろうか？
+VO_JA_Archive_Jingliu_10.ogg  ||  お前と同様、我も見つめられたことがある。だが、それは我が望んで進んだ道——仙舟「虚陵」の十王司の深部に入り、衆妙の門をくぐり、解脱の道に足を踏み入れたのだ。
+VO_JA_Archive_Jingliu_11.ogg  ||  羅浮の長楽天の景色は1000年経っても変わらぬな。大戦で破壊された後に再建された星槎海の美しさには劣る。
+VO_JA_Archive_Jingliu_12.ogg  ||  景元は武の才能があるとは言い難い。だが、弟子を取るのに天分の有無など重要ではないだろう？そこを重視する者がいるとすれば、それは師として怠け、労力を半分に抑えたがっているか…弟子の力を借りて名を残したいと考えている者だろうな。名声、伝承…そんなものはどうでもよい。我の剣術を学びたい者がいれば教える、それだけだ。
+VO_JA_Archive_Jingliu_13.ogg  ||  かつて、我は「骨と心に刻みつける」という方法で彼に剣術を伝授した。剣術をものにした日、彼は我に剣の教えを返すと誓ったが…ふはは、その日が来るのが楽しみだ。
+VO_JA_Archive_Jingliu_14.ogg  ||  持明族の龍尊は秘法を受け身を造る、ゆえに1000代を経ても変化がない。我に言わせれば、それは天賜ではなく枷だ。彼は最終的にその枷から脱した。あってはならない方法でな……
+VO_JA_Archive_Jingliu_15.ogg  ||  彼女は我に行ったことがある星、旅路の奇観、脱することができた危地について話してくれた気がする……だが、何も思い出せぬ。それらの記憶は我の頭の中で渦巻き…どうやっても掴めぬのだ。
+VO_JA_Archive_Jingliu_16.ogg  ||  まだ頭角を現したばかりだが、あの成長ぶりは見ていて非常に喜ばしい。ただ、剣術は血の雨を降らし、無数の殺生を経なければ、その真髄に触れることはできぬ。
+VO_JA_Archive_Jingliu_17.ogg  ||  彼は我と同じで心に穴が空いている。何をしても、それを埋めることはできぬ。埋めようと努力すればするほど、疲れ果ててしまうのだ。
+VO_JA_Archive_Jingliu_Eidolon_Activation.ogg  ||  剣の刃は多くの過去を映している。
+VO_JA_Archive_Jingliu_Character_Ascension.ogg  ||  星を切り落とすには、まだまだ時間がかかりそうだ。
+VO_JA_Archive_Jingliu_Max_Level_Reached.ogg  ||  剣術を修めた時から、我は限界を超えることを目標にしてきた。この旅の終点も、そこにあるのだろう。
+VO_JA_Archive_Jingliu_Trace_Activation.ogg  ||  昔日の数々は、この身に刻んだ傷痕のようだ。
+VO_JA_Archive_Jingliu_Added_to_Team_With_Yanqing.ogg  ||  小僧、剣術が上達したか見てやろう。
+VO_JA_Archive_Jingliu_Added_to_Team_With_Jing_Yuan.ogg  ||  懐かしい。戦略はお前に任せたぞ、景元。
+VO_JA_Archive_Jingliu_Added_to_Team_With_Blade.ogg  ||  その剣に固執するのは、過去を忘れたくないからか…「刃」？
+VO_JA_Jingliu_Battle_Begins_-_Weakness_Break_01.ogg  ||  取るに足らぬ。
+VO_JA_Jingliu_Battle_Begins_-_Weakness_Break_02.ogg  ||  「転魄」剣下の草芥！
+VO_JA_Jingliu_Battle_Begins_-_Danger_Alert_01.ogg  ||  亡霊が1体増えるだけ。
+VO_JA_Jingliu_Turn_Begins_01.ogg  ||  くだらない。
+VO_JA_Jingliu_Turn_Begins_02.ogg  ||  今退けば、見逃そう。
+VO_JA_Jingliu_Turn_Begins_03.ogg  ||  「転魄」どこにも逃げられぬ！
+VO_JA_Jingliu_Turn_Begins_04.ogg  ||  「転魄」死出の準備をしろ…
+VO_JA_Jingliu_Turn_Idling_01.ogg  ||  無尽形寿とは、狂うまで待つということか。
+VO_JA_Jingliu_Turn_Idling_02.ogg  ||  「転魄」止まっては…ならぬ！
+VO_JA_Jingliu_Basic_ATK_01.ogg  ||  切先は戻らぬ！
+VO_JA_Jingliu_Skill_01.ogg  ||  飛光よ、差せ！
+VO_JA_Jingliu_Hit_by_Light_Attack_01.ogg  ||  支障ない。
+VO_JA_Jingliu_Hit_by_Heavy_Attack_01.ogg  ||  我は殺せぬぞ！
+VO_JA_Jingliu_Ultimate_-_Activate_01.ogg  ||  この月華で…
+VO_JA_Jingliu_Ultimate_-_Unleash_01.ogg  ||  すべてを照らさん！
+VO_JA_Jingliu_Talent_01.ogg  ||  月光を剣とせん。
+VO_JA_Jingliu_Downed_01.ogg  ||  遂に、解脱か…
+VO_JA_Jingliu_Return_to_Battle_01.ogg  ||  無尽形寿が、これで死ぬとでも？
+VO_JA_Jingliu_Health_Recovery_01.ogg  ||  この身体に治療はいらぬ……
+VO_JA_Jingliu_Technique_01.ogg  ||  乗月返真
+じょうげつへんしん
+。
+VO_JA_Jingliu_Battle_Won_01.ogg  ||  勝負事など、気にする必要なし。
+VO_JA_Jingliu_Treasure_Opening_01.ogg  ||  虚しいものにすぎぬ。
+Special:Upload?wpDestFile=VO_JA_Jingliu_Treasure_Opening_02.ogg  ||  我には無用だ。
+VO_JA_Jingliu_Successful_Puzzle-Solving_01.ogg  ||  これでいい。
+VO_JA_Jingliu_Enemy_Target_Found_01.ogg  ||  殺意か…
+VO_JA_Jingliu_Returning_to_Town_01.ogg  ||  人の声があるところは、騒々しい。

@@ -1,0 +1,99 @@
+VO_ZH_Archive_Jingliu_1.ogg  ||  镜流不过是一介仙舟弃卒，流浪剑士。若不想惹来麻烦，装作我们未曾谋面亦可。
+VO_ZH_Archive_Jingliu_2.ogg  ||  免去寒暄，说说来意吧？
+VO_ZH_Archive_Jingliu_3.ogg  ||  寰宇广阔，下次相会…不知是敌是友，是生是死？
+VO_ZH_Archive_Jingliu_4.ogg  ||  身外浮名，如云散尽。我触犯十王司条律，仙舟便将关于我的一切统统抹去了。只是那又如何？良剑断物，仗其锋芒，而不在其名声。
+VO_ZH_Archive_Jingliu_5.ogg  ||  我早已跨过了自己的极限，徘徊于魔阴身的边界。与其睹物思旧，恨火烧身。不如以黑纱障目，信步所之。
+VO_ZH_Archive_Jingliu_6.ogg  ||  我的故乡，是众仙舟间繁华第一，人称「苍城」的胜境。后来，它被寿瘟祸祖所繁衍的活体星宿所吞…纵是自诩天人的长生种，也不过是一抔星尘。
+VO_ZH_Archive_Jingliu_7.ogg  ||  一切借由形体施展的技法不过是末流小道。而今我抛弃凡铁，盗来一线月光，遍照尘世万川。这便是我掌中生灭由心，无处不在的「剑」。
+VO_ZH_Archive_Jingliu_8.ogg  ||  容我想想…人生之初，最爱的莫过于习练剑艺、战胜强敌；随后，是品尝白珩自星间带来的种种佳酿；而今…是教仇敌痛彻心扉，生不如死。我的爱好，很奇怪吧？
+VO_ZH_Archive_Jingliu_9.ogg  ||  掌中之剑，与天地相较不过一根针的大小，如何能斩开星星？
+VO_ZH_Archive_Jingliu_10.ogg  ||  同你一样，我也曾禀受凝视。只不过，那是我自愿踏上的道路——进入虚陵仙舟十王司的深处，穿过众妙之门，踏上解脱大道。
+VO_ZH_Archive_Jingliu_11.ogg  ||  罗浮长乐天的景致千年未曾变过，反不如星槎海那厢，在大战被摧毁后重建来得美丽。
+VO_ZH_Archive_Jingliu_12.ogg  ||  他不适合习武。但择徒非要看天分吗？那只是当师父的偷懒，想事半功倍，又或者想借徒留名吧。名声、传承…这些我统统不在意。我的剑，谁要学，我便教。
+VO_ZH_Archive_Jingliu_13.ogg  ||  我曾以「刻骨铭心」的方式传授他剑艺。艺成之日，他发誓要奉还我这一剑之教。我期待这一天的到来。
+VO_ZH_Archive_Jingliu_14.ogg  ||  持明龙尊受秘法铸身，千代如一。在我看来这不是天赐，而是枷锁。他最终还是挣脱了，却不该以那样的方式……
+VO_ZH_Archive_Jingliu_15.ogg  ||  她似乎同我谈起飞过的星星、行遍的奇景、逃离的险境……但我都不记得啦。那些记忆，在我的脑袋里转啊转…任我如何都抓不着。
+VO_ZH_Archive_Jingliu_16.ogg  ||  虽然是初露尖角，但瞧这长势倒是很喜人。只是剑术一道，不披创沥血、杀生无算，是无法窥其真妙的。
+VO_ZH_Archive_Jingliu_17.ogg  ||  那个人同我一样，内心开了一个洞。无论做些什么，都无法将它填上。越努力尝试填补，就越精疲力尽。
+VO_ZH_Archive_Jingliu_Eidolon_Activation.ogg  ||  剑刃上的返照，映出诸多过往。
+VO_ZH_Archive_Jingliu_Character_Ascension.ogg  ||  若要斩下天上的星星，还需要很久很久。
+VO_ZH_Archive_Jingliu_Max_Level_Reached.ogg  ||  自艺成以来，我无日不寻求着突破，此行终点，自然也不会落在这里。
+VO_ZH_Archive_Jingliu_Trace_Activation.ogg  ||  往日种种，正如铭刻此身的伤痕。
+VO_ZH_Archive_Jingliu_Added_to_Team_With_Yanqing.ogg  ||  小弟弟，让我瞧瞧你的剑术是否精进。
+VO_ZH_Archive_Jingliu_Added_to_Team_With_Jing_Yuan.ogg  ||  真怀念呀。同过去一样，破敌方略便交给你了，景元。
+VO_ZH_Archive_Jingliu_Added_to_Team_With_Blade.ogg  ||  执意留着那柄残剑，是不想忘记过去吗…「刃」？
+VO_ZH_Archive_Jingliu_1.ogg  ||  
+VO_ZH_Archive_Jingliu_2.ogg  ||  
+VO_ZH_Archive_Jingliu_3.ogg  ||  
+VO_ZH_Archive_Jingliu_4.ogg  ||  
+VO_ZH_Archive_Jingliu_5.ogg  ||  
+VO_ZH_Archive_Jingliu_6.ogg  ||  
+VO_ZH_Archive_Jingliu_7.ogg  ||  
+VO_ZH_Archive_Jingliu_8.ogg  ||  
+VO_ZH_Archive_Jingliu_9.ogg  ||  
+VO_ZH_Archive_Jingliu_10.ogg  ||  
+VO_ZH_Archive_Jingliu_11.ogg  ||  
+VO_ZH_Archive_Jingliu_12.ogg  ||  
+VO_ZH_Archive_Jingliu_13.ogg  ||  
+VO_ZH_Archive_Jingliu_14.ogg  ||  
+VO_ZH_Archive_Jingliu_15.ogg  ||  
+VO_ZH_Archive_Jingliu_16.ogg  ||  
+VO_ZH_Archive_Jingliu_17.ogg  ||  
+VO_ZH_Archive_Jingliu_Eidolon_Activation.ogg  ||  
+VO_ZH_Archive_Jingliu_Character_Ascension.ogg  ||  
+VO_ZH_Archive_Jingliu_Max_Level_Reached.ogg  ||  
+VO_ZH_Archive_Jingliu_Trace_Activation.ogg  ||  
+VO_ZH_Archive_Jingliu_Added_to_Team_With_Yanqing.ogg  ||  
+VO_ZH_Archive_Jingliu_Added_to_Team_With_Jing_Yuan.ogg  ||  
+VO_ZH_Archive_Jingliu_Added_to_Team_With_Blade.ogg  ||  
+VO_ZH_Jingliu_Battle_Begins_-_Weakness_Break_01.ogg  ||  不值一哂。
+VO_ZH_Jingliu_Battle_Begins_-_Weakness_Break_02.ogg  ||  【转魄】剑下草芥！
+VO_ZH_Jingliu_Battle_Begins_-_Danger_Alert_01.ogg  ||  多添一条亡魂罢了。
+VO_ZH_Jingliu_Turn_Begins_01.ogg  ||  无趣。
+VO_ZH_Jingliu_Turn_Begins_02.ogg  ||  现在退下，我便饶你一命。
+VO_ZH_Jingliu_Turn_Begins_03.ogg  ||  【转魄】你无处可逃！
+VO_ZH_Jingliu_Turn_Begins_04.ogg  ||  【转魄】准备受死…
+VO_ZH_Jingliu_Turn_Idling_01.ogg  ||  无尽形寿便是这般滋味：苦苦等待，直至疯狂。
+VO_ZH_Jingliu_Turn_Idling_02.ogg  ||  【转魄】不能停…不能停下！
+VO_ZH_Jingliu_Basic_ATK_01.ogg  ||  剑出无回！
+VO_ZH_Jingliu_Skill_01.ogg  ||  飞光流泻！
+VO_ZH_Jingliu_Hit_by_Light_Attack_01.ogg  ||  无碍。
+VO_ZH_Jingliu_Hit_by_Heavy_Attack_01.ogg  ||  杀不死我！
+VO_ZH_Jingliu_Ultimate_-_Activate_01.ogg  ||  就让这一轮月华…
+VO_ZH_Jingliu_Ultimate_-_Unleash_01.ogg  ||  照彻万川！
+VO_ZH_Jingliu_Talent_01.ogg  ||  我以月色为剑。
+VO_ZH_Jingliu_Downed_01.ogg  ||  终于，解脱了…
+VO_ZH_Jingliu_Return_to_Battle_01.ogg  ||  无尽形寿，岂会命丧于此？
+VO_ZH_Jingliu_Health_Recovery_01.ogg  ||  长生之躯，无需疗愈…
+VO_ZH_Jingliu_Technique_01.ogg  ||  乘月返真。
+VO_ZH_Jingliu_Battle_Won_01.ogg  ||  胜负之事，无需介怀。
+VO_ZH_Jingliu_Treasure_Opening_01.ogg  ||  身外之物。
+Special:Upload?wpDestFile=VO_ZH_Jingliu_Treasure_Opening_02.ogg  ||  于我无用。
+VO_ZH_Jingliu_Successful_Puzzle-Solving_01.ogg  ||  成了。
+VO_ZH_Jingliu_Enemy_Target_Found_01.ogg  ||  有杀意…
+VO_ZH_Jingliu_Returning_to_Town_01.ogg  ||  有人声的地方，分外聒噪。
+VO_ZH_Jingliu_Battle_Begins_-_Weakness_Break_01.ogg  ||  
+VO_ZH_Jingliu_Battle_Begins_-_Weakness_Break_02.ogg  ||  
+VO_ZH_Jingliu_Battle_Begins_-_Danger_Alert_01.ogg  ||  
+VO_ZH_Jingliu_Turn_Begins_01.ogg  ||  
+VO_ZH_Jingliu_Turn_Begins_02.ogg  ||  
+VO_ZH_Jingliu_Turn_Begins_03.ogg  ||  
+VO_ZH_Jingliu_Turn_Begins_04.ogg  ||  
+VO_ZH_Jingliu_Turn_Idling_01.ogg  ||  
+VO_ZH_Jingliu_Turn_Idling_02.ogg  ||  
+VO_ZH_Jingliu_Basic_ATK_01.ogg  ||  
+VO_ZH_Jingliu_Skill_01.ogg  ||  
+VO_ZH_Jingliu_Hit_by_Light_Attack_01.ogg  ||  
+VO_ZH_Jingliu_Hit_by_Heavy_Attack_01.ogg  ||  
+VO_ZH_Jingliu_Ultimate_-_Activate_01.ogg  ||  
+VO_ZH_Jingliu_Ultimate_-_Unleash_01.ogg  ||  
+VO_ZH_Jingliu_Talent_01.ogg  ||  
+VO_ZH_Jingliu_Downed_01.ogg  ||  
+VO_ZH_Jingliu_Return_to_Battle_01.ogg  ||  
+VO_ZH_Jingliu_Health_Recovery_01.ogg  ||  
+VO_ZH_Jingliu_Technique_01.ogg  ||  
+VO_ZH_Jingliu_Battle_Won_01.ogg  ||  
+VO_ZH_Jingliu_Treasure_Opening_01.ogg  ||  
+VO_ZH_Jingliu_Successful_Puzzle-Solving_01.ogg  ||  
+VO_ZH_Jingliu_Enemy_Target_Found_01.ogg  ||  
+VO_ZH_Jingliu_Returning_to_Town_01.ogg  ||  

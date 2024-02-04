@@ -1,0 +1,42 @@
+VO_Archive_Natasha_1.ogg  ||  Nice to meet you, I'm Natasha — an Underworld doctor. Feeling sick? Take a seat, let me take a look.
+VO_Archive_Natasha_2.ogg  ||  I'm in today. But that is not an excuse for misbehavior.
+VO_Archive_Natasha_3.ogg  ||  Today feels fighting fit.
+VO_Archive_Natasha_6.ogg  ||  I see all kinds of patients. Some require a gentle touch, others need a stern talking to before they take things seriously... Haha, a doctor should always use the right cure for the right person.
+VO_Archive_Natasha_4.ogg  ||  A patient's medicine doesn't just reveal their illness. It also offers a window into their desires and needs.
+VO_Archive_Natasha_5.ogg  ||  People join Wildfire for themselves, for the newborn next door without a mother, for the elderly with no home to return to.
+VO_Archive_Natasha_7.ogg  ||  I still occasionally practice suturing on my old teddy bear, just like in the old days.
+VO_Archive_Natasha_8.ogg  ||  People in the Underworld have gotten used to making the best of a bad situation. That's why I have to keep reminding myself that we're nowhere near where we need to be.
+VO_Archive_Natasha_15.ogg  ||  Humans long for freedom. If they go for too long without seeing the sky, they get ill... Both in body and mind.
+VO_Archive_Natasha_16.ogg  ||  When the childrens' parents are away in the mines, the clinic becomes a kind of nursery... Haha, to be fair, it's me who invites them. Perhaps I need them more than they need me.
+VO_Archive_Natasha_9.ogg  ||  Seele's already become a capable adult — I can't treat her like a child anymore.
+VO_Archive_Natasha_10.ogg  ||  I heard she's been looking after the wounded vagrants. What a girl... When I first met Clara, she was replacing parts for her robots like a mechanic, but leaving her own wounds unattended. It was heartbreaking to watch.
+VO_Archive_Natasha_11.ogg  ||  Svarog wants to preserve humanity, but he's not concerned about what humans truly think.
+VO_Archive_Natasha_12.ogg  ||  If I know Sampo, the last thing he wants is to owe you a favor — he'll think of any way possible to pay you back... The longer you leave a favor, the harder it is to calculate its value.
+VO_Archive_Natasha_13.ogg  ||  Sometimes I stand at the door of the clinic and watch her running and jumping around... and my tiredness simply goes away.
+VO_Archive_Natasha_14.ogg  ||  We both came from the Overworld. Maybe that's why we're so eager to turn back the clock — to return to when life below ground was no harder than life on the surface.
+VO_Archive_Natasha_17.ogg  ||  That kid puts up a strong front, but under the surface he's afraid of becoming a burden — that's why he trains and fights so hard... I hope one day he's able to slow down and listen to his heart.
+Special:Upload?wpDestFile=VO_Archive_Natasha_18.ogg  ||  With this strength, I can save more lives.
+VO_Archive_Natasha_23.ogg  ||  Room for an "old witch," Hook?
+VO_Natasha_Battle_Begins_-_Weakness_Break_01.ogg  ||  That'll take more than medicine.
+VO_Natasha_Battle_Begins_-_Danger_Alert_01.ogg  ||  Don't get careless.
+VO_Natasha_Turn_Begins_02.ogg  ||  Naughty children don't listen.
+VO_Natasha_Turn_Begins_03.ogg  ||  Time for a shot.
+VO_Natasha_Turn_Idling_01.ogg  ||  Seems I've been waiting a while...
+VO_Natasha_Basic_ATK_01.ogg  ||  You're in bad shape.
+VO_Natasha_Basic_ATK_02.ogg  ||  Savor the vigor of life.
+VO_Natasha_Basic_ATK_03.ogg  ||  Naptime.
+VO_Natasha_Skill_01.ogg  ||  Here comes the medicine.
+VO_Natasha_Skill_02.ogg  ||  All better now?
+VO_Natasha_Hit_by_Light_Attack_01.ogg  ||  I'm okay.
+VO_Natasha_Hit_by_Heavy_Attack_01.ogg  ||  That hurt...
+VO_Natasha_Ultimate_-_Activate_01.ogg  ||  Just in time.
+VO_Natasha_Ultimate_-_Unleash_01.ogg  ||  (Normal Speed) Just a little something. Think nothing of it.
+VO_Natasha_Downed_01.ogg  ||  But I'm a... doctor...
+VO_Natasha_Return_to_Battle_01.ogg  ||  I have plenty of medicine at the ready.
+VO_Natasha_Health_Recovery_01.ogg  ||  I'll be more careful.
+VO_Natasha_Technique_01.ogg  ||  Found you.
+VO_Natasha_Battle_Won_01.ogg  ||  A delicate operation.
+VO_Natasha_Treasure_Opening_01.ogg  ||  If there's medicine, it'll come in handy.
+VO_Natasha_Successful_Puzzle-Solving_01.ogg  ||  Hm, that's a healthy brain.
+VO_Natasha_Enemy_Target_Found_01.ogg  ||  Victory means preparation.
+VO_Natasha_Returning_to_Town_01.ogg  ||  Hard work needs hard rest.

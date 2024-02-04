@@ -1,0 +1,99 @@
+VO_ZH_Archive_Yanqing_1.ogg  ||  「罗浮」云骑军骁卫彦卿，前来报到！(Trailblazer)老师有空的话，就来同彦卿切磋一下吧？放心，我可不会因为对手是老师您就手下留情。
+VO_ZH_Archive_Yanqing_2.ogg  ||  今天练什么剑？要彦卿陪你么？
+VO_ZH_Archive_Yanqing_3.ogg  ||  剑也需回鞘了…老师，明日再见！
+VO_ZH_Archive_Yanqing_4.ogg  ||  「罗浮」上已没有我的对手，但放眼星际之间…可不尽然。
+VO_ZH_Archive_Yanqing_5.ogg  ||  说到工造司的剑器，那我可就不困了。每一种规格我都会购入两件，一柄拆封使用，一柄入室珍藏…不过月底嘛，难免要「吃将军，用将军，可怜巴巴求将军」啦。
+VO_ZH_Archive_Yanqing_6.ogg  ||  尚未取得「剑首」之名，说明我的技艺还需精进。但将军又说，我差的不是剑术，而是时间…同那位「剑首」相比，我到底差在哪儿呢……
+VO_ZH_Archive_Yanqing_7.ogg  ||  购入新剑后，剑衣还得下一番工夫，质材用黑梨木还是绸缎，上头的护环用龙形还是虎形、还有剑镖、名牌…这些个逐一挑选起来，好不乐乎！
+VO_ZH_Archive_Yanqing_8.ogg  ||  有时购入新剑，看中了不同的剑鞘，均很相配，不得已只能通通买了回去，但无奈一柄剑又只能配一副剑鞘……
+VO_ZH_Archive_Yanqing_9.ogg  ||  「等留名史册之后，还能做些什么？」我去问将军这个问题，结果他说自己压根就没想过成为将军，所以回答不了，让我自己想，哎……
+VO_ZH_Archive_Yanqing_10.ogg  ||  同其他仙舟一样，「罗浮」也会举办「星天演武」的仪典，旨在考校云骑军的实力进退。谁要是在剑术一项上胜出，就能摘下「剑首」的头衔！
+VO_ZH_Archive_Yanqing_11.ogg  ||  有彦卿在，将军自然用不着显名于武力啦。既然将军认可我的实力，我当然要替他多多分忧才是！
+VO_ZH_Archive_Yanqing_12.ogg  ||  停云姑娘主办的「得物志」，如有关于剑器的部分，也会来找我写荐语呢。
+VO_ZH_Archive_Yanqing_13.ogg  ||  素裳姑娘的剑是好剑，但好剑未必称手。要多使出它的一分功力，得多花十倍气力。
+VO_ZH_Archive_Yanqing_14.ogg  ||  有次去天舶司登门拜访，撞见驭空大人独自面对皮侯，凝视许久。虽然最终一箭未射，但她或许早在心中拉了千百次弓吧。
+VO_ZH_Archive_Yanqing_15.ogg  ||  符太卜想当将军…别的不说，先改改她一开口大家就想睡觉的毛病吧。
+VO_ZH_Archive_Yanqing_16.ogg  ||  起初我还当他是拿剑匣作武器，看着真有几分古怪…得想办法和他对上几招，逼迫他使出些真功夫来……
+VO_ZH_Archive_Yanqing_17.ogg  ||  我曾以为追求最纯粹极致的剑术只有一种方式…但她，将军，我…每个人最终都会走上不同的道路。
+VO_ZH_Archive_Yanqing_19.ogg  ||  与丹恒先生交手时愈发发现，他虽枪术精湛，却对此毫不在意…枪术与他而言，只是一种手段么？
+VO_ZH_Archive_Yanqing_20.ogg  ||  刺出的每一剑都会被他识破…仅凭剑术上的造诣，能够战胜他么？
+VO_ZH_Archive_Yanqing_18.ogg  ||  我记得那位老师…上次看她提着一把很漂亮的剑，刚想找她聊聊，谁曾想她竟然将那把剑吞了下去！彦卿到现在都没想明白，这到底是哪个门派的剑法……
+VO_ZH_Archive_Yanqing_Eidolon_Activation.ogg  ||  总觉得，罗浮的星空亮了一些。
+VO_ZH_Archive_Yanqing_Character_Ascension.ogg  ||  距离达成梦想，还要挥多少次剑呢？
+VO_ZH_Archive_Yanqing_Max_Level_Reached.ogg  ||  不知不觉剑艺大有长进，该找个对手印证了。
+VO_ZH_Archive_Yanqing_Trace_Activation.ogg  ||  虽然我年纪不大，但总对我说「未来可期」是不是有些敷衍了？
+VO_ZH_Archive_Yanqing_Added_to_Team_With_Jing_Yuan.ogg  ||  将军下令，彦卿定不辱使命。
+VO_ZH_Archive_Yanqing_Added_to_Team_With_Fu_Xuan.ogg  ||  这场战斗的胜负吉凶，太卜有何见解？
+VO_ZH_Archive_Yanqing_Added_to_Team_With_Sushang.ogg  ||  云骑互为臂助，携手破敌。
+VO_ZH_Archive_Yanqing_Added_to_Team_With_Dan_Heng.ogg  ||  我的剑术，是否足以再请赐教了？
+VO_ZH_Archive_Yanqing_Added_to_Team_With_Blade.ogg  ||  将军放你离开，你可别来碍事啊。
+VO_ZH_Archive_Yanqing_1.ogg  ||  
+VO_ZH_Archive_Yanqing_2.ogg  ||  
+VO_ZH_Archive_Yanqing_3.ogg  ||  
+VO_ZH_Archive_Yanqing_4.ogg  ||  
+VO_ZH_Archive_Yanqing_5.ogg  ||  
+VO_ZH_Archive_Yanqing_6.ogg  ||  
+VO_ZH_Archive_Yanqing_7.ogg  ||  
+VO_ZH_Archive_Yanqing_8.ogg  ||  
+VO_ZH_Archive_Yanqing_9.ogg  ||  
+VO_ZH_Archive_Yanqing_10.ogg  ||  
+VO_ZH_Archive_Yanqing_11.ogg  ||  
+VO_ZH_Archive_Yanqing_12.ogg  ||  
+VO_ZH_Archive_Yanqing_13.ogg  ||  
+VO_ZH_Archive_Yanqing_14.ogg  ||  
+VO_ZH_Archive_Yanqing_15.ogg  ||  
+VO_ZH_Archive_Yanqing_16.ogg  ||  
+VO_ZH_Archive_Yanqing_17.ogg  ||  
+VO_ZH_Archive_Yanqing_19.ogg  ||  
+VO_ZH_Archive_Yanqing_20.ogg  ||  
+VO_ZH_Archive_Yanqing_18.ogg  ||  
+VO_ZH_Archive_Yanqing_Eidolon_Activation.ogg  ||  
+VO_ZH_Archive_Yanqing_Character_Ascension.ogg  ||  
+VO_ZH_Archive_Yanqing_Max_Level_Reached.ogg  ||  
+VO_ZH_Archive_Yanqing_Trace_Activation.ogg  ||  
+VO_ZH_Archive_Yanqing_Added_to_Team_With_Jing_Yuan.ogg  ||  
+VO_ZH_Archive_Yanqing_Added_to_Team_With_Fu_Xuan.ogg  ||  
+VO_ZH_Archive_Yanqing_Added_to_Team_With_Sushang.ogg  ||  
+VO_ZH_Archive_Yanqing_Added_to_Team_With_Dan_Heng.ogg  ||  
+VO_ZH_Archive_Yanqing_Added_to_Team_With_Blade.ogg  ||  
+VO_ZH_Yanqing_Battle_Begins_-_Weakness_Break_01.ogg  ||  哼，不过一合之敌。
+VO_ZH_Yanqing_Battle_Begins_-_Danger_Alert_01.ogg  ||  强者当前，不吝赐教。
+VO_ZH_Yanqing_Turn_Begins_01.ogg  ||  哦？你能接我几招？
+VO_ZH_Yanqing_Turn_Begins_02.ogg  ||  宝剑们，动起来啦！
+VO_ZH_Yanqing_Turn_Idling_01.ogg  ||  剑形如水，不可久驻。
+VO_ZH_Yanqing_Skill_01.ogg  ||  剑，如燕跃。
+VO_ZH_Yanqing_Skill_02.ogg  ||  剑，随我心。
+VO_ZH_Yanqing_Hit_by_Light_Attack_01.ogg  ||  怪了……
+VO_ZH_Yanqing_Hit_by_Heavy_Attack_01.ogg  ||  身手不错。
+VO_ZH_Yanqing_Ultimate_-_Activate_01.ogg  ||  试探就到此为止了。
+VO_ZH_Yanqing_Ultimate_-_Unleash_01.ogg  ||  万剑，天来！
+VO_ZH_Yanqing_Downed_01.ogg  ||  辜负了…手中三尺……
+VO_ZH_Yanqing_Return_to_Battle_01.ogg  ||  这次不会再轻敌了。
+VO_ZH_Yanqing_Health_Recovery_01.ogg  ||  调息顺畅啦。
+VO_ZH_Yanqing_Technique_01.ogg  ||  略施小计。
+VO_ZH_Yanqing_Battle_Won_01.ogg  ||  不愧是我的宝剑~
+VO_ZH_Yanqing_Treasure_Opening_01.ogg  ||  就当攒些零花钱。
+Special:Upload?wpDestFile=VO_ZH_Yanqing_Treasure_Opening_02.ogg  ||  再多来些，便可购一柄新剑！
+VO_ZH_Yanqing_Successful_Puzzle-Solving_01.ogg  ||  有趣有趣。
+VO_ZH_Yanqing_Enemy_Target_Found_01.ogg  ||  去会一会它吧！
+VO_ZH_Yanqing_Returning_to_Town_01.ogg  ||  不知是否还能寻得稀有的剑器……
+VO_ZH_Yanqing_Battle_Begins_-_Weakness_Break_01.ogg  ||  
+VO_ZH_Yanqing_Battle_Begins_-_Danger_Alert_01.ogg  ||  
+VO_ZH_Yanqing_Turn_Begins_01.ogg  ||  
+VO_ZH_Yanqing_Turn_Begins_02.ogg  ||  
+VO_ZH_Yanqing_Turn_Idling_01.ogg  ||  
+VO_ZH_Yanqing_Skill_01.ogg  ||  
+VO_ZH_Yanqing_Skill_02.ogg  ||  
+VO_ZH_Yanqing_Hit_by_Light_Attack_01.ogg  ||  
+VO_ZH_Yanqing_Hit_by_Heavy_Attack_01.ogg  ||  
+VO_ZH_Yanqing_Ultimate_-_Activate_01.ogg  ||  
+VO_ZH_Yanqing_Ultimate_-_Unleash_01.ogg  ||  
+VO_ZH_Yanqing_Downed_01.ogg  ||  
+VO_ZH_Yanqing_Return_to_Battle_01.ogg  ||  
+VO_ZH_Yanqing_Health_Recovery_01.ogg  ||  
+VO_ZH_Yanqing_Technique_01.ogg  ||  
+VO_ZH_Yanqing_Battle_Won_01.ogg  ||  
+VO_ZH_Yanqing_Treasure_Opening_01.ogg  ||  
+VO_ZH_Yanqing_Successful_Puzzle-Solving_01.ogg  ||  
+VO_ZH_Yanqing_Enemy_Target_Found_01.ogg  ||  
+VO_ZH_Yanqing_Returning_to_Town_01.ogg  ||  

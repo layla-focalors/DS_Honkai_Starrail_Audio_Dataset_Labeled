@@ -1,0 +1,45 @@
+VO_KO_Archive_Asta_1.ogg  ||  안녕, (Trailblazer). 난 우주정거장 「헤르타」의 책임자 아스타라고 해. 도움이 필요하면 반드시 연락할게…. 걱정 마, 도움은 절대 사양하지 않거든
+VO_KO_Archive_Asta_2.ogg  ||  왔어? 전에 조사한 관측 어레이의 결과가 나올 때가 됐는데. 시간 있으면 같이 볼래?
+VO_KO_Archive_Asta_3.ogg  ||  시간이 벌써 이렇게 됐다고? 근무 시간은 항상 순식간에 지나간다니까
+VO_KO_Archive_Asta_6.ogg  ||  휴, 아무한테 연락을 안 해도 친척들이 알아서 찾아올 거야
+VO_KO_Archive_Asta_7.ogg  ||  맞아, 열심히 일하지 않으면 집으로 돌아가서 가업을 이어야 해…
+VO_KO_Archive_Asta_4.ogg  ||  …아직 한 글자도 못 쓰긴 했는데, 일단 시작하면 금방이야
+VO_KO_Archive_Asta_5.ogg  ||  「우주정거장은 헤르타의 장난감 박스일 뿐이다」, 틀린 말은 아니야. 하지만 상대가 헤르타 님이라면, 그분의 장난감은 당연히 위험하겠지~
+VO_KO_Archive_Asta_8.ogg  ||  지속적으로 자금을 우주정거장의 건설에 투자하고 직원 복지를 개선하고, 양질의 순환을 형성하는 것. 그리고 책임자를 만족시키는 게 내 쇼핑 요구사항이야
+VO_KO_Archive_Asta_9.ogg  ||  헤르타 님이 종종 우주정거장에 들러주셨으면 좋겠어. 연구원들은 다들 헤르타 님을 따라 여기 왔거든
+VO_KO_Archive_Asta_12.ogg  ||  우주정거장에 도착했을 때 연구원들이 나한테 1인실을 따로 준비해 줬어. 고마웠지, 고맙긴 한데 거긴 모두랑 멀리 떨어져 있어서 거기서 지내고 싶지는 않더라고
+VO_KO_Archive_Asta_13.ogg  ||  감시실에 있어도 감시를 당할 수 있지
+VO_KO_Archive_Asta_10.ogg  ||  아를란 성대모사 해줄게. 「모두들 아스타 책임자님의 판단을 따르면 된다」라고 하면, 내가 「너도 조심해」라고 해. 그럼 아를란은 「괜찮습니다, 전 저만의 판단이 있으니까요」라고 하지
+VO_KO_Archive_Asta_11.ogg  ||  자신이 헤르타 님처럼 제멋대로 행동할 수 있다고 생각하는 사람이 있다면, 일단 자기가 헤르타 님 같은 지혜를 갖췄는지부터 고민해 봤으면 좋겠어~
+VO_KO_Archive_Asta_14.ogg  ||  열차는 은하를 유람하니까 내가 도와주지 못할 수도 있어. 하지만 돈으로 해결할 수 있는 일이라면 뭐든 얘기해
+VO_KO_Archive_Asta_15.ogg  ||  전에 토파즈 씨랑 휴가 이야기를 나눴어. 비행체를 통째로 빌려서 드넓은 별바다를 감상하며 「컴퍼니」 얘기 좀 하자고 했는데… 언제쯤 시간이 맞을까……
+VO_KO_Archive_Asta_16.ogg  ||  완•매 씨에게 소매 액세서리 구매 링크를 물어봤는데 놀랍게도 직접 수놓은 거였더라고. 게다가 그다음 우주정거장에 왔을 때 별 모양 펜던트를 나한테 선물하는 거 있지? 진짜 놀랐어! 손재주도 그녀의 논문만큼이나 섬세하더라니까
+VO_KO_Archive_Asta_Eidolon_Activation.ogg  ||  모든 별은 다 기적이야!
+VO_KO_Archive_Asta_Character_Ascension.ogg  ||  많은 걸 알아갈수록 이 별하늘이 더 사랑스러워
+VO_KO_Archive_Asta_Max_Level_Reached.ogg  ||  목표는 하늘의 별과 같아. 까마득히 멀리 있는 건 아니지
+VO_KO_Archive_Asta_Trace_Activation.ogg  ||  어라라, 이게 바로 「별을 쫓는 여정」이야?
+VO_KO_Archive_Asta_Added_to_Team_With_Arlan.ogg  ||  아를란… 더 이상 혼자 싸우지 마
+VO_KO_Archive_Asta_Added_to_Team_With_Herta.ogg  ||  헤르타 님도 계셨어요? 그럼 걱정 안 해도 되겠네요!
+VO_KO_Archive_Asta_Added_to_Team_With_Topaz.ogg  ||  어머, 토파즈 씨! 우연이네요, 출장이라 생각하면 되겠죠!?
+VO_KO_Asta_Battle_Begins_-_Weakness_Break_01.ogg  ||  응? 무서워하지 마~
+VO_KO_Asta_Battle_Begins_-_Danger_Alert_01.ogg  ||  조심해야겠어
+VO_KO_Asta_Turn_Begins_01.ogg  ||  정말 예의를 모르는 손님이네
+VO_KO_Asta_Turn_Begins_02.ogg  ||  너흴 초대한 기억 없어
+VO_KO_Asta_Turn_Idling_01.ogg  ||  뭘 하려는지 맞춰봐~
+VO_KO_Asta_Basic_ATK_01.ogg  ||  비키라고
+VO_KO_Asta_Skill_01.ogg  ||  행운아는 누구려나~
+VO_KO_Asta_Skill_02.ogg  ||  별의 축복을 받아라~
+VO_KO_Asta_Hit_by_Light_Attack_01.ogg  ||  아야야……
+VO_KO_Asta_Hit_by_Heavy_Attack_01.ogg  ||  오지 마……
+VO_KO_Asta_Ultimate_-_Activate_01.ogg  ||  모든 건, 별의 선택이야
+VO_KO_Asta_Ultimate_-_Unleash_01.ogg  ||  별의 신비를 갈망하는 열쇠여, 개척자에게 진정한 축복을 주어라!
+VO_KO_Asta_Downed_01.ogg  ||  아직… 알고 싶은 게 많은데……
+VO_KO_Asta_Return_to_Battle_01.ogg  ||  방금 건 무효야, 다시 해
+VO_KO_Asta_Health_Recovery_01.ogg  ||  구해줘도 너한텐 뭐 안 떨어져
+VO_KO_Asta_Technique_01.ogg  ||  약점 들통났어~
+VO_KO_Asta_Battle_Won_01.ogg  ||  별들이 우리의 이름을 기억할 거야
+VO_KO_Asta_Treasure_Opening_01.ogg  ||  난 다 있어
+VO_KO_Asta_Precious_Treasure_Opening_01.ogg  ||  품질은 꽤 좋은 거 같아
+VO_KO_Asta_Successful_Puzzle-Solving_01.ogg  ||  실력이 많이 늘었네~
+VO_KO_Asta_Enemy_Target_Found_01.ogg  ||  내가 공격을 안 하면 녀석도 날 공격 안 하려나?
+VO_KO_Asta_Returning_to_Town_01.ogg  ||  이곳에서도 별이 보여?

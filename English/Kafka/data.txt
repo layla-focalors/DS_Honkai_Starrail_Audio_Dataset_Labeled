@@ -1,0 +1,42 @@
+VO_Archive_Kafka_1.ogg  ||  Hi, Astral Expressers... Well, you caught me.
+VO_Archive_Kafka_2.ogg  ||  All space and time are practically infinite, and yet right here, right now, we find ourselves together. That's the nature of "destiny" — it creates a miracle but convinces you of an accident.
+VO_Archive_Kafka_3.ogg  ||  Oh, bye-bye, (Trailblazer). See if you can surprise me next time.
+VO_Archive_Kafka_6.ogg  ||  Before I joined the Stellaron Hunters, the nature of my work meant that I barely ever saw the same person twice.
+VO_Archive_Kafka_4.ogg  ||  Elio said that I'm good at creating "fear," even though I don't know what it is.
+VO_Archive_Kafka_5.ogg  ||  Playing the violin and firing a gun both require flexible fingers, but bullets are more obedient.
+VO_Archive_Kafka_7.ogg  ||  I especially love velvet coats, they're so fragile and beautiful. Difficult to maintain — you only have to be a tiny bit careless to ruin the sheen.
+VO_Archive_Kafka_8.ogg  ||  The past and the future are so similar to each other. I'm indifferent towards them.
+VO_Archive_Kafka_11.ogg  ||  There's a planet I go to every summer to look at the sea. That's when the tides are fiercest — you have to stand far away on the shore. Then, one year, they constructed a long observation pier. I haven't been back since.
+VO_Archive_Kafka_12.ogg  ||  My home world is one of many planets changed by a Stellaron... *sigh* It's a shame I never got to witness how far it fell at the time.
+VO_Archive_Kafka_9.ogg  ||  I like chatting with Silver Wolf. She's got a lot of ideas for someone so small.
+VO_Archive_Kafka_10.ogg  ||  Bladie... He takes after his name — his fights are a pleasure to witness.
+VO_Archive_Kafka_Eidolon_Activation.ogg  ||  No one can completely grasp another's thoughts... Not even you or I.
+VO_Archive_Kafka_Character_Ascension.ogg  ||  If destiny can't propel me forward, I'll be the one to push destiny.
+VO_Archive_Kafka_Max_Level_Reached.ogg  ||  It's tough to get going again once you've stopped, don't you think?
+VO_Archive_Kafka_Trace_Activation.ogg  ||  The path to the future begins right here.
+VO_Archive_Kafka_Added_to_Team_With_Silver_Wolf.ogg  ||  Let's skip the formalities, Silver Wolf. I'm always game for putting on a show.
+VO_Archive_Kafka_Added_to_Team_With_Blade.ogg  ||  The hunt beckons, Bladie. Are you ready?
+VO_Archive_Kafka_Added_to_Team_With_Himeko.ogg  ||  Oh, the Express Crew. Looks like we'll be joining forces quite often, huh?
+VO_Kafka_Battle_Begins_-_Weakness_Break_01.ogg  ||  Caught in the net.
+VO_Kafka_Battle_Begins_-_Danger_Alert_01.ogg  ||  Just in time.
+VO_Kafka_Turn_Begins_01.ogg  ||  May as well kill them all~
+VO_Kafka_Turn_Begins_02.ogg  ||  That breathing sensation? Remember it.
+VO_Kafka_Turn_Idling_01.ogg  ||  Time to move.
+VO_Kafka_Basic_ATK_01.ogg  ||  This won't take long.
+VO_Kafka_Hit_by_Light_Attack_01.ogg  ||  Didn't hurt.
+VO_Kafka_Hit_by_Heavy_Attack_01.ogg  ||  Not bad.
+VO_Kafka_Ultimate_-_Activate_01.ogg  ||  Good times never last.
+VO_Kafka_Ultimate_-_Unleash_01.ogg  ||  Time to say bye. BOOM.
+VO_Kafka_Talent_01.ogg  ||  Relax.
+VO_Kafka_Talent_02.ogg  ||  Stand still.
+VO_Kafka_Downed_01.ogg  ||  This... isn't the end.
+VO_Kafka_Return_to_Battle_01.ogg  ||  Oh! I'm still alive.
+VO_Kafka_Health_Recovery_01.ogg  ||  Thanks. You're too good to me.
+VO_Kafka_Technique_01.ogg  ||  Does that hurt?
+VO_Kafka_Battle_Won_01.ogg  ||  The human body is beautiful in its fragility.
+VO_Kafka_Treasure_Opening_01.ogg  ||  Hmm. We can use it.
+Special:Upload?wpDestFile=VO_Kafka_Treasure_Opening_02.ogg  ||  No surprise there.
+VO_Kafka_Precious_Treasure_Opening_01.ogg  ||  Like what you see? Me too.
+VO_Kafka_Successful_Puzzle-Solving_01.ogg  ||  Nice work.
+VO_Kafka_Enemy_Target_Found_01.ogg  ||  Huh, they don't look happy to see us...
+VO_Kafka_Returning_to_Town_01.ogg  ||  *sigh* Is that a stain? I like this coat.

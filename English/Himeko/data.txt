@@ -1,0 +1,44 @@
+VO_Archive_Himeko_1.ogg  ||  Welcome aboard, (Trailblazer). I'm Himeko, navigator of the Astral Express. I'm sure we're about to embark on a fascinating journey together.
+VO_Archive_Himeko_2.ogg  ||  Hey there. Tired? How about a coffee?
+VO_Archive_Himeko_3.ogg  ||  Relax, Pom-Pom and I are here to take care of the train.
+VO_Archive_Himeko_5.ogg  ||  The Express and I are like old friends — we've helped each other a lot. I fixed it so that it could get back to its original route, and in return it takes me to unknown frontiers.
+VO_Archive_Himeko_6.ogg  ||  As far as malfunctions on the train are concerned, I've usually dealt with them before you guys even realize anything's amiss.
+VO_Archive_Himeko_4.ogg  ||  I'm speculating, but I think the Express departs from Akivili's home world and returns there before starting the journey anew. So the Express doesn't have a "final stop" per se — it's up to you where you disembark.
+VO_Archive_Himeko_7.ogg  ||  I have a knack for blending different coffee beans. Can I make you a cup? I recommend not adding milk — black coffee is proper coffee.
+VO_Archive_Himeko_8.ogg  ||  Seems like only Dan Heng has a kind word for my coffee. What do you think? ...Well, I've always thought that bitter is better...
+VO_Archive_Himeko_13.ogg  ||  When people live together it seems like nobody ever changes. Only when they're away from each other for a long time do surprising transformations occur...
+VO_Archive_Himeko_14.ogg  ||  When we scour the universe for the things we seek, most of the time it's less of a "Eureka, I found it!" moment and more of a "Is this it? What if I'm wrong?" moment.
+VO_Archive_Himeko_9.ogg  ||  If I woke up on the Express without any memories, there's no way I'd recover as quickly as March has. I admire her for that, but I also worry about her... If I'm ever too busy, please do take the time to chat with her.
+VO_Archive_Himeko_10.ogg  ||  Dan Heng is the cautious type — I think he's gotten used to doing things by himself. He doesn't like to bother or inconvenience others. That's why I asked him to be the train's guard and maintain the data bank. I don't think he'd have joined us if there wasn't anything for him to do.
+VO_Archive_Himeko_11.ogg  ||  I think Welt's anxious that he can't keep up with you youngsters, but he sure seems young at heart to me...
+VO_Archive_Himeko_12.ogg  ||  To Pom-Pom, I'll always be the train's mechanic, haha.
+VO_Archive_Himeko_15_M.ogg  ||  He's not so uptight nowadays. I think (Trailblazer) and March helped him understand that relying on others sometimes really isn't a big deal.
+VO_Archive_Himeko_Eidolon_Activation.ogg  ||  The Express's path bridges the stars, as if it were a string of shimmering pearls.
+VO_Archive_Himeko_Character_Ascension.ogg  ||  With countless marvelous sights to be seen, I couldn't possibly consider stopping here.
+VO_Archive_Himeko_Max_Level_Reached.ogg  ||  Our final stop can never truly be reached.
+VO_Archive_Himeko_Trace_Activation.ogg  ||  The human thirst for discovery is truly boundless.
+VO_Archive_Himeko_Added_to_Team_With_March_7th.ogg  ||  Make sure to keep yourself safe this time March... and remember, we're all in this together.
+VO_Archive_Himeko_Added_to_Team_With_Dan_Heng.ogg  ||  I'll be right behind you with all the support you need, Dan Heng.
+VO_Archive_Himeko_Added_to_Team_With_Welt.ogg  ||  See, Welt, I told you we'd have lots of chances to shine.
+VO_Himeko_Battle_Begins_-_Weakness_Break_01.ogg  ||  I have something for you.
+VO_Himeko_Battle_Begins_-_Danger_Alert_01.ogg  ||  Be careful.
+VO_Himeko_Turn_Begins_02.ogg  ||  Combat is a series of precise machinations.
+VO_Himeko_Turn_Begins_03.ogg  ||  Time for a detailed overhaul.
+VO_Himeko_Turn_Idling_01.ogg  ||  It won't be so easy next time.
+VO_Himeko_Basic_ATK_01.ogg  ||  One at a time!
+VO_Himeko_Skill_02.ogg  ||  Come one, come all.
+VO_Himeko_Hit_by_Light_Attack_01.ogg  ||  Barely felt it.
+VO_Himeko_Hit_by_Heavy_Attack_01.ogg  ||  You've got a lot of nerve.
+VO_Himeko_Ultimate_-_Activate_01.ogg  ||  Perhaps you still don't understand...
+VO_Himeko_Ultimate_-_Unleash_01.ogg  ||  Humanity never conceals its desire to control the heavens... And I'm no exception.
+VO_Himeko_Talent_01.ogg  ||  You won't get away!
+VO_Himeko_Downed_01.ogg  ||  I was... just getting... started...
+VO_Himeko_Return_to_Battle_01.ogg  ||  Did you miss me?
+VO_Himeko_Health_Recovery_01.ogg  ||  Much obliged.
+VO_Himeko_Technique_01.ogg  ||  Burn away.
+VO_Himeko_Battle_Won_01.ogg  ||  One step closer to the stars.
+VO_Himeko_Treasure_Opening_01.ogg  ||  This is also the reward of trailblazing.
+Special:Upload?wpDestFile=VO_Himeko_Treasure_Opening_02.ogg  ||  Oh, how nice.
+VO_Himeko_Successful_Puzzle-Solving_01.ogg  ||  Sometimes you gotta do things yourself.
+VO_Himeko_Enemy_Target_Found_01.ogg  ||  Practice target?
+VO_Himeko_Returning_to_Town_01.ogg  ||  Fancy a coffee?

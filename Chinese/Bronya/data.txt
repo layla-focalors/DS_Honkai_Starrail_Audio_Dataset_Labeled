@@ -1,0 +1,74 @@
+VO_ZH_Archive_Bronya_1.ogg  ||  我是贝洛伯格「大守护者」继承人，代行银鬃铁卫统领，布洛妮娅•兰德…方才只是例行的自我介绍，叫我布洛妮娅就好。
+VO_ZH_Archive_Bronya_2.ogg  ||  昨天做噩梦了…抱，抱歉，我有点没睡醒。
+VO_ZH_Archive_Bronya_3.ogg  ||  我还想再散散步…就在附近，不用担心，明天见。
+VO_ZH_Archive_Bronya_5.ogg  ||  有时我觉得，我并不代表我自己，而是一个人形的符号——「大守护者」继承人这个称号下，也可以是别的什么人。我不知道这种感觉从何而来，但我不希望变成这样。
+VO_ZH_Archive_Bronya_4.ogg  ||  筑城者为我们砌成堡垒，使我们远离风雪，但我们必须铭记，风雪从未消失。
+VO_ZH_Archive_Bronya_6.ogg  ||  从黄金歌剧院内传来若有若无的歌声，清晨人们匆匆的脚步声，还有夜晚宁静的克里珀堡，虽然听起来有些矛盾，但我都很喜欢。
+VO_ZH_Archive_Bronya_7.ogg  ||  审讯恶徒时，时常要强压心中怒火，以免用词有失妥当。
+VO_ZH_Archive_Bronya_13.ogg  ||  在前线待的时间久了，想回到官邸休息的愿望就会变得强烈。可一旦真的在床上躺下，对前线战况的担忧又会涌上心头…或许这就是母亲说的「责任」吧？
+VO_ZH_Archive_Bronya_14.ogg  ||  据说「煦日节」最早是为了庆祝春至设立的节日，但对现在的贝洛伯格人来说，它不过是几天普通的假期而已…我想为「煦日节」找回它原本的意义。
+VO_ZH_Archive_Bronya_8.ogg  ||  杰帕德戍卫官么…或许形容他为贝洛伯格的铁壁也不为过。在这座城市，「守」远比「攻」难。
+VO_ZH_Archive_Bronya_9.ogg  ||  以前，母亲他们开讨论会时，也会让我在场，希露瓦总是不厌其烦地解答我的各种问题…这些日子，似乎已经过去很久了。
+VO_ZH_Archive_Bronya_10.ogg  ||  每次夸奖她的时候，她都很努力地板着脸，不让自己露出开心的表情…我看得出来，因为我也这么练习过。
+VO_ZH_Archive_Bronya_11.ogg  ||  我敬重母亲，只是她和我记忆中的模样并不完全相同，或许，只是我把母亲想象成了另一个人……
+VO_ZH_Archive_Bronya_12.ogg  ||  那场相遇本身或许是场灾难，却是一个全新未来的开始…要是被希儿听到了，又要说我在讲什么大道理了吧。
+VO_ZH_Archive_Bronya_15.ogg  ||  朗道家的三妹…对吧？我听杰帕德谈起过她，但还素未谋面。照他的说法，「玲宝」应该是个聪明过人的孩子。
+VO_ZH_Archive_Bronya_16.ogg  ||  或许还有不少星球会和雅利洛-Ⅵ有类似遭遇，但并不是每一个前来的公司代表都像托帕小姐一样……
+VO_ZH_Archive_Bronya_1.ogg  ||  
+VO_ZH_Archive_Bronya_2.ogg  ||  
+VO_ZH_Archive_Bronya_3.ogg  ||  
+VO_ZH_Archive_Bronya_5.ogg  ||  
+VO_ZH_Archive_Bronya_4.ogg  ||  
+VO_ZH_Archive_Bronya_6.ogg  ||  
+VO_ZH_Archive_Bronya_7.ogg  ||  
+VO_ZH_Archive_Bronya_13.ogg  ||  
+VO_ZH_Archive_Bronya_14.ogg  ||  
+VO_ZH_Archive_Bronya_8.ogg  ||  
+VO_ZH_Archive_Bronya_9.ogg  ||  
+VO_ZH_Archive_Bronya_10.ogg  ||  
+VO_ZH_Archive_Bronya_11.ogg  ||  
+VO_ZH_Archive_Bronya_12.ogg  ||  
+VO_ZH_Archive_Bronya_15.ogg  ||  
+VO_ZH_Archive_Bronya_16.ogg  ||  
+VO_ZH_Bronya_Battle_Begins_-_Weakness_Break_01.ogg  ||  别放过任何一处破绽。
+VO_ZH_Bronya_Battle_Begins_-_Danger_Alert_01.ogg  ||  强敌当前，及时调整战略。
+VO_ZH_Bronya_Turn_Begins_01.ogg  ||  这一战，不可避免。
+VO_ZH_Bronya_Turn_Begins_02.ogg  ||  你会为此付出代价。
+VO_ZH_Bronya_Turn_Idling_01.ogg  ||  决定战局的关键一步。
+VO_ZH_Bronya_Basic_ATK_01.ogg  ||  区区恶徒。
+VO_ZH_Bronya_Skill_01.ogg  ||  时不再至，请助我一臂之力！
+VO_ZH_Bronya_Skill_02.ogg  ||  时不再至，请随我一同出战！
+VO_ZH_Bronya_Hit_by_Light_Attack_01.ogg  ||  真是难缠。
+VO_ZH_Bronya_Hit_by_Heavy_Attack_01.ogg  ||  不能倒下……
+VO_ZH_Bronya_Ultimate_-_Activate_01.ogg  ||  我们早已踏入风暴。
+VO_ZH_Bronya_Ultimate_-_Unleash_01.ogg  ||  为了守护和捍卫，击溃他们！
+VO_ZH_Bronya_Downed_01.ogg  ||  绝对…不能失守……
+VO_ZH_Bronya_Return_to_Battle_01.ogg  ||  必须抓住这次机会。
+VO_ZH_Bronya_Health_Recovery_01.ogg  ||  援助来得很及时。
+VO_ZH_Bronya_Technique_01.ogg  ||  拿出魄力来。
+VO_ZH_Bronya_Battle_Won_01.ogg  ||  将我们所失去的，全部夺回。
+VO_ZH_Bronya_Treasure_Opening_01.ogg  ||  补给充足。
+VO_ZH_Bronya_Successful_Puzzle-Solving_01.ogg  ||  设计颇为精巧。
+VO_ZH_Bronya_Enemy_Target_Found_01.ogg  ||  注意敌我形势。
+VO_ZH_Bronya_Returning_to_Town_01.ogg  ||  偶有闲暇，去散散步吧。
+VO_ZH_Bronya_Battle_Begins_-_Weakness_Break_01.ogg  ||  
+VO_ZH_Bronya_Battle_Begins_-_Danger_Alert_01.ogg  ||  
+VO_ZH_Bronya_Turn_Begins_01.ogg  ||  
+VO_ZH_Bronya_Turn_Begins_02.ogg  ||  
+VO_ZH_Bronya_Turn_Idling_01.ogg  ||  
+VO_ZH_Bronya_Basic_ATK_01.ogg  ||  
+VO_ZH_Bronya_Skill_01.ogg  ||  
+VO_ZH_Bronya_Skill_02.ogg  ||  
+VO_ZH_Bronya_Hit_by_Light_Attack_01.ogg  ||  
+VO_ZH_Bronya_Hit_by_Heavy_Attack_01.ogg  ||  
+VO_ZH_Bronya_Ultimate_-_Activate_01.ogg  ||  
+VO_ZH_Bronya_Ultimate_-_Unleash_01.ogg  ||  
+VO_ZH_Bronya_Downed_01.ogg  ||  
+VO_ZH_Bronya_Return_to_Battle_01.ogg  ||  
+VO_ZH_Bronya_Health_Recovery_01.ogg  ||  
+VO_ZH_Bronya_Technique_01.ogg  ||  
+VO_ZH_Bronya_Battle_Won_01.ogg  ||  
+VO_ZH_Bronya_Treasure_Opening_01.ogg  ||  
+VO_ZH_Bronya_Successful_Puzzle-Solving_01.ogg  ||  
+VO_ZH_Bronya_Enemy_Target_Found_01.ogg  ||  
+VO_ZH_Bronya_Returning_to_Town_01.ogg  ||  

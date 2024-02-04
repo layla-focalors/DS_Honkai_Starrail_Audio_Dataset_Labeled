@@ -1,0 +1,38 @@
+VO_Archive_Gepard_1.ogg  ||  My name is Gepard Landau, I'm a captain of the Silvermane Guards. If you discover anything suspicious in the city, you can always report it to me.
+VO_Archive_Gepard_2.ogg  ||  You're here. I just finished training.
+VO_Archive_Gepard_3.ogg  ||  My apologies, I still have an assignment to attend to. I'll have to see you off from here.
+VO_Archive_Gepard_5.ogg  ||  As a Silvermane Guard, I observe the oath not because I fear to go against it, but because I am obliged to uphold it.
+VO_Archive_Gepard_4.ogg  ||  Belobog is far from buried in the snow curtain. This city is the planet's last bastion against the ferocity of the Eternal Freeze.
+VO_Archive_Gepard_6.ogg  ||  I grow flowers, *sigh* ...It's just that I'm not very good at it.
+VO_Archive_Gepard_7.ogg  ||  My sister's songs are very popular among the Guards — there's always someone singing one when we're off duty. Recently I've found myself humming them without realizing, even when I'm on duty... *sigh*
+VO_Archive_Gepard_13.ogg  ||  The Landau family has had the honor and responsibility of serving the supreme guardians for generations. Only by becoming a shield for the people is one worthy of the title "Architect."
+VO_Archive_Gepard_14.ogg  ||  Lately, many children have come to ask me how to become a captain... *sigh* To be honest, the best advice I can give is to keep training and have a balanced diet.
+VO_Archive_Gepard_8.ogg  ||  Lady Bronya has ventured deep into the most dangerous regions of the front line with us — many times for that matter.
+VO_Archive_Gepard_9.ogg  ||  Many people seem to like talking about how my sister changed since she left the Guards, but in reality... she's exactly the same person.
+VO_Archive_Gepard_10.ogg  ||  I heard my sister started asking Pela to look after my flowers when I'm away... I hope it's not too much trouble for her.
+VO_Archive_Gepard_11.ogg  ||  I've always firmly believed that no one knows this city better or loves it more than the supreme guardian.
+VO_Archive_Gepard_12.ogg  ||  He's very... cunning. According to leads provided by citizens, he's got his hands on a number of ancient relics. He sold off most of them, but it seems he's using others to commit various frauds.
+VO_Archive_Gepard_15.ogg  ||  My little sister has a... peculiar streak. No, no, I don't mean a bad temper... *sigh* Let's just say she reminds me more of Serval than me.
+Special:Upload?wpDestFile=VO_Archive_Gepard_16.ogg  ||  The Silvermane Guards stand ready to defend Belobog.
+VO_Archive_Gepard_19.ogg  ||  Essential to a Silvermane Guard's progression.
+VO_Gepard_Battle_Begins_-_Weakness_Break_01.ogg  ||  This ends here.
+VO_Gepard_Battle_Begins_-_Danger_Alert_01.ogg  ||  Strengthen our defenses.
+VO_Gepard_Turn_Begins_01.ogg  ||  I hope you're prepared.
+VO_Gepard_Turn_Begins_03.ogg  ||  You will know justice.
+VO_Gepard_Turn_Idling_01.ogg  ||  *Ahem* We have a situation at hand.
+VO_Gepard_Basic_ATK_03.ogg  ||  The die is cast.
+VO_Gepard_Hit_by_Light_Attack_01.ogg  ||  Is that all?
+VO_Gepard_Hit_by_Heavy_Attack_01.ogg  ||  It'll heal.
+VO_Gepard_Ultimate_-_Activate_01.ogg  ||  In the name of Landau.
+VO_Gepard_Ultimate_-_Unleash_01.ogg  ||  Years of cold hardens the will. We shall never fall!
+VO_Gepard_Talent_01.ogg  ||  I'm here to the end.
+VO_Gepard_Downed_02.ogg  ||  I... can't...
+VO_Gepard_Return_to_Battle_01.ogg  ||  I'm still needed.
+VO_Gepard_Health_Recovery_01.ogg  ||  You have my gratitude.
+VO_Gepard_Technique_01.ogg  ||  I'm with you.
+VO_Gepard_Battle_Won_01.ogg  ||  We caught them unawares!
+VO_Gepard_Treasure_Opening_01.ogg  ||  A little goes a long way.
+VO_Gepard_Successful_Puzzle-Solving_01.ogg  ||  Well done.
+VO_Gepard_Successful_Puzzle-Solving_02.ogg  ||  Practice makes perfect.
+VO_Gepard_Enemy_Target_Found_01.ogg  ||  Seize the initiative.
+VO_Gepard_Returning_to_Town_01.ogg  ||  If we're not on patrol, we should get some rest.

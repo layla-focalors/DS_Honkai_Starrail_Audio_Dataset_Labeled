@@ -1,0 +1,51 @@
+VO_JA_Archive_Ruan_Mei_1.ogg  ||  ルアン・メェイです。私の名前を呼ぶ時は、間に一呼吸置くことを忘れないように。
+VO_JA_Archive_Ruan_Mei_2.ogg  ||  あなたも食べますか？この菓子には新しく漬けた梅の花が使われているんです。これのために、かなりの時間列に並びました。
+VO_JA_Archive_Ruan_Mei_3.ogg  ||  いい研究サンプルに出会ったら、私にも共有してください。その時にまた会いましょう。
+VO_JA_Archive_Ruan_Mei_4.ogg  ||  ヌースの目に留まった後、私は故郷を離れ、秘密の場所で生命の根源についての研究を始めました——その場所はどこなのか、という質問はしないでくださいね。
+VO_JA_Archive_Ruan_Mei_5.ogg  ||  生命の枠組の中で、父と母は平等…なので、私は2人の名字を貰って自分の名前にしました。
+VO_JA_Archive_Ruan_Mei_6.ogg  ||  クラブ内で流れている噂は、意識せずとも耳に入ってきます——「マッドサイエンティスト」。彼らにそう評価されるのも悪くないですね。
+VO_JA_Archive_Ruan_Mei_7.ogg  ||  唇や歯は最も敏感な部分なので、菓子が上等かどうかを判断するには、ほんの一口あれば十分。私は新鮮な果物、花や木などの旬の素材を好んでいます。特定の時期の生命形態で切り取られたもののほうが、ドーパミンが放出されやすいので。
+VO_JA_Archive_Ruan_Mei_8.ogg  ||  現代の音楽は聞き慣れませんが、劇はすぐに夢中になってしまいます。弦が弾かれ、時間が流れていくのです。
+VO_JA_Archive_Ruan_Mei_9.ogg  ||  言語の冗長さ、思考の交流の柔軟性のなさ、それが私にとっては煩わしく、悲しい気持ちになってしまうのです……
+VO_JA_Archive_Ruan_Mei_10.ogg  ||  手首の動かし方、適切な角度、集中している状態…刺繍は切片の育成にとてもよく似ています。
+VO_JA_Archive_Ruan_Mei_11.ogg  ||  死の到来を早める必要も、遅らせる必要もありません。命はいずれ枯れる定めにあるのですから。私たちは粒子になってしまいますが、新たな高みに触れることができるのです。
+VO_JA_Archive_Ruan_Mei_12.ogg  ||  人類は論理を過大評価しすぎています。理性に執着すると、逆にその執着に囚われてしまいます——科学とは熱狂から生まれるもの。感情に溺れることは、一種の才能と言えるでしょう。
+VO_JA_Archive_Ruan_Mei_13.ogg  ||  ヘルタの性格は耐えがたいと思う人もいるかもしれませんが、私は気になりません——当然、このことはヘルタも知っています。だから私は彼女の招待を受けたのです。
+VO_JA_Archive_Ruan_Mei_14.ogg  ||  私とスクリューガムの生命に対する理解はまったく異なっていますが、彼はそれに気づいていないようですね。幸い、私たちの交流は「模擬宇宙」に限られています。
+VO_JA_Archive_Ruan_Mei_15.ogg  ||  ヘルタのオフィスに
+スイカ
+西瓜
+のゼリーを置いておけば、スティーブンが現れるかもしれません——いいですか、くれぐれも
+カボチャ
+南瓜
+と間違えないようにしてください。南瓜だと、彼がいない時間を長引かせるだけですから。
+VO_JA_Archive_Ruan_Mei_Eidolon_Activation.ogg  ||  過去の命の断片を元に戻せるというのですか？
+VO_JA_Archive_Ruan_Mei_Character_Ascension.ogg  ||  研究は目覚ましい進展を見せています。
+VO_JA_Archive_Ruan_Mei_Max_Level_Reached.ogg  ||  残念ながら、星神の謎は未だ解明されていません。
+VO_JA_Archive_Ruan_Mei_Trace_Activation.ogg  ||  呼吸するたび、私は自我を感知する…
+VO_JA_Archive_Ruan_Mei_Added_to_Team_With_Herta.ogg  ||  私はあなたじゃない…ここが「模擬宇宙」なら、勝手をしても構いませんが。
+VO_JA_Ruan_Mei_Battle_Begins_-_Weakness_Break_01.ogg  ||  素晴らしい、優美な身構えですね。
+VO_JA_Ruan_Mei_Battle_Begins_-_Danger_Alert_01.ogg  ||  ゆっくりいきましょう。
+VO_JA_Ruan_Mei_Turn_Begins_01.ogg  ||  まだ研究する価値はありますね。
+VO_JA_Ruan_Mei_Turn_Begins_02.ogg  ||  生命は、ただ呼吸するだけの存在ではありません。
+VO_JA_Ruan_Mei_Turn_Idling_01.ogg  ||  待つことも変化です。
+VO_JA_Ruan_Mei_Basic_ATK_01.ogg  ||  あなたにしましょう。
+VO_JA_Ruan_Mei_Basic_ATK_02.ogg  ||  耳を澄まして。
+VO_JA_Ruan_Mei_Skill_01.ogg  ||  琴の音は響き続ける。
+VO_JA_Ruan_Mei_Skill_02.ogg  ||  万象の本質は同じ。
+VO_JA_Ruan_Mei_Hit_by_Light_Attack_01.ogg  ||  楽しいですか？
+VO_JA_Ruan_Mei_Hit_by_Heavy_Attack_01.ogg  ||  離れなさい。
+VO_JA_Ruan_Mei_Ultimate_-_Activate_01.ogg  ||  命の花びらよ…
+VO_JA_Ruan_Mei_Ultimate_-_Unleash_01.ogg  ||  いつ咲こうとも、風に吹かれて散る時は…来る。
+VO_JA_Ruan_Mei_Downed_01.ogg  ||  まだ…答えが…
+VO_JA_Ruan_Mei_Return_to_Battle_01.ogg  ||  続けましょう。
+VO_JA_Ruan_Mei_Health_Recovery_01.ogg  ||  これが命の温度…
+VO_JA_Ruan_Mei_Technique_01.ogg  ||  鳴り響け。
+VO_JA_Ruan_Mei_Battle_Won_01.ogg  ||  命は…不思議ですね。
+VO_JA_Ruan_Mei_Treasure_Opening_01.ogg  ||  箱にも綺麗な模様を付けたらいいかもしれませんね。
+VO_JA_Ruan_Mei_Treasure_Opening_02.ogg  ||  これは役に立ちそうです。
+VO_JA_Ruan_Mei_Precious_Treasure_Opening_01.ogg  ||  おや？予想以上の成果ですね…
+VO_JA_Ruan_Mei_Successful_Puzzle-Solving_01.ogg  ||  この程度の謎ですか…
+VO_JA_Ruan_Mei_Successful_Puzzle-Solving_02.ogg  ||  ごく普通の解き方に過ぎません。
+VO_JA_Ruan_Mei_Enemy_Target_Found_01.ogg  ||  あれは？少し…興味が湧きました。
+VO_JA_Ruan_Mei_Returning_to_Town_01.ogg  ||  休憩にしましょう、お茶の時間です。

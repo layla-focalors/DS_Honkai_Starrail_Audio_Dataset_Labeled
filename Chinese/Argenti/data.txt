@@ -1,0 +1,98 @@
+VO_ZH_Archive_Argenti_1.ogg  ||  我是「纯美骑士团」的银枝。我谨在此，以一朵玫瑰的沉重份量，向你致意。
+VO_ZH_Archive_Argenti_2.ogg  ||  如果遇到麻烦，务必让我知晓，我将捍卫你的安全。
+VO_ZH_Archive_Argenti_3.ogg  ||  原谅我身负职责，注定在银河中独行，无法一直与你并肩。我们定会于宇宙某处偶然相逢。
+VO_ZH_Archive_Argenti_4.ogg  ||  我是纯美骑士中的「授勋骑士」，镌刻整齐的铠甲是我们的象征。
+VO_ZH_Archive_Argenti_5.ogg  ||  纯美骑士团成员甚少会面，但我们奉行相同的「骑士道」，各自来往于不同星球，向宇宙每个角落播撒女神美名。
+VO_ZH_Archive_Argenti_6.ogg  ||  我给飞船起名「希世难得」，打扫它十分耗费精力…或许我不该将外形雕刻得如此繁复。
+VO_ZH_Archive_Argenti_7.ogg  ||  我偏爱厚重硬质的长棍面包，只需以长枪切片便能储存及随身携带，是长途旅程必不可缺的佳品。
+VO_ZH_Archive_Argenti_8.ogg  ||  星际和平公司打造的各种娱乐以及美食，五光十色，颇为震撼，但我总不甚理解其中门路，希望未来有一天，能得到高人指点。
+VO_ZH_Archive_Argenti_9.ogg  ||  听说在某个星球的风俗里，战士会用书页擦拭被改造的义肢，以此将知识直接输入神经。我对此感到震撼，但也颇为欣赏。
+VO_ZH_Archive_Argenti_10.ogg  ||  你是否听说过不存在「丑恶」的星球？有趣的是，那里的人们眼中同样也不存在「美好」。
+VO_ZH_Archive_Argenti_11.ogg  ||  三月七女士拥有纯粹的内心，这样良善的天性与行为难能可贵。我希望对这类天性给予更多爱护与尊重——在银河中，本性庸俗逐利、弄拙花言巧语之人太多。
+VO_ZH_Archive_Argenti_12.ogg  ||  这位女士的灵魂如此高贵：开拓之途漫长艰险，却未曾消磨她的从容不迫与勇气，我十分欣赏。我将吸纳此类理想的品质，今后以更严苛的准则要求自身，贯彻抵抗魔鬼的决心。
+VO_ZH_Archive_Argenti_13.ogg  ||  丹恒先生虽时刻对旁人保有警惕，但其行为总是如此正派，他对自己的要求也正如恪守骑士道般严格；请允许我认为他同样是「美」的。
+VO_ZH_Archive_Argenti_14.ogg  ||  在时间的流逝中，仍旧以一颗最纯真的心，去体会生活中最纯粹的快乐——瓦尔特先生身上最吸引人的，便是这种成熟之处。
+VO_ZH_Archive_Argenti_15.ogg  ||  多么具有「魅力」的毛绒。我想它十分适合坐在骑士肩甲上，成为「荣誉」的象征。
+VO_ZH_Archive_Argenti_16.ogg  ||  啊，多么具有「魅力」的圆球。
+VO_ZH_Archive_Argenti_17_M.ogg  ||  (Trailblazer)身上展露的秉性，始终像第一天结识你那般奇妙有趣。
+VO_ZH_Archive_Argenti_Eidolon_Activation.ogg  ||  「纯美」无处不在——于咫尺之间、于壮丽星河之外。
+VO_ZH_Archive_Argenti_Character_Ascension.ogg  ||  一步一行，便无惧陷入泥沼。
+VO_ZH_Archive_Argenti_Max_Level_Reached.ogg  ||  我誓令「纯美」之盛名响彻寰宇，至死不泯。
+VO_ZH_Archive_Argenti_Trace_Activation.ogg  ||  即使与骑士团的诸位走向不同行迹，我们也终将于终点相见。
+VO_ZH_Archive_Argenti_Added_to_Team_With_March_7th.ogg  ||  三月七女士，请允许我以绵薄之力，为你驱散阴霾！
+VO_ZH_Archive_Argenti_Added_to_Team_With_Dan_Heng.ogg  ||  此间并非杀伐之地，而是智计的竞逐。丹恒先生，很荣幸同你并肩作战。
+VO_ZH_Archive_Argenti_Added_to_Team_With_Himeko.ogg  ||  是你吗，姬子小姐？果然，在你的勇气所及之处，便有星辰浩海。
+VO_ZH_Archive_Argenti_Added_to_Team_With_Welt.ogg  ||  请施我以援助，瓦尔特先生——以您谲若云影的奇巧、醇如美酒的远略。
+VO_ZH_Archive_Argenti_1.ogg  ||  
+VO_ZH_Archive_Argenti_2.ogg  ||  
+VO_ZH_Archive_Argenti_3.ogg  ||  
+VO_ZH_Archive_Argenti_4.ogg  ||  
+VO_ZH_Archive_Argenti_5.ogg  ||  
+VO_ZH_Archive_Argenti_6.ogg  ||  
+VO_ZH_Archive_Argenti_7.ogg  ||  
+VO_ZH_Archive_Argenti_8.ogg  ||  
+VO_ZH_Archive_Argenti_9.ogg  ||  
+VO_ZH_Archive_Argenti_10.ogg  ||  
+VO_ZH_Archive_Argenti_11.ogg  ||  
+VO_ZH_Archive_Argenti_12.ogg  ||  
+VO_ZH_Archive_Argenti_13.ogg  ||  
+VO_ZH_Archive_Argenti_14.ogg  ||  
+VO_ZH_Archive_Argenti_15.ogg  ||  
+VO_ZH_Archive_Argenti_16.ogg  ||  
+VO_ZH_Archive_Argenti_17_M.ogg  ||  
+VO_ZH_Archive_Argenti_Eidolon_Activation.ogg  ||  
+VO_ZH_Archive_Argenti_Character_Ascension.ogg  ||  
+VO_ZH_Archive_Argenti_Max_Level_Reached.ogg  ||  
+VO_ZH_Archive_Argenti_Trace_Activation.ogg  ||  
+VO_ZH_Archive_Argenti_Added_to_Team_With_March_7th.ogg  ||  
+VO_ZH_Archive_Argenti_Added_to_Team_With_Dan_Heng.ogg  ||  
+VO_ZH_Archive_Argenti_Added_to_Team_With_Himeko.ogg  ||  
+VO_ZH_Archive_Argenti_Added_to_Team_With_Welt.ogg  ||  
+VO_ZH_Argenti_Battle_Begins_-_Weakness_Break_01.ogg  ||  就此向善吧。
+VO_ZH_Argenti_Battle_Begins_-_Danger_Alert_01.ogg  ||  不过是片刻阴霾。
+VO_ZH_Argenti_Turn_Begins_01.ogg  ||  我向一朵玫瑰起誓。
+VO_ZH_Argenti_Turn_Begins_02.ogg  ||  遵循纯美骑士的职责。
+VO_ZH_Argenti_Turn_Idling_01.ogg  ||  彷徨的人啊，你的目光正看向何方？
+VO_ZH_Argenti_Skill_01.ogg  ||  纯美，永驻。
+VO_ZH_Argenti_Skill_02.ogg  ||  卑劣，消亡。
+VO_ZH_Argenti_Hit_by_Light_Attack_01.ogg  ||  不足为意。
+VO_ZH_Argenti_Hit_by_Heavy_Attack_01.ogg  ||  骑士的磨练……
+VO_ZH_Argenti_Ultimate_-_Activate_01.ogg  ||  再次见到那道光芒之前……
+VO_ZH_Argenti_Ultimate_-_Unleash_01.ogg  ||  银河中的一切美丽，我将捍卫至最后一刻。
+VO_ZH_Argenti_Ultimate_-_Unleash_02.ogg  ||  (强化) ……献给伊德莉拉。
+VO_ZH_Argenti_Downed_01.ogg  ||  没找到…「祂」……
+VO_ZH_Argenti_Return_to_Battle_01.ogg  ||  信念无可摧毁。
+VO_ZH_Argenti_Health_Recovery_01.ogg  ||  谢谢。我会铭记于心。
+VO_ZH_Argenti_Technique_01.ogg  ||  荣光在上。
+VO_ZH_Argenti_Battle_Won_01.ogg  ||  黑暗，就此止步。
+VO_ZH_Argenti_Treasure_Opening_01.ogg  ||  噢？我喜欢这样的惊喜。
+VO_ZH_Argenti_Treasure_Opening_02.ogg  ||  我能回赠的，只有玫瑰的馥郁气息。
+VO_ZH_Argenti_Precious_Treasure_Opening_01.ogg  ||  闪烁的美，动人心魂……
+VO_ZH_Argenti_Successful_Puzzle-Solving_01.ogg  ||  明智的判断。
+VO_ZH_Argenti_Successful_Puzzle-Solving_02.ogg  ||  放心，由我代劳。
+VO_ZH_Argenti_Enemy_Target_Found_01.ogg  ||  要来一场比试么？
+VO_ZH_Argenti_Returning_to_Town_01.ogg  ||  熟悉的风…令人怀念。
+VO_ZH_Argenti_Battle_Begins_-_Weakness_Break_01.ogg  ||  
+VO_ZH_Argenti_Battle_Begins_-_Danger_Alert_01.ogg  ||  
+VO_ZH_Argenti_Turn_Begins_01.ogg  ||  
+VO_ZH_Argenti_Turn_Begins_02.ogg  ||  
+VO_ZH_Argenti_Turn_Idling_01.ogg  ||  
+VO_ZH_Argenti_Skill_01.ogg  ||  
+VO_ZH_Argenti_Skill_02.ogg  ||  
+VO_ZH_Argenti_Hit_by_Light_Attack_01.ogg  ||  
+VO_ZH_Argenti_Hit_by_Heavy_Attack_01.ogg  ||  
+VO_ZH_Argenti_Ultimate_-_Activate_01.ogg  ||  
+VO_ZH_Argenti_Ultimate_-_Unleash_01.ogg  ||  
+VO_ZH_Argenti_Ultimate_-_Unleash_02.ogg  ||  
+VO_ZH_Argenti_Downed_01.ogg  ||  
+VO_ZH_Argenti_Return_to_Battle_01.ogg  ||  
+VO_ZH_Argenti_Health_Recovery_01.ogg  ||  
+VO_ZH_Argenti_Technique_01.ogg  ||  
+VO_ZH_Argenti_Battle_Won_01.ogg  ||  
+VO_ZH_Argenti_Treasure_Opening_01.ogg  ||  
+VO_ZH_Argenti_Treasure_Opening_02.ogg  ||  
+VO_ZH_Argenti_Precious_Treasure_Opening_01.ogg  ||  
+VO_ZH_Argenti_Successful_Puzzle-Solving_01.ogg  ||  
+VO_ZH_Argenti_Successful_Puzzle-Solving_02.ogg  ||  
+VO_ZH_Argenti_Enemy_Target_Found_01.ogg  ||  
+VO_ZH_Argenti_Returning_to_Town_01.ogg  ||  

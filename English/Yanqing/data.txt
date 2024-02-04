@@ -1,0 +1,51 @@
+VO_Archive_Yanqing_1.ogg  ||  Yanqing, lieutenant of the Luofu Cloud Knights, reporting in! If you have some free time, (Trailblazer), would you mind sparring with me? Don't worry, I won't go easy on you.
+VO_Archive_Yanqing_2.ogg  ||  What kind of sword training will you do today? Do you wish for me to accompany you?
+VO_Archive_Yanqing_3.ogg  ||  The sword needs to return to its scabbard... See you tomorrow, Teacher!
+VO_Archive_Yanqing_4.ogg  ||  There are no more fitting opponents for me on the Luofu, but out there among the stars... there may be someone yet.
+VO_Archive_Yanqing_5.ogg  ||  I can talk all day about swords made by the Artisanship Commission. I always buy two swords per model: one for the battlefield and one for my collection... Buuut my allowances might run a bit short by the end of the month. I'm sure the general will buy me food and things if I nag him a bit...
+VO_Archive_Yanqing_6.ogg  ||  Not having the title of Sword Champion just means my skill still needs sharpening, but the general said I don't need more skills, just more time... *sigh* How exactly am I worse than that Sword Champion...
+VO_Archive_Yanqing_7.ogg  ||  After buying a new sword, I would spend even more effort on the scabbard. Should the body be made of black pear wood, or silk? Should the locket and the carrying ring be dragon- or tiger-shaped? And the chape, the decorative plaque... It's great fun deciding on each piece!
+VO_Archive_Yanqing_8.ogg  ||  Sometimes I find multiple good sheaths for a new sword, and I end up buying them all. And yet, one sword can only use one sheath...
+VO_Archive_Yanqing_9.ogg  ||  "What can one do after one has made history?" I once asked the general this question, but he said he can't answer it because he never wanted to be a general, and that I should try to answer it myself. Um...
+VO_Archive_Yanqing_10.ogg  ||  Like the other Xianzhou ships, the Luofu also holds the Stellar Martial Competition to test the strength of the Cloud Knights, and whoever wins the sword competition receives the title of Sword Champion!
+VO_Archive_Yanqing_11.ogg  ||  The general has no need to show his martial prowess with me around. Since he acknowledges my strength, I need to help shoulder his burdens that much more!
+VO_Archive_Yanqing_12.ogg  ||  Tingyun would ask me to write introductory pieces for blades when her Codex on Goods contains a section on them.
+VO_Archive_Yanqing_13.ogg  ||  Sushang has a good sword, but a good sword is not always an easy-to-use sword. One needs to apply ten times more power to make it perform just one-tenth better.
+VO_Archive_Yanqing_14.ogg  ||  I visited the Sky-Faring Commission once and saw Madam Yukong staring alone at the leather target for a long time. She didn't fire a single arrow that day, but perhaps she did shoot thousands in her mind.
+VO_Archive_Yanqing_15.ogg  ||  So, Diviner Fu wants to be the general... Well, firstly, she needs to fix the issue where everyone just wants to nap as soon as she starts to talk.
+VO_Archive_Yanqing_16.ogg  ||  At first, I thought he always fights using that sword casket. That thing looks really strange... I need to figure out a way to fight him and get him to use his skills for real...
+VO_Archive_Yanqing_17.ogg  ||  I used to think there was only one way to become a true swordmaster... but General, Jingliu, and even myself... we all ended up on different paths.
+VO_Archive_Yanqing_19.ogg  ||  When I fought Dan Heng, his spear mastery was almost perfect... but he was completely detached from it as an art. Maybe for him it's just a means to an end?
+VO_Archive_Yanqing_20.ogg  ||  He can detect any swing of the sword before it lands... Would I be able to defeat him with my swordplay alone?
+VO_Archive_Yanqing_18.ogg  ||  I remember her... One time she was carrying a beautiful sword, so I thought I'd strike up a conversation. But then she swallowed the sword down her throat! To this day I still haven't figured out which sword-fighting style that technique is from...
+VO_Archive_Yanqing_Eidolon_Activation.ogg  ||  It feels like the stars just got brighter...
+VO_Archive_Yanqing_Character_Ascension.ogg  ||  How many battles lie between me and my dreams?
+VO_Archive_Yanqing_Max_Level_Reached.ogg  ||  My swordplay is ready. Time to put it to the test.
+VO_Archive_Yanqing_Trace_Activation.ogg  ||  "He's got a bright future." If I had a strale for every time I heard that one...
+VO_Archive_Yanqing_Added_to_Team_With_Jing_Yuan.ogg  ||  Orders received, General.
+VO_Archive_Yanqing_Added_to_Team_With_Fu_Xuan.ogg  ||  What's your outlook for the coming battle, Master Diviner?
+VO_Archive_Yanqing_Added_to_Team_With_Sushang.ogg  ||  Cloud Knights assemble!
+VO_Archive_Yanqing_Added_to_Team_With_Dan_Heng.ogg  ||  Is my swordplay good enough to learn from a master like him?
+VO_Archive_Yanqing_Added_to_Team_With_Blade.ogg  ||  The general let you off the hook. Consider yourself lucky.
+VO_Yanqing_Battle_Begins_-_Weakness_Break_01.ogg  ||  Hmph, a one-time enemy.
+VO_Yanqing_Battle_Begins_-_Danger_Alert_01.ogg  ||  A strong adversary. Help me improve!
+VO_Yanqing_Turn_Begins_01.ogg  ||  So, how many of my moves can you block?
+VO_Yanqing_Turn_Begins_02.ogg  ||  Time for some swordplay!
+VO_Yanqing_Turn_Idling_01.ogg  ||  The sword is like water, it cannot remain still.
+VO_Yanqing_Skill_01.ogg  ||  Blade, in flight.
+VO_Yanqing_Skill_02.ogg  ||  Strike... with heart!
+VO_Yanqing_Hit_by_Light_Attack_01.ogg  ||  How...?
+VO_Yanqing_Hit_by_Heavy_Attack_01.ogg  ||  Impressive.
+VO_Yanqing_Ultimate_-_Activate_01.ogg  ||  Practice is over.
+VO_Yanqing_Ultimate_-_Unleash_01.ogg  ||  Swords, descend!
+VO_Yanqing_Downed_01.ogg  ||  I've dishonored... the blade...
+VO_Yanqing_Return_to_Battle_01.ogg  ||  I won't underestimate the enemy twice.
+VO_Yanqing_Health_Recovery_01.ogg  ||  I can breathe easy again.
+VO_Yanqing_Technique_01.ogg  ||  Shift the balance.
+VO_Yanqing_Battle_Won_01.ogg  ||  Victory by the blade~
+VO_Yanqing_Treasure_Opening_01.ogg  ||  This can go towards my allowance.
+Special:Upload?wpDestFile=VO_Yanqing_Treasure_Opening_02.ogg  ||  A few more like this and I can buy a new sword!
+VO_Yanqing_Precious_Treasure_Opening_01.ogg  ||  No need to pester the general for a while!
+VO_Yanqing_Successful_Puzzle-Solving_01.ogg  ||  Cooool.
+VO_Yanqing_Enemy_Target_Found_01.ogg  ||  Let's go say hi!
+VO_Yanqing_Returning_to_Town_01.ogg  ||  Wonder if I'll discover any rare swords...

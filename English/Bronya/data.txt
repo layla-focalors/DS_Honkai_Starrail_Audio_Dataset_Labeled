@@ -1,0 +1,37 @@
+VO_Archive_Bronya_1.ogg  ||  My name is Bronya Rand, heir to Belobog's supreme guardian and acting commander of the Silvermane... Apologies, I'm used to introducing myself like that — you can call me Bronya.
+VO_Archive_Bronya_2.ogg  ||  I had a nightmare last night... S—Sorry, I'm not fully awake yet.
+VO_Archive_Bronya_3.ogg  ||  I'd like to walk around a bit more... Don't worry, I won't go far. See you tomorrow.
+VO_Archive_Bronya_5.ogg  ||  Sometimes I feel like I don't represent myself... that I'm a symbol in human form, and anyone could have been given the title of "heir to the supreme guardian." I don't know where the feeling comes from, but I hope it doesn't become the truth.
+VO_Archive_Bronya_4.ogg  ||  The Architects built us a fortress to keep the blizzards at bay, but we must never forget that those blizzards are still on the horizon.
+VO_Archive_Bronya_6.ogg  ||  The faint singing that emanates from Golden Theater, the sound of hurried footsteps in the early morning, the night-time tranquility of Qlipoth Fort... I know they might seem contradictory, but I like all of them.
+VO_Archive_Bronya_7.ogg  ||  You have to suppress your anger during an interrogation, or you might find yourself using... indelicate vocabulary.
+VO_Archive_Bronya_13.ogg  ||  When you've been on the front line for a while, you start to get an overwhelming urge to return to the guardian's residence and rest. But then as soon as you're lying in bed, all your worries about the front line come to the fore... Perhaps that's the "responsibility" that mother used to talk about.
+VO_Archive_Bronya_14.ogg  ||  I heard the Solwarm Festival was first established to celebrate the arrival of spring, but Belobog citizens these days just see it as a few days off... I want to bring the original meaning back again.
+VO_Archive_Bronya_8.ogg  ||  Captain Gepard...? I think he could accurately be described as Belobog's iron wall. In this city, it's more difficult to defend than go on the offensive.
+VO_Archive_Bronya_9.ogg  ||  I remember I'd be there when mother and the rest of them would convene, and Serval would always patiently answer any questions I had... *sigh* I'm starting to feel like that was a long, long time ago.
+VO_Archive_Bronya_10.ogg  ||  Whenever I praise her, she does her utmost to keep a straight face and hide any trace of happiness she might be feeling... I can tell, because I've practiced the same thing.
+VO_Archive_Bronya_11.ogg  ||  I have deep respect for my mother, but she's no longer how I remember her. Perhaps I never realized who she truly was...
+VO_Archive_Bronya_12.ogg  ||  Our first encounter may have been a bit of a disaster, but it was also the start of a new future... Haha, if Seele heard this she'd probably say I was giving one of my Overworld princess speeches.
+VO_Archive_Bronya_15.ogg  ||  The third child of the Landau family, right? I've heard Gepard mention her before, but I've yet to meet her. From what I've heard, "Lynxy" — as they call her — is very smart for her age.
+VO_Archive_Bronya_16.ogg  ||  I'm sure Jarilo-VI won't be the only planet to have IPC visitors, but I bet not all of them will have a visitor like Topaz...
+VO_Bronya_Battle_Begins_-_Weakness_Break_01.ogg  ||  There's always a weakness.
+VO_Bronya_Battle_Begins_-_Danger_Alert_01.ogg  ||  Powerful enemy, time to change tactics.
+VO_Bronya_Turn_Begins_01.ogg  ||  This battle is unavoidable.
+VO_Bronya_Turn_Begins_02.ogg  ||  You'll pay for this.
+VO_Bronya_Turn_Idling_01.ogg  ||  A decisive moment in the battle.
+VO_Bronya_Basic_ATK_01.ogg  ||  Evildoer.
+VO_Bronya_Skill_01.ogg  ||  The time is now. Lend me your strength!
+VO_Bronya_Skill_02.ogg  ||  It's now or never. Fight with me!
+VO_Bronya_Hit_by_Light_Attack_01.ogg  ||  How troublesome.
+VO_Bronya_Hit_by_Heavy_Attack_01.ogg  ||  I mustn't fall...
+VO_Bronya_Ultimate_-_Activate_01.ogg  ||  We've entered the storm.
+VO_Bronya_Ultimate_-_Unleash_01.ogg  ||  To guard and defend, crush them!
+VO_Bronya_Downed_01.ogg  ||  We must... protect...
+VO_Bronya_Return_to_Battle_01.ogg  ||  I won't waste this chance.
+VO_Bronya_Health_Recovery_01.ogg  ||  Your assistance is timely.
+VO_Bronya_Technique_01.ogg  ||  Show your courage.
+VO_Bronya_Battle_Won_01.ogg  ||  We shall take back what we lost.
+VO_Bronya_Treasure_Opening_01.ogg  ||  Ample supplies.
+VO_Bronya_Successful_Puzzle-Solving_01.ogg  ||  The design is exquisite.
+VO_Bronya_Enemy_Target_Found_01.ogg  ||  The enemy situation has changed.
+VO_Bronya_Returning_to_Town_01.ogg  ||  If there's nothing pressing, let's take a walk.

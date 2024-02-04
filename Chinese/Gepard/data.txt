@@ -1,0 +1,70 @@
+VO_ZH_Archive_Gepard_1.ogg  ||  我是贝洛伯格的银鬃铁卫戍卫官，杰帕德•朗道。如果你在城中发现任何异常，都可向我报告。
+VO_ZH_Archive_Gepard_2.ogg  ||  你来了，我刚结束锻炼。
+VO_ZH_Archive_Gepard_3.ogg  ||  抱歉，我还有任务在身，就在这目送你离开吧。
+VO_ZH_Archive_Gepard_5.ogg  ||  身为银鬃铁卫，遵守誓言是因为相信我们不应违背，而不是因为害怕违背。
+VO_ZH_Archive_Gepard_4.ogg  ||  贝洛伯格并非隐于雪幕之中，而是作为这颗星球最后的堡垒抵御着风雪的侵凌。
+VO_ZH_Archive_Gepard_6.ogg  ||  养花，只是我并不精通于此。
+VO_ZH_Archive_Gepard_7.ogg  ||  姐姐的歌在铁卫里还挺受欢迎，休息时总会听到，结果连我在巡逻时都会不自觉地哼出来，哎……
+VO_ZH_Archive_Gepard_13.ogg  ||  朗道家世代为大守护者效力，这是荣誉，亦是责任。只有成为民众可以仰赖的盾牌，才能安心接受这「筑城者」的称谓带来的名誉。
+VO_ZH_Archive_Gepard_14.ogg  ||  最近总有小孩子问我，怎样才能当上戍卫官…老实说，除了坚持锻炼和平衡饮食以外，我也给不出什么有用的建议。
+VO_ZH_Archive_Gepard_8.ogg  ||  布洛妮娅大人已数次深入最危险的前线，与我们并肩作战。
+VO_ZH_Archive_Gepard_9.ogg  ||  很多人都津津乐道于姐姐离开部队后的转变，其实…她一直都没有变过。
+VO_ZH_Archive_Gepard_10.ogg  ||  听说我不在家的时候，姐姐开始把花拜托给佩拉照顾了…希望没给她添太多麻烦。
+VO_ZH_Archive_Gepard_11.ogg  ||  我始终坚信，没有比大守护者更熟悉、更热爱这座城市的人了。
+VO_ZH_Archive_Gepard_12.ogg  ||  此人颇为狡猾。根据市民报案线索，他不知从哪搞了些古代遗物，也未全数倒卖，手头自留了几件，专门用来骗人。
+VO_ZH_Archive_Gepard_15.ogg  ||  我家小妹，她性格有些…古怪。不，不是脾气差的意思——我只是希望她能健康成长，不要走希露瓦走过的弯路。
+VO_ZH_Archive_Gepard_1.ogg  ||  
+VO_ZH_Archive_Gepard_2.ogg  ||  
+VO_ZH_Archive_Gepard_3.ogg  ||  
+VO_ZH_Archive_Gepard_5.ogg  ||  
+VO_ZH_Archive_Gepard_4.ogg  ||  
+VO_ZH_Archive_Gepard_6.ogg  ||  
+VO_ZH_Archive_Gepard_7.ogg  ||  
+VO_ZH_Archive_Gepard_13.ogg  ||  
+VO_ZH_Archive_Gepard_14.ogg  ||  
+VO_ZH_Archive_Gepard_8.ogg  ||  
+VO_ZH_Archive_Gepard_9.ogg  ||  
+VO_ZH_Archive_Gepard_10.ogg  ||  
+VO_ZH_Archive_Gepard_11.ogg  ||  
+VO_ZH_Archive_Gepard_12.ogg  ||  
+VO_ZH_Archive_Gepard_15.ogg  ||  
+VO_ZH_Gepard_Battle_Begins_-_Weakness_Break_01.ogg  ||  到此为止了。
+VO_ZH_Gepard_Battle_Begins_-_Danger_Alert_01.ogg  ||  加强防御。
+VO_ZH_Gepard_Turn_Begins_01.ogg  ||  做好觉悟吧。
+VO_ZH_Gepard_Turn_Begins_03.ogg  ||  正义已至。
+VO_ZH_Gepard_Turn_Idling_01.ogg  ||  形势已迫在眉睫。
+VO_ZH_Gepard_Basic_ATK_03.ogg  ||  胜负已分。
+VO_ZH_Gepard_Hit_by_Light_Attack_01.ogg  ||  不过如此。
+VO_ZH_Gepard_Hit_by_Heavy_Attack_01.ogg  ||  小伤而已。
+VO_ZH_Gepard_Ultimate_-_Activate_01.ogg  ||  我以朗道之名。
+VO_ZH_Gepard_Ultimate_-_Unleash_01.ogg  ||  历经冰雪，铸成此志，永不终结！
+VO_ZH_Gepard_Talent_01.ogg  ||  奉陪到底。
+VO_ZH_Gepard_Downed_02.ogg  ||  我…还不能……
+VO_ZH_Gepard_Return_to_Battle_01.ogg  ||  还没到我退场的时候。
+VO_ZH_Gepard_Health_Recovery_01.ogg  ||  多谢。
+VO_ZH_Gepard_Technique_01.ogg  ||  有我在。
+VO_ZH_Gepard_Battle_Won_01.ogg  ||  出敌不意的反攻。
+VO_ZH_Gepard_Treasure_Opening_01.ogg  ||  积少成多。
+VO_ZH_Gepard_Successful_Puzzle-Solving_01.ogg  ||  做得好。
+VO_ZH_Gepard_Enemy_Target_Found_01.ogg  ||  掌控时机。
+VO_ZH_Gepard_Returning_to_Town_01.ogg  ||  趁着巡逻的间隙，抓紧休息一会吧。
+VO_ZH_Gepard_Battle_Begins_-_Weakness_Break_01.ogg  ||  
+VO_ZH_Gepard_Battle_Begins_-_Danger_Alert_01.ogg  ||  
+VO_ZH_Gepard_Turn_Begins_01.ogg  ||  
+VO_ZH_Gepard_Turn_Begins_03.ogg  ||  
+VO_ZH_Gepard_Turn_Idling_01.ogg  ||  
+VO_ZH_Gepard_Basic_ATK_03.ogg  ||  
+VO_ZH_Gepard_Hit_by_Light_Attack_01.ogg  ||  
+VO_ZH_Gepard_Hit_by_Heavy_Attack_01.ogg  ||  
+VO_ZH_Gepard_Ultimate_-_Activate_01.ogg  ||  
+VO_ZH_Gepard_Ultimate_-_Unleash_01.ogg  ||  
+VO_ZH_Gepard_Talent_01.ogg  ||  
+VO_ZH_Gepard_Downed_02.ogg  ||  
+VO_ZH_Gepard_Return_to_Battle_01.ogg  ||  
+VO_ZH_Gepard_Health_Recovery_01.ogg  ||  
+VO_ZH_Gepard_Technique_01.ogg  ||  
+VO_ZH_Gepard_Battle_Won_01.ogg  ||  
+VO_ZH_Gepard_Treasure_Opening_01.ogg  ||  
+VO_ZH_Gepard_Successful_Puzzle-Solving_01.ogg  ||  
+VO_ZH_Gepard_Enemy_Target_Found_01.ogg  ||  
+VO_ZH_Gepard_Returning_to_Town_01.ogg  ||  

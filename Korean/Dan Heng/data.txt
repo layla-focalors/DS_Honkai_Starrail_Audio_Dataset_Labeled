@@ -1,0 +1,42 @@
+VO_KO_Archive_Dan_Heng_1.ogg  ||  다시 한번 소개하지. 난 단항이라고 해, 열차의 경호원이지. 열차의 아카이브도 내가 관리하고 있어
+VO_KO_Archive_Dan_Heng_2.ogg  ||  오늘 아카이브의 표제어를 업데이트해 뒀으니까 언제든지 찾아봐
+VO_KO_Archive_Dan_Heng_3.ogg  ||  벌써 취침 시간이야…? 알려줘서 고마워. 자료실에 있으면 시간 가는 걸 몰라서 밤새도록 앉아있게 되거든…. 내일 보자
+VO_KO_Archive_Dan_Heng_5.ogg  ||  난 연맹에서 태어나 웅장하고 아름다운 거함에서 자랐지만, 그 거함의 외관을 본 건 손에 꼽을 정도야. 이젠 돌아갈 수도 없지
+VO_KO_Archive_Dan_Heng_6.ogg  ||  그때 열차를 제외하곤 몸을 의탁할 곳이 없었어
+VO_KO_Archive_Dan_Heng_4.ogg  ||  격운을 몸에서 떼어놓지 않는 건 내 안전뿐만 아니라 다른 사람을 위한 일이기도 해
+VO_KO_Archive_Dan_Heng_7.ogg  ||  독서… 취미까진 아니고, 과거의 습관이랄까
+VO_KO_Archive_Dan_Heng_8.ogg  ||  아카이브를 열람하려는 목적이 아니면 자료실에는 멋대로 들어가지 마. 자료실의 기능엔 대화가 포함되어 있지 않거든
+VO_KO_Archive_Dan_Heng_13.ogg  ||  우주처럼 광활한 그 과거는, 스스로 결정할 수 있는 게 아니겠지
+VO_KO_Archive_Dan_Heng_14.ogg  ||  아카이브의 기록이 충분해지면, 독립된 것처럼 보이는 「사건」도 움직이는 「사람」에 의해 관계가 생기게 돼
+VO_KO_Archive_Dan_Heng_9.ogg  ||  Mar. 7th의 단점은 오지랖이 넓다는 거야. 그게 장점일 수도 있어
+VO_KO_Archive_Dan_Heng_10.ogg  ||  열차와 관련된 문제라면, 히메코의 판단을 따르는 게 가장 현명한 판단이지
+VO_KO_Archive_Dan_Heng_11.ogg  ||  웰트 씨는 다른 사람들한텐 관심이 많은데 내 일에 대해선 한 번도 물어본 적이 없어
+VO_KO_Archive_Dan_Heng_12.ogg  ||  이건 내 직감인데, 폼폼은 건드리지 마
+VO_KO_Archive_Dan_Heng_Eidolon_Activation.ogg  ||  과거에 연연하지 마
+VO_KO_Archive_Dan_Heng_Character_Ascension.ogg  ||  아카이브는 항상 업데이트해야 해. 나도 마찬가지지
+VO_KO_Archive_Dan_Heng_Max_Level_Reached.ogg  ||  과거에 매이지 않고 미래를 생각할 거야
+VO_KO_Archive_Dan_Heng_Trace_Activation.ogg  ||  이제 난 나의 길을 선택하겠어……
+VO_KO_Archive_Dan_Heng_Added_to_Team_With_March_7th.ogg  ||  Mar. 7th, 너부터 챙겨. 우린 신경 쓰지 말고
+VO_KO_Archive_Dan_Heng_Added_to_Team_With_Himeko.ogg  ||  히메코 씨, 돌발 상황은 제가 처리할게요
+VO_KO_Archive_Dan_Heng_Added_to_Team_With_Welt.ogg  ||  웰트 씨, 이런 문제에 대해선 어떻게 생각하세요?
+VO_KO_Archive_Dan_Heng_Added_to_Team_With_Blade.ogg  ||  당신… 내 동료한테 가까이 오지 마
+VO_KO_Dan_Heng_Battle_Begins_-_Weakness_Break_01.ogg  ||  이제 와서 후회해봤자 늦었어
+VO_KO_Dan_Heng_Battle_Begins_-_Danger_Alert_01.ogg  ||  충동은 금물이야
+VO_KO_Dan_Heng_Turn_Begins_01.ogg  ||  싸움은… 무의미하다
+VO_KO_Dan_Heng_Turn_Begins_02.ogg  ||  비켜. 분쟁을 일으킬 생각은 없어
+VO_KO_Dan_Heng_Turn_Idling_01.ogg  ||  망설이지 마
+VO_KO_Dan_Heng_Basic_ATK_01.ogg  ||  바로 지금이야
+VO_KO_Dan_Heng_Hit_by_Light_Attack_01.ogg  ||  흥
+VO_KO_Dan_Heng_Hit_by_Heavy_Attack_01.ogg  ||  방심했군
+VO_KO_Dan_Heng_Ultimate_-_Activate_01.ogg  ||  생과 사, 허와 실은 한 끗 차이지
+VO_KO_Dan_Heng_Ultimate_-_Unleash_01.ogg  ||  동천환화, 기나긴 꿈…
+VO_KO_Dan_Heng_Downed_01.ogg  ||  이럴… 수가
+VO_KO_Dan_Heng_Return_to_Battle_01.ogg  ||  이 몸뚱이는 그렇게 약하지 않아
+VO_KO_Dan_Heng_Health_Recovery_01.ogg  ||  안심해
+VO_KO_Dan_Heng_Technique_01.ogg  ||  이 정도면 완벽해
+VO_KO_Dan_Heng_Battle_Won_01.ogg  ||  지나간 과거는 중요하지 않아
+VO_KO_Dan_Heng_Treasure_Opening_01.ogg  ||  헛수고는 아니었군
+VO_KO_Dan_Heng_Precious_Treasure_Opening_01.ogg  ||  응, 잘 챙겨 둬
+VO_KO_Dan_Heng_Successful_Puzzle-Solving_01.ogg  ||  다행히 어렵지는 않군
+VO_KO_Dan_Heng_Enemy_Target_Found_01.ogg  ||  좋은 상대는 아니야
+VO_KO_Dan_Heng_Returning_to_Town_01.ogg  ||  오늘 본 모든 것은 아카이브에도 기록될 거야

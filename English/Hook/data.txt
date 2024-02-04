@@ -1,0 +1,41 @@
+VO_Archive_Hook_1.ogg  ||  Haha, the grown-ups in the Underworld listen to Wildfire and the kids listen to us Moles. I'm the leader of The Moles, by the way. You may call me Pitch-Dark Hook the Great!
+VO_Archive_Hook_2.ogg  ||  Moles, Moles, leaving our holes, brave Moles, charge as a whole!
+VO_Archive_Hook_3.ogg  ||  Moles dismissed! Sleep well and see you tomorrow!
+VO_Archive_Hook_5.ogg  ||  Diggertron used to be a hard-working mining machine. After it retired, it heard my call and became the ruthless villain-smashing iron fist!
+VO_Archive_Hook_4.ogg  ||  Haha! Under my leadership, we recruited Julian of a Thousand Faces, Luka Strongarm, and Cunning Child! Everyone joins the cause!
+VO_Archive_Hook_6.ogg  ||  Expeditions in the mines, expeditions in the clinic, expeditions on the surface... e—expeditions in the unknown!
+VO_Archive_Hook_7.ogg  ||  People say if you worry too much, your head gets super heavy. Wouldn't that make it harder for me to get taller? Waaaah...
+VO_Archive_Hook_14.ogg  ||  Grown-ups always say things like "you'll understand when you're older," but Hook heard you forget things when you're older! Don't believe me? Let's see who knows more stuff!
+VO_Archive_Hook_15.ogg  ||  Hook's interested in loads of things, like... lizards that carry Geomarrow on their backs, o—or olms that survive without eating food... Natasha told me that there are flowers on the surface that only bloom once a year. I really really wanna go see them...
+VO_Archive_Hook_8.ogg  ||  Old witch... Ahem. Natasha is beautiful and nice, but when she gets angry she, uhh... isn't so nice. B—But still beautiful...
+VO_Archive_Hook_9.ogg  ||  Waaaah... Clara... when can you join The Moles...?
+VO_Archive_Hook_10.ogg  ||  Hook's Diggertron is mightier than Svarog's fist! Hmph!
+VO_Archive_Hook_11.ogg  ||  I run into Mr. Sampo almost everywhere. Does he like expeditions too?
+VO_Archive_Hook_12.ogg  ||  Miss Seele talks loud, but sometimes Hook still beats her in an argument, hehe~
+VO_Archive_Hook_13.ogg  ||  Hook loves daddy! One day, Hook's gonna dig up a big treasure and build daddy a huge huge house!
+VO_Archive_Hook_16.ogg  ||  Luka loves to eat meat — just like Hook! That's why we're such great friends!
+VO_Archive_Hook_17.ogg  ||  Hook's ready to find the next treasure!
+Special:Upload?wpDestFile=VO_Archive_Hook_18.ogg  ||  Watch out! The boss of The Moles is coming to get you!
+VO_Archive_Hook_24.ogg  ||  It's Mr. Blue Hair! Where are we going this time?
+VO_Archive_Hook_25.ogg  ||  Luka! Let's go beat up some bad guys...
+VO_Hook_Battle_Begins_-_Weakness_Break_01.ogg  ||  You've still got time to surrender!
+VO_Hook_Battle_Begins_-_Danger_Alert_01.ogg  ||  N-Nobody bullies Hook!
+VO_Hook_Turn_Begins_01.ogg  ||  Ha! Time to make some mischief!
+VO_Hook_Turn_Begins_02.ogg  ||  Form a line, villains!
+VO_Hook_Turn_Idling_01.ogg  ||  Hey! Don't ignore me!
+VO_Hook_Basic_ATK_01.ogg  ||  Who are you calling small?
+VO_Hook_Skill_01.ogg  ||  Eh--hehe... Didn't expect that, right?
+VO_Hook_Skill_02.ogg  ||  Now you see me... now you don't~
+VO_Hook_Hit_by_Light_Attack_01.ogg  ||  You hit me!
+VO_Hook_Hit_by_Heavy_Attack_01.ogg  ||  That huuuurt!
+VO_Hook_Ultimate_-_Activate_01.ogg  ||  Follow Hook if you wanna win!
+VO_Hook_Ultimate_-_Unleash_01.ogg  ||  Pitch-Dark Hook the Great has arrived — make, way, make way... Woo-hoo~ BANG!
+VO_Hook_Downed_01.ogg  ||  Wait til I tell my daddy on you...
+VO_Hook_Return_to_Battle_01.ogg  ||  Hmph, what would you do without Hook?
+VO_Hook_Health_Recovery_01.ogg  ||  You're a good person!
+VO_Hook_Technique_01.ogg  ||  Ehehehe~
+VO_Hook_Battle_Won_01.ogg  ||  I hereby pronounce this expedition a success!
+VO_Hook_Treasure_Opening_01.ogg  ||  Yay! Let's take it all!
+VO_Hook_Successful_Puzzle-Solving_01.ogg  ||  Huh? I wanna play again!
+VO_Hook_Enemy_Target_Found_01.ogg  ||  *gasp* That one's a little scary.
+VO_Hook_Returning_to_Town_01.ogg  ||  First you go a-searching, then you go a-running, searching, running, jump jump jump!

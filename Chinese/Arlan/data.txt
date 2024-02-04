@@ -1,0 +1,74 @@
+VO_ZH_Archive_Arlan_1.ogg  ||  你好，(Trailblazer)，我是空间站「黑塔」的防卫科负责人阿兰，在空间站期间，我会全力护你安全。
+VO_ZH_Archive_Arlan_2.ogg  ||  种子岛的新口味蚯蚓干今天上架，现在去能赶个早场，不用排队。
+VO_ZH_Archive_Arlan_3.ogg  ||  睡前来一杯混合蔬菜汁吧，有助于入眠。我今天有夜班值勤，明天见。
+VO_ZH_Archive_Arlan_5.ogg  ||  「空间站『寻找佩佩』大赛」至今已举办了九届，我…蝉联了冠军。
+VO_ZH_Archive_Arlan_4.ogg  ||  巡逻时，我会尽量不引人注目，既不打扰科员，又能看到他们工作时最投入的神情。
+VO_ZH_Archive_Arlan_6.ogg  ||  大剑得时刻保持干净才行。
+VO_ZH_Archive_Arlan_7.ogg  ||  手机壳的发货地离空间站远，得满五千个起送…不不，请别告诉小姐。
+VO_ZH_Archive_Arlan_10.ogg  ||  在通用图鉴中找不到空间站里收容的大剑碎片…它一定很特殊吧。
+VO_ZH_Archive_Arlan_11.ogg  ||  听科员说，有些奇物是自己主动要求来到空间站的。
+VO_ZH_Archive_Arlan_8.ogg  ||  …不知道为什么，我好像时不时就惹小姐生气？
+VO_ZH_Archive_Arlan_9.ogg  ||  和其他科员不同，我并非黑塔女士的追随者，但她仍旧默许了我在这儿工作。
+VO_ZH_Archive_Arlan_Eidolon_Activation.ogg  ||  我已经找到了，要守护的「家」。
+VO_ZH_Archive_Arlan_Character_Ascension.ogg  ||  无论何时都不能松懈。
+VO_ZH_Archive_Arlan_Max_Level_Reached.ogg  ||  这是阶段训练的成果…为了保护大家，我会继续努力的。
+VO_ZH_Archive_Arlan_Trace_Activation.ogg  ||  即使是日常训练，多少也会有新的收获。
+VO_ZH_Archive_Arlan_Added_to_Team_With_Asta.ogg  ||  小姐，战斗的事情交给我就好。
+VO_ZH_Archive_Arlan_Added_to_Team_With_Herta.ogg  ||  黑…黑塔女士，请指示！
+VO_ZH_Archive_Arlan_1.ogg  ||  
+VO_ZH_Archive_Arlan_2.ogg  ||  
+VO_ZH_Archive_Arlan_3.ogg  ||  
+VO_ZH_Archive_Arlan_5.ogg  ||  
+VO_ZH_Archive_Arlan_4.ogg  ||  
+VO_ZH_Archive_Arlan_6.ogg  ||  
+VO_ZH_Archive_Arlan_7.ogg  ||  
+VO_ZH_Archive_Arlan_10.ogg  ||  
+VO_ZH_Archive_Arlan_11.ogg  ||  
+VO_ZH_Archive_Arlan_8.ogg  ||  
+VO_ZH_Archive_Arlan_9.ogg  ||  
+VO_ZH_Archive_Arlan_Eidolon_Activation.ogg  ||  
+VO_ZH_Archive_Arlan_Character_Ascension.ogg  ||  
+VO_ZH_Archive_Arlan_Max_Level_Reached.ogg  ||  
+VO_ZH_Archive_Arlan_Trace_Activation.ogg  ||  
+VO_ZH_Archive_Arlan_Added_to_Team_With_Asta.ogg  ||  
+VO_ZH_Archive_Arlan_Added_to_Team_With_Herta.ogg  ||  
+VO_ZH_Arlan_Battle_Begins_-_Weakness_Break_01.ogg  ||  你们活不长了。
+VO_ZH_Arlan_Battle_Begins_-_Danger_Alert_01.ogg  ||  没什么能阻止我。
+VO_ZH_Arlan_Turn_Begins_01.ogg  ||  战斗才能取胜。
+VO_ZH_Arlan_Turn_Begins_02.ogg  ||  还没学到教训？
+VO_ZH_Arlan_Turn_Idling_01.ogg  ||  得快点展开攻势。
+VO_ZH_Arlan_Skill_01.ogg  ||  成全你们。
+VO_ZH_Arlan_Skill_02.ogg  ||  都给我闭嘴。
+VO_ZH_Arlan_Hit_by_Light_Attack_01.ogg  ||  嗯？
+VO_ZH_Arlan_Hit_by_Heavy_Attack_01.ogg  ||  用点力吧。
+VO_ZH_Arlan_Ultimate_-_Activate_01.ogg  ||  这点疼痛不足挂齿。
+VO_ZH_Arlan_Ultimate_-_Unleash_01.ogg  ||  而你们将会，痛苦万倍！
+VO_ZH_Arlan_Downed_01.ogg  ||  不能保护大家了……
+VO_ZH_Arlan_Return_to_Battle_01.ogg  ||  活着，才能继续战斗。
+VO_ZH_Arlan_Health_Recovery_01.ogg  ||  我没事…谢谢。
+VO_ZH_Arlan_Technique_01.ogg  ||  真碍事。
+VO_ZH_Arlan_Battle_Won_01.ogg  ||  这份力量，还能发挥些许作用。
+VO_ZH_Arlan_Treasure_Opening_01.ogg  ||  你留着吧。
+VO_ZH_Arlan_Successful_Puzzle-Solving_01.ogg  ||  就这样。
+VO_ZH_Arlan_Enemy_Target_Found_01.ogg  ||  留意前方。
+VO_ZH_Arlan_Returning_to_Town_01.ogg  ||  不战斗的话，还能做些什么？
+VO_ZH_Arlan_Battle_Begins_-_Weakness_Break_01.ogg  ||  
+VO_ZH_Arlan_Battle_Begins_-_Danger_Alert_01.ogg  ||  
+VO_ZH_Arlan_Turn_Begins_01.ogg  ||  
+VO_ZH_Arlan_Turn_Begins_02.ogg  ||  
+VO_ZH_Arlan_Turn_Idling_01.ogg  ||  
+VO_ZH_Arlan_Skill_01.ogg  ||  
+VO_ZH_Arlan_Skill_02.ogg  ||  
+VO_ZH_Arlan_Hit_by_Light_Attack_01.ogg  ||  
+VO_ZH_Arlan_Hit_by_Heavy_Attack_01.ogg  ||  
+VO_ZH_Arlan_Ultimate_-_Activate_01.ogg  ||  
+VO_ZH_Arlan_Ultimate_-_Unleash_01.ogg  ||  
+VO_ZH_Arlan_Downed_01.ogg  ||  
+VO_ZH_Arlan_Return_to_Battle_01.ogg  ||  
+VO_ZH_Arlan_Health_Recovery_01.ogg  ||  
+VO_ZH_Arlan_Technique_01.ogg  ||  
+VO_ZH_Arlan_Battle_Won_01.ogg  ||  
+VO_ZH_Arlan_Treasure_Opening_01.ogg  ||  
+VO_ZH_Arlan_Successful_Puzzle-Solving_01.ogg  ||  
+VO_ZH_Arlan_Enemy_Target_Found_01.ogg  ||  
+VO_ZH_Arlan_Returning_to_Town_01.ogg  ||  

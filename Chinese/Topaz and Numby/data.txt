@@ -1,0 +1,95 @@
+VO_ZH_Archive_Topaz_and_Numby_1.ogg  ||  初次见面，请容许我做个简单的自我介绍。我叫托帕，隶属星际和平公司的战略投资部。星穹列车和无名客，各位的事迹我早有耳闻，幸会！身边这位，就是我的好搭档啦。账账，来和大家打个招呼！
+VO_ZH_Archive_Topaz_and_Numby_2.ogg  ||  嗨，好久不见！最近怎么样？工作忙不忙，加班多吗？
+VO_ZH_Archive_Topaz_and_Numby_3.ogg  ||  怎么这么点小事也要找我…抱歉抱歉，突然来了通工作电话，我先走啦！
+VO_ZH_Archive_Topaz_and_Numby_4.ogg  ||  那首歌怎么唱的来着？「回不去的名字叫家乡」——嗯，词是写得夸张了点，但我的确很久没回家看看了…老实说，我也不太想回去。
+VO_ZH_Archive_Topaz_and_Numby_5.ogg  ||  保障绝大多数人的利益，这是我选择这条职业路线的初衷。公司给了我一个绝佳的平台，让我能够实现自己的目标…对此，我没什么可抱怨的。
+VO_ZH_Archive_Topaz_and_Numby_6.ogg  ||  职场上为人处事的小技巧，那真是多到列都列不全。但我始终认为，最重要的一点就是保持真诚——不论是对待同事还是客户，这都是我的底线。
+VO_ZH_Archive_Topaz_and_Numby_7.ogg  ||  这都什么年代了，怎么还有人会为了钱工作呀？钱是手段，不是目的，工作才使人快乐…这可是最基本的道理。
+VO_ZH_Archive_Topaz_and_Numby_8.ogg  ||  偌大的星空，亿万种可爱又神奇的小动物…就算只是为了它们，我也得努力呀！
+VO_ZH_Archive_Topaz_and_Numby_9.ogg  ||  数学太好的烦恼，就是人人都爱把你当成人形计算器。所以呀，自从坐上这个位置，我就很少跟别人说起我在这方面的专精了。
+VO_ZH_Archive_Topaz_and_Numby_10.ogg  ||  我本来以为，来自不同生态系统的小动物肯定没法共同生活，所以我把家里分成了好多个不同的生态区。结果，你看你看——这两个小家伙处得多好！它们明明来自完全不同的两个星球，却能变得如此亲近…真是太奇妙了！
+VO_ZH_Archive_Topaz_and_Numby_11.ogg  ||  家家都有本难念的经，这点道理我懂。可要是人人都为自己的原因欠债不还，整个系统就会崩溃——真到了那个时候，一个人的家长里短就会变成全世界的苦衷。
+VO_ZH_Archive_Topaz_and_Numby_18.ogg  ||  从以前开始它就最喜欢亮晶晶的东西，比如金币、宝石啦…经常吃得圆滚滚的，就像膨胀的账务一样~所以账账，其实是「账胀」啦。
+VO_ZH_Archive_Topaz_and_Numby_12.ogg  ||  不提公司，就是在「战略投资部」里，也有许多我不敢苟同的家伙。尽管是同事，却完全不是一路人，例如那位砂金…衷心祝愿你不用和他打交道。
+VO_ZH_Archive_Topaz_and_Numby_13.ogg  ||  贝洛伯格的大守护者…唔，很厉害的一个小姑娘，性格比她的实际年龄要成熟得多——什么，你说我和她年纪差不多大？不不不，情况完全不同，不能直接类比……
+VO_ZH_Archive_Topaz_and_Numby_14.ogg  ||  星穹列车的姬子，我早有耳闻。听同事聊八卦的时候说，她是一位貌美绝伦又见多识广的女士。有机会的话，我还真想和她见上一面。
+VO_ZH_Archive_Topaz_and_Numby_15.ogg  ||  星穹列车的神秘人物，外形像小动物一样的列车长…嗯，我也听过那种传言。耳听为虚，如果它真有传言中的那么有趣，那我迟早要见上一见！当然最好还能，揉上一揉……
+VO_ZH_Archive_Topaz_and_Numby_16.ogg  ||  艾丝妲小姐！啊，那可真是位货真价实的大小姐…你绝对猜不到她的家底究竟有多厚，绝对！
+VO_ZH_Archive_Topaz_and_Numby_17.ogg  ||  星核猎手？不熟，没和他们谈过项目。据说那帮人很不好接触，但信用记录倒是意外地良好——比起那些捕风捉影的阴谋论，我更看重的是这一点。
+VO_ZH_Archive_Topaz_and_Numby_Eidolon_Activation.ogg  ||  涨势喜人呀！但越是这种时候，就越得保持清醒。
+VO_ZH_Archive_Topaz_and_Numby_Character_Ascension.ogg  ||  很好，继续涨，不要停！
+VO_ZH_Archive_Topaz_and_Numby_Max_Level_Reached.ogg  ||  这就到头了？不不，人生是场持久战，还得继续向上才行。
+VO_ZH_Archive_Topaz_and_Numby_Trace_Activation.ogg  ||  还不错，但远远不够。
+VO_ZH_Archive_Topaz_and_Numby_Added_to_Team_With_Himeko.ogg  ||  姬子小姐！和你共事一定能让我学到许多吧。
+VO_ZH_Archive_Topaz_and_Numby_Added_to_Team_With_Bronya.ogg  ||  近况如何，布洛妮娅？不管多忙都要记得休息，别和我一样啦。
+VO_ZH_Archive_Topaz_and_Numby_Added_to_Team_With_Asta.ogg  ||  艾丝妲小姐，幸会呀！令堂最近身体可好？回头再一起吃个饭吧！
+VO_ZH_Archive_Topaz_and_Numby_1.ogg  ||  
+VO_ZH_Archive_Topaz_and_Numby_2.ogg  ||  
+VO_ZH_Archive_Topaz_and_Numby_3.ogg  ||  
+VO_ZH_Archive_Topaz_and_Numby_4.ogg  ||  
+VO_ZH_Archive_Topaz_and_Numby_5.ogg  ||  
+VO_ZH_Archive_Topaz_and_Numby_6.ogg  ||  
+VO_ZH_Archive_Topaz_and_Numby_7.ogg  ||  
+VO_ZH_Archive_Topaz_and_Numby_8.ogg  ||  
+VO_ZH_Archive_Topaz_and_Numby_9.ogg  ||  
+VO_ZH_Archive_Topaz_and_Numby_10.ogg  ||  
+VO_ZH_Archive_Topaz_and_Numby_11.ogg  ||  
+VO_ZH_Archive_Topaz_and_Numby_18.ogg  ||  
+VO_ZH_Archive_Topaz_and_Numby_12.ogg  ||  
+VO_ZH_Archive_Topaz_and_Numby_13.ogg  ||  
+VO_ZH_Archive_Topaz_and_Numby_14.ogg  ||  
+VO_ZH_Archive_Topaz_and_Numby_15.ogg  ||  
+VO_ZH_Archive_Topaz_and_Numby_16.ogg  ||  
+VO_ZH_Archive_Topaz_and_Numby_17.ogg  ||  
+VO_ZH_Archive_Topaz_and_Numby_Eidolon_Activation.ogg  ||  
+VO_ZH_Archive_Topaz_and_Numby_Character_Ascension.ogg  ||  
+VO_ZH_Archive_Topaz_and_Numby_Max_Level_Reached.ogg  ||  
+VO_ZH_Archive_Topaz_and_Numby_Trace_Activation.ogg  ||  
+VO_ZH_Archive_Topaz_and_Numby_Added_to_Team_With_Himeko.ogg  ||  
+VO_ZH_Archive_Topaz_and_Numby_Added_to_Team_With_Bronya.ogg  ||  
+VO_ZH_Archive_Topaz_and_Numby_Added_to_Team_With_Asta.ogg  ||  
+VO_ZH_Topaz_and_Numby_Battle_Begins_-_Weakness_Break_01.ogg  ||  我看涨哦。
+VO_ZH_Topaz_and_Numby_Battle_Begins_-_Danger_Alert_01.ogg  ||  必须提高风险意识……
+VO_ZH_Topaz_and_Numby_Turn_Begins_01.ogg  ||  开始吧，资产评估。
+VO_ZH_Topaz_and_Numby_Turn_Begins_02.ogg  ||  别急呀，账账！别急~
+VO_ZH_Topaz_and_Numby_Turn_Idling_01.ogg  ||  市场波动很正常，该出手时就出手吧~
+VO_ZH_Topaz_and_Numby_Basic_ATK_01.ogg  ||  还不还款？
+VO_ZH_Topaz_and_Numby_Skill_01.ogg  ||  账账，狠狠地砸！
+VO_ZH_Topaz_and_Numby_Skill_02.ogg  ||  清算时间到啦！
+VO_ZH_Topaz_and_Numby_Skill_03.ogg  ||  (强化) 连本带息，还债！
+VO_ZH_Topaz_and_Numby_Skill_04.ogg  ||  (强化) 全部资产，没收！
+VO_ZH_Topaz_and_Numby_Hit_by_Light_Attack_01.ogg  ||  稳住……
+VO_ZH_Topaz_and_Numby_Hit_by_Heavy_Attack_01.ogg  ||  注意止损……
+VO_ZH_Topaz_and_Numby_Ultimate_-_Activate_01.ogg  ||  行情扑朔迷离……
+VO_ZH_Topaz_and_Numby_Ultimate_-_Unleash_01.ogg  ||  啊？对哦。目光放远，聚焦长线…就是投资成功的秘诀！
+VO_ZH_Topaz_and_Numby_Downed_01.ogg  ||  还没填…事假申请……
+VO_ZH_Topaz_and_Numby_Return_to_Battle_01.ogg  ||  呵…加班加班，我来啦。
+VO_ZH_Topaz_and_Numby_Health_Recovery_01.ogg  ||  好棒的公司福利~
+VO_ZH_Topaz_and_Numby_Battle_Won_01.ogg  ||  这个项目就算结啦！
+VO_ZH_Topaz_and_Numby_Treasure_Opening_01.ogg  ||  认真工作还是有回报的嘛~
+Special:Upload?wpDestFile=VO_ZH_Topaz_and_Numby_Treasure_Opening_02.ogg  ||  哦~意外所得~
+VO_ZH_Topaz_and_Numby_Successful_Puzzle-Solving_01.ogg  ||  小测验而已。
+VO_ZH_Topaz_and_Numby_Enemy_Target_Found_01.ogg  ||  前方那位，你也要咨询债务问题？
+VO_ZH_Topaz_and_Numby_Returning_to_Town_01.ogg  ||  休息一会儿…把手机振动关掉吧！
+VO_ZH_Topaz_and_Numby_Battle_Begins_-_Weakness_Break_01.ogg  ||  
+VO_ZH_Topaz_and_Numby_Battle_Begins_-_Danger_Alert_01.ogg  ||  
+VO_ZH_Topaz_and_Numby_Turn_Begins_01.ogg  ||  
+VO_ZH_Topaz_and_Numby_Turn_Begins_02.ogg  ||  
+VO_ZH_Topaz_and_Numby_Turn_Idling_01.ogg  ||  
+VO_ZH_Topaz_and_Numby_Basic_ATK_01.ogg  ||  
+VO_ZH_Topaz_and_Numby_Skill_01.ogg  ||  
+VO_ZH_Topaz_and_Numby_Skill_02.ogg  ||  
+VO_ZH_Topaz_and_Numby_Skill_03.ogg  ||  
+VO_ZH_Topaz_and_Numby_Skill_04.ogg  ||  
+VO_ZH_Topaz_and_Numby_Hit_by_Light_Attack_01.ogg  ||  
+VO_ZH_Topaz_and_Numby_Hit_by_Heavy_Attack_01.ogg  ||  
+VO_ZH_Topaz_and_Numby_Ultimate_-_Activate_01.ogg  ||  
+VO_ZH_Topaz_and_Numby_Ultimate_-_Unleash_01.ogg  ||  
+VO_ZH_Topaz_and_Numby_Downed_01.ogg  ||  
+VO_ZH_Topaz_and_Numby_Return_to_Battle_01.ogg  ||  
+VO_ZH_Topaz_and_Numby_Health_Recovery_01.ogg  ||  
+VO_ZH_Topaz_and_Numby_Battle_Won_01.ogg  ||  
+VO_ZH_Topaz_and_Numby_Treasure_Opening_01.ogg  ||  
+VO_ZH_Topaz_and_Numby_Successful_Puzzle-Solving_01.ogg  ||  
+VO_ZH_Topaz_and_Numby_Enemy_Target_Found_01.ogg  ||  
+VO_ZH_Topaz_and_Numby_Returning_to_Town_01.ogg  ||  

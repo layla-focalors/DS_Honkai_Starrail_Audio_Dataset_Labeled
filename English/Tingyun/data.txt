@@ -1,0 +1,44 @@
+VO_Archive_Tingyun_1.ogg  ||  My name is Tingyun, the Amicassador for the Luofu Sky-Faring Commission merchant guild. Please look after me from now on, benefactor.
+VO_Archive_Tingyun_2.ogg  ||  Where are you going? Please take me with you~
+VO_Archive_Tingyun_3.ogg  ||  Ahh, the time is late, and even my tail is falling down. My apologies, I will be excusing myself...
+VO_Archive_Tingyun_4.ogg  ||  Bedtime tail care is a must. First, you need a comb that's made of boxwood, then apply some sweet ointment to the root of the tail, and wrap it in Pale Cloud Silk and go to sleep. That way my tail will be all so soft and fluffy tomorrow. See?
+VO_Archive_Tingyun_5.ogg  ||  This bracelet isn't anything old, but the jade was so green and pure that I commissioned a craftsman to make it. If you ask me, it's harder to find something for myself than for my shop. Not only does it have to be good, but it also has to strike my fancy.
+VO_Archive_Tingyun_6.ogg  ||  Peace is the best for business. It's best to work with persuadable people. For those who are less persuadable, cooling them down with a fan works wonders.
+VO_Archive_Tingyun_7.ogg  ||  Every time I head out, I leave a letter behind and lock it in the drawers of my shop. If I come back, then I'll burn it later. If I don't... then it'll be something for others to remember me by.
+VO_Archive_Tingyun_8.ogg  ||  If I have time, I head over to the Sleepless Earl when it's late. If I want company, then I chat with the patrons there. If I want leisure, then I watch people drink tea and toss dice in order to practice reading people. It is quite fun.
+VO_Archive_Tingyun_9.ogg  ||  The Sky-Faring Commission are all very gallant. Though I admire them, I really can't imitate them... I'm a lot better at embellishing words and talking up a storm...
+VO_Archive_Tingyun_10.ogg  ||  The purchase price of Sky-Amber doubled to support the Lord of the Preservation. However, it is up to the Corporation's fancy whether this becomes good or bad fortune for worlds rich in ores...
+VO_Archive_Tingyun_11.ogg  ||  Most of the lifeforms I have seen with the Whistling Flames have an origin and a reason. The creatures that cannot be communicated with are the most terrifying, as it means they do not conquer using language...
+VO_Archive_Tingyun_12.ogg  ||  The general is a true master of maximizing returns for minimal effort. I cannot match him on that front.
+VO_Archive_Tingyun_13.ogg  ||  I once gifted him some items I deemed rare, and that child respectfully thanked me and accepted them. Then I saw him excitedly selecting swords in the Artisanship Commission... Hehe, children are clever little creatures.
+VO_Archive_Tingyun_14.ogg  ||  Whether it's driving starskiffs or leading the Sky-Faring Commission, Madam Yukong is always present in the Xianzhou's course. I'm still lacking in my skills as a helmswoman.
+VO_Archive_Tingyun_15.ogg  ||  A businessman from beyond the sky? And he's not on the Whistling Flames' records... Weird, why can't I remember him?
+VO_Archive_Tingyun_16.ogg  ||  Sushang is very kind and comes to my shop everday to ask: "Is business difficult? I'll help you!" "Did anyone smash your shop? I'll help you!"...
+VO_Archive_Tingyun_17.ogg  ||  Lady Bailu has small hands but is very skilled... I have to go lie down and have a massage with her every time I return to the Luofu.
+VO_Archive_Tingyun_18.ogg  ||  I just thought she was a frequent customer of the games parlor, but recently I heard she is a diviner from the Divination Commission... Aren't they always busy over there? How can she have the time for a games parlor?
+VO_Archive_Tingyun_19.ogg  ||  The master diviner has a harsh tone, but she speaks sense. To be completely honest, her lectures are quite memorable...
+VO_Archive_Tingyun_20.ogg  ||  Nowadays Mengming manages everything in and out of the tea house. People say "Foxians are born to do business," but things are always easier said than done.
+Special:Upload?wpDestFile=VO_Archive_Tingyun_21.ogg  ||  Ah, a visitor! Please let me show you some of our local hospitality.
+VO_Archive_Tingyun_22.ogg  ||  I see a future full of potential.
+VO_Archive_Tingyun_23.ogg  ||  You can count on me to give it my all.
+VO_Tingyun_Battle_Begins_-_Weakness_Break_01.ogg  ||  Seize the moment!
+VO_Tingyun_Battle_Begins_-_Danger_Alert_01.ogg  ||  Well, we're in trouble now.
+VO_Tingyun_Turn_Begins_01.ogg  ||  Customers are always welcome.
+VO_Tingyun_Turn_Begins_02.ogg  ||  Let's be friends, shall we?
+VO_Tingyun_Turn_Idling_01.ogg  ||  We were supposed to attack yesterday!
+VO_Tingyun_Basic_ATK_01.ogg  ||  Chill out.
+VO_Tingyun_Skill_01.ogg  ||  Evils begone~
+VO_Tingyun_Skill_02.ogg  ||  All the best~
+VO_Tingyun_Hit_by_Light_Attack_01.ogg  ||  Can we talk...?
+VO_Tingyun_Hit_by_Heavy_Attack_01.ogg  ||  Hmph, you'll pay for that.
+VO_Tingyun_Ultimate_-_Activate_01.ogg  ||  A thousand wonders, to raise your spirits~
+VO_Tingyun_Ultimate_-_Unleash_01.ogg  ||  Good omens, fight as one!
+VO_Tingyun_Downed_01.ogg  ||  Not my... lucky day,
+VO_Tingyun_Return_to_Battle_01.ogg  ||  Need a hand?
+VO_Tingyun_Health_Recovery_01.ogg  ||  Better late than never.
+VO_Tingyun_Technique_01.ogg  ||  Cool it~~
+VO_Tingyun_Battle_Won_01.ogg  ||  We make a pretty good team.
+VO_Tingyun_Treasure_Opening_01.ogg  ||  This'll get a good price.
+VO_Tingyun_Successful_Puzzle-Solving_01.ogg  ||  Smooth sailing~
+VO_Tingyun_Enemy_Target_Found_01.ogg  ||  That's a tough nut to crack.
+VO_Tingyun_Returning_to_Town_01.ogg  ||  Got places to be? I'm your best guide!

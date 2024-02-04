@@ -1,0 +1,37 @@
+VO_KO_Archive_Bronya_1.ogg  ||  난 벨로보그 「수호자」의 계승자이자 실버메인 철위대의 통솔자 대행, 브로냐•랜드라고 해…. 방금은 의례적인 자기소개였어. 브로냐라고 불러 줘
+VO_KO_Archive_Bronya_2.ogg  ||  어제 악몽 꿨어…. 미, 미안. 잠이 덜 깼나 봐
+VO_KO_Archive_Bronya_3.ogg  ||  산책을 조금 더 하고 싶어…. 바로 근처니까 걱정할 필요 없어, 내일 봐
+VO_KO_Archive_Bronya_5.ogg  ||  가끔 보면, 난 내가 아닌 인간형 부호를 대표하는 것만 같아——「수호자」의 계승자라는 칭호는 내가 아닌 그 누구라도 받을 수 있을 것 같고. 왜 그런 느낌을 받는 건지는 모르겠지만, 그렇게 되는 건 싫어
+VO_KO_Archive_Bronya_4.ogg  ||  축성가들은 눈보라를 피할 수 있게 우릴 위해 성을 세워줬어. 하지만 눈보라는 단 한 번도 사라진 적이 없다는 걸 영원히 기억해야 해
+VO_KO_Archive_Bronya_6.ogg  ||  골든 극장에서 들려오는 희미한 노랫소리, 새벽녘, 사람들의 종종걸음과 야밤의 적막한 클리포트 보루. 모순되게 들릴 수도 있지만, 다 내가 좋아하는 것들이야
+VO_KO_Archive_Bronya_7.ogg  ||  악당을 심문할 땐 괜한 말실수를 할까 봐 화를 억누르는 편이야
+VO_KO_Archive_Bronya_13.ogg  ||  전선에 오래 있다 보면 관저로 돌아가서 쉬고 싶다는 욕망이 점점 강해져. 근데 막상 침대에 누우면 전선의 상황이 걱정됐지…. 이게 바로 어머니가 말씀하셨던 「책임」이라는 거겠지?
+VO_KO_Archive_Bronya_14.ogg  ||  「태양의 축제」는 춘분(春分)을 축하하기 위해 생긴 기념일에서부터 시작됐다고 들었어. 근데 지금의 벨로보그 사람들한텐 평범한 연휴나 다름 없지…. 「태양의 축제」가 원래의 의미를 되찾았으면 좋겠어
+VO_KO_Archive_Bronya_8.ogg  ||  게파드 방위관… 벨로보그의 철벽이라고 불러도 손색이 없지. 이 도시에선 영원히 「방어」가 「공격」보다 어려울 테니까
+VO_KO_Archive_Bronya_9.ogg  ||  전에 어머니랑 다른 분들이 세미나를 열 때 나도 종종 동석했어. 서벌 씨는 지치지도 않고 내 수많은 문제들에 답을 해줬지…. 꼭 오래전에 있었던 일 같아
+VO_KO_Archive_Bronya_10.ogg  ||  칭찬을 해주면 항상 기쁜 표정을 숨기려고 애써 얼굴을 굳히더라고…. 쉽게 눈치챌 수 있었어, 예전에 나도 그렇게 연습했거든
+VO_KO_Archive_Bronya_11.ogg  ||  난 어머니를 존경해. 다만 어머니가 내 기억 속의 모습과는 달라. 어쩌면 난 어머니를 다른 사람으로 상상했을지도 모르겠어……
+VO_KO_Archive_Bronya_12.ogg  ||  그 만남 자체는 재앙이었을지도 모르지만, 새로운 미래의 시작이기도 했어…. 제레가 들었다면 또 거창한 이치를 들먹인다고 할지도 모르겠네
+VO_KO_Archive_Bronya_15.ogg  ||  랜도 가문의 셋째… 맞지? 게파드한테 듣긴 했지만, 만나보진 못했어. 들은 바에 의하면 「링스」는 남들보다 똑똑한 아이 같던걸?
+VO_KO_Archive_Bronya_16.ogg  ||  야릴로-Ⅵ와 비슷한 일을 겪은 행성은 많지만, 찾아오는 컴퍼니의 대표들이 다 토파즈 씨 같지는 않지……
+VO_KO_Bronya_Battle_Begins_-_Weakness_Break_01.ogg  ||  사소한 기회도 놓치지 마
+VO_KO_Bronya_Battle_Begins_-_Danger_Alert_01.ogg  ||  강적이야, 전략을 바로 변경하자
+VO_KO_Bronya_Turn_Begins_01.ogg  ||  이 싸움은 피할 수 없어
+VO_KO_Bronya_Turn_Begins_02.ogg  ||  이 대가를 치러야 할 거야
+VO_KO_Bronya_Turn_Idling_01.ogg  ||  전세를 결정짓는 순간
+VO_KO_Bronya_Basic_ATK_01.ogg  ||  시시한 악당이군
+VO_KO_Bronya_Skill_01.ogg  ||  기회는 다시 오지 않아, 돕게 해줘!
+VO_KO_Bronya_Skill_02.ogg  ||  기회는 다시 오지 않아, 함께 해줘!
+VO_KO_Bronya_Hit_by_Light_Attack_01.ogg  ||  까다롭네
+VO_KO_Bronya_Hit_by_Heavy_Attack_01.ogg  ||  쓰러질 수 없어……
+VO_KO_Bronya_Ultimate_-_Activate_01.ogg  ||  우린 폭풍 속에 들어섰어
+VO_KO_Bronya_Ultimate_-_Unleash_01.ogg  ||  수호와 방위를 위해, 격파하라!
+VO_KO_Bronya_Downed_01.ogg  ||  절대… 함락돼선 안 돼……
+VO_KO_Bronya_Return_to_Battle_01.ogg  ||  기필코 이번 기회는 잡아야 해
+VO_KO_Bronya_Health_Recovery_01.ogg  ||  때마침 도와줬네
+VO_KO_Bronya_Technique_01.ogg  ||  패기를 보여줘
+VO_KO_Bronya_Battle_Won_01.ogg  ||  우리가 잃은 걸 전부 되찾아오자
+VO_KO_Bronya_Treasure_Opening_01.ogg  ||  보급으로 충분해
+VO_KO_Bronya_Successful_Puzzle-Solving_01.ogg  ||  설계가 정말 정교하네
+VO_KO_Bronya_Enemy_Target_Found_01.ogg  ||  아군과 적군의 상황을 잘 살펴봐
+VO_KO_Bronya_Returning_to_Town_01.ogg  ||  흔치 않은 여유니, 가서 산책 좀 해

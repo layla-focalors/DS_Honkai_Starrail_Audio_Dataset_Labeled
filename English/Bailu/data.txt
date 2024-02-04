@@ -1,0 +1,43 @@
+VO_Archive_Bailu_1.ogg  ||  I'm Bailu, a doctor from the Alchemy Commission. Come here and let me have a look at you. Hmm... What's wrong? Where does it hurt?
+VO_Archive_Bailu_2.ogg  ||  Do you want candy? No? Then I'll have it.
+VO_Archive_Bailu_3.ogg  ||  Huh? I have to go back now...? Please, just a little a bit longer!
+VO_Archive_Bailu_4.ogg  ||  Do I even count as a dragon? ...What kind of a dragon can't step out of her own house, and has to obey the rules of the clan? I'd say I'm more like a fish in a fishbowl!
+VO_Archive_Bailu_5.ogg  ||  Lunch is like medicine — it has to have the right balance of ingredients. Two smoked patties and a cup of milk tea is a great way to heal your heart and lift your spirits!
+VO_Archive_Bailu_6.ogg  ||  Study medicine, find herbs, and broaden my horizons. Everything can be used as a medicine. The rarer a disease is, the bolder the prescription must be~
+VO_Archive_Bailu_7.ogg  ||  There's only one ailment that I can't cure, and that. Is. Being. Short... Hmph!
+VO_Archive_Bailu_8.ogg  ||  Putting my head in the water, and though it is a small area, I feel I can breathe freer than before, far beyond the boundaries of the water...
+VO_Archive_Bailu_9.ogg  ||  A patient told me that the Garden of Gourmet released a new dessert called Fallen From the Skies. The sugar threads are suuuper looong... But I can't get my hands on it.
+VO_Archive_Bailu_10.ogg  ||  The general comes to me with ailments such as "too tired to stay awake," and then he just asks how I've been and leaves after sitting around for a while. Sometimes he doesn't even take any medicine from me...
+VO_Archive_Bailu_11.ogg  ||  Whenever Diviner Fu does overtime, we start running out of sugar powder for the medicinal eye-soothing tea...
+VO_Archive_Bailu_12.ogg  ||  Helm Master Yukong... She says she lets everything go everytime she sees me, but I don't think she has.
+VO_Archive_Bailu_13.ogg  ||  Tingyun can endure more intense massages than other people, so I never show her mercy~
+VO_Archive_Bailu_14.ogg  ||  Ah, even if I don't step outside, I can still hear her. "Be eager to help those in need" — that's her, right?
+VO_Archive_Bailu_15.ogg  ||  I just wish I met the inventor of Celestial Jade earlier... This activity is great for both physical and mental health! It needs to get popularized!
+VO_Archive_Bailu_16.ogg  ||  Well... Um... Whenever I run off to play in Exalting Sanctum, I always bump into her and Sushang — they're usually in need of medical assistance... Sometimes Sushang is carrying her, sometimes she's carrying Sushang... and sometimes they're both in bad shape. How come? Performing arts can be dangerous, I guess.
+VO_Archive_Bailu_18.ogg  ||  I ran into her on a dark night once — she scared me half to death! Overworked, chronic insomnia, emotional turmoil — all the signs are there. If you ask me, she'd need to take it easy for a few decades to show any signs of recovery.
+VO_Archive_Bailu_19.ogg  ||  She's always so jumpy and tense at her appointments, and I swear she talks to herself... o—or something we can't see. I should give her something stronger to calm her nerves.
+VO_Archive_Bailu_20.ogg  ||  The life of the Vidyadhara is like a dream.
+VO_Archive_Bailu_26.ogg  ||  Dan Heng! Teach me some more high elder magic!
+VO_Archive_Bailu_27.ogg  ||  Dan Heng! Teach me some more high elder magic!
+VO_Bailu_Battle_Begins_-_Weakness_Break_01.ogg  ||  Ha, you don't look so good.
+VO_Bailu_Battle_Begins_-_Danger_Alert_01.ogg  ||  Calm down or you'll overheat!
+VO_Bailu_Turn_Begins_01.ogg  ||  Looks like somebody needs a doctor!
+VO_Bailu_Turn_Begins_02.ogg  ||  Let me tend to your wounds!
+VO_Bailu_Turn_Idling_01.ogg  ||  Standing here in silence, missing all the violence~
+VO_Bailu_Basic_ATK_01.ogg  ||  Look, listen, feel, kick!
+VO_Bailu_Skill_01.ogg  ||  Say "ahhhh"!
+VO_Bailu_Skill_02.ogg  ||  Gotta get those vitamins.
+VO_Bailu_Hit_by_Light_Attack_01.ogg  ||  You bully.
+VO_Bailu_Hit_by_Heavy_Attack_01.ogg  ||  Help me!
+VO_Bailu_Ultimate_-_Activate_01.ogg  ||  Time to show you...
+VO_Bailu_Ultimate_-_Unleash_01.ogg  ||  What's in your... prescription!
+VO_Bailu_Talent_01.ogg  ||  Your treatment's not done yet!
+VO_Bailu_Downed_01.ogg  ||  Where's a doctor when you need one...
+VO_Bailu_Return_to_Battle_01.ogg  ||  Can't give up on my therapies just yet...
+VO_Bailu_Health_Recovery_01.ogg  ||  Look lively!
+VO_Bailu_Technique_01.ogg  ||  A little something for everyone!
+VO_Bailu_Battle_Won_01.ogg  ||  I told you they were sick.
+VO_Bailu_Treasure_Opening_01.ogg  ||  If it works, it's good medicine.
+VO_Bailu_Successful_Puzzle-Solving_01.ogg  ||  Gotta tell good remedies from bad.
+VO_Bailu_Enemy_Target_Found_01.ogg  ||  Careful — this is life or death.
+VO_Bailu_Returning_to_Town_01.ogg  ||  Come on, can't we stay out a little longer?

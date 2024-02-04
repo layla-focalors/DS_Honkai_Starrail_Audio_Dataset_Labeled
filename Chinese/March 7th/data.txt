@@ -1,0 +1,93 @@
+VO_ZH_Archive_March_7th_1.ogg  ||  你好，(Trailblazer)。欢迎入职星穹列车，我是三月七，星穹列车的乘员，也是你的同事。现在，请先拍摄入职照…瞧把你吓的，咱是在开玩笑啦~
+VO_ZH_Archive_March_7th_2.ogg  ||  哎呀，你来得正好，今天还没一起拍过照呢。
+VO_ZH_Archive_March_7th_3.ogg  ||  我整理完今天的照片就休息啦，你也别熬夜打游戏哦！
+VO_ZH_Archive_March_7th_6.ogg  ||  名字是我自己取的，大家也叫我三月、小三月…你呢？你想叫我什么？
+VO_ZH_Archive_March_7th_7.ogg  ||  我的过去，或许不在从前，而是在我的未来里。所以我一定会一站站走下去，哪怕有一天…没有列车。
+VO_ZH_Archive_March_7th_4.ogg  ||  果汁…一说就觉得馋，一馋就忒想喝，一喝就…停不下来……
+VO_ZH_Archive_March_7th_5.ogg  ||  照片当然不是现实，但如果有足够多的照片，是不是就能更接近现实一些呢？
+VO_ZH_Archive_March_7th_8.ogg  ||  拍照，写日记，还用说嘛~
+VO_ZH_Archive_March_7th_9.ogg  ||  要是没人和我聊天，我就闷得要命。但在列车上的时候，姬子很忙，杨叔很忙，帕姆很忙，丹恒倒是不忙，可他不喜欢聊天……
+VO_ZH_Archive_March_7th_14.ogg  ||  每次坐在书桌前整理完相册，抬头看向窗外，即使那一幕已经见过千遍万遍，我总是想再拍一张照片…现在咱能坐在列车里，像这样看着星星，真的很幸福。
+VO_ZH_Archive_March_7th_15.ogg  ||  即使看起来很「黑暗」的料理，也要拿出「开拓」的精神来面对！但，实话实说，砂鳗冻和姬子泡的咖啡真不太好……
+VO_ZH_Archive_March_7th_10.ogg  ||  丹恒…他在我之前上的车，从没透露过自己的来历…你要是有机会，也帮我打探打探？
+VO_ZH_Archive_March_7th_11.ogg  ||  美丽的姬子姐姐，成熟，可靠，又优雅，还是列车的领航员…以后，我也可以成为那样的大人吧！不过咱现在这样也很好~
+VO_ZH_Archive_March_7th_12.ogg  ||  听说杨叔曾经是秘密组织的首领，拯救过星球，当过老师，还画过动画的原画！哎，简直是外星人了……
+VO_ZH_Archive_March_7th_13.ogg  ||  列车长就是最棒的！
+VO_ZH_Archive_March_7th_16.ogg  ||  即使知道了他的神秘过去，他还是我们认识的那个丹恒呀！
+VO_ZH_Archive_March_7th_Eidolon_Activation.ogg  ||  我的过去，正在一点点变多呢。
+VO_ZH_Archive_March_7th_Character_Ascension.ogg  ||  今天的我比昨天更棒了~
+VO_ZH_Archive_March_7th_Max_Level_Reached.ogg  ||  成长完毕！真正的三月七之旅现在才要开始！
+VO_ZH_Archive_March_7th_Trace_Activation.ogg  ||  没错没错，我还藏着几招哪~
+VO_ZH_Archive_March_7th_Added_to_Team_With_Dan_Heng.ogg  ||  本姑娘要展现真正的技术了…呃，丹恒你那是什么眼神？
+VO_ZH_Archive_March_7th_Added_to_Team_With_Himeko.ogg  ||  万一有个万一，姬子你要帮帮我哦！
+VO_ZH_Archive_March_7th_Added_to_Team_With_Welt.ogg  ||  有万能的杨叔在，好耶！我是不是说太响了？
+VO_ZH_Archive_March_7th_1.ogg  ||  
+VO_ZH_Archive_March_7th_2.ogg  ||  
+VO_ZH_Archive_March_7th_3.ogg  ||  
+VO_ZH_Archive_March_7th_6.ogg  ||  
+VO_ZH_Archive_March_7th_7.ogg  ||  
+VO_ZH_Archive_March_7th_4.ogg  ||  
+VO_ZH_Archive_March_7th_5.ogg  ||  
+VO_ZH_Archive_March_7th_8.ogg  ||  
+VO_ZH_Archive_March_7th_9.ogg  ||  
+VO_ZH_Archive_March_7th_14.ogg  ||  
+VO_ZH_Archive_March_7th_15.ogg  ||  
+VO_ZH_Archive_March_7th_10.ogg  ||  
+VO_ZH_Archive_March_7th_11.ogg  ||  
+VO_ZH_Archive_March_7th_12.ogg  ||  
+VO_ZH_Archive_March_7th_13.ogg  ||  
+VO_ZH_Archive_March_7th_16.ogg  ||  
+VO_ZH_Archive_March_7th_Eidolon_Activation.ogg  ||  
+VO_ZH_Archive_March_7th_Character_Ascension.ogg  ||  
+VO_ZH_Archive_March_7th_Max_Level_Reached.ogg  ||  
+VO_ZH_Archive_March_7th_Trace_Activation.ogg  ||  
+VO_ZH_Archive_March_7th_Added_to_Team_With_Dan_Heng.ogg  ||  
+VO_ZH_Archive_March_7th_Added_to_Team_With_Himeko.ogg  ||  
+VO_ZH_Archive_March_7th_Added_to_Team_With_Welt.ogg  ||  
+VO_ZH_March_7th_Battle_Begins_-_Weakness_Break_01.ogg  ||  我还挺能打的嘛。
+VO_ZH_March_7th_Battle_Begins_-_Danger_Alert_01.ogg  ||  这家伙，怎么看上去不大好惹……
+VO_ZH_March_7th_Turn_Begins_01.ogg  ||  碰上我算你们运气不好。
+VO_ZH_March_7th_Turn_Begins_02.ogg  ||  该我出场了~
+VO_ZH_March_7th_Turn_Idling_01.ogg  ||  怎么啦？看我不出手就怕了？
+VO_ZH_March_7th_Basic_ATK_01.ogg  ||  看我的！
+VO_ZH_March_7th_Skill_01.ogg  ||  本姑娘出马，怎么可能会输嘛~
+VO_ZH_March_7th_Skill_02.ogg  ||  乖乖站好，这就给你加个祝福~
+VO_ZH_March_7th_Hit_by_Light_Attack_01.ogg  ||  讨厌！
+VO_ZH_March_7th_Hit_by_Heavy_Attack_01.ogg  ||  走开！
+VO_ZH_March_7th_Ultimate_-_Activate_01.ogg  ||  偶尔也该认真一下。
+VO_ZH_March_7th_Ultimate_-_Unleash_01.ogg  ||  来尝尝本姑娘的厉害~
+VO_ZH_March_7th_Talent_01.ogg  ||  不许跑！
+VO_ZH_March_7th_Talent_02.ogg  ||  你再打？
+VO_ZH_March_7th_Downed_01.ogg  ||  我不想…一个人……
+VO_ZH_March_7th_Return_to_Battle_01.ogg  ||  好啦…我不会再胡闹啦！
+VO_ZH_March_7th_Health_Recovery_01.ogg  ||  多亏你啦！
+VO_ZH_March_7th_Technique_01.ogg  ||  冻结吧！
+VO_ZH_March_7th_Battle_Won_01.ogg  ||  这次咱可没拖后腿！
+VO_ZH_March_7th_Treasure_Opening_01.ogg  ||  看看看看，有没有亮晶晶的？
+Special:Upload?wpDestFile=VO_ZH_March_7th_Treasure_Opening_02.ogg  ||  都是我找到的~
+VO_ZH_March_7th_Successful_Puzzle-Solving_01.ogg  ||  做得好，夸夸自己吧~
+VO_ZH_March_7th_Enemy_Target_Found_01.ogg  ||  打还是溜？
+VO_ZH_March_7th_Returning_to_Town_01.ogg  ||  要陪我去拍照吗？
+VO_ZH_March_7th_Battle_Begins_-_Weakness_Break_01.ogg  ||  
+VO_ZH_March_7th_Battle_Begins_-_Danger_Alert_01.ogg  ||  
+VO_ZH_March_7th_Turn_Begins_01.ogg  ||  
+VO_ZH_March_7th_Turn_Begins_02.ogg  ||  
+VO_ZH_March_7th_Turn_Idling_01.ogg  ||  
+VO_ZH_March_7th_Basic_ATK_01.ogg  ||  
+VO_ZH_March_7th_Skill_01.ogg  ||  
+VO_ZH_March_7th_Skill_02.ogg  ||  
+VO_ZH_March_7th_Hit_by_Light_Attack_01.ogg  ||  
+VO_ZH_March_7th_Hit_by_Heavy_Attack_01.ogg  ||  
+VO_ZH_March_7th_Ultimate_-_Activate_01.ogg  ||  
+VO_ZH_March_7th_Ultimate_-_Unleash_01.ogg  ||  
+VO_ZH_March_7th_Talent_01.ogg  ||  
+VO_ZH_March_7th_Talent_02.ogg  ||  
+VO_ZH_March_7th_Downed_01.ogg  ||  
+VO_ZH_March_7th_Return_to_Battle_01.ogg  ||  
+VO_ZH_March_7th_Health_Recovery_01.ogg  ||  
+VO_ZH_March_7th_Technique_01.ogg  ||  
+VO_ZH_March_7th_Battle_Won_01.ogg  ||  
+VO_ZH_March_7th_Treasure_Opening_01.ogg  ||  
+VO_ZH_March_7th_Successful_Puzzle-Solving_01.ogg  ||  
+VO_ZH_March_7th_Enemy_Target_Found_01.ogg  ||  
+VO_ZH_March_7th_Returning_to_Town_01.ogg  ||  

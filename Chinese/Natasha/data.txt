@@ -1,0 +1,80 @@
+VO_ZH_Archive_Natasha_1.ogg  ||  你好，我是娜塔莎，贝洛伯格下层区的医生，哪里不舒服么？过来坐吧，让我看看。
+VO_ZH_Archive_Natasha_2.ogg  ||  今天我在…不过也别因为我在就乱来哦。
+VO_ZH_Archive_Natasha_3.ogg  ||  今天也是健健康康的一天。
+VO_ZH_Archive_Natasha_4.ogg  ||  病人有各种各样，我也得用不同的面孔去对待他们，有些人要温柔一些，有些人不狠起心来说两句，他根本不把病当回事…对症下药也是医生的职责。
+VO_ZH_Archive_Natasha_5.ogg  ||  药物不仅揭示病人的疾病，还有他们的欲望和需求。
+VO_ZH_Archive_Natasha_6.ogg  ||  大家加入「地火」的原因，不过是为了自己，为了隔壁还没断奶就失去母亲的孩子，为了街上流浪的老人而已。
+VO_ZH_Archive_Natasha_7.ogg  ||  我时不时还会像以前那样，用小熊玩偶练习缝合伤口呢。
+VO_ZH_Archive_Natasha_8.ogg  ||  地下的人们已经习惯苦中作乐，所以我总会提醒自己，我们已经过上自己想要的生活么？
+VO_ZH_Archive_Natasha_15.ogg  ||  矿民下矿的时候，诊所算是半个托管所吧…是我主动招呼孩子们过来的，说不定还是我更依靠他们呢。
+VO_ZH_Archive_Natasha_16.ogg  ||  人是向往自由的动物，如果太久看不到天空，也是会生病的…心里会生病。
+VO_ZH_Archive_Natasha_9.ogg  ||  希儿早就是独当一面的大人了，我也不能把她当孩子看待了。
+VO_ZH_Archive_Natasha_10.ogg  ||  听说她最近一直在帮忙照顾受伤的流浪者，非常了不起…我刚见到克拉拉的时候，虽然她会熟练地给机器人替换零件，自己的伤口却发炎了，看得我心疼坏了。
+VO_ZH_Archive_Natasha_11.ogg  ||  史瓦罗存护的是「人类」，但他并不关心「人类」是怎么想的。
+VO_ZH_Archive_Natasha_12.ogg  ||  以我对桑博的了解，他最不喜欢欠人情，总会想办法还上——人情这种东西，时间拖得越久，越难估价。
+VO_ZH_Archive_Natasha_13.ogg  ||  有时站在诊所的门口，看她在外面闹闹腾腾的样子，就不觉得累了。
+VO_ZH_Archive_Natasha_14.ogg  ||  我们都是从上层区来的，所以才迫切地想回到「过去」——贝洛伯格「上下」没有分别的时候。
+VO_ZH_Archive_Natasha_17.ogg  ||  那孩子表面坚强，实际上很害怕自己变成累赘。所以他才那么努力地训练，战斗…希望他有朝一日能静下心来，听听自己的声音。
+VO_ZH_Archive_Natasha_1.ogg  ||  
+VO_ZH_Archive_Natasha_2.ogg  ||  
+VO_ZH_Archive_Natasha_3.ogg  ||  
+VO_ZH_Archive_Natasha_4.ogg  ||  
+VO_ZH_Archive_Natasha_5.ogg  ||  
+VO_ZH_Archive_Natasha_6.ogg  ||  
+VO_ZH_Archive_Natasha_7.ogg  ||  
+VO_ZH_Archive_Natasha_8.ogg  ||  
+VO_ZH_Archive_Natasha_15.ogg  ||  
+VO_ZH_Archive_Natasha_16.ogg  ||  
+VO_ZH_Archive_Natasha_9.ogg  ||  
+VO_ZH_Archive_Natasha_10.ogg  ||  
+VO_ZH_Archive_Natasha_11.ogg  ||  
+VO_ZH_Archive_Natasha_12.ogg  ||  
+VO_ZH_Archive_Natasha_13.ogg  ||  
+VO_ZH_Archive_Natasha_14.ogg  ||  
+VO_ZH_Archive_Natasha_17.ogg  ||  
+VO_ZH_Natasha_Battle_Begins_-_Weakness_Break_01.ogg  ||  无可救药。
+VO_ZH_Natasha_Battle_Begins_-_Danger_Alert_01.ogg  ||  不能大意。
+VO_ZH_Natasha_Turn_Begins_02.ogg  ||  不听话的都是坏孩子。
+VO_ZH_Natasha_Turn_Begins_03.ogg  ||  准备打针了。
+VO_ZH_Natasha_Turn_Idling_01.ogg  ||  好像等了很久…
+VO_ZH_Natasha_Basic_ATK_01.ogg  ||  你病得很重。
+VO_ZH_Natasha_Basic_ATK_02.ogg  ||  来感受生命的冲击。
+VO_ZH_Natasha_Basic_ATK_03.ogg  ||  睡一觉吧。
+VO_ZH_Natasha_Skill_01.ogg  ||  吃药咯。
+VO_ZH_Natasha_Skill_02.ogg  ||  不疼了吧。
+VO_ZH_Natasha_Hit_by_Light_Attack_01.ogg  ||  没事。
+VO_ZH_Natasha_Hit_by_Heavy_Attack_01.ogg  ||  好疼……
+VO_ZH_Natasha_Ultimate_-_Activate_01.ogg  ||  看来是赶上了。
+VO_ZH_Natasha_Ultimate_-_Unleash_01.ogg  ||  一点心意而已，不必在意。
+VO_ZH_Natasha_Downed_01.ogg  ||  我可是…医生啊……
+VO_ZH_Natasha_Return_to_Battle_01.ogg  ||  我的药剂还很充足。
+VO_ZH_Natasha_Health_Recovery_01.ogg  ||  我会小心的。
+VO_ZH_Natasha_Technique_01.ogg  ||  发现你了。
+VO_ZH_Natasha_Battle_Won_01.ogg  ||  一场精妙的手术。
+VO_ZH_Natasha_Treasure_Opening_01.ogg  ||  药品的话，多少都用得着。
+VO_ZH_Natasha_Successful_Puzzle-Solving_01.ogg  ||  嗯，大脑很健康。
+VO_ZH_Natasha_Enemy_Target_Found_01.ogg  ||  要击败他们，得好好准备。
+VO_ZH_Natasha_Returning_to_Town_01.ogg  ||  该休息时就好好休息。
+VO_ZH_Natasha_Battle_Begins_-_Weakness_Break_01.ogg  ||  
+VO_ZH_Natasha_Battle_Begins_-_Danger_Alert_01.ogg  ||  
+VO_ZH_Natasha_Turn_Begins_02.ogg  ||  
+VO_ZH_Natasha_Turn_Begins_03.ogg  ||  
+VO_ZH_Natasha_Turn_Idling_01.ogg  ||  
+VO_ZH_Natasha_Basic_ATK_01.ogg  ||  
+VO_ZH_Natasha_Basic_ATK_02.ogg  ||  
+VO_ZH_Natasha_Basic_ATK_03.ogg  ||  
+VO_ZH_Natasha_Skill_01.ogg  ||  
+VO_ZH_Natasha_Skill_02.ogg  ||  
+VO_ZH_Natasha_Hit_by_Light_Attack_01.ogg  ||  
+VO_ZH_Natasha_Hit_by_Heavy_Attack_01.ogg  ||  
+VO_ZH_Natasha_Ultimate_-_Activate_01.ogg  ||  
+VO_ZH_Natasha_Ultimate_-_Unleash_01.ogg  ||  
+VO_ZH_Natasha_Downed_01.ogg  ||  
+VO_ZH_Natasha_Return_to_Battle_01.ogg  ||  
+VO_ZH_Natasha_Health_Recovery_01.ogg  ||  
+VO_ZH_Natasha_Technique_01.ogg  ||  
+VO_ZH_Natasha_Battle_Won_01.ogg  ||  
+VO_ZH_Natasha_Treasure_Opening_01.ogg  ||  
+VO_ZH_Natasha_Successful_Puzzle-Solving_01.ogg  ||  
+VO_ZH_Natasha_Enemy_Target_Found_01.ogg  ||  
+VO_ZH_Natasha_Returning_to_Town_01.ogg  ||  

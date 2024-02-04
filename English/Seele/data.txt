@@ -1,0 +1,39 @@
+VO_Archive_Seele_1.ogg  ||  Hey, I'm Seele. I'm a member of Wildfire down here in the Underworld. Wanna help me forge a future for the people?
+VO_Archive_Seele_2.ogg  ||  Right on time — let's start the patrol.
+VO_Archive_Seele_3.ogg  ||  Hey, you're about to fall asleep on your feet. Don't push yourself — I got this. Go get some rest.
+VO_Archive_Seele_5.ogg  ||  Me as a child? Hook times ten.
+VO_Archive_Seele_4.ogg  ||  We may live underground, but we won't be buried by this city.
+VO_Archive_Seele_6.ogg  ||  I like to keep my scythe sharp so I can get a good night's sleep on it.
+VO_Archive_Seele_7.ogg  ||  I'm over it now, but... when I was young, I used to keep my favorite comic books in the clinic. Then the other kids started borrowing them... permanently.
+VO_Archive_Seele_15.ogg  ||  The chief's right — sometimes a sharp blade is the only way to get people to come to their senses.
+VO_Archive_Seele_16.ogg  ||  Hmm... Can I see this Pom-Pom? Sounds like a talking teddy bear to me.
+VO_Archive_Seele_8.ogg  ||  I learned when I was a kid I that temper tantrums won't get you anywhere with Nat... Let's just say she knew how to give you a taste of your own medicine.
+VO_Archive_Seele_9.ogg  ||  That girl doesn't talk much, but... I know she doesn't see us as her enemy.
+VO_Archive_Seele_10.ogg  ||  Heh, Svarog's always going on about "humanity's endless conflicts," but you don't get peace by offering everything up on a silver platter.
+VO_Archive_Seele_11.ogg  ||  If you need something doing, he might be your man. But if you feel like befriending him, do yourself a favor: don't.
+VO_Archive_Seele_12.ogg  ||  Don't let her appetite for chaos fool you — I think that kid's going places.
+VO_Archive_Seele_13.ogg  ||  I probably owe my life to the chief.
+VO_Archive_Seele_14.ogg  ||  It was the first time both of us had seen Belobog's real sky... the same sky.
+VO_Archive_Seele_17.ogg  ||  You think I'm too competitive? Ha, guess you haven't met Luka.
+VO_Archive_Seele_18.ogg  ||  Where there's hope, there's the will to fight.
+Special:Upload?wpDestFile=VO_Archive_Seele_19.ogg  ||  Good news...? I'll take it.
+VO_Archive_Seele_23.ogg  ||  I'll take the front line. Stay safe, Bronya.
+VO_Seele_Battle_Begins_-_Weakness_Break_01.ogg  ||  So you are afraid of me.
+VO_Seele_Battle_Begins_-_Danger_Alert_01.ogg  ||  *sigh* Great.
+VO_Seele_Turn_Begins_01.ogg  ||  What a headache.
+VO_Seele_Turn_Begins_03.ogg  ||  Don't mess with me.
+VO_Seele_Turn_Idling_01.ogg  ||  Come on, I wanna try something out.
+VO_Seele_Basic_ATK_02.ogg  ||  Who's next?
+VO_Seele_Hit_by_Light_Attack_05.ogg  ||  Ahhh.
+VO_Seele_Hit_by_Heavy_Attack_05.ogg  ||  Argh, only a scratch.
+VO_Seele_Ultimate_-_Activate_01.ogg  ||  I'll free you from your chains.
+VO_Seele_Ultimate_-_Unleash_01.ogg  ||  Disappear among the sea of butterflies, illusions of the past!
+VO_Seele_Talent_01.ogg  ||  Let me end your misery.
+VO_Seele_Downed_02.ogg  ||  I can still fight...
+VO_Seele_Return_to_Battle_01.ogg  ||  It's not over yet.
+VO_Seele_Health_Recovery_01.ogg  ||  Thanks.
+VO_Seele_Battle_Won_01.ogg  ||  A sharp scythe needs targets.
+VO_Seele_Treasure_Opening_01.ogg  ||  Time well spent.
+VO_Seele_Successful_Puzzle-Solving_01.ogg  ||  Not bad at all.
+VO_Seele_Enemy_Target_Found_01.ogg  ||  Enemies ahead... up for a scrap?
+VO_Seele_Returning_to_Town_01.ogg  ||  Let's take it in turns. You rest, I'll stand guard.

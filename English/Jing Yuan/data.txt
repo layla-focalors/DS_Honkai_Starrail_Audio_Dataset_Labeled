@@ -1,0 +1,51 @@
+VO_Archive_Jing_Yuan_1.ogg  ||  I am Jing Yuan, the general of the Luofu Cloud Knights. There's no need for formality. "General" is a temporary title, and you can simply call me Jing Yuan.
+VO_Archive_Jing_Yuan_2.ogg  ||  Ah, you're here. If you have any interesting stories from your travels, do share them with me.
+VO_Archive_Jing_Yuan_3.ogg  ||  Mmm, rest well... My apologies. There is still some work to be done and I can't see you out personally.
+VO_Archive_Jing_Yuan_4.ogg  ||  My past enemies are either dead or captured, and my past friends are scattered to the winds. Now that I think about it, I am indeed an old man...
+VO_Archive_Jing_Yuan_5.ogg  ||  A master of the chessboard does not always make flashy moves. People take delight from one flashy move that saves the day, but never worry when the entire situation teeters towards a loss.
+VO_Archive_Jing_Yuan_6.ogg  ||  Outsiders perhaps like to abbreviate the Xianzhou Luofu as just Xianzhou, but... the Luofu is not the Xianzhou. The Luofu is the Luofu, no more, no less.
+VO_Archive_Jing_Yuan_7.ogg  ||  Meditating with my eyes closed. That gets more difficult as time goes on.
+VO_Archive_Jing_Yuan_8.ogg  ||  For all of my life, I've been scared of trouble. There are major troubles and minor ones, distant ones and close ones. They need plans, preparations, and all things that need effort...
+VO_Archive_Jing_Yuan_9.ogg  ||  This spirit is called Lightning-Wielding Thunder-Clapping Spirit-Squashing Lord. It's a name I read from an ancient text, but it's too long to remember, so I just abbreviate it to the Lightning... Lord.
+VO_Archive_Jing_Yuan_10.ogg  ||  I have been bound by mundane duties for years. Not only do I find no fun in my surroundings, but I'm also becoming a rather boring person. If I must talk about something interesting, then it'd be meeting space travelers like yourself.
+VO_Archive_Jing_Yuan_11.ogg  ||  If you treat him as a child, he'll put on the airs of an adult. If you treat him as an adult, he'll show the temperament of a child.
+VO_Archive_Jing_Yuan_12.ogg  ||  I know what Fu Xuan is thinking of, so I must make her wait. If she is patient enough to wait, then that would be the time.
+VO_Archive_Jing_Yuan_13.ogg  ||  Everyone believes Helm Master Yukong had retired... They don't know that she chose an even harder path after she left her beloved skies behind.
+VO_Archive_Jing_Yuan_14.ogg  ||  Xianzhou is capable of such bustling trade because of how Amicassadors such as Tingyun socialize so much with the outsiders.
+VO_Archive_Jing_Yuan_15.ogg  ||  I have seen many merchants in my life, but don't you think there aren't many like him, who are in no hurry to do business?
+VO_Archive_Jing_Yuan_16.ogg  ||  That carefree new Cloud Knight recruit, huh... I was like that once upon a time, but it was a long while ago.
+VO_Archive_Jing_Yuan_17.ogg  ||  It's hard being the High Elder of the Vidyadhara... I hope she remains well in this lifetime.
+VO_Archive_Jing_Yuan_18.ogg  ||  She taught me the skills with a blade, but we never became close... *sigh* In an endless night, there is nothing closer than the bright moon, always hanging in the sky.
+VO_Archive_Jing_Yuan_19.ogg  ||  If he were to forget everything, it would make things a lot easier for me.
+VO_Archive_Jing_Yuan_20.ogg  ||  I understand the one I wished to trace... exists now only in memory. But it's probably what's best for him.
+VO_Archive_Jing_Yuan_21.ogg  ||  The Cloudstrider's chromatic echelon has departed once again, and the renewed connection of all worlds is imminent. This is good news for the Alliance... but now that the Star Rail is clear, what action will be taken by the fiends and demons once stranded in that remote corner? ...Alas, another problem for another day.
+VO_Archive_Jing_Yuan_22.ogg  ||  A sword without a sheath is nothing more than a lethal weapon. The Ten-Lords Commission is the sheath that reigns in our long lives, the yoke that binds itself to us, and the law by which our merits and sins are judged.
+VO_Archive_Jing_Yuan_Eidolon_Activation.ogg  ||  Those days were left behind with the passage of time.
+VO_Archive_Jing_Yuan_Character_Ascension.ogg  ||  I always keep my mind sharp, for the lives of the Cloud Knights hinge on my decisions.
+VO_Archive_Jing_Yuan_Max_Level_Reached.ogg  ||  When you want to go fast, go alone. When you want to go far, go together.
+VO_Archive_Jing_Yuan_Trace_Activation.ogg  ||  The sky is a chessboard, and the moves we make betwixt the stars forge a cosmic destiny.
+VO_Archive_Jing_Yuan_Added_to_Team_With_Yanqing.ogg  ||  Remember, Yanqing — think before you act.
+VO_Archive_Jing_Yuan_Added_to_Team_With_Fu_Xuan.ogg  ||  Give us an analysis of the situation, Master Diviner.
+VO_Archive_Jing_Yuan_Added_to_Team_With_Jingliu.ogg  ||  It's been a while... Master.
+VO_Archive_Jing_Yuan_Added_to_Team_With_Blade.ogg  ||  It isn't wise to put down the hammer and take up the sword.
+VO_Jing_Yuan_Battle_Begins_-_Weakness_Break_01.ogg  ||  A foregone conclusion.
+VO_Jing_Yuan_Battle_Begins_-_Danger_Alert_01.ogg  ||  A well-matched opponent.
+VO_Jing_Yuan_Turn_Begins_01.ogg  ||  Follow my charge.
+VO_Jing_Yuan_Turn_Begins_02.ogg  ||  There's no time to lose.
+VO_Jing_Yuan_Turn_Idling_01.ogg  ||  Bide your time, but don't waste it.
+VO_Jing_Yuan_Skill_01.ogg  ||  Conflict is pitiless!
+VO_Jing_Yuan_Skill_02.ogg  ||  Hear this thunder!
+VO_Jing_Yuan_Hit_by_Light_Attack_01.ogg  ||  Was that it?
+VO_Jing_Yuan_Hit_by_Heavy_Attack_01.ogg  ||  Trifling.
+VO_Jing_Yuan_Ultimate_-_Activate_01.ogg  ||  Time for the masterstroke.
+VO_Jing_Yuan_Ultimate_-_Unleash_01.ogg  ||  Radiant spirit, heed my word. Show no mercy!
+VO_Jing_Yuan_Downed_01.ogg  ||  Too long behind the lines...
+VO_Jing_Yuan_Return_to_Battle_01.ogg  ||  It's good to be back in the field.
+VO_Jing_Yuan_Health_Recovery_01.ogg  ||  A thousand thanks.
+VO_Jing_Yuan_Technique_01.ogg  ||  I command it.
+VO_Jing_Yuan_Battle_Won_01.ogg  ||  Battles are chess games — no two are alike.
+VO_Jing_Yuan_Treasure_Opening_01.ogg  ||  A diamond in the rough.
+Special:Upload?wpDestFile=VO_Jing_Yuan_Treasure_Opening_02.ogg  ||  Oh? A delightful surprise.
+VO_Jing_Yuan_Successful_Puzzle-Solving_01.ogg  ||  There was more than met the eye.
+VO_Jing_Yuan_Enemy_Target_Found_01.ogg  ||  When faced with an army, bide your time and time your attack.
+VO_Jing_Yuan_Returning_to_Town_01.ogg  ||  A few games of chess will while away the time.

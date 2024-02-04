@@ -1,0 +1,37 @@
+VO_KO_Archive_Arlan_1.ogg  ||  안녕, (Trailblazer). 난 우주정거장 「헤르타」 방위과의 책임자 아를란이라고 해. 우주정거장에서 지내는 동안 최선을 다해 네 안전을 지켜줄게
+VO_KO_Archive_Arlan_2.ogg  ||  씨앗섬의 새로운 맛, 말린 지렁이가 오늘 출시된대. 지금 가면 줄 안 서도 돼
+VO_KO_Archive_Arlan_3.ogg  ||  자기 전에 야채 혼합 주스를 한 잔 마시면 숙면에 도움이 돼. 난 오늘 야간 근무가 있어서 이만, 내일 봐
+VO_KO_Archive_Arlan_5.ogg  ||  「우주정거장의 『페피를 찾아라』 대회」는 시즌 9까지 개최됐어. 난… 우승을 연임하고 있고
+VO_KO_Archive_Arlan_4.ogg  ||  순찰할 땐 가능한 한 사람들의 눈에 띄지 않게 움직이는 편이야. 연구원들한테 방해도 안 되고, 그들이 업무에 몰두한 표정도 볼 수 있거든
+VO_KO_Archive_Arlan_6.ogg  ||  대검은 항상 청결을 유지해야 해
+VO_KO_Archive_Arlan_7.ogg  ||  휴대폰 케이스의 발송지가 우주정거장이랑 너무 멀리 떨어져 있어서 5천 개부터 배달이 가능하대…. 아냐, 아가씨한테는 말하지 말아 줘
+VO_KO_Archive_Arlan_10.ogg  ||  범용 도감에서 우주정거장에 수용된 대검 조각을 찾을 수 없어…. 분명 엄청 특별할 거야
+VO_KO_Archive_Arlan_11.ogg  ||  연구원들이 그러는데, 어떤 기물은 자발적으로 우주정거장에 왔대
+VO_KO_Archive_Arlan_8.ogg  ||  …이유는 잘 모르겠는데, 난 종종 아가씨를 화나게 만드는 거 같아
+VO_KO_Archive_Arlan_9.ogg  ||  난 다른 연구원들과는 달리, 헤르타 님의 추종자가 아냐. 하지만 헤르타 님은 그걸 알면서도 내가 이곳에서 일하는 걸 묵인해 주셨지
+VO_KO_Archive_Arlan_Eidolon_Activation.ogg  ||  지켜야 할 「집」이 생겼어
+VO_KO_Archive_Arlan_Character_Ascension.ogg  ||  어떤 상황에서도 방심은 금물이야
+VO_KO_Archive_Arlan_Max_Level_Reached.ogg  ||  이건 단계별 훈련 성과야…. 모두를 지키기 위해 더 노력하려고
+VO_KO_Archive_Arlan_Trace_Activation.ogg  ||  일상적인 훈련이라도 새로운 수확이 있을 거야
+VO_KO_Archive_Arlan_Added_to_Team_With_Asta.ogg  ||  아스타 아가씨, 전투는 저한테 맡기세요
+VO_KO_Archive_Arlan_Added_to_Team_With_Herta.ogg  ||  헤르타 님, 지… 지시를 내려주세요!
+VO_KO_Arlan_Battle_Begins_-_Weakness_Break_01.ogg  ||  말이 짧네
+VO_KO_Arlan_Battle_Begins_-_Danger_Alert_01.ogg  ||  뭐든 날 막을 수 없어
+VO_KO_Arlan_Turn_Begins_01.ogg  ||  싸워야 이기는 법
+VO_KO_Arlan_Turn_Begins_02.ogg  ||  아직 교훈도 못 배웠어?
+VO_KO_Arlan_Turn_Idling_01.ogg  ||  빨리 공세를 펼쳐야 해
+VO_KO_Arlan_Skill_01.ogg  ||  도와줄게
+VO_KO_Arlan_Skill_02.ogg  ||  그 입 닥쳐
+VO_KO_Arlan_Hit_by_Light_Attack_01.ogg  ||  어?
+VO_KO_Arlan_Hit_by_Heavy_Attack_01.ogg  ||  힘 좀 써봐
+VO_KO_Arlan_Ultimate_-_Activate_01.ogg  ||  이 정도 통증은 별거 아냐
+VO_KO_Arlan_Ultimate_-_Unleash_01.ogg  ||  너희의 고통은 배가 될 테다!
+VO_KO_Arlan_Downed_01.ogg  ||  모두를 지킬 수 없어……
+VO_KO_Arlan_Return_to_Battle_01.ogg  ||  살아야 계속 싸울 수 있지
+VO_KO_Arlan_Health_Recovery_01.ogg  ||  난 괜찮아…. 고마워
+VO_KO_Arlan_Technique_01.ogg  ||  거슬리네
+VO_KO_Arlan_Battle_Won_01.ogg  ||  이 힘은 아직 쓸모가 있어
+VO_KO_Arlan_Treasure_Opening_01.ogg  ||  그냥 가지고 있어
+VO_KO_Arlan_Successful_Puzzle-Solving_01.ogg  ||  끝났다
+VO_KO_Arlan_Enemy_Target_Found_01.ogg  ||  앞에 조심해
+VO_KO_Arlan_Returning_to_Town_01.ogg  ||  싸우지 않으면 뭘 할 수 있는데?

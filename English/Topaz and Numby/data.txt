@@ -1,0 +1,49 @@
+VO_Archive_Topaz_and_Numby_1.ogg  ||  Hello! Allow me to introduce myself. My name's Topaz — I work in the IPC's Strategic Investment Department. I've heard about the many great feats of the Nameless and the Astral Express — it's truly a pleasure to meet you. Oh, hehe, and this is my little second-in-command — Numby! Say hi to everyone, Numby!
+VO_Archive_Topaz_and_Numby_2.ogg  ||  Long time no see! How have you been? Clocking in a lot of overtime?
+VO_Archive_Topaz_and_Numby_3.ogg  ||  Ugh, why do they have to call me for such a trivial matter... Sorry, something just came up at work, I've got to get going!
+VO_Archive_Topaz_and_Numby_4.ogg  ||  How does that song go again? "The place you can't go back to is called home." Well, that might sound dramatic, but I really haven't been back home for a long time... and frankly, I don't want to.
+VO_Archive_Topaz_and_Numby_5.ogg  ||  Protecting the interests of the vast majority of people is the reason I chose this career path. The IPC has given me an excellent platform to pursue my goals... and for that, I have nothing to complain about.
+VO_Archive_Topaz_and_Numby_6.ogg  ||  There are so many tricks for dealing with people in the workplace that I can't even list them all. But I always believe that the most important part is to remain sincere — whether it's with coworkers or with customers. That's my bottom line.
+VO_Archive_Topaz_and_Numby_7.ogg  ||  Do you know what year it is? Who works for money these days? Money is a means, not an end. Work should make you happy... That's the most fundamental principle.
+VO_Archive_Topaz_and_Numby_8.ogg  ||  The vast starry sky, the billions of cute, magical critters... Even if only for them, I've gotta work hard.
+VO_Archive_Topaz_and_Numby_9.ogg  ||  The trouble with being too good at math is that everyone treats you like a human calculator. So yeah, that's why I rarely talk about my expertise in that area.
+VO_Archive_Topaz_and_Numby_10.ogg  ||  I used to think creatures from different ecosystems would be incapable of living together, so I divided my home into different ecological zones, but now... Look! Look how well these two are getting along! They're obviously from different planets, but they're best friends now! Isn't that amazing!?
+VO_Archive_Topaz_and_Numby_11.ogg  ||  Every family has its problems, this I understand. But if everyone were to stop repaying their debts, the whole system would collapse... If that time comes, what was once thought of as a trivial matter would become a hardship for the world.
+VO_Archive_Topaz_and_Numby_18.ogg  ||  They've always liked shiny things — gold coins, gems, you name it. They're like a big fat investment account accruing interest... Guess I should've just named them "Piggy."
+VO_Archive_Topaz_and_Numby_12.ogg  ||  In the IPC — no — even just the Strategic Investment Department — there are plenty of unsavory characters I don't care for. They may be my colleagues, but we're not the same. Take Aventurine, for instance... I sincerely hope you never have to deal with him.
+VO_Archive_Topaz_and_Numby_13.ogg  ||  The supreme guardian of Belobog... Well, she's an impressive little girl well beyond her years in maturity... Huh? You're saying I'm about her age? No, no, no, totally different circumstances, no comparison at all...
+VO_Archive_Topaz_and_Numby_14.ogg  ||  I've heard about Himeko of the Astral Express — my colleagues were gossiping about how beautiful and knowledgeable she is. If I ever get the chance, I'd love to meet her.
+VO_Archive_Topaz_and_Numby_15.ogg  ||  The most mysterious character on the Astral Express is that conductor — the one who looks like a little creature... Their reputation precedes them. If they're as interesting as the rumors suggest, I'll definitely have to meet them sooner or later! And hopefully, I'll get to pet them too!
+VO_Archive_Topaz_and_Numby_16.ogg  ||  Lady Asta! Now that's a real lady if I ever saw one. You'll never guess just how wealthy she really is!
+VO_Archive_Topaz_and_Numby_17.ogg  ||  Stellaron Hunters? We aren't acquainted. Never worked with them on any projects. Supposedly those guys are hard to get in touch with, but they have an unexpectedly good credit record — which I value far more than any groundless conspiracy theories.
+VO_Archive_Topaz_and_Numby_Eidolon_Activation.ogg  ||  Looking bullish! Which is why we should keep a cool head.
+VO_Archive_Topaz_and_Numby_Character_Ascension.ogg  ||  Awesome! Let's ride the wave!
+VO_Archive_Topaz_and_Numby_Max_Level_Reached.ogg  ||  Don't be complacent — good investors always think long-term.
+VO_Archive_Topaz_and_Numby_Trace_Activation.ogg  ||  Nice to have in the portfolio.
+VO_Archive_Topaz_and_Numby_Added_to_Team_With_Himeko.ogg  ||  Himeko! I'm sure I can learn a lot from you.
+VO_Archive_Topaz_and_Numby_Added_to_Team_With_Bronya.ogg  ||  What's the latest, Bronya? Remember to rest — don't go taking after me.
+VO_Archive_Topaz_and_Numby_Added_to_Team_With_Asta.ogg  ||  Lady Asta! How's your mother been? We should hang out more!
+VO_Topaz_and_Numby_Battle_Begins_-_Weakness_Break_01.ogg  ||  It's a bull market.
+VO_Topaz_and_Numby_Battle_Begins_-_Danger_Alert_01.ogg  ||  Gotta know the risks...
+VO_Topaz_and_Numby_Turn_Begins_01.ogg  ||  Let the asset valuation begin.
+VO_Topaz_and_Numby_Turn_Begins_02.ogg  ||  Easy, Numby! Easy~
+VO_Topaz_and_Numby_Turn_Idling_01.ogg  ||  The market always fluctuates. Whenever you're ready~
+VO_Topaz_and_Numby_Basic_ATK_01.ogg  ||  Still no repayments?
+VO_Topaz_and_Numby_Skill_01.ogg  ||  Smash them up, Numby!
+VO_Topaz_and_Numby_Skill_02.ogg  ||  Liquidation!
+VO_Topaz_and_Numby_Skill_03.ogg  ||  (Enhanced) Don't forget the interest!
+VO_Topaz_and_Numby_Skill_04.ogg  ||  (Enhanced) Assets confiscated!
+VO_Topaz_and_Numby_Hit_by_Light_Attack_01.ogg  ||  Steady...
+VO_Topaz_and_Numby_Hit_by_Heavy_Attack_01.ogg  ||  Better cut our losses...
+VO_Topaz_and_Numby_Ultimate_-_Activate_01.ogg  ||  The market is unpredictable...
+VO_Topaz_and_Numby_Ultimate_-_Unleash_01.ogg  ||  Huh? Right! Investing in victory... means playing the long game!
+VO_Topaz_and_Numby_Downed_01.ogg  ||  Didn't file... leave application...
+VO_Topaz_and_Numby_Return_to_Battle_01.ogg  ||  *yawn* ...Time for overtime.
+VO_Topaz_and_Numby_Health_Recovery_01.ogg  ||  Pretty good perks~
+VO_Topaz_and_Numby_Battle_Won_01.ogg  ||  Project wrapped!
+VO_Topaz_and_Numby_Treasure_Opening_01.ogg  ||  Hard work pays off~
+Special:Upload?wpDestFile=VO_Topaz_and_Numby_Treasure_Opening_02.ogg  ||  Ooh, free stuff!
+VO_Topaz_and_Numby_Precious_Treasure_Opening_01.ogg  ||  A little extra for the quarterly bonus⁓
+VO_Topaz_and_Numby_Successful_Puzzle-Solving_01.ogg  ||  Just a little test.
+VO_Topaz_and_Numby_Enemy_Target_Found_01.ogg  ||  Hey, you! Time to check your books.
+VO_Topaz_and_Numby_Returning_to_Town_01.ogg  ||  Time for a break. Silent mode activated!

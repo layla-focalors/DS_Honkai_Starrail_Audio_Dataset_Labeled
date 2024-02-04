@@ -1,0 +1,61 @@
+VO_JA_Archive_Yukong_1.ogg  ||  こんにちは、「星穹列車」の客人。私は「羅浮」天舶司の
+御
+ギョ
+空
+クウ
+。ようこそ、仙舟へ。
+VO_JA_Archive_Yukong_2.ogg  ||  今日は出航日和ね、そうでしょう？
+VO_JA_Archive_Yukong_3.ogg  ||  この広い星の海、道は果てしなく続くでしょう。これからどこへ向かうにしても、どうか息災で。
+VO_JA_Archive_Yukong_4.ogg  ||  整備士に飛行士、軍備士、そして観星士…私は天舶司のすべての職に就いたことがあるの…はあ、あっという間に今に至ったわね。
+VO_JA_Archive_Yukong_5.ogg  ||  離陸から着陸まで終えて、初めて円満で完璧な飛行だったと言えるの。
+VO_JA_Archive_Yukong_6.ogg  ||  天舶司の現在と過去は、ただの「新旧」という関係じゃない…過去に起きた色々な出来事が、今日の飛躍に繋がっているのよ。
+VO_JA_Archive_Yukong_7.ogg  ||  私は雲を見るのが好きなの…あっ、つまり星雲の変化のことね。天舶司が制御している仙舟の空域も、星雲には瞬く間に消える跡しか残せない。星雲こそ、真の空の主よ。
+VO_JA_Archive_Yukong_8.ogg  ||  宇宙の星々に比べたら、私たちの命はカゲロウのように短い…仙舟が本当の勝利を掴む瞬間を、この目で見られるといいんだけど。
+VO_JA_Archive_Yukong_9.ogg  ||  歴史の中で、天舶司は12回「
+寿禍の王
+寿瘟禍祖
+」に立ち向かったことがある。そして3回も廃墟となってしまい、今もなお屹立しているわ。
+VO_JA_Archive_Yukong_10.ogg  ||  私は…死した太陽が放つ最後の光を見た。活性化した惑星が、血肉のように沸き立つ瞬間を見た。帝弓の司命の矢が光年先に飛び行く様を、流光天君の虹彩憶泡が火に燃え裂ける様を見た……
+VO_JA_Archive_Yukong_11.ogg  ||  ああ見えて、将軍様は仙舟の諸業務を心に留めているのよ。
+VO_JA_Archive_Yukong_12.ogg  ||  「剣」は長く箱にしまっておくと、鞘から抜いてほしいと鳴き始める…けど、一度でも抜いてしまえば、剣は血に染まるか、折れるかの結末しか迎えられないのよ……
+VO_JA_Archive_Yukong_13.ogg  ||  仙舟は武器を持つ勇ましい戦士を必要としているけど、彼女のように悠々と流れる水のような人も必要なの。
+VO_JA_Archive_Yukong_14.ogg  ||  無鉄砲だけど、熱意に溢れた子ね。ふふ、あの子を侮らないほうがいいわ。若い子は、その情熱だけで多くのことを成せるから。
+VO_JA_Archive_Yukong_15.ogg  ||  生まれながらにして「
+龍
+りゅう
+尊
+そん
+」とされているけれど、それは白露様の意思とは関係ない。でも、「
+啣
+かん
+薬
+やく
+の
+龍
+りゅう
+女
+じょ
+」という称号は、間違いなく彼女の卓越した医術に由来するものよ。
+VO_JA_Archive_Yukong_16.ogg  ||  その名前を口にしてはいけない…ずっと前から禁じられている言葉よ。
+VO_JA_Archive_Yukong_17.ogg  ||  晴霓は彼女の母親と同じように、自分の道を進んだだけ。だから、彼女には悔恨も苦痛もない…本当に悔しさを感じているのは、誰かしら……
+VO_JA_Yukong_Battle_Begins_-_Weakness_Break_01.ogg  ||  他愛ないわね。
+VO_JA_Yukong_Battle_Begins_-_Danger_Alert_01.ogg  ||  向かい風に怯まないで！
+VO_JA_Yukong_Turn_Begins_01.ogg  ||  飛行士の闘志が消えることはない。
+VO_JA_Yukong_Turn_Begins_02.ogg  ||  矢は番えた。
+VO_JA_Yukong_Turn_Idling_01.ogg  ||  時機は一瞬で過ぎ去る、躊躇しないように。
+VO_JA_Yukong_Basic_ATK_01.ogg  ||  見てなさい。
+VO_JA_Yukong_Skill_01.ogg  ||  この勢い、疾風の如し！
+VO_JA_Yukong_Skill_02.ogg  ||  この意気、高空を衝く！
+VO_JA_Yukong_Hit_by_Light_Attack_01.ogg  ||  大したことないわ。
+VO_JA_Yukong_Hit_by_Heavy_Attack_01.ogg  ||  気をつけて！
+VO_JA_Yukong_Ultimate_-_Activate_01.ogg  ||  風が吹き、雲鳶は留まる。
+VO_JA_Yukong_Ultimate_-_Unleash_01.ogg  ||  この一本の矢で、十分！
+VO_JA_Yukong_Downed_01.ogg  ||  合わせる顔がない…
+VO_JA_Yukong_Return_to_Battle_01.ogg  ||  まだ戦いは終わってない。
+VO_JA_Yukong_Health_Recovery_01.ogg  ||  ありがとう、相棒。
+VO_JA_Yukong_Technique_01.ogg  ||  速い者が勝つ。
+VO_JA_Yukong_Battle_Won_01.ogg  ||  みんなが無事でよかったわ。
+VO_JA_Yukong_Treasure_Opening_01.ogg  ||  なかなかの収穫ね。
+VO_JA_Yukong_Successful_Puzzle-Solving_01.ogg  ||  特筆すべき手間はなかったわ。
+VO_JA_Yukong_Enemy_Target_Found_01.ogg  ||  強敵よ、用心して。
+VO_JA_Yukong_Returning_to_Town_01.ogg  ||  今日は…忙しい日になりそうね。

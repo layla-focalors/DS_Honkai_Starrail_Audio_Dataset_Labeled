@@ -1,0 +1,39 @@
+VO_Archive_Silver_Wolf_1.ogg  ||  Hey, (Trailblazer), you seem pretty cool. That Stellaron hasn't affected you at all?
+VO_Archive_Silver_Wolf_2.ogg  ||  You're online today too?
+VO_Archive_Silver_Wolf_3.ogg  ||  Done everything you needed to? Good, don't want to climb into bed only to realize you forgot to finish your dailies. Bye-bye.
+VO_Archive_Silver_Wolf_6.ogg  ||  It's the same as my screen name. Isn't yours, (Trailblazer)?
+VO_Archive_Silver_Wolf_4.ogg  ||  *sigh* I wish this universe had a few more things to do. Don't you get bored running across the map every day?
+VO_Archive_Silver_Wolf_5.ogg  ||  Prometheus is equipped with four modules — "friend" is the most talkative... "Friends are fated — a toast to our friendship!"
+VO_Archive_Silver_Wolf_7.ogg  ||  Burying my head under a pillow for a siesta, and pinching cute things.
+VO_Archive_Silver_Wolf_8.ogg  ||  Nobody gets to open an alt account, not even Elio.
+VO_Archive_Silver_Wolf_11.ogg  ||  When I hacked into the space station, I thought I may as well make some changes to Screwllum's portrait... but I changed it back in the end.
+VO_Archive_Silver_Wolf_12.ogg  ||  My favorite games always update on the same day. Do you think it's deliberate?
+VO_Archive_Silver_Wolf_9.ogg  ||  Ignoring the rules is something Kafka and I have in common.
+VO_Archive_Silver_Wolf_10.ogg  ||  He said he'd game with me once his hand healed up, but it seems like it still isn't any better.
+VO_Archive_Silver_Wolf_13.ogg  ||  It is always me that has to make the first move... That guy never loses his cool, does he?
+VO_Archive_Silver_Wolf_Eidolon_Activation.ogg  ||  Could've done it using console commands.
+VO_Archive_Silver_Wolf_Character_Ascension.ogg  ||  Gaming is a full-time pursuit.
+VO_Archive_Silver_Wolf_Max_Level_Reached.ogg  ||  Maxed out? Time for the endgame.
+VO_Archive_Silver_Wolf_Trace_Activation.ogg  ||  Stop worrying about the stats — have some fun!
+VO_Archive_Silver_Wolf_Added_to_Team_With_Kafka.ogg  ||  Hey Kafka, can I go off-script this time?
+VO_Archive_Silver_Wolf_Added_to_Team_With_Blade.ogg  ||  ...You gonna say something? Chat's enabled, y'know.
+VO_Silver_Wolf_Battle_Begins_-_Weakness_Break_01.ogg  ||  You took the bait just like that?
+VO_Silver_Wolf_Battle_Begins_-_Danger_Alert_01.ogg  ||  Might be trickier to crack.
+VO_Silver_Wolf_Turn_Begins_01.ogg  ||  Can you let me have some fun this time?
+VO_Silver_Wolf_Turn_Begins_02.ogg  ||  Huh, more enemies.
+VO_Silver_Wolf_Turn_Idling_01.ogg  ||  ...I've got a raid to get to — let's finish this.
+VO_Silver_Wolf_Skill_01.ogg  ||  Time for a buzz.
+VO_Silver_Wolf_Hit_by_Light_Attack_01.ogg  ||  Huh?
+VO_Silver_Wolf_Hit_by_Heavy_Attack_01.ogg  ||  Bad news.
+VO_Silver_Wolf_Ultimate_-_Activate_01.ogg  ||  This combat needs optimizing.
+VO_Silver_Wolf_Ultimate_-_Unleash_01.ogg  ||  Hmph, at this speed? Too slow!
+VO_Silver_Wolf_Downed_01.ogg  ||  I...
+VO_Silver_Wolf_Return_to_Battle_01.ogg  ||  Nice. Rematch.
+VO_Silver_Wolf_Health_Recovery_01.ogg  ||  Good as new.
+VO_Silver_Wolf_Technique_01.ogg  ||  100% Break.
+VO_Silver_Wolf_Battle_Won_01.ogg  ||  Nice, let's do it again when you're leveled up.
+VO_Silver_Wolf_Treasure_Opening_01.ogg  ||  Is that it? *sigh* Stingy chest.
+Special:Upload?wpDestFile=VO_Silver_Wolf_Treasure_Opening_02.ogg  ||  Wow, what an amazingly ordinary find!
+VO_Silver_Wolf_Successful_Puzzle-Solving_01.ogg  ||  Is it always the same mechanics?
+VO_Silver_Wolf_Enemy_Target_Found_01.ogg  ||  Ready when you are.
+VO_Silver_Wolf_Returning_to_Town_01.ogg  ||  Time to log off... I mean, ah, head back.

@@ -1,0 +1,36 @@
+VO_KO_Archive_Seele_1.ogg  ||  안녕, 난 제레야. 벨로보그 하층 구역 「와일드 파이어」의 멤버기도 하지. 함께 하층 구역의 미래를 지켜볼래?
+VO_KO_Archive_Seele_2.ogg  ||  마침 잘 왔어, 순찰을 시작하자
+VO_KO_Archive_Seele_3.ogg  ||  어이, 서서 잘 기센데? 여긴 내가 있으니까 버티지 말고 얼른 가서 쉬어
+VO_KO_Archive_Seele_5.ogg  ||  어린 시절? 후크 10명 정도의 파괴력이 있었달까?
+VO_KO_Archive_Seele_4.ogg  ||  지하에서 생활해도 우린 결코 이 도시에 묻히지 않아
+VO_KO_Archive_Seele_6.ogg  ||  잘 벼린 낫을 베개 옆에 놓고 자면 한 시름이 놓여
+VO_KO_Archive_Seele_7.ogg  ||  고민이랄 것까진 없는데… 진료소에 소장해 둔 최애 만화책을 아이들이 전부 빌려 가버렸어…
+VO_KO_Archive_Seele_15.ogg  ||  두목 말이 맞아, 말이 안 통하는 녀석한테는 무기가 최고지
+VO_KO_Archive_Seele_16.ogg  ||  네가 말했던 그 폼폼이라는 녀석은 말을 할 줄 아는 천 인형 같던데, 음… 한 번 만나볼 수 있을까?
+VO_KO_Archive_Seele_8.ogg  ||  배짱을 부려봤자 나타한텐 아무런 소용이 없다는 걸 일찌감치 깨달았지. 나타는 의사니까… 널 「처리」할 수 있는 방법도 많아
+VO_KO_Archive_Seele_9.ogg  ||  그 녀석은 사람들이랑 대화하는 걸 그닥 좋아하지 않더라고, 하지만… 우릴 배척하는 게 아니라는 건 알아
+VO_KO_Archive_Seele_10.ogg  ||  스바로그는 「인류는 끝없는 전쟁을 즐긴다」라는 말을 입에 달고 살아. 근데 양보만 한다고 평화가 오겠어?
+VO_KO_Archive_Seele_11.ogg  ||  일 처리는 괜찮게 하는데, 그 녀석을 친구로 삼는 건 스스로를 괴롭히는 일이야
+VO_KO_Archive_Seele_12.ogg  ||  온종일 돌아다니면서 노느라 정신없긴 한데, 언젠간 정말 큰일을 해낼지도 모르지
+VO_KO_Archive_Seele_13.ogg  ||  두목이 없었다면 지금의 나도 없었을 거야
+VO_KO_Archive_Seele_14.ogg  ||  우리 둘 다 처음으로 벨로보그의 진짜 하늘을 봤어…. 같은 하늘을 말이야
+VO_KO_Archive_Seele_17.ogg  ||  내 승부욕이 강하다고? 하, 그건 네가 루카를 못 봐서 그래
+VO_KO_Seele_Battle_Begins_-_Weakness_Break_01.ogg  ||  내가 두렵구나?
+VO_KO_Seele_Battle_Begins_-_Danger_Alert_01.ogg  ||  성가신 녀석
+VO_KO_Seele_Turn_Begins_01.ogg  ||  성가시네
+VO_KO_Seele_Turn_Begins_03.ogg  ||  날 건드리지 마
+VO_KO_Seele_Turn_Idling_01.ogg  ||  빨리 몸 좀 풀어보자고
+VO_KO_Seele_Basic_ATK_02.ogg  ||  다음
+VO_KO_Seele_Hit_by_Light_Attack_05.ogg  ||  쳇
+VO_KO_Seele_Hit_by_Heavy_Attack_05.ogg  ||  이 정도쯤이야
+VO_KO_Seele_Ultimate_-_Activate_01.ogg  ||  이걸로 널 해방해주지
+VO_KO_Seele_Ultimate_-_Unleash_01.ogg  ||  나비와 함께 흩어져라, 과거의 환영이여
+VO_KO_Seele_Talent_01.ogg  ||  금방 널 즐겁게 해주지
+VO_KO_Seele_Downed_02.ogg  ||  난…… 아직이야………
+VO_KO_Seele_Return_to_Battle_01.ogg  ||  아직 안 끝났어
+VO_KO_Seele_Health_Recovery_01.ogg  ||  덕분에 살았어
+VO_KO_Seele_Battle_Won_01.ogg  ||  목표가 있어야 낫을 더 빨리 휘두를 수 있어
+VO_KO_Seele_Treasure_Opening_01.ogg  ||  헛수고는 아니었네
+VO_KO_Seele_Successful_Puzzle-Solving_01.ogg  ||  나름 괜찮은걸
+VO_KO_Seele_Enemy_Target_Found_01.ogg  ||  전방에 적이야. 싸워, 말아?
+VO_KO_Seele_Returning_to_Town_01.ogg  ||  넌 쉬어, 내가 먼저 보초를 설 테니 번갈아 서자

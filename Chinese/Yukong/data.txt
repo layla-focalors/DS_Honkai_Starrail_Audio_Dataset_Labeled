@@ -1,0 +1,76 @@
+VO_ZH_Archive_Yukong_1.ogg  ||  你好，「星穹列车」的客人，我是「罗浮」天舶司的驭空，欢迎来到仙舟做客。
+VO_ZH_Archive_Yukong_2.ogg  ||  是个出航的好日子，不是么？
+VO_ZH_Archive_Yukong_3.ogg  ||  星海迢迢，道阻且长，无论去往何处，请多多保重。
+VO_ZH_Archive_Yukong_4.ogg  ||  从维护员到飞行士，还有武备士和观星士，天舶司的每个岗位我都待过…一晃眼，就到现在了。
+VO_ZH_Archive_Yukong_5.ogg  ||  从起飞开始，于降落结束，才称得上是圆满、完整的飞行。
+VO_ZH_Archive_Yukong_6.ogg  ||  天舶司的现在与过去，并非「新旧」之间的简单关系，过去的种种造就了它今日的腾飞。
+VO_ZH_Archive_Yukong_7.ogg  ||  我喜欢观云…哦，我是指星云的变化。天舶司统筹仙舟空域，也不过是在其上划下转瞬消逝的痕迹罢了。星云，才是天空真正的主人。
+VO_ZH_Archive_Yukong_8.ogg  ||  相较寰宇众星，我们的生命不过是蜉蝣一般短暂…我多希望能见到仙舟真正凯旋的那天。
+VO_ZH_Archive_Yukong_9.ogg  ||  我见过死去的太阳放射最后的光芒，也见过活化的星球沸腾涌动，犹如血肉。我甚至见过帝弓司命的光矢飞抵光年之外，流光天君的虹彩忆泡在火中碎裂……
+VO_ZH_Archive_Yukong_10.ogg  ||  天舶司的历史上十二次面对『寿瘟祸祖』，三次毁为废墟，而今依然屹立。
+VO_ZH_Archive_Yukong_11.ogg  ||  别看将军平时漫不经心，仙舟各项事务他心中自有斟酌。
+VO_ZH_Archive_Yukong_12.ogg  ||  「剑」之为物，若是久藏匣中，便会鸣动着请求出鞘…可一旦出鞘，不是血染战场，便是剑折锋摧的结局……
+VO_ZH_Archive_Yukong_13.ogg  ||  仙舟需要手持干戈的雄赳武夫，也要依赖她这样游弋自如的无常之水。
+VO_ZH_Archive_Yukong_14.ogg  ||  莽莽撞撞是真，满腔热诚也是真。别小看她，年轻时光凭这股劲，便能完成很多事。
+VO_ZH_Archive_Yukong_15.ogg  ||  虽然白露生来便被奉为「龙尊」，同她自身的意愿无关，但「衔药龙女」的称号，确确实实是由于她精湛的医术而得的。
+VO_ZH_Archive_Yukong_16.ogg  ||  你不该提这个名字…它早就是禁语了。
+VO_ZH_Archive_Yukong_17.ogg  ||  和她母亲一样，晴霓选择了自己向往的道路，没有什么可遗憾与痛苦的…感到遗憾的人，究竟是谁呢……
+VO_ZH_Archive_Yukong_1.ogg  ||  
+VO_ZH_Archive_Yukong_2.ogg  ||  
+VO_ZH_Archive_Yukong_3.ogg  ||  
+VO_ZH_Archive_Yukong_4.ogg  ||  
+VO_ZH_Archive_Yukong_5.ogg  ||  
+VO_ZH_Archive_Yukong_6.ogg  ||  
+VO_ZH_Archive_Yukong_7.ogg  ||  
+VO_ZH_Archive_Yukong_8.ogg  ||  
+VO_ZH_Archive_Yukong_9.ogg  ||  
+VO_ZH_Archive_Yukong_10.ogg  ||  
+VO_ZH_Archive_Yukong_11.ogg  ||  
+VO_ZH_Archive_Yukong_12.ogg  ||  
+VO_ZH_Archive_Yukong_13.ogg  ||  
+VO_ZH_Archive_Yukong_14.ogg  ||  
+VO_ZH_Archive_Yukong_15.ogg  ||  
+VO_ZH_Archive_Yukong_16.ogg  ||  
+VO_ZH_Archive_Yukong_17.ogg  ||  
+VO_ZH_Yukong_Battle_Begins_-_Weakness_Break_01.ogg  ||  手到擒来。
+VO_ZH_Yukong_Battle_Begins_-_Danger_Alert_01.ogg  ||  迎风而上吧！
+VO_ZH_Yukong_Turn_Begins_01.ogg  ||  飞行士的斗志，从未熄灭。
+VO_ZH_Yukong_Turn_Begins_02.ogg  ||  如箭在弦。
+VO_ZH_Yukong_Turn_Idling_01.ogg  ||  时机转瞬即逝，请勿踌躇。
+VO_ZH_Yukong_Basic_ATK_01.ogg  ||  看好了。
+VO_ZH_Yukong_Skill_01.ogg  ||  势如疾风！
+VO_ZH_Yukong_Skill_02.ogg  ||  气冲云霄！
+VO_ZH_Yukong_Hit_by_Light_Attack_01.ogg  ||  并无大碍。
+VO_ZH_Yukong_Hit_by_Heavy_Attack_01.ogg  ||  啧…各位小心！
+VO_ZH_Yukong_Ultimate_-_Activate_01.ogg  ||  风起，云鸢就位。
+VO_ZH_Yukong_Ultimate_-_Unleash_01.ogg  ||  只此，一箭！
+VO_ZH_Yukong_Downed_01.ogg  ||  我无颜面对……
+VO_ZH_Yukong_Return_to_Battle_01.ogg  ||  干戈未止。
+VO_ZH_Yukong_Health_Recovery_01.ogg  ||  谢了，搭档。
+VO_ZH_Yukong_Technique_01.ogg  ||  疾走先得。
+VO_ZH_Yukong_Battle_Won_01.ogg  ||  大家平安归来就好。
+VO_ZH_Yukong_Treasure_Opening_01.ogg  ||  收获不少。
+VO_ZH_Yukong_Successful_Puzzle-Solving_01.ogg  ||  小小麻烦，不值一提。
+VO_ZH_Yukong_Enemy_Target_Found_01.ogg  ||  对待劲敌，不可掉以轻心。
+VO_ZH_Yukong_Returning_to_Town_01.ogg  ||  今天…会是繁忙的一天么。
+VO_ZH_Yukong_Battle_Begins_-_Weakness_Break_01.ogg  ||  
+VO_ZH_Yukong_Battle_Begins_-_Danger_Alert_01.ogg  ||  
+VO_ZH_Yukong_Turn_Begins_01.ogg  ||  
+VO_ZH_Yukong_Turn_Begins_02.ogg  ||  
+VO_ZH_Yukong_Turn_Idling_01.ogg  ||  
+VO_ZH_Yukong_Basic_ATK_01.ogg  ||  
+VO_ZH_Yukong_Skill_01.ogg  ||  
+VO_ZH_Yukong_Skill_02.ogg  ||  
+VO_ZH_Yukong_Hit_by_Light_Attack_01.ogg  ||  
+VO_ZH_Yukong_Hit_by_Heavy_Attack_01.ogg  ||  
+VO_ZH_Yukong_Ultimate_-_Activate_01.ogg  ||  
+VO_ZH_Yukong_Ultimate_-_Unleash_01.ogg  ||  
+VO_ZH_Yukong_Downed_01.ogg  ||  
+VO_ZH_Yukong_Return_to_Battle_01.ogg  ||  
+VO_ZH_Yukong_Health_Recovery_01.ogg  ||  
+VO_ZH_Yukong_Technique_01.ogg  ||  
+VO_ZH_Yukong_Battle_Won_01.ogg  ||  
+VO_ZH_Yukong_Treasure_Opening_01.ogg  ||  
+VO_ZH_Yukong_Successful_Puzzle-Solving_01.ogg  ||  
+VO_ZH_Yukong_Enemy_Target_Found_01.ogg  ||  
+VO_ZH_Yukong_Returning_to_Town_01.ogg  ||  

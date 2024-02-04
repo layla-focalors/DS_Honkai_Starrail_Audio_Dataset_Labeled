@@ -1,0 +1,49 @@
+VO_Archive_Blade_1.ogg  ||  (Trailblazer)... I don't know you. Consider that a good thing.
+VO_Archive_Blade_2.ogg  ||  Back again...? The fate of those I remember is never a good one.
+VO_Archive_Blade_3.ogg  ||  Go. When the mara strikes, you don't want to be next to me.
+VO_Archive_Blade_4.ogg  ||  To whittle oneself away, to tear your enemies apart — that is the power of a blade.
+VO_Archive_Blade_5.ogg  ||  We are all mara-stricken in different ways, but my situation is unusual. Although the mara haunts me, memories of it seldom cross my mind, be they of remorse, hatred, fear, or reflection.
+VO_Archive_Blade_6.ogg  ||  When the mara strikes... I become something else.
+VO_Archive_Blade_7.ogg  ||  By banding together, we reach our goals.
+VO_Archive_Blade_8.ogg  ||  The hope that "this will be the last time" always vanishes in bitter healing of the flesh.
+VO_Archive_Blade_9.ogg  ||  Of five people, three must pay a price... These words are carved into my every wound...
+VO_Archive_Blade_10.ogg  ||  Only in the brief moments of its wielding can a blade truly disappear.
+VO_Archive_Blade_11.ogg  ||  When will death come for me? My patience is wearing thin.
+VO_Archive_Blade_12.ogg  ||  There are countless weapons sharper than mine, but after a thousand clashes, what does it matter?
+VO_Archive_Blade_13.ogg  ||  The dead know no fear.
+VO_Archive_Blade_14.ogg  ||  The mara's tether is firmly in her grasp. She will not pull upon it before the designated time, but nor shall she relinquish it.
+VO_Archive_Blade_16.ogg  ||  Within that world she calls a "game," she will never give up, nor yield to death.
+VO_Archive_Blade_17.ogg  ||  He always... He always understood the price better than any of us, yet he never spoke up — never did anything!
+VO_Archive_Blade_18.ogg  ||  Imbibitor Lunae... When will our retribution come? How can our debt be repaid?
+VO_Archive_Blade_19.ogg  ||  As she brandished her sword, phantom pain surged through every part of my body... all because of her!
+VO_Archive_Blade_Eidolon_Activation.ogg  ||  Life itself is punishment.
+VO_Archive_Blade_Character_Ascension.ogg  ||  There is no shortcut to destruction.
+VO_Archive_Blade_Max_Level_Reached.ogg  ||  ...Tell me this is the end.
+VO_Archive_Blade_Trace_Activation.ogg  ||  One of the lesser sufferings I've endured.
+VO_Archive_Blade_Added_to_Team_With_Kafka.ogg  ||  Those who can't bury us, are waiting to be buried, Kafka.
+VO_Archive_Blade_Added_to_Team_With_Silver_Wolf.ogg  ||  I don't understand your games and tricks, but suit yourself.
+VO_Archive_Blade_Added_to_Team_With_Jingliu.ogg  ||  Jingliu... witness my every move, my suffering.
+VO_Archive_Blade_Added_to_Team_With_Jing_Yuan.ogg  ||  Your new-found enthusiasm is amusing, Jing Yuan.
+VO_Archive_Blade_Added_to_Team_With_Dan_Heng.ogg  ||  Need me to watch your back?
+VO_Blade_Battle_Begins_-_Weakness_Break_01.ogg  ||  You impede me.
+VO_Blade_Battle_Begins_-_Danger_Alert_01.ogg  ||  What surprises do you hold?
+VO_Blade_Turn_Begins_01.ogg  ||  I will dispatch you by my sword.
+VO_Blade_Turn_Begins_02.ogg  ||  A blade's edge knows no mercy.
+VO_Blade_Turn_Idling_01.ogg  ||  Waiting drains one's vigor.
+VO_Blade_Enhanced_Basic_ATK_01.ogg  ||  Make good... the loss!
+VO_Blade_Skill_01.ogg  ||  The fight... is set!
+VO_Blade_Skill_02.ogg  ||  Your end... approaches!
+VO_Blade_Hit_by_Light_Attack_01.ogg  ||  Too little...
+VO_Blade_Hit_by_Heavy_Attack_01.ogg  ||  Well timed.
+VO_Blade_Ultimate_-_Activate_01.ogg  ||  That paradise may be unreachable for me ...
+VO_Blade_Ultimate_-_Unleash_01.ogg  ||  Savor it in my place... Hmph!
+VO_Blade_Talent_01.ogg  ||  A vale... to send you!
+VO_Blade_Downed_01.ogg  ||  Is there a chance...?
+VO_Blade_Return_to_Battle_01.ogg  ||  I live? *sigh*
+VO_Blade_Health_Recovery_01.ogg  ||  Unnecessary.
+VO_Blade_Battle_Won_01.ogg  ||  This sword needs sharpening.
+VO_Blade_Treasure_Opening_01.ogg  ||  That's all.
+VO_Blade_Precious_Treasure_Opening_01.ogg  ||  Take them.
+VO_Blade_Successful_Puzzle-Solving_01.ogg  ||  Done.
+VO_Blade_Enemy_Target_Found_01.ogg  ||  We can get closer.
+VO_Blade_Returning_to_Town_01.ogg  ||  Are there other matters?

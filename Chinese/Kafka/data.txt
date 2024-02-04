@@ -1,0 +1,81 @@
+VO_ZH_Archive_Kafka_1.ogg  ||  嗨，列车团…嗯，你们逮住我啦。
+VO_ZH_Archive_Kafka_2.ogg  ||  近乎无限长的时间，近乎无限广的空间，而我们同时出现在一处。「命运」就是这样，创造奇迹的同时，让你以为只是偶然。
+VO_ZH_Archive_Kafka_3.ogg  ||  拜拜，(Trailblazer)，下一次试着让我意外吧。
+VO_ZH_Archive_Kafka_6.ogg  ||  加入星核猎手前，由于工作的缘故，我很少见到一个人两次。
+VO_ZH_Archive_Kafka_4.ogg  ||  艾利欧说我擅长制造「恐惧」，即使我对它一无所知。
+VO_ZH_Archive_Kafka_5.ogg  ||  拉小提琴和开枪同样考验手指的灵活度，只是子弹更听话。
+VO_ZH_Archive_Kafka_7.ogg  ||  我尤其钟爱丝绒质地的大衣，脆弱而美丽，很难保养，稍有不慎便有损它的光泽。
+VO_ZH_Archive_Kafka_8.ogg  ||  过去与未来如此相似，我却对此无动于衷。
+VO_ZH_Archive_Kafka_11.ogg  ||  有一颗星球，每到夏天，我都会去那里看海。那时海潮最为汹涌，只能远远地站在岸边。直到某一年，他们在海上架起了长长的观景栈道，我便再也没去过。
+VO_ZH_Archive_Kafka_12.ogg  ||  被「星核」改变的世界…我的故乡也是其中之一。可惜了，没有亲眼见证那个时代是如何堕落的。
+VO_ZH_Archive_Kafka_9.ogg  ||  我喜欢和银狼聊天，她人小小的，想法却很多。
+VO_ZH_Archive_Kafka_10.ogg  ||  阿刃…人如其名，他的战斗总是让人赏心悦目。
+VO_ZH_Archive_Kafka_Eidolon_Activation.ogg  ||  没有人能读懂另一个人…就连你我也不例外。
+VO_ZH_Archive_Kafka_Character_Ascension.ogg  ||  倘若命运无法将我推动，便由我来推动它。
+VO_ZH_Archive_Kafka_Max_Level_Reached.ogg  ||  唉…一旦停下来，就很难继续了哦？
+VO_ZH_Archive_Kafka_Trace_Activation.ogg  ||  一步、两步…迈向「未来」的路，就在脚下。
+Special:Upload?wpDestFile=VO_ZH_Archive_Kafka_Added_to_Team_With_(Trailblazer).ogg  ||  嗨，(Trailblazer)，又见面啦。
+VO_ZH_Archive_Kafka_Added_to_Team_With_Silver_Wolf.ogg  ||  银狼，需要我配合，不用提前说，来段即兴演奏吧。
+VO_ZH_Archive_Kafka_Added_to_Team_With_Blade.ogg  ||  阿刃，准备好迎接「狩猎」了么？
+VO_ZH_Archive_Kafka_Added_to_Team_With_Himeko.ogg  ||  嗨，星穹列车。我们携手作战的机会，看来不少呢。
+VO_ZH_Archive_Kafka_1.ogg  ||  
+VO_ZH_Archive_Kafka_2.ogg  ||  
+VO_ZH_Archive_Kafka_3.ogg  ||  
+VO_ZH_Archive_Kafka_6.ogg  ||  
+VO_ZH_Archive_Kafka_4.ogg  ||  
+VO_ZH_Archive_Kafka_5.ogg  ||  
+VO_ZH_Archive_Kafka_7.ogg  ||  
+VO_ZH_Archive_Kafka_8.ogg  ||  
+VO_ZH_Archive_Kafka_11.ogg  ||  
+VO_ZH_Archive_Kafka_12.ogg  ||  
+VO_ZH_Archive_Kafka_9.ogg  ||  
+VO_ZH_Archive_Kafka_10.ogg  ||  
+VO_ZH_Archive_Kafka_Eidolon_Activation.ogg  ||  
+VO_ZH_Archive_Kafka_Character_Ascension.ogg  ||  
+VO_ZH_Archive_Kafka_Max_Level_Reached.ogg  ||  
+VO_ZH_Archive_Kafka_Trace_Activation.ogg  ||  
+VO_ZH_Archive_Kafka_Added_to_Team_With_Silver_Wolf.ogg  ||  
+VO_ZH_Archive_Kafka_Added_to_Team_With_Blade.ogg  ||  
+VO_ZH_Archive_Kafka_Added_to_Team_With_Himeko.ogg  ||  
+VO_ZH_Kafka_Battle_Begins_-_Weakness_Break_01.ogg  ||  猎物落网啰。
+VO_ZH_Kafka_Battle_Begins_-_Danger_Alert_01.ogg  ||  来得好。
+VO_ZH_Kafka_Turn_Begins_01.ogg  ||  索性都干掉吧~
+VO_ZH_Kafka_Turn_Idling_01.ogg  ||  该动手啦。
+VO_ZH_Kafka_Basic_ATK_01.ogg  ||  很快就好。
+VO_ZH_Kafka_Hit_by_Light_Attack_01.ogg  ||  不痛啊。
+VO_ZH_Kafka_Hit_by_Heavy_Attack_01.ogg  ||  有点意思。
+VO_ZH_Kafka_Ultimate_-_Activate_01.ogg  ||  美妙的时光总有尽头。
+VO_ZH_Kafka_Ultimate_-_Unleash_01.ogg  ||  该说再见了…
+VO_ZH_Kafka_Talent_01.ogg  ||  放轻松。
+VO_ZH_Kafka_Talent_02.ogg  ||  站好了。
+VO_ZH_Kafka_Downed_01.ogg  ||  这还…不是结局。
+VO_ZH_Kafka_Return_to_Battle_01.ogg  ||  哦~我还活着呢。
+VO_ZH_Kafka_Health_Recovery_01.ogg  ||  谢谢，你是个好人。
+VO_ZH_Kafka_Technique_01.ogg  ||  这样会痛么？
+VO_ZH_Kafka_Battle_Won_01.ogg  ||  躯体皆因脆弱而美丽。
+VO_ZH_Kafka_Treasure_Opening_01.ogg  ||  能用。
+VO_ZH_Kafka_Precious_Treasure_Opening_01.ogg  ||  喜欢么？我也喜欢。
+VO_ZH_Kafka_Successful_Puzzle-Solving_01.ogg  ||  做得不错。
+VO_ZH_Kafka_Enemy_Target_Found_01.ogg  ||  嗯？看他们蠢蠢欲动的样子……
+VO_ZH_Kafka_Returning_to_Town_01.ogg  ||  哎，大衣脏了，有些难办。
+VO_ZH_Kafka_Battle_Begins_-_Weakness_Break_01.ogg  ||  
+VO_ZH_Kafka_Battle_Begins_-_Danger_Alert_01.ogg  ||  
+VO_ZH_Kafka_Turn_Begins_01.ogg  ||  
+VO_ZH_Kafka_Turn_Idling_01.ogg  ||  
+VO_ZH_Kafka_Basic_ATK_01.ogg  ||  
+VO_ZH_Kafka_Hit_by_Light_Attack_01.ogg  ||  
+VO_ZH_Kafka_Hit_by_Heavy_Attack_01.ogg  ||  
+VO_ZH_Kafka_Ultimate_-_Activate_01.ogg  ||  
+VO_ZH_Kafka_Ultimate_-_Unleash_01.ogg  ||  
+VO_ZH_Kafka_Talent_01.ogg  ||  
+VO_ZH_Kafka_Talent_02.ogg  ||  
+VO_ZH_Kafka_Downed_01.ogg  ||  
+VO_ZH_Kafka_Return_to_Battle_01.ogg  ||  
+VO_ZH_Kafka_Health_Recovery_01.ogg  ||  
+VO_ZH_Kafka_Technique_01.ogg  ||  
+VO_ZH_Kafka_Battle_Won_01.ogg  ||  
+VO_ZH_Kafka_Treasure_Opening_01.ogg  ||  
+VO_ZH_Kafka_Precious_Treasure_Opening_01.ogg  ||  
+VO_ZH_Kafka_Successful_Puzzle-Solving_01.ogg  ||  
+VO_ZH_Kafka_Enemy_Target_Found_01.ogg  ||  
+VO_ZH_Kafka_Returning_to_Town_01.ogg  ||  

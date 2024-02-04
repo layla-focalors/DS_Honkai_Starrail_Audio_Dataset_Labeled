@@ -1,0 +1,47 @@
+VO_KO_Archive_Luocha_1.ogg  ||  전 이곳을 지나는 행상입니다. 「나찰」이라고 불러주시지요
+VO_KO_Archive_Luocha_2.ogg  ||  일찍 일어나 출발하려고 합니다. 어젠 잘 주무셨나요?
+VO_KO_Archive_Luocha_3.ogg  ||  일찍 쉬시지요. 이곳은 제가 지키겠습니다
+VO_KO_Archive_Luocha_4.ogg  ||  행상은 타지에서 의지할 것이 없으니, 스스로 헤쳐 나갈 방법을 알면 조금이나마 든든하죠
+VO_KO_Archive_Luocha_5.ogg  ||  관이 이목을 끌어준 덕분에 행상인 제가 많은 신세를 졌습니다. 모두 이 관에 호기심을 갖고 저에게 물어오는데, 일문일답으로 거래가 성사되죠
+VO_KO_Archive_Luocha_6.ogg  ||  각지의 특색과 풍습은 언제나 읽었던 것과 달라서 그 차이를 찾는 게 재밌답니다
+VO_KO_Archive_Luocha_7.ogg  ||  곤란한 일에 휘말린다면, 솔직한 생각보단 자기에게 어울리는 역할을 찾는 게 중요하죠…. 휴, 경험에서 우러나온 말입니다
+VO_KO_Archive_Luocha_8.ogg  ||  꽃의 의미는 꽃잎이나 향기, 뿌린 씨앗에 있는 게 아니라 꽃이 피는 시기에 있어요
+VO_KO_Archive_Luocha_9.ogg  ||  선주 사람들이 젊음을 유지하는 비법에 대해 익히 들었는데, 직접 보니 역시 거짓이 아니더군요. 다만 그 비밀을 지키기 위해 은하 구석에 숨어 지내는 건, 보물이 가득한 산에 살면서도 취하지 않는 것과 같죠…. 아쉽네요, 아쉬워
+VO_KO_Archive_Luocha_10.ogg  ||  장군은 사람의 마음을 잘 꿰뚫어 보시고, 「감춤」과 「드러냄」에 능통하시죠. 장군이 뭔가를 「드러내려고」 할 땐 조심해야 합니다
+VO_KO_Archive_Luocha_11.ogg  ||  아, 장군 옆에 있는 민첩한 공자 말인가요? 기억이 잘 안 나네요……
+VO_KO_Archive_Luocha_13.ogg  ||  어공 님처럼 자신이 은하 속 먼지에 불과하다는 사실을 깨닫는 사람은 드물죠…. 존경스럽습니다
+VO_KO_Archive_Luocha_14.ogg  ||  정운 아가씨가 뭐라고 하든, 듣는 사람은 흘려들을 수 없습니다. 여우족의 말솜씨는 최대한 많이 활용해야죠. 안 그런가요?
+VO_KO_Archive_Luocha_15.ogg  ||  아주 친절한 아가씨죠. 다시 선주에 오면 차 한잔 하며 이야기 좀 들려달라는데… 이야기는 오래 걸릴 테니, 잘 모르겠네요
+VO_KO_Archive_Luocha_17.ogg  ||  그녀가 마음에 품고 있는 검은 천지를 가른 지 오래입니다. 그런 힘을 지녔으니 그녀도 더 이상 일개 검객은 아니죠
+VO_KO_Archive_Luocha_Eidolon_Activation.ogg  ||  별빛 아래 새로운 일이랄 게 어딨겠습니까. 하지만 덕분에 새로운 깨달음을 얻었네요
+VO_KO_Archive_Luocha_Character_Ascension.ogg  ||  씨앗이 꽃으로 피기까진 시간과 인내심이 필요한 법이죠
+VO_KO_Archive_Luocha_Max_Level_Reached.ogg  ||  인간의 삶은 보잘것없지만, 신의 영원함과 완벽함보다 더 큰 기쁨을 주죠
+VO_KO_Archive_Luocha_Trace_Activation.ogg  ||  과거는 반복되는 법. 하나 제 발걸음을 멈출 순 없죠
+VO_KO_Archive_Luocha_Added_to_Team_With_Sushang.ogg  ||  소상 씨, 제가 전투에는 익숙하지 않은 편이니 잘 부탁드려요
+VO_KO_Archive_Luocha_Added_to_Team_With_Jing_Yuan.ogg  ||  장군. 제가 실력을 보이길 원하십니까, 아니면 숨기길 원하실까요?
+VO_KO_Archive_Luocha_Added_to_Team_With_Jingliu.ogg  ||  당신이 검을 뽑을 정도의 상대라면, 만만치 않겠군요
+VO_KO_Archive_Luocha_Added_to_Team_With_Dan_Heng.ogg  ||  이번에도 한동안 동행하겠네요
+VO_KO_Archive_Luocha_Added_to_Team_With_Blade.ogg  ||  아쉽지만, 불사의 몸을 가진 당신이 추구하는 장례는 이뤄드릴 수가 없을 것 같군요
+VO_KO_Luocha_Battle_Begins_-_Weakness_Break_01.ogg  ||  이제 청산할 시간이군
+VO_KO_Luocha_Battle_Begins_-_Danger_Alert_01.ogg  ||  방심은 금물
+VO_KO_Luocha_Turn_Begins_01.ogg  ||  아쉽지만 상대를 잘못 골랐어
+VO_KO_Luocha_Turn_Begins_02.ogg  ||  가는 길을 배웅해 주지
+VO_KO_Luocha_Turn_Idling_01.ogg  ||  뭘 망설이는 거죠?
+VO_KO_Luocha_Basic_ATK_01.ogg  ||  후훗
+VO_KO_Luocha_Skill_01.ogg  ||  백화여… 만개하라!
+VO_KO_Luocha_Skill_02.ogg  ||  천명을 받아라!
+VO_KO_Luocha_Hit_by_Light_Attack_01.ogg  ||  나름 괜찮네
+VO_KO_Luocha_Hit_by_Heavy_Attack_01.ogg  ||  과소평가했군
+VO_KO_Luocha_Ultimate_-_Activate_01.ogg  ||  죽음은 끝이 아니지……
+VO_KO_Luocha_Ultimate_-_Unleash_01.ogg  ||  망자의 재림!
+VO_KO_Luocha_Talent_01.ogg  ||  빼앗긴 건 반드시 갚겠다!
+VO_KO_Luocha_Downed_01.ogg  ||  못다… 이뤘군……
+VO_KO_Luocha_Return_to_Battle_01.ogg  ||  자, 돌아왔잖아요
+VO_KO_Luocha_Health_Recovery_01.ogg  ||  많이 좋아졌어요
+VO_KO_Luocha_Technique_01.ogg  ||  지켜보죠
+VO_KO_Luocha_Battle_Won_01.ogg  ||  즉흥적이었을 뿐이에요
+VO_KO_Luocha_Treasure_Opening_01.ogg  ||  맘에 들면 가지세요
+Special:Upload?wpDestFile=VO_KO_Luocha_Treasure_Opening_02.ogg  ||  수집 또한 일종의 취미랍니다
+VO_KO_Luocha_Successful_Puzzle-Solving_01.ogg  ||  알량한 잔꾀일 뿐이죠
+VO_KO_Luocha_Enemy_Target_Found_01.ogg  ||  강적이군요. 제가 있으니 원하는 대로 하세요
+VO_KO_Luocha_Returning_to_Town_01.ogg  ||  세간을 떠도는 삶, 발붙일 곳이 어디 있겠어요?

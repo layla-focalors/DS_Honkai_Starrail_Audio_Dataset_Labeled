@@ -1,0 +1,101 @@
+VO_ZH_Archive_Jing_Yuan_1.ogg  ||  我是「罗浮」云骑将军景元。不必拘谨，「将军」只是一时的身份，你称呼我景元便可。
+VO_ZH_Archive_Jing_Yuan_2.ogg  ||  来了呀，若是有什么旅行异闻，也同我讲讲吧。
+VO_ZH_Archive_Jing_Yuan_3.ogg  ||  嗯，你好好休息…我还有些要务处理，恕不能远送。
+VO_ZH_Archive_Jing_Yuan_4.ogg  ||  昔日仇敌或死或擒，故交好友风流云散。这么想来，我确确实实已是个「老人」了…
+VO_ZH_Archive_Jing_Yuan_5.ogg  ||  善弈者无通盘妙手，人们会为一子妙手力挽狂澜而喜，却不为大局危倾而忧。
+VO_ZH_Archive_Jing_Yuan_6.ogg  ||  或许外来者习惯将「罗浮」简称为仙舟，但…「罗浮」不等于仙舟，「罗浮」就是「罗浮」。
+VO_ZH_Archive_Jing_Yuan_7.ogg  ||  闭目养神。随着时间流逝，这越发不是件易事。
+VO_ZH_Archive_Jing_Yuan_8.ogg  ||  我平生最怕麻烦，麻烦不只分大小，还分远近。如何布局谋划，还得劳神费力哪……
+VO_ZH_Archive_Jing_Yuan_9.ogg  ||  这尊威灵唤作「神霄雷府总司驱雷掣电追魔扫秽天君」。是从古书里看来的称谓，只是名字太长不好记，便掐头去尾简称为「神…君」。
+VO_ZH_Archive_Jing_Yuan_10.ogg  ||  我受俗务羁扰多年，不仅对周遭事物见怪不怪，人也变得无趣。一定要说有什么见闻，便是遇见你这般云游天外之人吧。
+VO_ZH_Archive_Jing_Yuan_11.ogg  ||  你若当他是个孩子，他便会端起大人的架子来。你若当他是个大人，他又会露出小孩子的脾性来。
+VO_ZH_Archive_Jing_Yuan_12.ogg  ||  符卿的心思我明白，所以还得多让她等一等，她要是有耐心等下去，便到时机了。
+VO_ZH_Archive_Jing_Yuan_13.ogg  ||  人人都当驭空司舵是退休了…殊不知她在放下最热爱的飞行后，选择了另一条更艰难的道路。
+VO_ZH_Archive_Jing_Yuan_14.ogg  ||  正是像停云小姐这样的接渡使往来周旋，仙舟的贸易才能有如今的繁盛。
+VO_ZH_Archive_Jing_Yuan_15.ogg  ||  我也见过不少行商，但你不觉得，像他这般不急于做成生意的行商并不多么？
+VO_ZH_Archive_Jing_Yuan_16.ogg  ||  无忧无虑的云骑新人哪…我也有过这样的日子，虽然已经过去很久了。
+VO_ZH_Archive_Jing_Yuan_17.ogg  ||  持明族的尊长不好当啊…希望她这一世一切安好。
+VO_ZH_Archive_Jing_Yuan_18.ogg  ||  她教我研习剑技，却始终未能与我亲近一些…但无边的夜色中，哪有比始终当空的明月更亲近人的存在呢？
+VO_ZH_Archive_Jing_Yuan_19.ogg  ||  如果他什么都不记得，对我来说会更容易一些。
+VO_ZH_Archive_Jing_Yuan_20.ogg  ||  我明白，我想追寻的身影…已经不在了，只在我的回忆里。这对「他」来说，是件好事。
+VO_ZH_Archive_Jing_Yuan_21.ogg  ||  游云天君的虹车再度启程，诸界连通在即，这对联盟是个好消息。但星轨通畅后，原本困于一隅的妖邪祟物又会如何异动呢？…唉，他日再头疼吧。
+VO_ZH_Archive_Jing_Yuan_22.ogg  ||  若无剑鞘，剑不过是伤人的凶器罢了。十王司便是收敛长生的鞘，自缚于身的枷，评断我等功罪的刑典。
+VO_ZH_Archive_Jing_Yuan_Eidolon_Activation.ogg  ||  那些岁月，犹如无可追挽的幻光。
+VO_ZH_Archive_Jing_Yuan_Character_Ascension.ogg  ||  身为将军，麾下云骑以命相托，不可有一日懈怠。
+VO_ZH_Archive_Jing_Yuan_Max_Level_Reached.ogg  ||  个人之力终有极限，路到尽头便要另寻他法。
+VO_ZH_Archive_Jing_Yuan_Trace_Activation.ogg  ||  寰宇方圆，星罗棋布，每一手都是抉择，而抉择铸就命运。
+VO_ZH_Archive_Jing_Yuan_Added_to_Team_With_Yanqing.ogg  ||  彦卿，要切记，不可躁进。
+VO_ZH_Archive_Jing_Yuan_Added_to_Team_With_Fu_Xuan.ogg  ||  敌阵进退，仰赖符卿卜测了。
+VO_ZH_Archive_Jing_Yuan_Added_to_Team_With_Jingliu.ogg  ||  许久不见…恩师。
+VO_ZH_Archive_Jing_Yuan_Added_to_Team_With_Blade.ogg  ||  我从未料到你会弃砧习剑…唉，可惜断剑难续，业途难返。
+VO_ZH_Archive_Jing_Yuan_1.ogg  ||  
+VO_ZH_Archive_Jing_Yuan_2.ogg  ||  
+VO_ZH_Archive_Jing_Yuan_3.ogg  ||  
+VO_ZH_Archive_Jing_Yuan_4.ogg  ||  
+VO_ZH_Archive_Jing_Yuan_5.ogg  ||  
+VO_ZH_Archive_Jing_Yuan_6.ogg  ||  
+VO_ZH_Archive_Jing_Yuan_7.ogg  ||  
+VO_ZH_Archive_Jing_Yuan_8.ogg  ||  
+VO_ZH_Archive_Jing_Yuan_9.ogg  ||  
+VO_ZH_Archive_Jing_Yuan_10.ogg  ||  
+VO_ZH_Archive_Jing_Yuan_11.ogg  ||  
+VO_ZH_Archive_Jing_Yuan_12.ogg  ||  
+VO_ZH_Archive_Jing_Yuan_13.ogg  ||  
+VO_ZH_Archive_Jing_Yuan_14.ogg  ||  
+VO_ZH_Archive_Jing_Yuan_15.ogg  ||  
+VO_ZH_Archive_Jing_Yuan_16.ogg  ||  
+VO_ZH_Archive_Jing_Yuan_17.ogg  ||  
+VO_ZH_Archive_Jing_Yuan_18.ogg  ||  
+VO_ZH_Archive_Jing_Yuan_19.ogg  ||  
+VO_ZH_Archive_Jing_Yuan_20.ogg  ||  
+VO_ZH_Archive_Jing_Yuan_21.ogg  ||  
+VO_ZH_Archive_Jing_Yuan_22.ogg  ||  
+VO_ZH_Archive_Jing_Yuan_Eidolon_Activation.ogg  ||  
+VO_ZH_Archive_Jing_Yuan_Character_Ascension.ogg  ||  
+VO_ZH_Archive_Jing_Yuan_Max_Level_Reached.ogg  ||  
+VO_ZH_Archive_Jing_Yuan_Trace_Activation.ogg  ||  
+VO_ZH_Archive_Jing_Yuan_Added_to_Team_With_Yanqing.ogg  ||  
+VO_ZH_Archive_Jing_Yuan_Added_to_Team_With_Fu_Xuan.ogg  ||  
+VO_ZH_Archive_Jing_Yuan_Added_to_Team_With_Jingliu.ogg  ||  
+VO_ZH_Archive_Jing_Yuan_Added_to_Team_With_Blade.ogg  ||  
+VO_ZH_Jing_Yuan_Battle_Begins_-_Weakness_Break_01.ogg  ||  破绽百出。
+VO_ZH_Jing_Yuan_Battle_Begins_-_Danger_Alert_01.ogg  ||  看来是棋逢对手。
+VO_ZH_Jing_Yuan_Turn_Begins_01.ogg  ||  随我冲阵。
+VO_ZH_Jing_Yuan_Turn_Begins_02.ogg  ||  时不我待。
+VO_ZH_Jing_Yuan_Turn_Idling_01.ogg  ||  兵家待时而动，可别一动不动啊。
+VO_ZH_Jing_Yuan_Skill_01.ogg  ||  兵戈，无情！
+VO_ZH_Jing_Yuan_Skill_02.ogg  ||  雷霆，在此！
+VO_ZH_Jing_Yuan_Hit_by_Light_Attack_01.ogg  ||  不打紧。
+VO_ZH_Jing_Yuan_Hit_by_Heavy_Attack_01.ogg  ||  区区小伤。
+VO_ZH_Jing_Yuan_Ultimate_-_Activate_01.ogg  ||  该出奇兵了。
+VO_ZH_Jing_Yuan_Ultimate_-_Unleash_01.ogg  ||  煌煌威灵，遵吾敕命。斩无赦！
+VO_ZH_Jing_Yuan_Downed_01.ogg  ||  久疏战阵了…
+VO_ZH_Jing_Yuan_Return_to_Battle_01.ogg  ||  重回战场，感觉不错。
+VO_ZH_Jing_Yuan_Health_Recovery_01.ogg  ||  多谢。
+VO_ZH_Jing_Yuan_Technique_01.ogg  ||  急如律令。
+VO_ZH_Jing_Yuan_Battle_Won_01.ogg  ||  战事如棋，局局新啊。
+VO_ZH_Jing_Yuan_Treasure_Opening_01.ogg  ||  明珠蒙尘。
+Special:Upload?wpDestFile=VO_ZH_Jing_Yuan_Treasure_Opening_02.ogg  ||  哦？不错不错。
+VO_ZH_Jing_Yuan_Successful_Puzzle-Solving_01.ogg  ||  原来有如此玄机。
+VO_ZH_Jing_Yuan_Enemy_Target_Found_01.ogg  ||  临军对阵，持重待机便可。
+VO_ZH_Jing_Yuan_Returning_to_Town_01.ogg  ||  若是闲来无事，还可对弈几局。
+VO_ZH_Jing_Yuan_Battle_Begins_-_Weakness_Break_01.ogg  ||  
+VO_ZH_Jing_Yuan_Battle_Begins_-_Danger_Alert_01.ogg  ||  
+VO_ZH_Jing_Yuan_Turn_Begins_01.ogg  ||  
+VO_ZH_Jing_Yuan_Turn_Begins_02.ogg  ||  
+VO_ZH_Jing_Yuan_Turn_Idling_01.ogg  ||  
+VO_ZH_Jing_Yuan_Skill_01.ogg  ||  
+VO_ZH_Jing_Yuan_Skill_02.ogg  ||  
+VO_ZH_Jing_Yuan_Hit_by_Light_Attack_01.ogg  ||  
+VO_ZH_Jing_Yuan_Hit_by_Heavy_Attack_01.ogg  ||  
+VO_ZH_Jing_Yuan_Ultimate_-_Activate_01.ogg  ||  
+VO_ZH_Jing_Yuan_Ultimate_-_Unleash_01.ogg  ||  
+VO_ZH_Jing_Yuan_Downed_01.ogg  ||  
+VO_ZH_Jing_Yuan_Return_to_Battle_01.ogg  ||  
+VO_ZH_Jing_Yuan_Health_Recovery_01.ogg  ||  
+VO_ZH_Jing_Yuan_Technique_01.ogg  ||  
+VO_ZH_Jing_Yuan_Battle_Won_01.ogg  ||  
+VO_ZH_Jing_Yuan_Treasure_Opening_01.ogg  ||  
+VO_ZH_Jing_Yuan_Successful_Puzzle-Solving_01.ogg  ||  
+VO_ZH_Jing_Yuan_Enemy_Target_Found_01.ogg  ||  
+VO_ZH_Jing_Yuan_Returning_to_Town_01.ogg  ||  

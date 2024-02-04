@@ -1,0 +1,46 @@
+VO_Archive_Dr._Ratio_1.ogg  ||  I am Dr. Ratio, a scholar and teacher of the Intelligentsia Guild, and one of the mediocres. If one day your brain shows symptoms of dullness, then please give the doctor a call.
+VO_Archive_Dr._Ratio_2.ogg  ||  You look distressed. Is something troubling you? If so, you can figure it out for yourself.
+VO_Archive_Dr._Ratio_3.ogg  ||  Another day has passed. If your problem still hasn't been solved, is it possible that the problem is you?
+VO_Archive_Dr._Ratio_4.ogg  ||  First, with the headpiece on, isolated from my five senses, I can think without interference. And second, I don't have to set eyes on stupid people. Of course, they don't want to see me either.
+VO_Archive_Dr._Ratio_5.ogg  ||  I don't mind revealing my true colors if it helps me teach students and treat patients. But in my experience, it's usually counterproductive.
+VO_Archive_Dr._Ratio_6.ogg  ||  The Intelligentsia Guild is often seen as a vendor of knowledge, but the right to set a price is always in the hands of the buyer. When someone is willing to listen to knowledge that is being disseminated and circulated, a price is created.
+VO_Archive_Dr._Ratio_7.ogg  ||  They dedicate themselves to truth... And it's right to say so — after all, everything they do is for the sake of Nous.
+VO_Archive_Dr._Ratio_8.ogg  ||  I can't stay away from books and bathtubs, especially the former. When one's head is stuffed with filth, one's body is no cleaner.
+VO_Archive_Dr._Ratio_9.ogg  ||  The most annoying thing about idiocy is that you can't explain it to an idiot.
+VO_Archive_Dr._Ratio_10.ogg  ||  Before you ask a question, why don't you consider whether the answer has already been determined? It is better for everyone if such questions are not asked.
+VO_Archive_Dr._Ratio_11.ogg  ||  The beauty of truth is that it never changes, even when no one understands it. Well, that's true for me, at least.
+VO_Archive_Dr._Ratio_12.ogg  ||  Herta is a quintessential genius — a natural wonder who sees no one as her equal. I have no doubt that she is talented, but I doubt whether her talent is always helpful to others.
+VO_Archive_Dr._Ratio_13.ogg  ||  In his field, Screwllum is trying to establish new laws. I prefer to call such a person a monarch, rather than a genius.
+VO_Archive_Dr._Ratio_14.ogg  ||  How many people have been fooled by her claim to fame as a hermetic genius? It seems to me that she wants to explore much more than just life. Just wait and see — the Genius Society member with all the real ambition is her.
+VO_Archive_Dr._Ratio_Eidolon_Activation.ogg  ||  Thought is the only means available through which to know ourselves.
+VO_Archive_Dr._Ratio_Character_Ascension.ogg  ||  The faster the progress, the greater the chance of errors.
+VO_Archive_Dr._Ratio_Max_Level_Reached.ogg  ||  If this day I have not gained the recognition of Nous, it stands to reason that I never will at any point in the future.
+VO_Archive_Dr._Ratio_Trace_Activation.ogg  ||  You may choose to do the same as everyone else, but you are bound to get a completely different result.
+VO_Archive_Dr._Ratio_Added_to_Team_With_Herta.ogg  ||  Can ordinary men still manage to believe in themselves under the scorn of a genius?
+VO_Archive_Dr._Ratio_Added_to_Team_With_Ruan_Mei.ogg  ||  Harnessing and tempering the instincts of life... you know more of such things than myself.
+VO_Dr._Ratio_Battle_Begins_-_Weakness_Break_01.ogg  ||  Call that defense?
+VO_Dr._Ratio_Battle_Begins_-_Danger_Alert_01.ogg  ||  Need I... teach someone a lesson?
+VO_Dr._Ratio_Turn_Begins_01.ogg  ||  I'm asking the questions.
+VO_Dr._Ratio_Turn_Begins_02.ogg  ||  Do you have answers?
+VO_Dr._Ratio_Turn_Idling_01.ogg  ||  No need to rush. Patience breeds success.
+VO_Dr._Ratio_Basic_ATK_01.ogg  ||  Think!
+VO_Dr._Ratio_Skill_01.ogg  ||  Let's test your knowledge.
+VO_Dr._Ratio_Skill_02.ogg  ||  Never stop thinking.
+VO_Dr._Ratio_Hit_by_Light_Attack_01.ogg  ||  Mediocre!
+VO_Dr._Ratio_Hit_by_Heavy_Attack_01.ogg  ||  You fool!
+VO_Dr._Ratio_Ultimate_-_Activate_01.ogg  ||  Esse est percipi...
+VO_Dr._Ratio_Ultimate_-_Unleash_01.ogg  ||  Knowledge is the measure of all things. It reveals truth... and falsehood.
+VO_Dr._Ratio_Talent_01.ogg  ||  Zero points... Next!
+VO_Dr._Ratio_Talent_02.ogg  ||  Fail... Get out!
+VO_Dr._Ratio_Downed_01.ogg  ||  Mere flesh...
+VO_Dr._Ratio_Return_to_Battle_01.ogg  ||  Well done... ten points.
+VO_Dr._Ratio_Health_Recovery_01.ogg  ||  Not bad... five points.
+VO_Dr._Ratio_Technique_01.ogg  ||  For the theater of the mediocre.
+VO_Dr._Ratio_Battle_Won_01.ogg  ||  Just as my calculations predicted.
+VO_Dr._Ratio_Treasure_Opening_01.ogg  ||  Since when were knowledge and wealth mutually exclusive?
+VO_Dr._Ratio_Treasure_Opening_02.ogg  ||  Wealth shouldn't be a hindrance to pursuit of truth.
+VO_Dr._Ratio_Precious_Treasure_Opening_01.ogg  ||  I accept, as would any man.
+VO_Dr._Ratio_Successful_Puzzle-Solving_01.ogg  ||  Hardly a work of genius...
+VO_Dr._Ratio_Successful_Puzzle-Solving_02.ogg  ||  An interesting test of intellect.
+VO_Dr._Ratio_Enemy_Target_Found_01.ogg  ||  You learn to know yourself before your enemy.
+VO_Dr._Ratio_Returning_to_Town_01.ogg  ||  Ready to squander the remainder of your days?

@@ -1,0 +1,38 @@
+VO_Archive_Serval_1.ogg  ||  Hi (Trailblazer), the name's Serval Landau, I'm a Belobog mechanic. Of course, that's really just what I do on the side — rock 'n' roll is my main occupation.
+VO_Archive_Serval_2.ogg  ||  Huh? You start work this early?
+VO_Archive_Serval_3.ogg  ||  Signing off now! Time to get some songwriting going~
+VO_Archive_Serval_6.ogg  ||  If we Landaus have one thing in common, it's that we're all stubborn in our own way.
+VO_Archive_Serval_4.ogg  ||  If you wanna make sure you don't burn yourself out or stifle your creativity, then don't push yourself too hard at work~
+VO_Archive_Serval_5.ogg  ||  Pela's got a lot on her plate — plus she also does volunteer work on the weekends sometimes. That's why we usually schedule Mechanical Fever's rehearsals at night.
+VO_Archive_Serval_7.ogg  ||  Since I do rock 'n' roll full-time, I'd say my hobby is... work? What's wrong with that?
+VO_Archive_Serval_8.ogg  ||  I always get people asking me how my workshop makes money when it's not trading. Use your brain! It doesn't!
+VO_Archive_Serval_14.ogg  ||  Mechanics, research, and music are all things I'm pretty good at, wouldn't you say? But I guess making money's not on the list...
+VO_Archive_Serval_15.ogg  ||  When Bronya becomes the supreme guardian, do you reckon she'll let me perform at Golden Theater? I'll re-arrange that "Supreme Guardian" stage show and make it a rock 'n' roll musical!
+VO_Archive_Serval_9.ogg  ||  If he paid more attention to his affairs, it'd save me a lot of headaches... I guess I do create a few headaches for him too... Maybe we're even.
+VO_Archive_Serval_10.ogg  ||  She's a flower-growing drummer and a great report writer. Name a more reliable girl. I'll wait.
+VO_Archive_Serval_11.ogg  ||  Bronya's a good kid — you can tell she learned a lot from Cocolia. *sigh* It's been a while since we saw each other. I miss her.
+VO_Archive_Serval_12.ogg  ||  The Cocolia I knew would sit on the roof and listen to my songs, but... not the supreme guardian.
+VO_Archive_Serval_13.ogg  ||  Hah, that guy. One of these days he's gonna get busted by my brother.
+VO_Archive_Serval_16.ogg  ||  Lynxy? ...She's more like me. Ah, don't tell my brother that, he hates hearing it.
+Special:Upload?wpDestFile=VO_Archive_Serval_17.ogg  ||  Rock 'n' roll might be my only true companion...
+VO_Serval_Battle_Begins_-_Weakness_Break_01.ogg  ||  Time for the main event.
+VO_Serval_Battle_Begins_-_Danger_Alert_01.ogg  ||  Here to crash the party?
+VO_Serval_Turn_Begins_01.ogg  ||  Pretty good crowd today.
+VO_Serval_Turn_Begins_02.ogg  ||  This song's just for you~
+VO_Serval_Turn_Idling_01.ogg  ||  The audience is waiting!
+VO_Serval_Basic_ATK_01.ogg  ||  Let's rock!
+VO_Serval_Skill_01.ogg  ||  Keep up with my tempo!
+VO_Serval_Skill_02.ogg  ||  Turn up the volume!
+VO_Serval_Hit_by_Light_Attack_01.ogg  ||  That's it?
+VO_Serval_Hit_by_Heavy_Attack_01.ogg  ||  Not bad.
+VO_Serval_Ultimate_-_Activate_01.ogg  ||  Ready to lose yourself?
+VO_Serval_Ultimate_-_Unleash_01.ogg  ||  Fight it or rock with it... my music conquers all!
+VO_Serval_Downed_01.ogg  ||  The show... must go on...
+VO_Serval_Return_to_Battle_01.ogg  ||  Time for an encore~
+VO_Serval_Health_Recovery_01.ogg  ||  Ah~ Ready to jam~
+VO_Serval_Technique_01.ogg  ||  Can't stop the rock!
+VO_Serval_Battle_Won_01.ogg  ||  The best is yet to come!
+VO_Serval_Treasure_Opening_01.ogg  ||  Wow, good stuff.
+VO_Serval_Successful_Puzzle-Solving_01.ogg  ||  I'm getting the hang of this.
+VO_Serval_Enemy_Target_Found_01.ogg  ||  Huh, these targets will make for good practice~
+VO_Serval_Returning_to_Town_01.ogg  ||  There's inspiration in every glance and every breeze.

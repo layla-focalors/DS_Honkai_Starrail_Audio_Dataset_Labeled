@@ -1,0 +1,42 @@
+VO_Archive_Clara_1_M.ogg  ||  Clara: Hello... I'm Clara. Wanna be in my family? ...Like Mr. Svarog?
+Svarog: As long as I'm here, (Trailblazer) is your family.
+VO_Archive_Clara_2.ogg  ||  Let's keep up the good work today!
+VO_Archive_Clara_3.ogg  ||  I'm getting sleepy — time for a nap on Mr. Svarog's arm. Are you coming?
+VO_Archive_Clara_5.ogg  ||  Memories are important. Even Mr. Svarog's calculations need to take them into account... I won't forget about you.
+VO_Archive_Clara_4.ogg  ||  One time when I was playing house, I asked Perkins to get the door, and someone actually came to visit!
+VO_Archive_Clara_6.ogg  ||  There are lots of interesting things stored in Mr. Svarog's memory bank, like... movies! It's like watching lots of people playing house together!
+VO_Archive_Clara_7.ogg  ||  It's hard to get Mr. Svarog to act out a movie with me — he only wants to play trees or rocks... I wanted him to be the dad...
+VO_Archive_Clara_12.ogg  ||  My robot friends can be rude sometimes, but deep down, they're kind and honest.
+VO_Archive_Clara_13.ogg  ||  When Mr. Svarog's sleeping, his body makes a noise. It sounds like... snoring~
+VO_Archive_Clara_8.ogg  ||  Natasha said I'm also a doctor — for my robot friends.
+VO_Archive_Clara_9.ogg  ||  I remember one time Miss Seele saw me trying to pull a component out of a crack in the rocks. She smashed the rocks with one hand and walked away before I had time to say thank you...
+VO_Archive_Clara_10.ogg  ||  Did you know Mr. Svarog's hands can turn into machines that dry my hair? Also, they can cut big stones and turn them into little tables and chairs...
+VO_Archive_Clara_11.ogg  ||  Hook invited me to join The Moles. I want to, but I think Mr. Svarog's too big to play hide and seek with us...
+VO_Archive_Clara_14.ogg  ||  Luka...? He's nice to people. I know he seems kinda impatient, but he's actually very caring.
+VO_Archive_Clara_16.ogg  ||  One day I'll grow up and protect everyone! Mm!
+VO_Archive_Clara_18.ogg  ||  Mr. Svarog has everything in his database.
+VO_Svarog_Battle_Begins_-_Weakness_Break_01.ogg  ||  Svarog: Threat index lowered.
+VO_Svarog_Battle_Begins_-_Danger_Alert_01.ogg  ||  Svarog: Threat index raised.
+VO_Clara_Turn_Begins_01.ogg  ||  Clara: I need to be brave...
+VO_Clara_Turn_Begins_02.ogg  ||  Clara: I—I'm not afraid of you!
+VO_Clara_Turn_Idling_01.ogg  ||  Clara: Time to do something...
+VO_Clara_Basic_ATK_01.ogg  ||  Clara: Be careful, Mr. Svarog!
+VO_Svarog_Basic_ATK_02.ogg  ||  Svarog: Eliminating threat.
+VO_Svarog_Skill_01.ogg  ||  Svarog: Hide.
+VO_Svarog_Skill_02.ogg  ||  Svarog: Commencing annihilation.
+VO_Clara_Hit_by_Light_Attack_01.ogg  ||  Svarog: Are you alright?
+Clara: I'm okay!
+VO_Clara_Hit_by_Heavy_Attack_01.ogg  ||  Clara: ...Ouch.
+VO_Clara_Ultimate_-_Activate_01.ogg  ||  Clara: I want to protect everyone, too...
+VO_Clara_Ultimate_-_Unleash_01.ogg  ||  Clara: Help me, Mr. Svarog!
+VO_Svarog_Talent_01.ogg  ||  Svarog: Stay back, Clara.
+VO_Svarog_Talent_02.ogg  ||  Svarog: As you command.
+VO_Clara_Downed_01.ogg  ||  Clara: Is everyone... okay...
+VO_Clara_Return_to_Battle_01.ogg  ||  Clara: I'm back.
+VO_Clara_Health_Recovery_01.ogg  ||  Clara: Thanks. I'll never forget you.
+VO_Clara_Technique_01.ogg  ||  Clara: Gah!
+VO_Clara_Battle_Won_01.ogg  ||  Clara: I hope I helped...
+VO_Clara_Treasure_Opening_01.ogg  ||  Clara: If you find any components... Can I have them?
+VO_Clara_Successful_Puzzle-Solving_01.ogg  ||  Clara: W—We did it!
+VO_Clara_Enemy_Target_Found_01.ogg  ||  Svarog: High threat target ahead.
+VO_Clara_Returning_to_Town_01.ogg  ||  Clara: Don't worry, Mr. Svarog. We'll be safe here.

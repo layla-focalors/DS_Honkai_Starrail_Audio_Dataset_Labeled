@@ -1,0 +1,43 @@
+VO_Archive_Sushang_1.ogg  ||  I'm Sushang, and I recently joined the Cloud Knights. Talk to me if you have any issues... but I don't know the Luofu very well either, hehe.
+VO_Archive_Sushang_2.ogg  ||  No need to be polite, I can help any— Huh? You're just here to say hello? You don't need my help?
+VO_Archive_Sushang_3.ogg  ||  Today was another day of being eager to help! I am very happy with myself. Time to rest!
+VO_Archive_Sushang_4.ogg  ||  "Be eager to help those in need. Do one good deed a day and reflect on oneself three times a day." — Those words will definitely appear in my biography one day and be remembered!
+VO_Archive_Sushang_5.ogg  ||  It's a family heirloom, and probably has a history? My Ma can swing it with just one hand, but I struggle even with two. Ah...
+VO_Archive_Sushang_6.ogg  ||  When I was a kid, I was mesmerized by the Foxian gents on the streets telling the stories of the Cloud Knight martyrs. If my Ma didn't drag me away, I would have listened to them all day!
+VO_Archive_Sushang_7.ogg  ||  All the Outworlders arriving at Xianzhou these days start their sentences with "There's an old saying in Xianzhou..." but a local like me can't think up any. How can this be...
+VO_Archive_Sushang_8.ogg  ||  *sigh* It's not easy being born in a military family. My Ma trained me in martial arts since I was a kid and I had to get up to spar with her before the crack of dawn. I'd get so exhausted in the morning that I always fell asleep in class. The teachers all called me Sleepy Sushang...
+VO_Archive_Sushang_9.ogg  ||  To hear a story on the Luofu is like a wish come true! After all, this is where High-Cloud Quintet became famous. All the expertise of Mr. Xiyan, the storyteller at the Sleepless Earl, is in this place.
+VO_Archive_Sushang_10.ogg  ||  The "Dozing General" of the Xianzhou Luofu... I've heard a lot about him, but I feel he doesn't do anything... He's not as good as the lady general from our Xianzhou Yaoqing.
+VO_Archive_Sushang_11.ogg  ||  He's so young, but a Cloud Knight Lieutenant already!? Could he have a Ma more strict than mine urging him on with swordplay?
+VO_Archive_Sushang_12.ogg  ||  I think about this every time I listen to Diviner Fu talk. We are both from Xianzhou, but are we really speaking the same language?
+VO_Archive_Sushang_13.ogg  ||  I've heard Cloud Knight veterans talk about the legend of the "Starfire Fox". As the best ace pilot in the Luofu, Madam Yukong's starskiff records remain unbeaten! I didn't expect her to talk in such a polite way when I met her~
+VO_Archive_Sushang_14.ogg  ||  I saw Tingyun in so many shops and just thought she was a customer who's always buying stuff... Then I heard all those shops are hers!
+VO_Archive_Sushang_15.ogg  ||  She's the girl playing in the games parlor, right? She must have played for years to be that good... With how good her skills are, it's almost a martial art for her.
+VO_Archive_Sushang_16.ogg  ||  That outsider looks weak, but is pretty brave. If he weren't on the Xianzhou and hadn't met me, he'd totally get robbed just for lugging such a huge case around.
+VO_Archive_Sushang_17.ogg  ||  Bailu... I—it's that Healer Lady. I heard that her crying can cure patients... that sounds impossible! But she is a Vidyadhara after all... for them, the more outrageous something is, the more possible it becomes.
+VO_Archive_Sushang_18.ogg  ||  "One sliver of moonlight, nine hundred lives" — in Mr. Xiyan's stories about Jingliu, I love this sentence the most. How come the Cloud Knights' records didn't say anything about such a swordmaster...?
+VO_Archive_Sushang_19.ogg  ||  I think Little Gui's talents would go unappreciated in a lot of settings... Being a street performer is her true calling!
+VO_Archive_Sushang_20.ogg  ||  She might be tougher than flesh and blood, but not being able to feel pain...? I don't think that's a good thing.
+VO_Archive_Sushang_21.ogg  ||  I don't know how exactly, but Huohuo manages to keep that Tail of hers in check, even though she's terrified of heliobi... It proves she's got some serious talent!
+VO_Archive_Sushang_22.ogg  ||  Seems like "Silent but Deadly" has caught the eye of a fair few heavy hitters. So does that mean he's a big fish, now? Maybe one day I'll get to hear his story.
+Special:Upload?wpDestFile=VO_Archive_Sushang_23.ogg  ||  Sooner or later, I'll make my mark in history!
+VO_Archive_Sushang_26.ogg  ||  One should always have dreams, you never know, they might actually come true one day!
+VO_Sushang_Battle_Begins_-_Weakness_Break_01.ogg  ||  No more playing nice!
+VO_Sushang_Battle_Begins_-_Danger_Alert_01.ogg  ||  So what? I won't surrender!
+VO_Sushang_Turn_Begins_01.ogg  ||  Let me through, or I'll go through you.
+VO_Sushang_Turn_Begins_02.ogg  ||  Hmph, wanna see what I can do?
+VO_Sushang_Turn_Idling_01.ogg  ||  How does it go again? He who strikes first...? Ugh, just get on with it!
+VO_Sushang_Basic_ATK_01.ogg  ||  You're not going anywhere!
+VO_Sushang_Skill_01.ogg  ||  Dodge this!
+VO_Sushang_Hit_by_Light_Attack_01.ogg  ||  Don't your hands hurt?
+VO_Sushang_Hit_by_Heavy_Attack_01.ogg  ||  Hey!
+VO_Sushang_Ultimate_-_Activate_01.ogg  ||  Take this — Shape of Taixu!
+VO_Sushang_Ultimate_-_Unleash_01.ogg  ||  Rise, phoenix!
+VO_Sushang_Downed_01.ogg  ||  A little... too much fun...
+VO_Sushang_Return_to_Battle_01.ogg  ||  Cloud Knight Sushang, reporting!
+VO_Sushang_Health_Recovery_01.ogg  ||  You're the best!
+VO_Sushang_Battle_Won_01.ogg  ||  Get it now? That's the power of the Cloud Knights!
+VO_Sushang_Treasure_Opening_01.ogg  ||  Wowww, look at that...
+VO_Sushang_Successful_Puzzle-Solving_01.ogg  ||  Piece of cake!
+VO_Sushang_Enemy_Target_Found_01.ogg  ||  Quick, let's make a sneak attack!
+VO_Sushang_Returning_to_Town_01.ogg  ||  It's so early! Let's look around!

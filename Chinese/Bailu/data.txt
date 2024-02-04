@@ -1,0 +1,76 @@
+VO_ZH_Archive_Bailu_1.ogg  ||  我是白露，丹鼎司的医士，来来，过来让我瞅瞅，你怎么回事，哪儿不舒服啦？
+VO_ZH_Archive_Bailu_2.ogg  ||  吃糖吗？不吃啊，那我吃啦。
+VO_ZH_Archive_Bailu_3.ogg  ||  啊，这就要回去了吗…再待一会儿，就一小会儿嘛！
+VO_ZH_Archive_Bailu_4.ogg  ||  我也算是龙吗？活动范围不出禁邸，一言一行都需符合族中规制。这样的生活…根本就是被养在鱼缸里的一条鱼吧？
+VO_ZH_Archive_Bailu_5.ogg  ||  午餐需讲究君臣相佐。烟熏肉堡两个，奶茶一杯，实是治疗心病、保持心情愉快的不二之选！
+VO_ZH_Archive_Bailu_6.ogg  ||  熟读医理，寻找药材，打开格局。没有什么是不能入药的，越是疑难杂症，越是要依靠不拘一格的药方才行~
+VO_ZH_Archive_Bailu_7.ogg  ||  世上只有一种顽疾我爱莫能助，就是…长·不·高…哼！
+VO_ZH_Archive_Bailu_8.ogg  ||  把头埋入水中，不过也就一方小小的天地，却感觉可以比平时更加自由地呼吸，超脱了水的边界……
+VO_ZH_Archive_Bailu_9.ogg  ||  听病人说，至味盛苑又出了新的甜品，叫「落九天」，那糖拔丝好长好长好长……可惜，我吃不到呀。
+VO_ZH_Archive_Bailu_10.ogg  ||  将军找我看病，大都是什么「眼睛困得睁不开」之类的病症，然后就问问我近况，稍坐一会儿便走，有时连药都不拿……
+VO_ZH_Archive_Bailu_11.ogg  ||  符太卜一加班，搭配明目药茶的糖粉库存总是火速告急…
+VO_ZH_Archive_Bailu_12.ogg  ||  驭空司舵…每每见我，总说自己已经放下过往了，但其实还是放不下吧。
+VO_ZH_Archive_Bailu_13.ogg  ||  停云小姐可以承受比一般人更激烈的按摩治疗手法，所以我从来不会对她「手」下留情~
+VO_ZH_Archive_Bailu_14.ogg  ||  哎呀，我就算足不出户，也可以听见她的声音，「急人所急，有求必应」——对吧？
+VO_ZH_Archive_Bailu_15.ogg  ||  我只恨没有早点结识「帝垣琼玉」的发明者…如此强身健脑的益智活动，理应发扬光大！
+VO_ZH_Archive_Bailu_16.ogg  ||  我翘家在长乐天玩儿时，老能碰上她和素裳来看诊。有几回是素裳扛着她来，有几回是她扛着素裳来，还有几回是她俩—块儿挂彩——原因嘛，都是表演事故。
+VO_ZH_Archive_Bailu_1.ogg  ||  
+VO_ZH_Archive_Bailu_2.ogg  ||  
+VO_ZH_Archive_Bailu_3.ogg  ||  
+VO_ZH_Archive_Bailu_4.ogg  ||  
+VO_ZH_Archive_Bailu_5.ogg  ||  
+VO_ZH_Archive_Bailu_6.ogg  ||  
+VO_ZH_Archive_Bailu_7.ogg  ||  
+VO_ZH_Archive_Bailu_8.ogg  ||  
+VO_ZH_Archive_Bailu_9.ogg  ||  
+VO_ZH_Archive_Bailu_10.ogg  ||  
+VO_ZH_Archive_Bailu_11.ogg  ||  
+VO_ZH_Archive_Bailu_12.ogg  ||  
+VO_ZH_Archive_Bailu_13.ogg  ||  
+VO_ZH_Archive_Bailu_14.ogg  ||  
+VO_ZH_Archive_Bailu_15.ogg  ||  
+VO_ZH_Archive_Bailu_16.ogg  ||  
+VO_ZH_Bailu_Battle_Begins_-_Weakness_Break_01.ogg  ||  你呀，看着有点儿虚。
+VO_ZH_Bailu_Battle_Begins_-_Danger_Alert_01.ogg  ||  凶巴巴的，小心上火。
+VO_ZH_Bailu_Turn_Begins_01.ogg  ||  哎哟你病得不轻啊！
+VO_ZH_Bailu_Turn_Begins_02.ogg  ||  让我来治治你~
+VO_ZH_Bailu_Turn_Idling_01.ogg  ||  既不说话又不动，我们都是木头人~
+VO_ZH_Bailu_Basic_ATK_01.ogg  ||  望、闻、问…踢！
+VO_ZH_Bailu_Skill_01.ogg  ||  乖乖~张嘴~
+VO_ZH_Bailu_Skill_02.ogg  ||  补补~身子~
+VO_ZH_Bailu_Hit_by_Light_Attack_01.ogg  ||  你欺负我！
+VO_ZH_Bailu_Hit_by_Heavy_Attack_01.ogg  ||  救命啊救命啊——
+VO_ZH_Bailu_Ultimate_-_Activate_01.ogg  ||  就让你们看看……
+VO_ZH_Bailu_Ultimate_-_Unleash_01.ogg  ||  这葫芦里卖的什么药！
+VO_ZH_Bailu_Talent_01.ogg  ||  我看还能抢救一下。
+VO_ZH_Bailu_Downed_01.ogg  ||  医不自医……
+VO_ZH_Bailu_Return_to_Battle_01.ogg  ||  我也不能放弃治疗~
+VO_ZH_Bailu_Health_Recovery_01.ogg  ||  疗效好！
+VO_ZH_Bailu_Technique_01.ogg  ||  要雨露均沾哦~
+VO_ZH_Bailu_Battle_Won_01.ogg  ||  嗯，不治已病，要治未病。
+VO_ZH_Bailu_Treasure_Opening_01.ogg  ||  能治病的就是良药~
+VO_ZH_Bailu_Successful_Puzzle-Solving_01.ogg  ||  还需辨疑去误呐。
+VO_ZH_Bailu_Enemy_Target_Found_01.ogg  ||  性命攸关，小心小心。
+VO_ZH_Bailu_Returning_to_Town_01.ogg  ||  在外头多待一会儿好不好？
+VO_ZH_Bailu_Battle_Begins_-_Weakness_Break_01.ogg  ||  
+VO_ZH_Bailu_Battle_Begins_-_Danger_Alert_01.ogg  ||  
+VO_ZH_Bailu_Turn_Begins_01.ogg  ||  
+VO_ZH_Bailu_Turn_Begins_02.ogg  ||  
+VO_ZH_Bailu_Turn_Idling_01.ogg  ||  
+VO_ZH_Bailu_Basic_ATK_01.ogg  ||  
+VO_ZH_Bailu_Skill_01.ogg  ||  
+VO_ZH_Bailu_Skill_02.ogg  ||  
+VO_ZH_Bailu_Hit_by_Light_Attack_01.ogg  ||  
+VO_ZH_Bailu_Hit_by_Heavy_Attack_01.ogg  ||  
+VO_ZH_Bailu_Ultimate_-_Activate_01.ogg  ||  
+VO_ZH_Bailu_Ultimate_-_Unleash_01.ogg  ||  
+VO_ZH_Bailu_Talent_01.ogg  ||  
+VO_ZH_Bailu_Downed_01.ogg  ||  
+VO_ZH_Bailu_Return_to_Battle_01.ogg  ||  
+VO_ZH_Bailu_Health_Recovery_01.ogg  ||  
+VO_ZH_Bailu_Technique_01.ogg  ||  
+VO_ZH_Bailu_Battle_Won_01.ogg  ||  
+VO_ZH_Bailu_Treasure_Opening_01.ogg  ||  
+VO_ZH_Bailu_Successful_Puzzle-Solving_01.ogg  ||  
+VO_ZH_Bailu_Enemy_Target_Found_01.ogg  ||  
+VO_ZH_Bailu_Returning_to_Town_01.ogg  ||  

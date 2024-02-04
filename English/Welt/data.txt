@@ -1,0 +1,45 @@
+VO_Archive_Welt_1.ogg  ||  Hi, I'm Welt Yang. If there's something you need help with, you can come find me anytime.
+VO_Archive_Welt_2.ogg  ||  Hm? Still half asleep? Don't force yourself. You should get some more rest.
+VO_Archive_Welt_3.ogg  ||  Can't sleep? I understand — inspiration always comes knocking in the small hours. It's hard to ignore, right?
+VO_Archive_Welt_5.ogg  ||  I was an animator for eight years — my life was pretty routine. I guess it was a little dull compared with adventuring, but work is a very worthwhile thing. It brings dreams to life.
+VO_Archive_Welt_6.ogg  ||  *sigh* It's a long story, and it involves a lot of people and incidents that everyone would like to forget about, haha. Best not to talk about it. In essence, I got lost in the universe, but was fortunate enough to come across Himeko driving the Express.
+VO_Archive_Welt_4.ogg  ||  Oh, there's a lot to say there. They only aired that series on my home world — I don't know if there's anywhere else in the universe that'd have it... I can use my mimicry power to show you a few episodes, but I can't guarantee the resolution.
+VO_Archive_Welt_7.ogg  ||  Researching history and producing animations... I'd say they go hand in hand.
+VO_Archive_Welt_8.ogg  ||  Y'know (Trailblazer), you remind me of the main character in a cartoon or something — you seem to attract companions out of thin air... *sigh* I hope you don't mind me saying that. It's just... it seems like my own chances of going on an adventure have plummeted again...
+VO_Archive_Welt_13.ogg  ||  My home was corroded by a force known as Honkai, but that hasn't stopped it from being a warm and beautiful world.
+VO_Archive_Welt_14.ogg  ||  Do you know how the followers of Qlipoth the Preservation became the Interastral Peace Corporation? The Aeon wanted to build a wall, and humanity started searching for building materials so they could follow in Qlipoth's footsteps... it's pretty funny when you think about it.
+VO_Archive_Welt_9.ogg  ||  March is curious about everything, and she's always getting me to do combat poses. She thinks I pull them off pretty well, apparently. You think so too? Hmm...
+VO_Archive_Welt_10.ogg  ||  He's safe. I know he has his doubts... but he's one of the crew now. Himeko and I won't let anyone harm him.
+VO_Archive_Welt_11.ogg  ||  Himeko's the kind of person that... gives off her own light. Even though we're traveling across the train's old route, you can see Himeko's dreams flashing before her eyes when you look at her. It's almost as if she's been on the train from the very beginning — always moving starward.
+VO_Archive_Welt_12.ogg  ||  Pom-Pom's always there to lend a helping hand, but I'd refrain from teasing them if I were you. The last person that did that...
+VO_Archive_Welt_15.ogg  ||  There is a quote I like very much that I would like to share with him: "The cosmos is vast beyond compare, containing an infinite number of possibilities. An individual's fate shouldn't be limited to a single path ordained by heaven."
+VO_Archive_Welt_Eidolon_Activation.ogg  ||  New adventures, new friends... Great, isn't it?
+VO_Archive_Welt_Character_Ascension.ogg  ||  The passion of yesteryear isn't all that returned...
+VO_Archive_Welt_Max_Level_Reached.ogg  ||  In the immense sea of stars, we too will leave our mark.
+VO_Archive_Welt_Trace_Activation.ogg  ||  After spending so much time with everyone, I feel like I'm starting to age backwards.
+VO_Archive_Welt_Added_to_Team_With_Himeko.ogg  ||  I don't often get the chance to fight alongside you, Himeko. It's time to show everyone what we can do.
+VO_Archive_Welt_Added_to_Team_With_Dan_Heng.ogg  ||  Having you here gives me peace of mind, Dan Heng. Still, best not to push yourself too hard.
+VO_Archive_Welt_Added_to_Team_With_March_7th.ogg  ||  Youthful energy is a good thing... but I'd appreciate a heads-up before you make any moves, March.
+VO_Welt_Battle_Begins_-_Weakness_Break_01.ogg  ||  Seems you need to experience some hardship.
+VO_Welt_Battle_Begins_-_Danger_Alert_01.ogg  ||  Stay calm.
+VO_Welt_Turn_Begins_01.ogg  ||  Leave the rest to me.
+VO_Welt_Turn_Begins_02.ogg  ||  You can still walk away.
+VO_Welt_Turn_Idling_01.ogg  ||  Better make a choice.
+VO_Welt_Basic_ATK_02.ogg  ||  Stand down.
+VO_Welt_Skill_01.ogg  ||  Calm your body and mind.
+VO_Welt_Skill_02.ogg  ||  I won't go easy on you!
+VO_Welt_Hit_by_Light_Attack_01.ogg  ||  I'm fine.
+VO_Welt_Hit_by_Heavy_Attack_01.ogg  ||  That won't stop me...
+VO_Welt_Ultimate_-_Activate_01.ogg  ||  You know nothing of the weight behind this power.
+VO_Welt_Ultimate_-_Unleash_01.ogg  ||  Witness the stars shatter before you... Survive or be destroyed, there is no other choice.
+VO_Welt_Downed_01.ogg  ||  I'll leave the rest... to you...
+VO_Welt_Return_to_Battle_01.ogg  ||  I can't relax just yet.
+VO_Welt_Health_Recovery_01.ogg  ||  Timely treatment.
+VO_Welt_Technique_01.ogg  ||  Stay.
+VO_Welt_Battle_Won_01.ogg  ||  The galaxy is vast beyond compare.
+VO_Welt_Treasure_Opening_01.ogg  ||  Interesting.
+Special:Upload?wpDestFile=VO_Welt_Treasure_Opening_02.ogg  ||  This will definitely come in handy.
+VO_Welt_Precious_Treasure_Opening_01.ogg  ||  You don't see these every day...
+VO_Welt_Successful_Puzzle-Solving_01.ogg  ||  Well figured out.
+VO_Welt_Enemy_Target_Found_01.ogg  ||  Enemy ahead... No harm in trying.
+VO_Welt_Returning_to_Town_01.ogg  ||  The next destination...? Up to you.

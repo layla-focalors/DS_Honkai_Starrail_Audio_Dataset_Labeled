@@ -1,0 +1,72 @@
+VO_ZH_Archive_Pela_1.ogg  ||  银鬃铁卫情报官，佩拉格娅•谢尔盖耶夫娜前来报到。你可以叫我佩拉。
+VO_ZH_Archive_Pela_2.ogg  ||  准备好了么？那就开始今日的记录。
+VO_ZH_Archive_Pela_3.ogg  ||  今天没有任何异常报告，早点休息吧。
+VO_ZH_Archive_Pela_4.ogg  ||  我擅长对情报进行研究、记录、分析，至于做出怎样的决断，那是长官的事。
+VO_ZH_Archive_Pela_5.ogg  ||  鼓手看似不起眼，但稍有错拍就会被观众察觉，对锻炼自己很有用。
+VO_ZH_Archive_Pela_6.ogg  ||  周末去图书馆借阅一些喜欢的…读物，然后和朋友分享读后感。
+VO_ZH_Archive_Pela_7.ogg  ||  为了达成完美的汇报，有时练习十来遍也不够…
+VO_ZH_Archive_Pela_11.ogg  ||  关于我的全名，军中至少流传着32种说法，至于我为什么知道…这就是情报官的能力。
+VO_ZH_Archive_Pela_12.ogg  ||  《雪国冒险奇谭》画册再版？这可是圈子里最难抢的系列之一…要、要买几本好…十本，十本够么……
+VO_ZH_Archive_Pela_8.ogg  ||  放眼贝洛伯格，不会有比布洛妮娅小姐谈吐更优雅、更有领袖气质的人了。
+VO_ZH_Archive_Pela_9.ogg  ||  不按规矩办事就是希露瓦的规矩。
+VO_ZH_Archive_Pela_10.ogg  ||  杰帕德戍卫官内外如一，十分可靠。对于他养花的兴趣…我姑且只能表示尊重与祝福。
+VO_ZH_Archive_Pela_13.ogg  ||  玲宝是我…咳。玲可是我…咳咳。玲可是…贝洛伯格首屈一指的科考专家，也是我喜欢的…好朋友！
+VO_ZH_Archive_Pela_1.ogg  ||  
+VO_ZH_Archive_Pela_2.ogg  ||  
+VO_ZH_Archive_Pela_3.ogg  ||  
+VO_ZH_Archive_Pela_4.ogg  ||  
+VO_ZH_Archive_Pela_5.ogg  ||  
+VO_ZH_Archive_Pela_6.ogg  ||  
+VO_ZH_Archive_Pela_7.ogg  ||  
+VO_ZH_Archive_Pela_11.ogg  ||  
+VO_ZH_Archive_Pela_12.ogg  ||  
+VO_ZH_Archive_Pela_8.ogg  ||  
+VO_ZH_Archive_Pela_9.ogg  ||  
+VO_ZH_Archive_Pela_10.ogg  ||  
+VO_ZH_Archive_Pela_13.ogg  ||  
+VO_ZH_Pela_Battle_Begins_-_Weakness_Break_01.ogg  ||  我方占据优势。
+VO_ZH_Pela_Battle_Begins_-_Danger_Alert_01.ogg  ||  我方尚未占据优势。
+VO_ZH_Pela_Turn_Begins_02.ogg  ||  开始介入支援。
+VO_ZH_Pela_Turn_Begins_03.ogg  ||  侦察到敌方目标。
+VO_ZH_Pela_Turn_Idling_01.ogg  ||  该做决定了。
+VO_ZH_Pela_Basic_ATK_01.ogg  ||  闭上嘴吧。
+VO_ZH_Pela_Basic_ATK_02.ogg  ||  还要再来一下？
+VO_ZH_Pela_Basic_ATK_03.ogg  ||  牵制住它！
+VO_ZH_Pela_Skill_02.ogg  ||  这样…然后这样……
+VO_ZH_Pela_Skill_03.ogg  ||  输入指令……
+VO_ZH_Pela_Hit_by_Light_Attack_01.ogg  ||  好疼。
+VO_ZH_Pela_Hit_by_Heavy_Attack_01.ogg  ||  …麻烦了。
+VO_ZH_Pela_Ultimate_-_Activate_01.ogg  ||  敌方数据收集完毕。
+VO_ZH_Pela_Ultimate_-_Unleash_01.ogg  ||  收网标记激活，接下来就是愉快的反击时间了。
+VO_ZH_Pela_Downed_02.ogg  ||  失算了……
+VO_ZH_Pela_Downed_03.ogg  ||  快走……
+VO_ZH_Pela_Return_to_Battle_01.ogg  ||  同样的错误我不会犯两次。
+VO_ZH_Pela_Health_Recovery_01.ogg  ||  感谢支援。
+VO_ZH_Pela_Battle_Won_01.ogg  ||  作战报告稍后发送。
+VO_ZH_Pela_Treasure_Opening_01.ogg  ||  清点完毕。
+VO_ZH_Pela_Successful_Puzzle-Solving_01.ogg  ||  好有意思……
+VO_ZH_Pela_Enemy_Target_Found_01.ogg  ||  先对目标进行分析，再做判断。
+VO_ZH_Pela_Returning_to_Town_01.ogg  ||  需要我来制定接下来的计划么？
+VO_ZH_Pela_Battle_Begins_-_Weakness_Break_01.ogg  ||  
+VO_ZH_Pela_Battle_Begins_-_Danger_Alert_01.ogg  ||  
+VO_ZH_Pela_Turn_Begins_02.ogg  ||  
+VO_ZH_Pela_Turn_Begins_03.ogg  ||  
+VO_ZH_Pela_Turn_Idling_01.ogg  ||  
+VO_ZH_Pela_Basic_ATK_01.ogg  ||  
+VO_ZH_Pela_Basic_ATK_02.ogg  ||  
+VO_ZH_Pela_Basic_ATK_03.ogg  ||  
+VO_ZH_Pela_Skill_02.ogg  ||  
+VO_ZH_Pela_Skill_03.ogg  ||  
+VO_ZH_Pela_Hit_by_Light_Attack_01.ogg  ||  
+VO_ZH_Pela_Hit_by_Heavy_Attack_01.ogg  ||  
+VO_ZH_Pela_Ultimate_-_Activate_01.ogg  ||  
+VO_ZH_Pela_Ultimate_-_Unleash_01.ogg  ||  
+VO_ZH_Pela_Downed_02.ogg  ||  
+VO_ZH_Pela_Downed_03.ogg  ||  
+VO_ZH_Pela_Return_to_Battle_01.ogg  ||  
+VO_ZH_Pela_Health_Recovery_01.ogg  ||  
+VO_ZH_Pela_Battle_Won_01.ogg  ||  
+VO_ZH_Pela_Treasure_Opening_01.ogg  ||  
+VO_ZH_Pela_Successful_Puzzle-Solving_01.ogg  ||  
+VO_ZH_Pela_Enemy_Target_Found_01.ogg  ||  
+VO_ZH_Pela_Returning_to_Town_01.ogg  ||  

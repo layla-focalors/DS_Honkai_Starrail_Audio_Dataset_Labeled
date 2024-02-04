@@ -1,0 +1,90 @@
+VO_ZH_Archive_Ruan_Mei_1.ogg  ||  我叫阮•梅，念我名字时，请别忘了中间气息的停歇。
+VO_ZH_Archive_Ruan_Mei_2.ogg  ||  吃点吗？这糕点用的梅花是新渍的，我为它排了很久队。
+VO_ZH_Archive_Ruan_Mei_3.ogg  ||  你若遇到不错的研究样本，可以同我说。那时我们再见吧。
+VO_ZH_Archive_Ruan_Mei_4.ogg  ||  被博识尊注视后，我便离开家乡，在秘密的角落开始对生命本源的研究——请别问是哪里。
+VO_ZH_Archive_Ruan_Mei_5.ogg  ||  生命的编组中，父母平等，因而我的名字取了二者的姓氏。
+VO_ZH_Archive_Ruan_Mei_6.ogg  ||  俱乐部内的流言蜚语，无需刻意留心也略有耳闻——「科学怪人」。被他们这样评价，也不赖。
+VO_ZH_Archive_Ruan_Mei_7.ogg  ||  唇齿最为敏感，糕点要评得上筹，只要一小口的机会。我偏爱鲜果花木等时令原材，定格在片刻的生命仪态，更易引起多巴胺反应。
+VO_ZH_Archive_Ruan_Mei_8.ogg  ||  我听不惯现代乐，听戏却极易入迷，琴弦拨动，时间便流往过去。
+VO_ZH_Archive_Ruan_Mei_9.ogg  ||  言语冗余，思维的交流拘泥于此，让我觉得嘈杂与悲伤……
+VO_ZH_Archive_Ruan_Mei_10.ogg  ||  刺绣的手感与培育切片类似：控制手腕的方式，刚好的角度，全神投入的状态。
+VO_ZH_Archive_Ruan_Mei_11.ogg  ||  不加速，也不推迟死亡，生命总会枯萎。我们虽会变成粒子，却能触达新的高度。
+VO_ZH_Archive_Ruan_Mei_12.ogg  ||  人类太过高估逻辑，执着于理性会成为情绪奴隶——科学出自狂热，这是种天赋。
+VO_ZH_Archive_Ruan_Mei_13.ogg  ||  黑塔的性格，或许有人觉得难以忍受，我也认同，但并不在乎——当然，黑塔也知道，所以我接受了她的邀请。
+VO_ZH_Archive_Ruan_Mei_14.ogg  ||  我与螺丝咕姆对生命的理解截然不同，但我想他并未察觉。幸好，我们之间的交流仅限于「模拟宇宙」。
+VO_ZH_Archive_Ruan_Mei_15.ogg  ||  在黑塔的办公室里放块西瓜冻糕，或许斯蒂芬就会出现——记着，南瓜的绝对不行，只会让他消失得更久。
+VO_ZH_Archive_Ruan_Mei_Eidolon_Activation.ogg  ||  已往的生命片断，还能复原如初么？
+VO_ZH_Archive_Ruan_Mei_Character_Ascension.ogg  ||  研究的进展正在螺旋上升。
+VO_ZH_Archive_Ruan_Mei_Max_Level_Reached.ogg  ||  可惜，星神的谜团仍未解明。
+VO_ZH_Archive_Ruan_Mei_Trace_Activation.ogg  ||  每一次呼吸，都是自我的感知。
+VO_ZH_Archive_Ruan_Mei_Added_to_Team_With_Herta.ogg  ||  我可不是你…这儿要是「模拟宇宙」，就由着你任性了。
+VO_ZH_Archive_Ruan_Mei_1.ogg  ||  
+VO_ZH_Archive_Ruan_Mei_2.ogg  ||  
+VO_ZH_Archive_Ruan_Mei_3.ogg  ||  
+VO_ZH_Archive_Ruan_Mei_4.ogg  ||  
+VO_ZH_Archive_Ruan_Mei_5.ogg  ||  
+VO_ZH_Archive_Ruan_Mei_6.ogg  ||  
+VO_ZH_Archive_Ruan_Mei_7.ogg  ||  
+VO_ZH_Archive_Ruan_Mei_8.ogg  ||  
+VO_ZH_Archive_Ruan_Mei_9.ogg  ||  
+VO_ZH_Archive_Ruan_Mei_10.ogg  ||  
+VO_ZH_Archive_Ruan_Mei_11.ogg  ||  
+VO_ZH_Archive_Ruan_Mei_12.ogg  ||  
+VO_ZH_Archive_Ruan_Mei_13.ogg  ||  
+VO_ZH_Archive_Ruan_Mei_14.ogg  ||  
+VO_ZH_Archive_Ruan_Mei_15.ogg  ||  
+VO_ZH_Archive_Ruan_Mei_Eidolon_Activation.ogg  ||  
+VO_ZH_Archive_Ruan_Mei_Character_Ascension.ogg  ||  
+VO_ZH_Archive_Ruan_Mei_Max_Level_Reached.ogg  ||  
+VO_ZH_Archive_Ruan_Mei_Trace_Activation.ogg  ||  
+VO_ZH_Archive_Ruan_Mei_Added_to_Team_With_Herta.ogg  ||  
+VO_ZH_Ruan_Mei_Battle_Begins_-_Weakness_Break_01.ogg  ||  很好，优美的姿势。
+VO_ZH_Ruan_Mei_Battle_Begins_-_Danger_Alert_01.ogg  ||  慢慢来。
+VO_ZH_Ruan_Mei_Turn_Begins_01.ogg  ||  你们仍有值得研究的价值。
+VO_ZH_Ruan_Mei_Turn_Begins_02.ogg  ||  生命，不仅存在于呼吸之间。
+VO_ZH_Ruan_Mei_Turn_Idling_01.ogg  ||  等待亦是变化。
+VO_ZH_Ruan_Mei_Basic_ATK_01.ogg  ||  就你吧。
+VO_ZH_Ruan_Mei_Basic_ATK_02.ogg  ||  听好了。
+VO_ZH_Ruan_Mei_Skill_01.ogg  ||  琴音周而复始。
+VO_ZH_Ruan_Mei_Skill_02.ogg  ||  万物本质如一。
+VO_ZH_Ruan_Mei_Hit_by_Light_Attack_01.ogg  ||  有趣吗？
+VO_ZH_Ruan_Mei_Hit_by_Heavy_Attack_01.ogg  ||  离我远点。
+VO_ZH_Ruan_Mei_Ultimate_-_Activate_01.ogg  ||  生命里的每一片花瓣……
+VO_ZH_Ruan_Mei_Ultimate_-_Unleash_01.ogg  ||  无论何时盛放，都会有被风吹落的…那一天。
+VO_ZH_Ruan_Mei_Downed_01.ogg  ||  还没有…答案……
+VO_ZH_Ruan_Mei_Return_to_Battle_01.ogg  ||  我们继续吧。
+VO_ZH_Ruan_Mei_Health_Recovery_01.ogg  ||  这便是生命的温度么…
+VO_ZH_Ruan_Mei_Technique_01.ogg  ||  余音不绝。
+VO_ZH_Ruan_Mei_Battle_Won_01.ogg  ||  生灵…真是奇妙。
+VO_ZH_Ruan_Mei_Treasure_Opening_01.ogg  ||  箱子上也该绣些好看的花纹才是。
+VO_ZH_Ruan_Mei_Treasure_Opening_02.ogg  ||  兴许能有所帮助。
+VO_ZH_Ruan_Mei_Precious_Treasure_Opening_01.ogg  ||  哦？超出预想的成果……
+VO_ZH_Ruan_Mei_Successful_Puzzle-Solving_01.ogg  ||  这种难度的谜题…
+VO_ZH_Ruan_Mei_Successful_Puzzle-Solving_02.ogg  ||  普遍的解法而已。
+VO_ZH_Ruan_Mei_Enemy_Target_Found_01.ogg  ||  那是什么？有点…感兴趣。
+VO_ZH_Ruan_Mei_Returning_to_Town_01.ogg  ||  休息一下，茶点时间到了。
+VO_ZH_Ruan_Mei_Battle_Begins_-_Weakness_Break_01.ogg  ||  
+VO_ZH_Ruan_Mei_Battle_Begins_-_Danger_Alert_01.ogg  ||  
+VO_ZH_Ruan_Mei_Turn_Begins_01.ogg  ||  
+VO_ZH_Ruan_Mei_Turn_Begins_02.ogg  ||  
+VO_ZH_Ruan_Mei_Turn_Idling_01.ogg  ||  
+VO_ZH_Ruan_Mei_Basic_ATK_01.ogg  ||  
+VO_ZH_Ruan_Mei_Basic_ATK_02.ogg  ||  
+VO_ZH_Ruan_Mei_Skill_01.ogg  ||  
+VO_ZH_Ruan_Mei_Skill_02.ogg  ||  
+VO_ZH_Ruan_Mei_Hit_by_Light_Attack_01.ogg  ||  
+VO_ZH_Ruan_Mei_Hit_by_Heavy_Attack_01.ogg  ||  
+VO_ZH_Ruan_Mei_Ultimate_-_Activate_01.ogg  ||  
+VO_ZH_Ruan_Mei_Ultimate_-_Unleash_01.ogg  ||  
+VO_ZH_Ruan_Mei_Downed_01.ogg  ||  
+VO_ZH_Ruan_Mei_Return_to_Battle_01.ogg  ||  
+VO_ZH_Ruan_Mei_Health_Recovery_01.ogg  ||  
+VO_ZH_Ruan_Mei_Technique_01.ogg  ||  
+VO_ZH_Ruan_Mei_Battle_Won_01.ogg  ||  
+VO_ZH_Ruan_Mei_Treasure_Opening_01.ogg  ||  
+VO_ZH_Ruan_Mei_Treasure_Opening_02.ogg  ||  
+VO_ZH_Ruan_Mei_Precious_Treasure_Opening_01.ogg  ||  
+VO_ZH_Ruan_Mei_Successful_Puzzle-Solving_01.ogg  ||  
+VO_ZH_Ruan_Mei_Successful_Puzzle-Solving_02.ogg  ||  
+VO_ZH_Ruan_Mei_Enemy_Target_Found_01.ogg  ||  
+VO_ZH_Ruan_Mei_Returning_to_Town_01.ogg  ||  

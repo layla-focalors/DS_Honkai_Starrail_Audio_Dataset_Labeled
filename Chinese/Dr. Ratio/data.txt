@@ -1,0 +1,92 @@
+VO_ZH_Archive_Dr._Ratio_1.ogg  ||  我是维里塔斯•拉帝奥，博识学会的学者和老师，也是一介庸人。如果有一天，你的脑袋出现了「愚钝」的症状，届时请称呼我为——「真理医生」。
+VO_ZH_Archive_Dr._Ratio_2.ogg  ||  很苦恼的样子啊，遇到麻烦了？既然如此——你自己想办法吧。
+VO_ZH_Archive_Dr._Ratio_3.ogg  ||  又一天过去了，如果你的问题还没解决，有没有可能是你自己的问题？
+VO_ZH_Archive_Dr._Ratio_4.ogg  ||  第一，戴上头套，隔绝五感，我可以不受干扰地进行思考；第二，我见不得蠢材，当然，他们也不想见我。
+VO_ZH_Archive_Dr._Ratio_5.ogg  ||  如果有助于教学与诊疗，我不介意露出自己的真容。但就经验来看，多半有害无益。
+VO_ZH_Archive_Dr._Ratio_6.ogg  ||  博识学会常被视作知识的卖家，但定价的权利始终在买家手上。有人愿意聆听，知识得以传播与流通，价格便会产生。
+VO_ZH_Archive_Dr._Ratio_7.ogg  ||  他们将自己奉献给了真理…这么说也没错，毕竟他们的一切所为都是为了「博识尊」。
+VO_ZH_Archive_Dr._Ratio_8.ogg  ||  我离不开书籍和浴缸，尤其是前者。当一个人的脑袋被脏东西塞满，身体也干净不到哪里去。
+VO_ZH_Archive_Dr._Ratio_9.ogg  ||  我甚至无法和一个蠢材解释何为「蠢材」。
+VO_ZH_Archive_Dr._Ratio_10.ogg  ||  提问前不如先想一想，你的答案是不是已经先于问题确定？这种问题不问出口，对大家都好。
+VO_ZH_Archive_Dr._Ratio_11.ogg  ||  真理的美妙之处在于，即使没人理解它，它也不会改变。我本人也是如此。
+VO_ZH_Archive_Dr._Ratio_12.ogg  ||  黑塔是最典型的天才——天纵奇材，目中无人。我毫不怀疑她的才智，但我怀疑她的才智对他人并无帮助。
+VO_ZH_Archive_Dr._Ratio_13.ogg  ||  在他的领域内，螺丝咕姆正试图建立新的法则，比起天才，我更愿意称呼这样的人为——君王。
+VO_ZH_Archive_Dr._Ratio_14.ogg  ||  多少人被她「隐士」的自称所蒙蔽？在我看来，她想要探究的远不止生命——拭目以待吧，她才是天才俱乐部真正的野心家。
+VO_ZH_Archive_Dr._Ratio_Eidolon_Activation.ogg  ||  除了通过思维，我们不具备认识自己的其他手段。
+VO_ZH_Archive_Dr._Ratio_Character_Ascension.ogg  ||  进步越快，说明犯过的错误越多。
+VO_ZH_Archive_Dr._Ratio_Max_Level_Reached.ogg  ||  既然如今的我依旧不受博识尊的赏识，有理由相信未来的我也不会。
+VO_ZH_Archive_Dr._Ratio_Trace_Activation.ogg  ||  选择和别人做一样的事，你一定会得到一个完全不一样的结果。
+VO_ZH_Archive_Dr._Ratio_Added_to_Team_With_Herta.ogg  ||  在天才的蔑视下，凡人还能做到相信自己吗？
+VO_ZH_Archive_Dr._Ratio_Added_to_Team_With_Ruan_Mei.ogg  ||  论及调度和激发生命的本能…你应该比我更懂吧？
+VO_ZH_Archive_Dr._Ratio_1.ogg  ||  
+VO_ZH_Archive_Dr._Ratio_2.ogg  ||  
+VO_ZH_Archive_Dr._Ratio_3.ogg  ||  
+VO_ZH_Archive_Dr._Ratio_4.ogg  ||  
+VO_ZH_Archive_Dr._Ratio_5.ogg  ||  
+VO_ZH_Archive_Dr._Ratio_6.ogg  ||  
+VO_ZH_Archive_Dr._Ratio_7.ogg  ||  
+VO_ZH_Archive_Dr._Ratio_8.ogg  ||  
+VO_ZH_Archive_Dr._Ratio_9.ogg  ||  
+VO_ZH_Archive_Dr._Ratio_10.ogg  ||  
+VO_ZH_Archive_Dr._Ratio_11.ogg  ||  
+VO_ZH_Archive_Dr._Ratio_12.ogg  ||  
+VO_ZH_Archive_Dr._Ratio_13.ogg  ||  
+VO_ZH_Archive_Dr._Ratio_14.ogg  ||  
+VO_ZH_Archive_Dr._Ratio_Eidolon_Activation.ogg  ||  
+VO_ZH_Archive_Dr._Ratio_Character_Ascension.ogg  ||  
+VO_ZH_Archive_Dr._Ratio_Max_Level_Reached.ogg  ||  
+VO_ZH_Archive_Dr._Ratio_Trace_Activation.ogg  ||  
+VO_ZH_Archive_Dr._Ratio_Added_to_Team_With_Herta.ogg  ||  
+VO_ZH_Archive_Dr._Ratio_Added_to_Team_With_Ruan_Mei.ogg  ||  
+VO_ZH_Dr._Ratio_Battle_Begins_-_Weakness_Break_01.ogg  ||  这就破防了？
+VO_ZH_Dr._Ratio_Battle_Begins_-_Danger_Alert_01.ogg  ||  需要…一些严厉的教导么？
+VO_ZH_Dr._Ratio_Turn_Begins_01.ogg  ||  由我提问了。
+VO_ZH_Dr._Ratio_Turn_Begins_02.ogg  ||  期待各位的应答。
+VO_ZH_Dr._Ratio_Turn_Idling_01.ogg  ||  切勿心急，想明白再做决定。
+VO_ZH_Dr._Ratio_Basic_ATK_01.ogg  ||  动动脑子！
+VO_ZH_Dr._Ratio_Skill_01.ogg  ||  让我来考考你。
+VO_ZH_Dr._Ratio_Skill_02.ogg  ||  不能停止思考。
+VO_ZH_Dr._Ratio_Hit_by_Light_Attack_01.ogg  ||  没轻没重！
+VO_ZH_Dr._Ratio_Hit_by_Heavy_Attack_01.ogg  ||  愚不可及！
+VO_ZH_Dr._Ratio_Ultimate_-_Activate_01.ogg  ||  存在即被感知——
+VO_ZH_Dr._Ratio_Ultimate_-_Unleash_01.ogg  ||  知识既为万物尺度，定将穷尽真理、根除谬误。
+VO_ZH_Dr._Ratio_Talent_01.ogg  ||  零分，下一个！
+VO_ZH_Dr._Ratio_Talent_02.ogg  ||  负分，给我滚！
+VO_ZH_Dr._Ratio_Downed_01.ogg  ||  「庸人」么…呵……
+VO_ZH_Dr._Ratio_Return_to_Battle_01.ogg  ||  做得好，加十分。
+VO_ZH_Dr._Ratio_Health_Recovery_01.ogg  ||  不错，加五分。
+VO_ZH_Dr._Ratio_Technique_01.ogg  ||  敬请欣赏，庸人的剧场。
+VO_ZH_Dr._Ratio_Battle_Won_01.ogg  ||  计算之中的结果。
+VO_ZH_Dr._Ratio_Treasure_Opening_01.ogg  ||  谁说知识必须远离世俗？
+VO_ZH_Dr._Ratio_Treasure_Opening_02.ogg  ||  财富并非真理的阻碍，而应成为助力。
+VO_ZH_Dr._Ratio_Precious_Treasure_Opening_01.ogg  ||  身为「庸人」，我笑纳了。
+VO_ZH_Dr._Ratio_Successful_Puzzle-Solving_01.ogg  ||  可真是…「巧夺天工」。
+VO_ZH_Dr._Ratio_Successful_Puzzle-Solving_02.ogg  ||  以益智玩具的标准，还不错。
+VO_ZH_Dr._Ratio_Enemy_Target_Found_01.ogg  ||  人要学会「认识自己」。
+VO_ZH_Dr._Ratio_Returning_to_Town_01.ogg  ||  准备好浪费人生了吗？
+VO_ZH_Dr._Ratio_Battle_Begins_-_Weakness_Break_01.ogg  ||  
+VO_ZH_Dr._Ratio_Battle_Begins_-_Danger_Alert_01.ogg  ||  
+VO_ZH_Dr._Ratio_Turn_Begins_01.ogg  ||  
+VO_ZH_Dr._Ratio_Turn_Begins_02.ogg  ||  
+VO_ZH_Dr._Ratio_Turn_Idling_01.ogg  ||  
+VO_ZH_Dr._Ratio_Basic_ATK_01.ogg  ||  
+VO_ZH_Dr._Ratio_Skill_01.ogg  ||  
+VO_ZH_Dr._Ratio_Skill_02.ogg  ||  
+VO_ZH_Dr._Ratio_Hit_by_Light_Attack_01.ogg  ||  
+VO_ZH_Dr._Ratio_Hit_by_Heavy_Attack_01.ogg  ||  
+VO_ZH_Dr._Ratio_Ultimate_-_Activate_01.ogg  ||  
+VO_ZH_Dr._Ratio_Ultimate_-_Unleash_01.ogg  ||  
+VO_ZH_Dr._Ratio_Talent_01.ogg  ||  
+VO_ZH_Dr._Ratio_Talent_02.ogg  ||  
+VO_ZH_Dr._Ratio_Downed_01.ogg  ||  
+VO_ZH_Dr._Ratio_Return_to_Battle_01.ogg  ||  
+VO_ZH_Dr._Ratio_Health_Recovery_01.ogg  ||  
+VO_ZH_Dr._Ratio_Technique_01.ogg  ||  
+VO_ZH_Dr._Ratio_Battle_Won_01.ogg  ||  
+VO_ZH_Dr._Ratio_Treasure_Opening_01.ogg  ||  
+VO_ZH_Dr._Ratio_Treasure_Opening_02.ogg  ||  
+VO_ZH_Dr._Ratio_Precious_Treasure_Opening_01.ogg  ||  
+VO_ZH_Dr._Ratio_Successful_Puzzle-Solving_01.ogg  ||  
+VO_ZH_Dr._Ratio_Successful_Puzzle-Solving_02.ogg  ||  
+VO_ZH_Dr._Ratio_Enemy_Target_Found_01.ogg  ||  
+VO_ZH_Dr._Ratio_Returning_to_Town_01.ogg  ||  

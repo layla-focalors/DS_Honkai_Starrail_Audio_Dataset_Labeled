@@ -1,0 +1,20 @@
+VO_Archive_Lynx_1.ogg  ||  *sigh* So... I'm Lynx, a member of the Belobog Snow Plains research team. For work-related matters, please contact me during working hours. I'm unavailable at any other time. That's all, bye.
+VO_Archive_Lynx_2.ogg  ||  Hm... Sleeping bag, moisture resistant sleeping mat... All ready. It's time to go.
+VO_Archive_Lynx_3.ogg  ||  Mm, I think I'll set up camp here. I wonder if the aurora will be visible tonight...
+VO_Archive_Lynx_4.ogg  ||  For the Landau family, matters are simple: If you want to do something, go for it. I wanted to see the Snow Plains, so I joined the research team... It was as simple as that.
+VO_Archive_Lynx_5.ogg  ||  There's nothing to worry about when you're prepared. It's the unprepared you should be concerned about. Oh, you're worried about me always going alone? Eh... It's better being alone.
+VO_Archive_Lynx_6.ogg  ||  Exploring the Snow Plains... Of course there will be all kinds of challenges along the way, but solving them is part of the fun.
+VO_Archive_Lynx_7.ogg  ||  It's such a bother to talk to people and try to figure out what they mean... *sigh* At least when I talk to Pela, I don't have to think so much...
+VO_Archive_Lynx_8.ogg  ||  Beware of the mountain winds in the Kandor Valley — they are usually the harbinger of a blizzard. And never, ever stay in the canyon at night.
+VO_Archive_Lynx_9.ogg  ||  Everything outside of Belobog is buried in snow, including all the history of the old world. But if we can bring it all back into the light of day by exploring the Snow Plains, then the choice seems simple: Just go for it.
+VO_Archive_Lynx_10.ogg  ||  It must be very tiring for Miss Bronya to have to deal with so many people every day.
+VO_Archive_Lynx_11.ogg  ||  I actually admire her for her many talents... Don't tell her I said that.
+VO_Archive_Lynx_12.ogg  ||  My brother is a very capable and very good man... It would be nice if he didn't worry so much about me.
+VO_Archive_Lynx_13.ogg  ||  There are many things that only Pela can understand... Hehe.
+VO_Archive_Lynx_14.ogg  ||  He seems to be a wanted criminal that my brother is tracking, but I feel like I see him occasionally in the Snow Plains... Ah! Is HE the legendary Belobog Caveman!?
+Special:Upload?wpDestFile=VO_Archive_Lynx_15.ogg  ||  Everyone needs some time alone...
+VO_Archive_Lynx_17.ogg  ||  Even the Snow Plains have an end...
+VO_Lynx_Battle_Begins_-_Danger_Alert_01.ogg  ||  Stay calm now, Lynx...
+VO_Lynx_Turn_Idling_01.ogg  ||  I should've brought a chair with me...
+VO_Lynx_Basic_ATK_01.ogg  ||  Excuse me, coming through.
+VO_Lynx_Skill_01.ogg  ||  Relax, deep breaths.
